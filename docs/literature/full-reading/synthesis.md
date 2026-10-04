@@ -840,3 +840,10 @@ Together with S257–S261, this narrows the comparison Nu would need: a stated c
 [S268](S268-industry-scale-game-software-review.md) broadens the primary-method map with a98-study review and inspectable coding workbook. Its positive finding of broader empirical/architectural research survives the recorded reporting discrepancies. The commercial/industry-scale screen and2009–2021window remain narrower than the Nu background; a research-category count does not establish missing prior art or maintenance benefit.
 
 The review identifies Unlimited Rulebook's claimed implementation/maintenance-cost comparison for game economies. Its original method is now a higher-value next read than another general survey page: it can connect a concrete architecture to outcomes and provide a closer comparison with S225and Nu. Continue original allocation/task/cost reconstruction before using the claim. More case-study labels or a reporting-quality total do not themselves validate benefit, but neither do coding discrepancies erase favorable primary outcomes already established elsewhere.
+
+
+## Rulebook: a close modularity alternative with a bounded cost account
+
+[S269](S269-unlimited-rulebook-architecture.md) establishes predicate-dispatched, composable economy rules over a mutable property store. Its local extension examples, slightly lower reported architecture-change burden and strong reuse preference are favorable evidence under their stated scope. The preliminary effort/usefulness findings remain inconclusive, treatment order is fixed, and the supplied initial implementation omits construction cost. Nested conflict resolution is an acknowledged performance concern.
+
+This strengthens the prior-art comparison with S225 and Nu while distinguishing modularity from enforced encapsulation, live rule behavior from general state migration, and stated preference from net maintenance benefit. The later journal/preprint and separate thesis require primary reconstruction; their lineage cannot be counted as independent empirical replication merely because titles or editions differ.
