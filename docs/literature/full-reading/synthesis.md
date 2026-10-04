@@ -885,3 +885,10 @@ Preserve the adverse interview-word screening result (zero recall despite 92% st
 [S277/S278](S277-S278-mayet-runtime-repair.md) completes Mayet/Lakitu’s primary papers and presentation supplements. Human-authored event rules trigger host-owned state repairs; seeded on/off examples demonstrate useful continued execution. The publications share the same demonstration lineage. They do not measure independent developer benefit or successor-code preservation.
 
 Asynchronous repair requests may be stale, and the game chooses whether/when to apply them. Repair cascades and harmful side effects are acknowledged risks; rule brevity and a successful correction do not establish semantic preservation or net maintenance savings. For Nu, compare actual observation, temporal memory, application policy and integration work. The retained later game-monitoring lineage is the next consequential primary gap for fault coverage and measured overhead. All construction and allocation holds remain.
+
+
+## Game monitoring depends on the exported history
+
+[S279/S280](S279-S280-game-runtime-monitoring.md) separates the later journal’s unread six-game method from the conference’s indexed five-game evaluation. Four seeded-fault settings and three historical Bos Wars reports support useful selected detection; reported low monitor costs do not measure saved tester time or net maintenance benefit. Original conference visuals and exact experimental binaries remain unavailable.
+
+The public source makes observation loss and unfinished obligations concrete: selected exports omit empty states and velocity sign, and monitor verdicts can remain inconclusive. Source counter/GUI differences also prevent treating the linked revision as a reconstruction of the paper’s timing traces. Preserve the reported favorable results while keeping observation, formula validity, temporal termination and measurement provenance separate. Follow the linked thesis’s omitted method detail; no construction or execution is authorized.
