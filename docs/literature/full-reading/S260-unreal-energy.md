@@ -1,0 +1,67 @@
+# S260 — Unreal Blueprints/C++ runtime energy
+
+**Reading completed 2026-10-04 HKT by the main Codex AI session.** Javier Verón, Carlos Pérez, Coral Calero, María Ángeles Moraga, Francisca Pérez and Carlos Cetina, *A Comparative Analysis of Energy Consumption Between Visual Scripting models and C++ in Unreal Engine: Raising Awareness on the importance of Green MDD*, MODELS 2024, pp.114–125, [DOI10.1145/3640310.3674099](https://doi.org/10.1145/3640310.3674099). This is the runtime predecessor in S257 reference43. It measures executions, not participant development work or Nu.
+
+## Identity, acquisition and actual coverage
+
+Crossref and the proceedings/program identify the six authors, conference and 22September2024 publication. The [public author PDF](https://svit.usj.es/api/media/file/Veron_MODELS_2024_PRE.pdf) has twelve pages, the correct MODELS2024 header/DOI/ISBN, acceptance14June2024 on p.12 and PDF creation/modification4July2024. Publisher-final byte identity is unverified: the ACM landing request returned403. Crossref's malformed Moraga given name was normalized using the proceedings author list.
+
+All twelve PDF pages, seven figures, four tables, the dimensional/percentage argument and all33 references were read. All pages were visually inspected in contacts, with enlarged pp.7–8 for implementation examples and Tables3–4. Figures2–3 depict The Witcher3 as motivation, not an evaluated full game. Figure4 shows the actual small scenarios; Figures5–7 show implementation snippets, not proof of equivalent whole programs. Page12 contains only acceptance information. No appendix is present in this edition.
+
+Before selected reading, native Zotero collection `PKLXQNEE` (285 parent records) and library DOI/title/author searches found no match. Parent `VV5DZCTP` and note `TPESK6AK` were created; PDF attachment `R3DGV5CX` is **5,547,583 bytes**, SHA-256 **`9c8e1db3fb1e1aec0efdd657127c03906f4e4d9edc16363078863b2d543e3319`**, MD5 `9167e251e4600199c24a1b37e8f71405`. Native attachment bytes were read back and verified. Object-version/final-note verification is in the search ledger. No GUI or JavaScript-window operation was used.
+
+**Artifact gap:** p.6 links [Zenodo record12570903](https://zenodo.org/records/12570903) for six applications and their UE5.3.2 projects. The web tool could not access the record; its ordinary public API returned403. A DataCite lookup of the inferred Zenodo DOI returned404, so that DOI is not treated as verified. Exact record/title searches returned the paper and metadata, without an alternative artifact location. The author research index also failed through the web tool and returned403 by an ordinary request. The conference page supplies no artifact link for this paper. No archive, raw measurement, analysis script or project was acquired or inventoried; their absence from the study is **not** established. A restored public record or author-provided copy would permit passive inspection of run inclusion, timestamps, power/frame conversion and scenario equivalence. This access gap does not prevent reading other consequential sources.
+
+## Comparison and measurement contract
+
+The study constructs three small scenario pairs: health management, movement input and inventory lookup. An unnamed professional game company implemented both approaches, with review by unaffiliated professionals; the representativeness assessment includes two additional industry professionals. These are six applications on one machine, not six industrial products, randomized developers or an end-to-end game comparison.
+
+The reported environment is **UE5.3.2, Visual Studio Community2022 17.6.5**, release builds with default Windows shipping settings and the default Blueprint compiler. Each pair retains a minimum environment with rendering/physics and substitutes the selected component. “Similar” other components and professional review are useful controls, but complete behavioral/workload equality is not independently reconstructed here.
+
+| Component | Published implementation |
+| --- | --- |
+| Health | A character enters a damaging area; health declines over time. BP `AC_HealManager`/`DamageZone` correspond to C++ `UHealManager`/`ADamageZone`. Figure5 includes overlap handling and repeated damage through a timer. |
+| Movement | Both use Enhanced Input and associate axis values with character movement. BP `BP_CustomPlayer` and C++ `ACustomPlayer` derive directions from control rotation and add movement input. Figure6 shows forward/right direction calculations. |
+| Inventory | Load157 items and periodically search by key. BP items are instances of `BP_ItemData`; the described map lookup uses Find. C++ uses `FDataItem` and `TMap::Find`. Figure7 also shows success-dependent item/UI handling. The selected object/struct representation, copying and surrounding work are part of the comparison. |
+
+The FEETINGS framework supplies the GSMP procedure, EET hardware measurement and ELLIOT processing. The paper reports a **100Hz** power sampling rate, automatic scenario actions, **30 executions of30seconds for each application**, and subtraction of a baseline measured before each launch. The DUT is an i7-10700, RTX3060 12GB, AsusB460-Plus, four32GB DDR4 modules, KingstonA400480GB storage, Windows11Pro and a listed27-inch2K monitor. The EET replaces the power source; reported channels include HDD, GPU, CPU and total DUT.
+
+The paper describes removing wrong executions and outliers through ELLIOT, defining them by inconsistency or unusually high/low values. It does not publish numerical thresholds, excluded-run identities/counts, retained per-cell counts, run order/randomization, uncertainty intervals or a hypothesis-test result in the twelve-page body. Thirty repetitions are reported; an exact retained180-run dataset is not verified. Samples within a run and repetitions on one DUT are not independent game/hardware cases. The shared setup improves local comparability but does not establish invariant relative effects across devices.
+
+Mean frame time is measured additionally. The body does not sufficiently specify its instrumentation, relation to the power observation windows, frame cap/vsync, warm-up/thermal policy, per-run aggregation, scene-operation count or tail-frame distribution. A100Hz power instrument cannot directly resolve individual submillisecond frames; properly aligned aggregate energy/frame accounting could still be valid. The unresolved issue is the actual calculation and observation boundary.
+
+## Preserve the mixed results; distinguish their denominators
+
+The following values are transcribed from the visually checked tables. The last column is this reading's arithmetic on the **rounded Table4 numbers**, using BP as the denominator; it is not a repaired raw-data estimate. Table4 labels its values “mW per frame,” which does not specify energy per frame.
+
+| Component | Table2 mean DUT power, BP/C++ (W) | Table3 stated mean frame time, BP/C++ (ms) | Table4 DUT values, BP/C++ | `(C++−BP)/BP` for Table4 |
+| --- | --- | --- | --- | --- |
+| Health | 324.38 /330.62 | .82 /.78 | 8.16 /7.84 | −3.92% |
+| Input | 370.87 /376.07 | 1.05 /1.07 | 11.96 /12.31 | +2.93% |
+| Inventory | 375.04 /374.53 | .98 /.66 | 11.19 /7.56 | −32.44% |
+
+**Equal elapsed time:** the DUT power differences relative to BP are approximately **+1.92%, +1.40%, −.136%**. The paper itself first concludes that consumption over time is similar for the three pairs. This is a descriptive comparison, not a demonstrated statistical equivalence or null test. It supplies no observed48% reduction in electricity for an equal-duration play session.
+
+**Frame-normalized comparison:** the reported direction favors C++ for health/inventory and BP for input. Preserve that adverse-to-C++ input case. However, the headline reverses a percentage denominator: `(11.19−7.56)/7.56 ≈48.02%` means BP is about48% **higher than C++**; `(11.19−7.56)/11.19 ≈32.44%` means C++ is about32% **lower than BP**. The paper's −47.94% Table4 difference is consistent with the former denominator and hidden precision, not the advertised “48% lower” comparison. GPU/CPU inventory values3.02/2.03 and1.35/.92 similarly imply approximately32.8%/31.9% reductions relative to BP, rather than its48.62%/47.38% claims.
+
+Table3's inventory times show the same distinction: .66ms is32.65% less than .98ms, whereas .98ms is48.48% more than .66ms. A reduction in frame time and an increase in reciprocal FPS are also different relative comparisons. Rounded values cannot reconstruct every printed percentage; the large denominator discrepancy is not explained by rounding.
+
+**Dimensional limit:** if Table2's power and Table3's true mean frame duration describe the same stationary observation interval, energy/frame is `P(W) × t(ms)` in **mJ/frame**. Their rounded values then give health265.99/257.88, input389.41/402.39 and inventory367.54/247.19mJ per frame. Those conditional calculations are not Table4's8.16/7.84,11.96/12.31 and11.19/7.56, nor are joules equivalent to watts. Dividing an average power by a frame count would also need the duration to recover energy/frame. The paper provides no explicit conversion formula that resolves these quantities. Do not adopt the conditional numbers as independently validated measurements or silently fix Table4.
+
+Lower cost per produced frame, power during equal play time, energy at an equal frame-rate target, completed gameplay work and frame-time tails are separate outcomes. The study does not compare two capped implementations delivering the same target experience, and it supplies no direct user-experience or lifecycle-energy measurement.
+
+## Mechanism, extrapolation and Nu consequence
+
+The authors explicitly describe the Blueprint-to-code transformation as an **intuition** for the observed differences after their documentation inspection did not explain them. No compiler pass, VM dispatch, object layout, copy behavior or generated-code ablation is isolated. A paired case can identify an implementation-associated difference without establishing which of those mechanisms caused it. Their claim about unavailable transformation details is not an independently checked version-specific source/API fact. The compiler documentation cited as reference18 remains a separate mechanism-reading route.
+
+The global illustration multiplies3.38billion players ×43% PC share ×440hours/year ×358.6W, a reported Baldur's GateIII measurement, to obtain about**229.32TWh/year**. Dividing by3900kWh gives58.80million household-equivalents; multiplying by48% gives28.22million. The arithmetic explains the headline, but the extrapolation is unsupported as a saving estimate: one game's draw is not a verified worldwide mean/lower bound, a selected component/frame ratio is not an equal-time full-game saving, and population/playtime/implementation shares and target frame rates are not established for that intervention. Replacing48% by32% would not repair those transfer assumptions. No current global-energy estimate is credited here.
+
+This is useful **workload-specific runtime counterevidence** to treating easier model-based construction as a free benefit. It complements S257/S259's favorable development-task observations, S258's activity-dependent localization results and the mixed runtime costs of ECS/Casanova/SGL. It does not erase those development results or measure their joint cost/benefit. Health/input task names and engine versions overlap the later studies; without the S260 projects, exact artifact inheritance/equality is not established and no shared numeric sample is inferred.
+
+For Nu, require an explicit runtime workload and service/observation target alongside the actual change task. Compare useful work, frame latency and retained state/memory under that target; do not infer benefit from source compactness or a best-case frame ratio. Published aggregate arithmetic can sharpen the measurement question without authorizing a benchmark. No engine, compiler, application, measurement script, statistical fit or experiment was executed.
+
+## Discovery disposition and next consequence
+
+Scite's exact-title lookup returns one metadata-only record, without excerpts/contexts. Incoming graph traversal finds nine resolved citers, including S257, a2026 Unity build-energy study, an Unreal rendering-prediction study, the related Unity/Unreal engine comparison and a2026 non-code-asset commit-message method. The graph has no returned intent labels/snippets despite requesting them; citing-to-cited edges are discovery, not endorsements. The seven-publication search tally and nine-edge graph are distinct endpoint observations, not a reconciled census.
+
+The primary paper is now fully read; artifact access, conversion/accounting and version-specific compiler behavior remain unresolved. The closest accessible follow-on is the published engine comparison **10.1016/j.infsof.2025.107991**, with earlier arXiv2402.06346 and SSRN5372202 identities requiring edition/lineage checks. That route can test whether the runtime outcome depends on scene/engine and whether clearer accounting is available. The independent Unity-build result is another conditional counterweight. Compiler/debugger contracts, Phylogenix, generative-asset integration, modern practice, temporal/state alternatives and the existing postmortem continuation stay open; this energy paper does not become a new survey stopping rule.
