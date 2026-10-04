@@ -730,3 +730,10 @@ Full-work coverage becomes221. The unavailable linked study materials remain a m
 [S253](S253-game-tool-expectations-partial.md) supplies complete indexed primary text, with PDF/visual/questionnaire gaps and no new full-publication credit. Twenty-seven sessions across seven selected organizations describe useful existing tools, third-party engine reuse, rapid prototyping and asset reuse. These positive accounts coexist with bugs, restrictive interfaces, compatibility requirements and expected changes in coordination as teams grow.
 
 The implication for Nu is to explain which particular work remains costly within an existing useful toolchain. Qualitative satisfaction is neither an identified cause nor a measured Nu effect, but it is evidence against assuming a universal tooling deficit. Keep the2012 observations separate from modern adoption and from the later studies mixed into citation panels. Continue the retained newer multiple-case reuse primary; all experimental holds persist.
+
+
+## Configured objects belong in the maintenance account — S254,2026-10-04
+
+[S254](S254-game-reuse-cases-partial.md) adds two studios’ useful prefab/asset-reuse accounts and concrete risks of redundant, misunderstood and unused objects. Its acquired instruments and selected response images distinguish upfront planning, perceived benefits, work across tools and actual measured savings. Tree similarity is not chronological evolution, and discussion-assisted understanding is not a controlled maintenance effect.
+
+The released trees disagree with two preprint counts; follow-up prompts expose unreconciled reuse-percentage estimates. These limit quantitative interpretation without erasing the reported benefits and adverse examples. Main-PDF/visual/final-edition gaps remain, with no new full-publication credit. Nu’s value account should connect source checks to asset/configuration/dependency obligations and total adoption work. Continue the direct2023 product-line versus clone-and-own comparison, including its2022 lineage, rather than treating another descriptive reuse account as a treatment-effect estimate. All construction and experimental holds remain.
