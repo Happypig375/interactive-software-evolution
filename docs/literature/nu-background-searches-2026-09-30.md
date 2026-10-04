@@ -5680,3 +5680,125 @@ Read the later journal/preprint after native registration to determine whether i
 **Checks and continuation.** Previous head `24be79a7c32db4f181fe1b2cb290669c2df49f62` is pushed and [CI 37220533176](https://github.com/Happypig375/interactive-software-evolution/actions/runs/37220533176) passed. Scope job 111489775570 succeeded; Linux 111489797917, maintenance 111489798331, Windows 111489798367 and E2 111489798905 were skipped under documentation scope. This segment receives its own Markdown/whitespace and commit/CI checks. Preserve unrelated S242 stat-only status and `uv.lock`.
 
 Register/reuse the original 2021 thesis, then prioritize course instruments/outcomes, professional interviews, 33 requirements and iteration lineage. Its detailed evidence may change interpretation without a new experiment. Retain independent S268 alternatives, methods/practice follow-ups, S266 access and temporal/type obligations. No recruitment, extra worker, engine/compiler/model/benchmark/candidate run or author-code execution is authorized; the whole survey remains active.
+
+
+## S271 — original Rulebook thesis, protocol and evidence lineage, 2026-10-05 HKT
+
+**Decision.** Reconstruct the original course instruments/outcomes, professional interviews, 33 requirements and architectural iterations behind S269/S270. These methods can change the cost account; another general search page cannot settle Nu-specific benefit. [The complete reconstruction](full-reading/S271-rulebook-thesis-and-methods.md) now closes that selected reading gap while preserving positive reuse/change-burden evidence and learning/editor/runtime costs. Full-publication coverage becomes **233 = 13 P + 3 A + 217 S**. The repeated course, prototype and Slime case are not independent replications.
+
+**Acquisition and coverage.** W645 opens the USP landing page and clicks the author PDF route: inaccessible/cache-miss notices only. Ordinary author access acquires 26,090,775 bytes; ordinary USP access first disconnects, then times out after 3,271,948 bytes, then succeeds with the complete 26,722,768-byte file. Both are 191-page corrected theses. All 191 pages are read as text; 94 pages visually cover all 50 figures, 14 tables and three listings. Both appendices, 99 references and 40 ludography entries are read. The eleven-page August 2020 interview protocol is read fully in text and visually, including revisions obscured in extraction. No new Scite literature search/graph is called; prior SC197/S269 thesis screening is materially upgraded.
+
+All 191 pages of both thesis PDFs are compared by sorted text and rendered pixels. 190 pages match exactly in both; page 2 corrects the committee surname Scachci to Scacchi. Separate hashes/metadata remain: author SHA-256 `80ebc5d9828ba60aad5036b62228eed743d41d338d999e7240312bda369c9a9d` (March 2022 PDF); USP `adac9d0bf1c0045797021a26ecdd74870fe811c8cd390d291f97f98fbc5df953` (December 2021 PDF). The pre-defense submission is not acquired. Protocol SHA-256 `dd0af95c7082325f5b0cd550a5e081e766c4412ca3489a6634b94f24cf75effa`, 75,782 bytes. Crossref registration in January 2022 does not change the thesis's 2021 identity.
+
+**Native verification.** Preflight 300 collection parents; exact title/DOI checks find no existing match. Parent `VY3FT5TX`5745 and note `YVLKA4TY`5746 precede reading. Final canonical note **5755**, parent **5756**; attachments `64YJKF87`5748 (author), `EQTPC8GB`5753 (USP), `4FSGB37H`5754 (protocol). Two copied attachment-title labels were corrected with current-version guards; content, keys, memberships and files are preserved. Final readback verifies canonical note, object versions, collection membership and all three stored byte hashes. Native API only; no JavaScript-window workaround.
+
+**Reconstruction checks.** Passive summation of Table 6.2's eighteen rows matches 5,045 LOC, 604 methods and 186 classes; simulation totals 4,350 LOC = 1,530 core + 2,820 extensions. Rule totals differ from adjacent prose, and qualitative percentages imply denominator 29 against 28 main-course participants; neither is silently repaired. S270's Grimoire `0.1` pin and seven selected files are reused. Public devlog, private course answers, interview recordings/transcripts and proposed commit-history/Backdoor studies are not newly read or executed. No engine, author program, compiler, model, benchmark or candidate run occurs.
+
+**Completed source audit.** 155 route occurrences collapse to **147 units: two credited, 145 deferred**. Across 163 prior decision files, 48 historical matches comprise one material thesis update and 47 unchanged screens reused. Submit **100 new/material decisions = two cited + 98 deferred**, stages two full-text/98 title-abstract, all provenance other (primary bibliography, source links and acquisitions). `nu_background_s271_20261005` accepts all, zero skipped. Submission and `citation_report` both match all 100 memberships and 600 fields; no missing reasons, unlinked retrieval or truncation; scoped retrieved count null. The protocol is an attachment, not another publication credit. Reference-stage means printed entry/citing context, not an independently read abstract or body. Ludography entries are domain examples, not played games or independent validations. Retained identity discrepancies include a doubtful Campbell/Stanley DOI association, RAModel's printed year component and volume-level identifiers; no unverified DOI is promoted as the cited work's identity.
+
+| Newly reported source | Disposition at actual coverage |
+| --- | --- |
+| [10.11606/t.45.2021.tde-22122021-205515](https://doi.org/10.11606/t.45.2021.tde-22122021-205515) | Complete corrected thesis: all 191 text pages; 94 visual pages cover all 50 figures, 14 tables and three listings; appendices, 99 references and 40 ludography entries. Original instruments, four professional practice accounts, 33 requirements and iteration lineage reconstructed. Same course and Slime cases as S269/S270, not new independent replications. Both corrected PDFs compared; pre-defense original unacquired. |
+| [Source](https://www.ime.usp.br/~kazuo/thesis/InterviewProtocol.pdf) | All eleven pages read textually and visually, including colored/struck revisions after I01. Planned interview/grounded-theory instrument, not raw transcripts or completed coding/saturation evidence. Native attachment retained under thesis; not a second publication credit. |
+| S271 bibliography: Adams(2015): Conducting Semi-Structured Interviews | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Aluani and Mizutani(2013): Projeto ouroboros: Sistema de integração automatizada entre c++ e linguagens de script | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://wiki.c2.com/?WhatMakesSoftwareFlexible) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://www.gamedevs.org/uploads/data-driven-game-object-system.pdf) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Bogost(2006): Unit Operations. An Approach to Videogame Criticism | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1145/2282338.2282357](https://doi.org/10.1145/2282338.2282357) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Dormans(2012b): The Effectiveness and Efficiency of Model Driven Game Design | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/978-3-319-48279-8_4](https://doi.org/10.1007/978-3-319-48279-8_4) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Folmer(2007): Component based game development: a solution to escalating costs and expanding deadlines? | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Furtado(2012): Domain-Specific Game Development | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/978-3-642-40814-4_10](https://doi.org/10.1007/978-3-642-40814-4_10) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Gestwicki(2012): The entity system architecture and its application in an undergraduate game development studio | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Grey(2017): When and Why to Use Procedural Generation | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://www.iso.org/standard/71952.html) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Järvinen(2008): Games without Frontiers: Theories and Methods for Game Studies and Design | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1145/258366.258378](https://doi.org/10.1145/258366.258378) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://web.archive.org/web/20090110154932/http://www.wired.com/science/discoveries/news/2006/02/70143?currentPage=2) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Karen Collins(2008): Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Kitchenham and Charters(2007): Guidelines for performing Systematic Literature reviews in Software Engineering Version 2.3 | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://www.masswerk.at/spacewar/inside) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Larsen and Schoenau-Fog(2016): The Narrative Quality of Game Mechanics | Printed reference and its citing discussion considered; underlying body not newly read. Reuse established prior readings; retain unselected methods as dependencies, not empirical findings or scientific absence. Printed DOI is a volume-level identifier, not a verified chapter DOI; preserve title/year separately. |
+| S271 bibliography: Lee et al.(2020): Building the perfect game: an empirical study of game modifications | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](http://ccsl.ime.usp.br/devops/2020-06-14/interview-protocol.html) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](http://www.gamasutra.com/view/feature/3355/postmortem_thief_the_dark_project.php) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/978-3-642-33542-6_30](https://doi.org/10.1007/978-3-642-33542-6_30) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://www.scotsman.com/whats-on/arts-and-entertainment/new-gta-v-release-tipped-rake-ps1bn-sales-2463312) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Mizutani(2017): VORPAL: A Middleware for Real-Time Soundtrack in Digital Games | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://www.moll.dev/projects/effective-multi-dispatch) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/3-540-46562-6_31](https://doi.org/10.1007/3-540-46562-6_31) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1145/1230040.1230098](https://doi.org/10.1145/1230040.1230098) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Nakagawa et al.(2011): Reference Architecture and Product Line Architecture: A Comparison | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Nakagawa et al.(2012): RAModel: A reference model for reference architectures | Printed reference and its citing discussion considered; underlying body not newly read. Reuse established prior readings; retain unselected methods as dependencies, not empirical findings or scientific absence. Printed RAModel DOI has a year-component discrepancy; use earlier verified identity if available, otherwise retain title/year. |
+| [Source](https://nethackwiki.com/wiki/Cockatrice) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://www.omg.org/spec/UML/2.5) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Osborn et al.(2017): Refining operational logics | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/11573036_29](https://doi.org/10.1007/11573036_29) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/978-3-540-28643-1_42](https://doi.org/10.1007/978-3-540-28643-1_42) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Pinhanez(2000): The SCD architecture and its use in the design of story-driven interactive spaces | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Plummer(2004): A Flexible And Expandable Architecture for Computer Games | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Rollings and Ernest(2006): Fundamentals of game design | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/978-3-540-45233-1_17](https://doi.org/10.1007/978-3-540-45233-1_17) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Santos et al.(2013): A checklist for evaluation of reference architectures of embedded systems | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Scacchi and Cooper(2015): Computer games and software engineering | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://www.japantimes.co.jp/news/2020/10/02/business/video-game-development-crunch-overtime) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Shaw and Garlan(1996): Software Architecture: Perspectives on an Emerging Discipline | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](http://gamestudies.org/0802/articles/sicart) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](https://factorio.com/blog/post/fff-360) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1145/1570433.1570459](https://doi.org/10.1145/1570433.1570459) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/978-3-642-29050-3_2](https://doi.org/10.1007/978-3-642-29050-3_2) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1007/978-3-319-07626-3_73](https://doi.org/10.1007/978-3-319-07626-3_73) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1145/3377816.3381729](https://doi.org/10.1145/3377816.3381729) | Deferred; printed reference/citing context only; primary body not newly read. |
+| [Source](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Williams et al.(2011): Identifying Desirable Game Character Behaviours through the Application of Evolutionary Algorithms to Model-Driven Engineering Metamodels | Deferred; printed reference/citing context only; primary body not newly read. |
+| [10.1109/digitel.2010.38](https://doi.org/10.1109/digitel.2010.38) | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 bibliography: Yoshikawa(2018): A retroatividade nostálgica do chiptune | Deferred; printed reference/citing context only; primary body not newly read. |
+| S271 ludography: a327ex(2018): a327ex. BYTEPATH, 2018. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Abrakam Entertainment S.A.(2016–2020): Abrakam Entertainment S.A. Faeria, 2016–2020. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: ArenaNet(2005): ArenaNet. Guild Wars, 2005. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Bay 12 Games(2006): Bay 12 Games. Dwarf Fortress, 2006. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Blizzard Entertainment(1997): Blizzard Entertainment. Diablo, 1997. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Blizzard Entertainment(2014): Blizzard Entertainment. Hearthstone, 2014. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Blizzard Entertainment(2002): Blizzard Entertainment. Warcraft 3, 2002. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Cygames(2016): Cygames. Shadowverse, 2016. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: DCSS Devteam(2006–2021): DCSS Devteam. Dungeon Crawl Stone Soup, 2006–2021. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: DevTeam(1987): DevTeam. Nethack, 1987. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: EA Redwood Shores(2008): EA Redwood Shores. Dead Space, 2008. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Firaxis Games(2010): Firaxis Games. Sid Meyer’s Civilization V, 2010. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Four Quarters(2021): Four Quarters. Loop Hero, 2021. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Freehold Games(2015): Freehold Games. Caves of Qud, 2015. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Game Freak(1996–2021): Game Freak. Pokémon, 1996–2021. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Game Freak(2019): Game Freak. Pokémon Sword & Shield, 2019. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Gravity Interactive(2002): Gravity Interactive. Ragnarok Online, 2002. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| [Source](https://www.gridsagegames.com/cogmind) | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Grinding Gear Games(2013–2021): Grinding Gear Games. Path of Exile, 2013–2021. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Mojang Studios(2011): Mojang Studios. Minecraft, 2011. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Nintendo(2017): Nintendo. The Legend of Zelda: Breath of the Wild, 2017. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Nintendo(1985–2021): Nintendo. Super Mario series, 1985–2021. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Nintendo(1986-2021): Nintendo. The Legend of Zelda series, 1986-2021. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: PlatinumGames(2017): PlatinumGames. Nier: Automata, 2017. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Re-Logic(2011): Re-Logic. Terraria, 2011. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Square Enix(1986–2020): Square Enix. Dragon Quest series, 1986–2020. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Square Enix(2003): Square Enix. Final Fantasy Tactics Advance, 2003. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Square Enix(1987–2020): Square Enix. Final Fantasy series, 1987–2020. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: The Battle for Wesnoth Project(2003): The Battle for Wesnoth Project. The Battle for Wesnoth, 2003. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Toy et al.(1980): Michael Toy, Glenn Wichman and Ken Arnold. Rogue, 1980. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| [Source](https://uspgamedev.itch.io/backdoor-route) | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| [Source](https://kazuo256.itch.io/grimoire-ars-bellica) | Ludography entry and thesis usage read as domain examples; game not independently played/reconstructed. These entries are not independent empirical validations of the 33 requirements. |
+| [Source](https://uspgamedev.itch.io/horus-eye) | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| [Source](https://uspgamedev.itch.io/its-all-about-lasagna) | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| [Source](https://uspgamedev.itch.io/lava-series-lamp-edition) | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Valve Corporation(2013): Valve Corporation. Dota 2, 2013. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Veloren team and contributors(2018): Veloren team and contributors. Veloren, 2018. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Wizards of the Coast(1993): Wizards of the Coast. Magic: the Gathering, 1993. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| S271 ludography: Wube Software(2016–2021): Wube Software. Factorio, 2016–2021. | Deferred; game entry/context only, no independent gameplay or architecture validation. |
+| [Source](https://github.com/diasurgical/devilutionx) | Observed thesis source link only; reuse prior bounded source reconstruction where available. No new game, binary, source-history study or runtime execution. |
+| [Source](https://gitlab.com/uspgamedev/grimoire-ars-bellica/grimoire-ars-bellica/-/wikis/DevLog/Index) | Public devlog linked for reported hours/iterations; target not read here. The >180-hour account remains author-reported, not independently reconstructed timing. |
+| [Source](https://kazuo256.itch.io/legend-of-slime) | Observed thesis source link only; reuse prior bounded source reconstruction where available. No new game, binary, source-history study or runtime execution. |
+
+**Checks and continuation.** Previous head `e443f9a36d2f68e47956224008312bd299229eaa` is pushed and [CI 37221920632](https://github.com/Happypig375/interactive-software-evolution/actions/runs/37221920632) passed. Scope job 111493815314 succeeded; Windows 111493849342, maintenance 111493849417, Linux 111493849732 and E2 111493850054 skipped under documentation scope. This segment receives its own UTF-8/local-link, whitespace, diff/scope and commit/CI checks. Preserve unrelated S242 stat-only status and `uv.lock`.
+
+Next register/reuse and read the independent MVC architecture-evolution/evaluation primary, DOI 10.1109/GAS.2015.10, then follow its consequential conformance dependencies. Its actual changes, measures and integration costs can alter the comparison with Rulebook. Keep Subvis, cross-engine/consistency, SC194/SC197 methods, SC189 practice, S266 access, generation/source and temporal/type frontiers separate. No experiment, recruitment or new worker is authorized; the broader survey remains active.

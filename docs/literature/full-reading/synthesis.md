@@ -854,3 +854,12 @@ This strengthens the prior-art comparison with S225 and Nu while distinguishing 
 [S270](S270-rulebook-effects-and-jam-games.md) adds a refined effect-processing pattern and three qualitative jam-game cases to S269's earlier architecture and course evidence. Local extensions and action-cost previews are useful observed mechanisms; duplicate rules, learning and noncohesive state access remain actual costs. Different dispatch, cancellation and timer paths prevent treating the pattern as one universal state/effect contract.
 
 The source-backed preview comparison narrows generic Nu novelty without establishing its relative value. Reusing amendment logic avoids a separate calculation definition, while a previewed effect does not reserve the world state or validate future execution. The original thesis remains consequential for detailed course instruments, professional evidence and requirement lineage. These publications do not create independent replications by being separately counted.
+
+
+## Original Rulebook methods: coverage and empirical uncertainty now separate
+
+[S271](S271-rulebook-thesis-and-methods.md) completes the corrected thesis and public interview protocol. It resolves the original instrument, requirement and iteration questions behind S269/S270. Teams and genre allocation are randomized, but architecture order remains fixed; the three quantitative outcomes are Likert self-reports. Four professional interviews describe existing practice rather than an adoption intervention. The same course and Slime case do not become independent replications in another publication.
+
+The later architecture responds to learning and rigidity with Direct Access and entity/effect-type Rule Fields. Grimoire demonstrates reusable properties/rules and shared preview calculations while exposing editor/UI propagation, broad-dispatch performance problems and a preview-recursion problem. Preserve all of that evidence. The 33 requirements broaden the design comparison; they are not verified properties of Nu or Rulebook. A stable persistence checkpoint is not a successor-schema or pending-work migration policy.
+
+This closes a consequential primary-reading gap without resolving Nu-specific net value. Compare actual change boundaries and integration work with the independent MVC evolution/evaluation and conformance methods next; retain Subvis, cross-engine/consistency, evaluation critiques, practice/access and temporal/type frontiers. No new experiment or worker is authorized.
