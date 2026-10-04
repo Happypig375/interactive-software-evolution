@@ -847,3 +847,10 @@ The review identifies Unlimited Rulebook's claimed implementation/maintenance-co
 [S269](S269-unlimited-rulebook-architecture.md) establishes predicate-dispatched, composable economy rules over a mutable property store. Its local extension examples, slightly lower reported architecture-change burden and strong reuse preference are favorable evidence under their stated scope. The preliminary effort/usefulness findings remain inconclusive, treatment order is fixed, and the supplied initial implementation omits construction cost. Nested conflict resolution is an acknowledged performance concern.
 
 This strengthens the prior-art comparison with S225 and Nu while distinguishing modularity from enforced encapsulation, live rule behavior from general state migration, and stated preference from net maintenance benefit. The later journal/preprint and separate thesis require primary reconstruction; their lineage cannot be counted as independent empirical replication merely because titles or editions differ.
+
+
+## Rulebook effects and previews: conditional architectural guidance
+
+[S270](S270-rulebook-effects-and-jam-games.md) adds a refined effect-processing pattern and three qualitative jam-game cases to S269's earlier architecture and course evidence. Local extensions and action-cost previews are useful observed mechanisms; duplicate rules, learning and noncohesive state access remain actual costs. Different dispatch, cancellation and timer paths prevent treating the pattern as one universal state/effect contract.
+
+The source-backed preview comparison narrows generic Nu novelty without establishing its relative value. Reusing amendment logic avoids a separate calculation definition, while a previewed effect does not reserve the world state or validate future execution. The original thesis remains consequential for detailed course instruments, professional evidence and requirement lineage. These publications do not create independent replications by being separately counted.
