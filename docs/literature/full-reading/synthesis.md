@@ -863,3 +863,8 @@ The source-backed preview comparison narrows generic Nu novelty without establis
 The later architecture responds to learning and rigidity with Direct Access and entity/effect-type Rule Fields. Grimoire demonstrates reusable properties/rules and shared preview calculations while exposing editor/UI propagation, broad-dispatch performance problems and a preview-recursion problem. Preserve all of that evidence. The 33 requirements broaden the design comparison; they are not verified properties of Nu or Rulebook. A stable persistence checkpoint is not a successor-schema or pending-work migration policy.
 
 This closes a consequential primary-reading gap without resolving Nu-specific net value. Compare actual change boundaries and integration work with the independent MVC evolution/evaluation and conformance methods next; retain Subvis, cross-engine/consistency, evaluation critiques, practice/access and temporal/type frontiers. No new experiment or worker is authorized.
+
+
+## Access boundary for independent architecture and exploration evidence
+
+[S272/S273](S272-S273-mvc-conformance-access.md) and [S274](S274-subvis-access.md) establish relevant MVC/conformance and Blueprint-alternative predecessors at abstract/prefix scope. Their exact primary methods remain inaccessible on the checked routes. Keep this missing understanding separate from unknown Nu benefit, and retain the favorable refactoring/conformance/exploration claims without upgrading them to reconstructed effects. BPAlt's related comparison is the next primary target; its ten-person abstract headline is not yet an outcome assessment or an independent replication of SuBViS.
