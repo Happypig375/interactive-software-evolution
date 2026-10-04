@@ -871,3 +871,10 @@ This closes a consequential primary-reading gap without resolving Nu-specific ne
 
 
 [S275’s BPAlt preview](S275-bpalt-partial-method.md) adds a favorable reported creativity-support score and preference under a small comparison. Preserve that result at preview scope. The full tasks, state/merge behavior and cost accounting remain unread, and the displayed effect-size calculation needs the complete primary source. Exploration support, successful maintained behavior and total integration effort remain different outcomes. The retained game-software evaluation review is the next accessible method target.
+
+
+## Game-software method reconstruction: useful distinctions, bounded rates
+
+[S276](S276-game-software-evaluation-methods.md) completes the retained methodological review's author edition. It supports explicit distinctions among field observation, researcher-led intervention, archival analysis and constructed evaluation, without making those labels a quality hierarchy. Its experimental checklist separates three defining hallmarks from four additional attributes; four displayed rows satisfy the former and two all seven. The headline 18% should not be repeated as a field-wide experiment-validity rate. Table/reference and selection discrepancies further limit aggregate interpretation.
+
+Preserve the adverse interview-word screening result (zero recall despite 92% stated accuracy), the practical reporting/materials guidance, and the primary studies' actual benefits and costs. This is a secondary classification of an earlier dataset, not new independent interventions. Nu's value still depends on its actual mechanism, obligations, comparator and whole change cost. Next read the retained runtime-repair source (10.1109/MS.2011.87), whose unexplained omission from this review does not determine its evidential value. All construction and allocation holds remain.
