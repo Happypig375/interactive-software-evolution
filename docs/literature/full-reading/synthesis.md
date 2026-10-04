@@ -823,7 +823,7 @@ This is an access/understanding gap, separate from unknown Nu benefit. Native re
 
 ## A favorable runtime result still needs a service boundary — S265,2026-10-05 HKT
 
-[S265](S265-unity-build-energy-partial.md) adds a useful within-Unity counterweight: production build configurations often reduce CPU+GPU power, while the preferred energy/frame configuration varies by workload and Mono remains competitive. Its released sign tables recover34lower-power alternatives among65 and46higher-FPS alternatives; these are repeated configurations across five games, not independent game replications.
+[S265](S265-unity-build-energy-partial.md) adds a useful within-Unity counterweight: production build configurations often reduce CPU+GPU power, while the preferred energy/frame configuration varies by workload and Mono remains competitive. Its released sign tables recover34lower-power alternatives among65 and45higher-FPS alternatives. The paper reports46higher-FPS alternatives; our earlier claim of corroboration was incorrect, and paper/release correspondence remains unresolved. These are repeated configurations across five games, not independent game replications.
 
 The420 released FantasyKingdom run rows match1680derived measurement cells. Faster Runtime/Release averages5.15% less CPU+GPU power than development Mono while recorded FPS increases0.068%. Preserve the power gain without upgrading a significance grouping or win count to a large responsiveness effect. Whole-device energy, delivered frames, equal useful gameplay and developer iteration time remain separate quantities. The repository omits project Assets and the monitor/replay implementation; original figures/supplement and four-game raw CSVs remain unresolved.
 
