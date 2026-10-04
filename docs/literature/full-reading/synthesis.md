@@ -868,3 +868,6 @@ This closes a consequential primary-reading gap without resolving Nu-specific ne
 ## Access boundary for independent architecture and exploration evidence
 
 [S272/S273](S272-S273-mvc-conformance-access.md) and [S274](S274-subvis-access.md) establish relevant MVC/conformance and Blueprint-alternative predecessors at abstract/prefix scope. Their exact primary methods remain inaccessible on the checked routes. Keep this missing understanding separate from unknown Nu benefit, and retain the favorable refactoring/conformance/exploration claims without upgrading them to reconstructed effects. BPAlt's related comparison is the next primary target; its ten-person abstract headline is not yet an outcome assessment or an independent replication of SuBViS.
+
+
+[S275’s BPAlt preview](S275-bpalt-partial-method.md) adds a favorable reported creativity-support score and preference under a small comparison. Preserve that result at preview scope. The full tasks, state/merge behavior and cost accounting remain unread, and the displayed effect-size calculation needs the complete primary source. Exploration support, successful maintained behavior and total integration effort remain different outcomes. The retained game-software evaluation review is the next accessible method target.
