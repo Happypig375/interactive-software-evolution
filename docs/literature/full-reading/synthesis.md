@@ -723,3 +723,10 @@ Thus source-case handling, integrated successor correctness, edit-to-feedback ti
 The positive evidence favors studying requirement clarity, creativity and communication across disciplines. It does not establish generally greater technical debt, lower reuse, different architecture evolution or an absence of automation. Source-state structure, regression correctness, asset integration, player-value discovery and adoption effort retain distinct outcomes. Preserve the actual comparisons alongside the positive and adverse postmortem cases; do not convert an abstract’s broad explanation into an established causal mechanism.
 
 Full-work coverage becomes221. The unavailable linked study materials remain a method-access gap. Follow the cited EASE2013 tool-expectations study for actual selection/adaptability obligations, while keeping contemporary engine practice open. No Nu experiment or extra worker follows from this reading.
+
+
+## Favorable existing tools constrain the adoption premise — S253, 2026-10-04
+
+[S253](S253-game-tool-expectations-partial.md) supplies complete indexed primary text, with PDF/visual/questionnaire gaps and no new full-publication credit. Twenty-seven sessions across seven selected organizations describe useful existing tools, third-party engine reuse, rapid prototyping and asset reuse. These positive accounts coexist with bugs, restrictive interfaces, compatibility requirements and expected changes in coordination as teams grow.
+
+The implication for Nu is to explain which particular work remains costly within an existing useful toolchain. Qualitative satisfaction is neither an identified cause nor a measured Nu effect, but it is evidence against assuming a universal tooling deficit. Keep the2012 observations separate from modern adoption and from the later studies mixed into citation panels. Continue the retained newer multiple-case reuse primary; all experimental holds persist.
