@@ -714,3 +714,12 @@ All25 primary pages and the extended report’s complete16-page evaluation appen
 The consequential synthesis is about outcome scope. Mechanics edits propagate into animations, levels, dialogue and balancing. Faster shipped loading can coexist with unchanged slow developer loading and substantial implementation cost. An engine can accelerate prototyping while being a poor fit for later requirements under a particular developer’s expertise/time. Automated tests can exist while their surrounding pipeline is unreliable. These source-located retrospective experiences are useful motivation; they are not controlled Nu effects, representative incidence or a causal ranking of root causes.
 
 Thus source-case handling, integrated successor correctness, edit-to-feedback time, adoption effort, runtime and player-value discovery require distinct interpretations. Preserve the positive game experiences alongside S83/S229/S155–S156’s different empirical outcomes. Continue the already identified Cowboys professional-practice method to challenge the account using a different evidence source. No experiment or worker is authorized by these readings.
+
+
+## Game practice is a qualified comparison — S252, 2026-10-04
+
+[S252](S252-game-practitioner-comparison.md) adds complete independent interview/survey evidence beyond the postmortem lineage. Six of28 agreement items differ between Games and both Office/Other; six differ against one comparator, including a scripted-testing result contrary to the interviews. The remaining16 are inconclusive after correction. All56 published rounded p-values support this classification, without raw-response reproduction.
+
+The positive evidence favors studying requirement clarity, creativity and communication across disciplines. It does not establish generally greater technical debt, lower reuse, different architecture evolution or an absence of automation. Source-state structure, regression correctness, asset integration, player-value discovery and adoption effort retain distinct outcomes. Preserve the actual comparisons alongside the positive and adverse postmortem cases; do not convert an abstract’s broad explanation into an established causal mechanism.
+
+Full-work coverage becomes221. The unavailable linked study materials remain a method-access gap. Follow the cited EASE2013 tool-expectations study for actual selection/adaptability obligations, while keeping contemporary engine practice open. No Nu experiment or extra worker follows from this reading.
