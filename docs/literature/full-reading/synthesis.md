@@ -904,3 +904,10 @@ The primary method explicitly permits inconclusive temporal verdicts. Its next-e
 ## Alternatives: preserve the positive report and the access boundary
 
 [S282 NCAlt](S282-ncalt-access.md) reports higher usability for its behavior-tree alternative comparison/merge environment. The available abstract gives a15% SUS improvement over NodeCanvas and favorable follow-up feedback. Preserve this as a positive report; sample, tasks, score denominators, state/reset contract and follow-up methods remain unread. These are primary-access gaps, distinct from demonstrated absence of benefit. NCCollab's accessible collaboration/history method is the next consequential reconstruction, but its treatment cannot substitute for NCAlt's missing alternatives evaluation.
+
+
+## Collaborative authoring: measured elapsed time and the state actually restored
+
+[S283 NCCollab](S283-nccollab-collaboration-history.md) adds favorable observed task-time evidence:21.32minutes alone versus16.25asynchronously and17.57synchronously in a12-person/six-pair comparison. Keep the practical improvement for a collaborative NodeCanvas feature bundle. Staffing, communication and auxiliary tools change together; total person-time, long-term change quality and an isolated history/preview benefit are not measured. The two collaboration modes do not differ significantly in time or overall CSI. Non-collaboration CSI factors are null, and the authors attribute the total-score difference mainly to collaboration.
+
+The reconstructed mechanism restores saved **BT documents** and previews another editor's tree; the game scene runs the local tree. Hiding a conflict-list entry can leave the document conflict in place. These concrete boundaries prevent treating preview, history or visible conflict resolution as a preserved-running-state or behavioral-correctness guarantee. Preserve useful collaboration and observed interface costs together. NCAlt's alternatives study remains a distinct access gap; LevelMerge's scene/script graph method is the next consequential source for identity and merge semantics. All experiment/construction holds remain.
