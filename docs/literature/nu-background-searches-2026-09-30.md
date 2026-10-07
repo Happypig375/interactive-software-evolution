@@ -7138,3 +7138,134 @@ The following source roster covers the actual considered set. D means conditiona
 | [Named implementation service](https://webrtc.org) | D: conditional method/access/background; body not read |
 
 **Next/checks.** Register/reuse Krauß et al. DOI10.1145/3411764.3445335 before selected primary reading and reconstruct professional workflows, tool handoffs and integration burdens. Retain Ashtari2020, modern CAD version-control practice, Spacetime/FlowMatic and creative-version-control dependencies when consequential. Preserve all earlier access/version gaps and B01–B12 scope. Local document/native/audit checks are separate from runtime validation; no experiment, worker or allocation was added. Unrelated `uv.lock` is preserved.
+
+
+## S288 — Professional collaborative AR/VR workflows and prototype costs (2026-10-08 HKT)
+
+**Result/coverage.** [S288](full-reading/S288-collaborative-arvr-practice.md) completes the15-page author manuscript:98,918 extracted characters, both tables,81 references and no appendix/numbered figures. Original page images1,3,4,5,7,8,9,13 were inspected, including the complete participant and challenge/solution tables; all15 were rendered. No renderer warning appeared.26 network/snowball-recruited professional interviews support situated reports of useful joint prototyping, feasibility discussion and cross-training, alongside tool/skill handoffs and prototype-maintenance burdens. Roles overlap; the unexplained24-project subtotal and quote/table skill-label differences are retained. No comparative effort, population prevalence or Nu effect is measured.
+
+**Retrieval.** Existing SC227 metadata selected the work; it is not repeated as a new search. W722 opens the URN and fails. W723 makes two exact-title queries (`"Current Practices, Challenges, and Design Implications" "pdf"`; `"Collaborative AR/VR Application Development" Krauß paper`) and returns14 result panels. The considered scope includes author-copy routes, bounded target entries in author indexes and conditional/not-used neighbors; generated panels are discovery only. One visible neighboring XR-education reference is retained as metadata, not a primary read. All81 printed bibliography entries are mapped to Crossref deposit records by reference number;51 have deposited DOIs. This is bibliographic/context screening, not independent identity verification or81 full readings.
+
+SC228 exact lookup for DOI10.1145/2642918.2647369 and10.1145/3341215.3354647 requests limit20/offset0 and returns2/2. The DART ten-year record has a truncated abstract and contentDenied=true, plus three outgoing mentioning edges with section labels but no snippets/target titles. These are DART-to-dependency edges, not incoming validation. McKenzie's readable/OA metadata does not prove primary-body access. No S288 citation graph or Scite full-text call is made. W724's query `"Software Engineering Practices and Methods in the Game Development Industry" pdf` returns18 panels. It selects the game-practice route and discovers a later2021 agile-study PDF; edition/population linkage remains unread. S268 is reused unchanged. Author lists are bounded target/lineage checks, and three unbound host-bibliography fragments are not treated as identified primary methods.
+
+**Access/identity.** Ordinary URN GET redirects to a repository landing page and returns200/7,450bytes of Anubis challenge HTML; no challenge is bypassed. Zenodo record7348332 supplies the author PDF,639,226bytes/15pages. SHA256`1cde8a72ad6784489221e8657ab52ccbd4f8bbc3f54a12f27015e26c79686cf7` and advertised MD5`9c266da6bc26933d12135496b8fd9b5c` match. DNB1225793041/34 supplies identical bytes, despite an unusual content-type header. These are two routes to one edition. PDF metadata dates creation to2021-01-22, first-page copyright is2020, Crossref publication2021-05-06 and Zenodo publication2021-05-07. Publisher-final byte equivalence is not tested. No raw interviews, full instrument, codebook, dataset, supplement or executable artifact is acquired.
+
+**Library.** Native registration preceded selected reading. Parent/note `F8YBQQCG`5910 / `SHM5G8XQ`5909 remain in collection`PKLXQNEE`; one PDF`ZTHZHHDK`5906 retains the verified source bytes. Exact final note, versions, memberships and attachment hashes pass. One selected-edition increment gives **241 = 13P + 3A + 225S**. Copyrighted bodies, extraction, page renders and receipts remain ignored.
+
+**Audit.** `nu_background_s288_20261008` records124 occurrences and109 distinct identities:2C/99D/8N. The176-file historical check finds nine matches; S288 receives one material full-reading update and eight unchanged decisions are withheld, including S268. Submit101 decisions:1C/92D/8N,100 title/reference stages and one full-paper stage, with provenance75other/23web/3Scite. Receipt and inspected report each match101 members and all606 checked fields. Zero skips, missing reasons, linkage warnings or truncation; answer-scoped retrieved=null. Source-detail strings are at most41characters and keys at most169. Deposited URLs, encoded paths and non-DOI book/reference identities were checked before submission; no DOI is inferred from an unverified URL pattern. These audit units do not establish109 independently understood studies or comprehensive field coverage.
+
+The roster below preserves the considered set. D is an unresolved/conditional dependency, not a merit rejection or mandatory reading queue. Precise per-source reasons and provenance are retained in the inspected local receipt/report; the canonical note identifies which claims the selected reading changes.
+
+| Source identity and actual route | Disposition |
+| --- | --- |
+| Deutsche Akkreditierungsstelle (2010). Leitfaden Usability — S288-ref:1 | D — Conditional/deferred; no new primary result credited |
+| Christopher Alexander (1977). A Pattern Language: Towns, Buildings, Construction — S288-ref:2 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3313831.3376722](https://doi.org/10.1145/3313831.3376722) — S288-ref:3 | D — Conditional/deferred; no new primary result credited; unchanged prior decision withheld |
+| [10.1145/280571.280580](https://doi.org/10.1145/280571.280580) — S288-ref:4 | D — Conditional/deferred; no new primary result credited |
+| [10.1111/caim.12358](https://doi.org/10.1111/caim.12358) — S288-ref:5 | D — Conditional/deferred; no new primary result credited |
+| [10.1561/1100000049](https://doi.org/10.1561/1100000049) — S288-ref:6 | D — Conditional/deferred; no new primary result credited |
+| Björk and Holopainen (2005). Patterns in Game Design — S288-ref:7 | D — Conditional/deferred; no new primary result credited |
+| [10.1016/j.infsof.2011.01.009](https://doi.org/10.1016/j.infsof.2011.01.009) — S288-ref:8, W723:6 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/347642.347795](https://doi.org/10.1145/347642.347795) — S288-ref:9 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3397537.3398474](https://doi.org/10.1145/3397537.3398474) — S288-ref:10 | D — Conditional/deferred; no new primary result credited |
+| [10.1007/s10606-016-9259-4](https://doi.org/10.1007/s10606-016-9259-4) — S288-ref:11 | D — Conditional/deferred; no new primary result credited; unchanged prior decision withheld |
+| [10.1145/227234.227243](https://doi.org/10.1145/227234.227243) — S288-ref:12 | D — Conditional/deferred; no new primary result credited |
+| [10.2307/1511637](https://doi.org/10.2307/1511637) — S288-ref:13 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/347642.347802](https://doi.org/10.1145/347642.347802) — S288-ref:14 | D — Conditional/deferred; no new primary result credited |
+| Bill Buxton (2007). Sketching User Experiences: Getting the Design Right and the Right Design — S288-ref:15 | D — Conditional/deferred; no new primary result credited |
+| [http://www.billbuxton.com/iteration.html](http://www.billbuxton.com/iteration.html) — S288-ref:16 | D — Conditional/deferred; no new primary result credited |
+| Cooper et al. (2014). About Face: The Essentials of Interaction Design — S288-ref:17 | D — Conditional/deferred; no new primary result credited |
+| Coplien and Harrison (2005). Organizational Patterns of Agile Software Development — S288-ref:18 | D — Conditional/deferred; no new primary result credited |
+| John M. Culkin (1967). A schoolman’s guide to Marshall McLuhan — S288-ref:19 | N — Not used for the selected workflow/change-cost question |
+| [10.3389/frobt.2018.00037](https://doi.org/10.3389/frobt.2018.00037) — S288-ref:20 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1978942.1979359](https://doi.org/10.1145/1978942.1979359) — S288-ref:21 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1142405.1142443](https://doi.org/10.1145/1142405.1142443) — S288-ref:22 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1984642.1984656](https://doi.org/10.1145/1984642.1984656) — S288-ref:23 | D — Conditional/deferred; no new primary result credited |
+| Dubois et al. (2007). Participatory Design Meets Mixed Reality Design Models — S288-ref:24 | D — Conditional/deferred; no new primary result credited |
+| Pelle Ehn (1993). Scandinavian Design: On Participation and Skill — S288-ref:25 | D — Conditional/deferred; no new primary result credited |
+| Ehn and Kyng (1991). Cardboard Computers: Mocking-it-up or Hands-on the future — S288-ref:26 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3170427.3174362](https://doi.org/10.1145/3170427.3174362) — S288-ref:27 | N — Not used for the selected workflow/change-cost question |
+| [10.1016/j.ijhcs.2019.05.011](https://doi.org/10.1016/j.ijhcs.2019.05.011) — S288-ref:28 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ice.2015.7438659](https://doi.org/10.1109/ice.2015.7438659) — S288-ref:29 | D — Conditional/deferred; no new primary result credited |
+| [https://www.uml-diagrams.org/information-flow-diagrams.html](https://www.uml-diagrams.org/information-flow-diagrams.html) — S288-ref:30 | D — Conditional/deferred; no new primary result credited |
+| [10.1016/s0950-7051(00)00065-4](https://doi.org/10.1016/s0950-7051(00)00065-4) — S288-ref:31 | D — Conditional/deferred; no new primary result credited |
+| Gerhard Fischer (2001). External and shareable artifacts as opportunities for social creativity in communities of interest — S288-ref:32 | D — Conditional/deferred; no new primary result credited |
+| [10.1007/978-3-642-69796-8_1](https://doi.org/10.1007/978-3-642-69796-8_1) — S288-ref:33 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ismar.2002.1115059](https://doi.org/10.1109/ismar.2002.1115059) — S288-ref:34 | D — Conditional/deferred; no new primary result credited |
+| Gamma et al. (1995). Design Patterns. Elements of Reusable Object-Oriented Software — S288-ref:35 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/2642918.2647369](https://doi.org/10.1145/2642918.2647369) — S288-ref:36, SC228:1 | D — Conditional/deferred; no new primary result credited |
+| [10.1016/j.destud.2011.06.005](https://doi.org/10.1016/j.destud.2011.06.005) — S288-ref:37 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1984642.1984658](https://doi.org/10.1145/1984642.1984658) — S288-ref:38 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/502348.502388](https://doi.org/10.1145/502348.502388) — S288-ref:39 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/art.2002.1107008](https://doi.org/10.1109/art.2002.1107008) — S288-ref:40 | D — Conditional/deferred; no new primary result credited |
+| Gutschmidt et al. (2019). Identifying HCI Patterns for the Support of Participatory Enterprise Modeling on Multi-touch Tables — S288-ref:41 | N — Not used for the selected workflow/change-cost question |
+| [10.1145/1228175.1228259](https://doi.org/10.1145/1228175.1228259) — S288-ref:42 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ismar.2002.1115093](https://doi.org/10.1109/ismar.2002.1115093) — S288-ref:43 | D — Conditional/deferred; no new primary result credited |
+| [10.1016/b978-044481862-1.50082-0](https://doi.org/10.1016/b978-044481862-1.50082-0) — S288-ref:44 | D — Conditional/deferred; no new primary result credited; unchanged prior decision withheld |
+| ISO 9241-210:2019. Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems — S288-ref:45 | D — Conditional/deferred; no new primary result credited |
+| [10.1080/1462626048520182](https://doi.org/10.1080/1462626048520182) — S288-ref:46 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1922649.1922658](https://doi.org/10.1145/1922649.1922658) — S288-ref:47 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3173574.3173610](https://doi.org/10.1145/3173574.3173610) — S288-ref:48 | D — Conditional/deferred; no new primary result credited |
+| [10.1016/j.jvlc.2008.07.001](https://doi.org/10.1016/j.jvlc.2008.07.001) — S288-ref:49 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1070838.1070840](https://doi.org/10.1145/1070838.1070840) — S288-ref:50 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ismar.2004.34](https://doi.org/10.1109/ismar.2004.34) — S288-ref:51 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3313831.3376160](https://doi.org/10.1145/3313831.3376160) — S288-ref:52 | D — Conditional/deferred; no new primary result credited |
+| [https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram](https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram) — S288-ref:53 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1029632.1029669](https://doi.org/10.1145/1029632.1029669) — S288-ref:54 | D — Conditional/deferred; no new primary result credited |
+| MacWilliams et al. (2004). Design Patterns for Augmented Reality Systems — S288-ref:55 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/1124772.1124959](https://doi.org/10.1145/1124772.1124959) — S288-ref:56 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3341215.3354647](https://doi.org/10.1145/3341215.3354647) — S288-ref:57, W724:1, W724:3, W724:4, W724:9, SC228:2 | D — Conditional/deferred; no new primary result credited |
+| [10.1016/j.destud.2017.03.001](https://doi.org/10.1016/j.destud.2017.03.001) — S288-ref:58 | D — Conditional/deferred; no new primary result credited |
+| Musil et al. (2010). Improving Video Game Development: Facilitating Heterogeneous Team Collaboration through Flexible Software Processes — S288-ref:59 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3313831.3376637](https://doi.org/10.1145/3313831.3376637) — S288-ref:60 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3173574.3173927](https://doi.org/10.1145/3173574.3173927) — S288-ref:61 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ismar-adjunct.2018.00098](https://doi.org/10.1109/ismar-adjunct.2018.00098) — S288-ref:62 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/361598.361623](https://doi.org/10.1145/361598.361623) — S288-ref:63 | D — Conditional/deferred; no new primary result credited; unchanged prior decision withheld |
+| [https://www.perkinscoie.com/images/content/2/3/v4/231654/2020-AR-VR-Survey-v3.pdf](https://www.perkinscoie.com/images/content/2/3/v4/231654/2020-AR-VR-Survey-v3.pdf) — S288-ref:64 | N — Not used for the selected workflow/change-cost question |
+| [10.1007/bfb0035820](https://doi.org/10.1007/bfb0035820) — S288-ref:65 | D — Conditional/deferred; no new primary result credited; unchanged prior decision withheld |
+| Piekarski and Thomas (2002). The tinmith system–demonstrating new techniques for mobile augmented reality modelling — S288-ref:66 | D — Conditional/deferred; no new primary result credited |
+| René Reiners (2014). An Evolving Pattern Library for Collaborative Project Documentation — S288-ref:67 | D — Conditional/deferred; no new primary result credited |
+| Rhinow et al. (2012). Design Prototypes as Boundary Objects in Innovation Processes — S288-ref:68 | D — Conditional/deferred; no new primary result credited |
+| Horst W. J. Rittel (1984). Second-generation design methods — S288-ref:69 | D — Conditional/deferred; no new primary result credited |
+| [10.1162/105474602317343640](https://doi.org/10.1162/105474602317343640) — S288-ref:70 | D — Conditional/deferred; no new primary result credited |
+| Schümmer and Lukosch (2007). Patterns for Computer-Mediated Interaction — S288-ref:71 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3229089](https://doi.org/10.1145/3229089) — S288-ref:72 | D — Conditional/deferred; no new primary result credited; unchanged prior decision withheld |
+| [10.1145/3173574.3173681](https://doi.org/10.1145/3173574.3173681) — S288-ref:73 | D — Conditional/deferred; no new primary result credited |
+| [10.1177/030631289019003001](https://doi.org/10.1177/030631289019003001) — S288-ref:74 | D — Conditional/deferred; no new primary result credited |
+| Strauss and Corbin (1990). Basics of qualitative research — S288-ref:75 | D — Conditional/deferred; no new primary result credited |
+| [https://skarredghost.com/2019/09/04/augmented-reality-mature-gartner](https://skarredghost.com/2019/09/04/augmented-reality-mature-gartner) — S288-ref:76 | N — Not used for the selected workflow/change-cost question |
+| [10.1109/ismar-adjunct.2016.0038](https://doi.org/10.1109/ismar-adjunct.2016.0038) — S288-ref:77 | N — Not used for the selected workflow/change-cost question |
+| [http://eprints.ecs.soton.ac.uk/12589/1/fp011-weal.pdf](http://eprints.ecs.soton.ac.uk/12589/1/fp011-weal.pdf) — S288-ref:78 | D — Conditional/deferred; no new primary result credited |
+| Wetzel et al. (2012). Shapes Marbles and Pebbles: Template-Based Content Creation for Location-Based Games — S288-ref:79 | D — Conditional/deferred; no new primary result credited |
+| [10.26503/todigra.v3i2.73](https://doi.org/10.26503/todigra.v3i2.73) — S288-ref:80 | D — Conditional/deferred; no new primary result credited |
+| Xu et al. (2011). Pre-patterns for designing embodied interactions in handheld augmented reality games — S288-ref:81 | D — Conditional/deferred; no new primary result credited |
+| [10.1145/3411764.3445335](https://doi.org/10.1145/3411764.3445335) — W722:1, W723:1, W723:2, W723:3, W723:4, S288-direct:1, S288-direct:2, S288-direct:3, S288-direct:4 | C — Credited at the recorded scope; material complete-manuscript update |
+| [https://dblp.org/pid/16/1943.html](https://dblp.org/pid/16/1943.html) — W723:5 | D — Conditional/deferred; no new primary result credited |
+| [https://www.csauthors.net/leif-oppermann](https://www.csauthors.net/leif-oppermann) — W723:7 | D — Conditional/deferred; no new primary result credited |
+| [https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003198409](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003198409) — W723:8 | N — Not used for the selected workflow/change-cost question |
+| [10.3390/su16051744](https://doi.org/10.3390/su16051744) — W723:9 | D — Conditional/deferred; no new primary result credited |
+| [https://iaeme.com/Home/article_id/IJCET_14_02_001](https://iaeme.com/Home/article_id/IJCET_14_02_001) — W723:10 | D — Conditional/deferred; no new primary result credited |
+| [https://scispace.com/papers/using-artmaking-generative-ais-to-support-augmented-reality-300ssqzn2l](https://scispace.com/papers/using-artmaking-generative-ais-to-support-augmented-reality-300ssqzn2l) — W723:11 | D — Conditional/deferred; no new primary result credited |
+| [https://www.mdpi.com/2078-2489/14/4/252](https://www.mdpi.com/2078-2489/14/4/252) — W723:12 | D — Conditional/deferred; no new primary result credited |
+| [https://www.researchgate.net/publication/370845932_Seeking_Information_about_Assistive_Technology_Exploring_Current_Practices_Challenges_and_the_Need_for_Smarter_Systems](https://www.researchgate.net/publication/370845932_Seeking_Information_about_Assistive_Technology_Exploring_Current_Practices_Challenges_and_the_Need_for_Smarter_Systems) — W723:13 | N — Not used for the selected workflow/change-cost question |
+| [https://www.connectedpapers.com/main/3fe8a8bee6184ba2ee5e6595ec09409705be20d0](https://www.connectedpapers.com/main/3fe8a8bee6184ba2ee5e6595ec09409705be20d0) — W723:14 | D — Conditional/deferred; no new primary result credited |
+| [https://www.siia.unam.mx/siia-publico/c/crear_pdf.php?id=128868](https://www.siia.unam.mx/siia-publico/c/crear_pdf.php?id=128868) — W724:2 | D — Conditional/deferred; no new primary result credited |
+| [https://www.researchgate.net/publication/242659876_A_Survey_on_a_State_of_the_Practice_in_Video_Game_Development](https://www.researchgate.net/publication/242659876_A_Survey_on_a_State_of_the_Practice_in_Video_Game_Development) — W724:5 | D — Conditional/deferred; no new primary result credited |
+| [https://www.hitlabnz.org/index.php/project/agile-video-game-development](https://www.hitlabnz.org/index.php/project/agile-video-game-development) — W724:6 | D — Conditional/deferred; no new primary result credited |
+| [https://www.csauthors.net/simon-hoermann](https://www.csauthors.net/simon-hoermann) — W724:7 | D — Conditional/deferred; no new primary result credited |
+| [https://dblp.dagstuhl.de/pid/06/10611.html](https://dblp.dagstuhl.de/pid/06/10611.html) — W724:8 | D — Conditional/deferred; no new primary result credited |
+| [https://researchr.org/alias/miguel-morales-trujillo](https://researchr.org/alias/miguel-morales-trujillo) — W724:10 | D — Conditional/deferred; no new primary result credited |
+| [https://www.csauthors.net/timothy-mckenzie](https://www.csauthors.net/timothy-mckenzie) — W724:11 | D — Conditional/deferred; no new primary result credited |
+| [https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=128868](https://web.siia.unam.mx/siia-publico/c/busqueda_individual.php?id=128868) — W724:12 | D — Conditional/deferred; no new primary result credited |
+| [https://www.researchgate.net/publication/280771663_A_survey_of_computer_game_development](https://www.researchgate.net/publication/280771663_A_survey_of_computer_game_development) — W724:13 | D — Conditional/deferred; no new primary result credited |
+| [https://open.metu.edu.tr/bitstream/handle/11511/113457/thesis_izelc%CC%A7elik.pdf](https://open.metu.edu.tr/bitstream/handle/11511/113457/thesis_izelc%CC%A7elik.pdf) — W724:14 | D — Conditional/deferred; no new primary result credited; unchanged prior decision withheld |
+| [10.1016/j.infsof.2023.107330](https://doi.org/10.1016/j.infsof.2023.107330) — W724:15 | C — Credited at the recorded scope; unchanged prior decision withheld |
+| [https://todigra.org/index.php/todigra/article/download/2183/2180](https://todigra.org/index.php/todigra/article/download/2183/2180) — W724:16 | D — Conditional/deferred; no new primary result credited |
+| [https://sol.sbc.org.br/index.php/sbgames/article/download/32300/32097](https://sol.sbc.org.br/index.php/sbgames/article/download/32300/32097) — W724:17 | D — Conditional/deferred; no new primary result credited |
+| [https://ir.canterbury.ac.nz/bitstream/handle/10092/101773/2021_ICSSP_Video_Game_Studios_interviews%202020_03_12.pdf?sequence=2](https://ir.canterbury.ac.nz/bitstream/handle/10092/101773/2021_ICSSP_Video_Game_Studios_interviews%202020_03_12.pdf?sequence=2) — W724:18 | D — Conditional/deferred; no new primary result credited |
+| [10.3390/electronics11213547](https://doi.org/10.3390/electronics11213547) — W723-neighbor:11.1 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ismar-amh.2010.5643300](https://doi.org/10.1109/ismar-amh.2010.5643300) — SC228-edge:1.1 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ismar.2003.1240708](https://doi.org/10.1109/ismar.2003.1240708) — SC228-edge:1.2 | D — Conditional/deferred; no new primary result credited |
+| [10.1109/ismar.2008.4637354](https://doi.org/10.1109/ismar.2008.4637354) — SC228-edge:1.3 | D — Conditional/deferred; no new primary result credited |
+
+**Next/checks.** Register/reuse McKenzie et al. DOI10.1145/3341215.3354647 before selected reading. Reconstruct game-team recruitment, reported practices and process-label evidence; bind the later2021 study if it changes interpretation. DART’s ten-year account, Ashtari and Musil remain conditional. Preserve all primary-access/edition gaps and the wider B01–B12 assignment. Documentation/native/audit checks do not validate a runtime or authorize an experiment. Unrelated `uv.lock` is preserved.
