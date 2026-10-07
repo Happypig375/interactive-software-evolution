@@ -37,7 +37,7 @@ Migration checks cover file preservation, Git continuity, local links and the do
 
 ## Working from the new location
 
-Open `A:/nu-value-research` and read [PLAN.md](../PLAN.md). Continue the existing whole-background survey from the strongest consequential gap; the current named continuation is NodeGit, following the recorded SceneGit full-text access gap. Do not start fresh paper IDs, repeat completed readings or reinterpret this filesystem migration as permission for an experiment.
+Open `A:/nu-value-research` and read [PLAN.md](../PLAN.md). Continue the existing whole-background survey from the strongest consequential gap identified in PLAN. Do not start fresh paper IDs, repeat completed readings or reinterpret this filesystem migration as permission for an experiment.
 
 To expose the entire tracked source tree locally, run this in the active checkout:
 

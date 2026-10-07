@@ -922,3 +922,9 @@ The system reloads scenes, incurs cache-refresh interruption and explicitly disa
 ## A blocked primary method does not settle its value
 
 [S285 SceneGit](S285-scenegit-access.md) retains favorable abstract claims for scene-scale differencing and collaboration, with exact matching, conflict handling and evaluation still unread. OA metadata did not deliver the primary body. This neither refutes the reported benefit nor fills the live-state comparison. NodeGit’s author-linked public source is the strongest accessible continuation for matching/diff/merge semantics; bind its version and distinguish static code understanding from the paper’s measured evaluation. VRGit remains a conditional outcome comparison. Reuse completed LevelMerge/NCCollab evidence and continue the broader survey without reopening experiments.
+
+## Inferred correspondence supports integration, with an explicit validity boundary
+
+[S286 NodeGit](S286-nodegit-source-and-access.md) reconstructs a practical alternative to stable-ID matching: the Blender importer generates fresh IDs, while greedy type/property/reference costs infer correspondence and diffs remap references into ancestor identity. Its source supports property-level combination and reports overlapping delete/edit or competing-value conflicts. Those local checks do not prove dependency closure or intended merged behavior, and the JSON import/export path supplies no running-state migration contract. Fixed type/property schemas and the domain adapter are part of its integration cost.
+
+Preserve the favorable abstract claim for manual/randomized edit detection; the paper’s actual comparator, results and measured-build correspondence remain unread. Source understanding is progress without a complete-paper increment. VRGit is next for the link between these tool capabilities and collaborative outcomes; all experimental holds and wider survey obligations remain.
