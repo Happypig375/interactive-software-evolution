@@ -6,13 +6,15 @@ Read [PLAN.md](PLAN.md) first. It owns authority and the current assignment. The
 
 Continue the **whole-background Nu/interactive-software-evolution literature survey**, not only the narrower D1 question. Use the [survey](docs/literature/nu-background-survey-2026-09-30.md), [search ledger](docs/literature/nu-background-searches-2026-09-30.md), [reading index](docs/literature/full-reading/INDEX.md) and linked notes. The earlier decision-specific assessment is not completion of the reopened assignment.
 
+The user's current request is to **prepare all plausible research directions, prioritized by research value, while continuing literature as needed**. Follow the [ranked agenda](docs/nu-research-agenda-2026-10-08.md). Prepare the directions together; do not make selection of one direction a prerequisite to further authorized preparation. Keep priority, empirical benefit, source access and execution authority separate.
+
 Read **as many consequential papers as necessary**. Lists and batches are starting points, not numerical ceilings or mandatory approval boundaries. Add/follow primary methods, alternatives, adverse evidence and supplements autonomously within the authorized local literature work. An empty promoted queue, a full search page or D1 sufficiency does not close the broad survey. Do not turn broad scope into irrelevant collection or call quota/context exhaustion scientific completion.
 
 All construction and experimental holds remain: no A0/A1 or D1 feasibility construction, recruitment, extra model/review workers, new adapters, OAuth staging, live count/model probes, candidate runs or H execution. New allocation is zero; do not reuse old 192+5 arithmetic or unused allowances. Preserve backend, transport and security decisions. Existing maintainer reasoning and authorized literature inspection are not candidate experiments.
 
 ## Next continuation
 
-Reconcile B01-B12 in the existing survey with **discovery coverage, primary-reading gaps, evidence disposition, and the next consequential action**. Then continue the strongest accessible gap, not automatically the newest citation. PLAN names the immediate method, game-runtime/alternative, temporal-oracle and type-evolution frontiers; these are priorities, not a closed list.
+Develop the agenda's leading R01–R06 questions into source-grounded comparison and outcome specifications, using R14's practice evidence. R02 coordination and R03 debugging offer the most concrete smaller contrasts; R01 asks the broader adoption question. Prepare the other cards according to their dependencies and promotion conditions. Preserve B01–B12's **discovery coverage, primary-reading gaps, evidence disposition, and next consequential action**. Continue the strongest accessible gap that can change a design, not automatically the newest citation. These priorities are not a closed list or an instruction to build baselines.
 
 Keep unknown empirical benefit separate from unread or inaccessible methods. A responsible survey can expose an unresolved empirical question; another page of search results cannot resolve it without evidence. Conversely, access denial or a title-only screen cannot establish absence. Preserve scoped positive/null/adverse results rather than replacing synthesis with a catalogue of study defects.
 
