@@ -7702,3 +7702,47 @@ W762 opens the five exact arXiv metadata pages above; for HotBugs.jar the unvers
 Conditional version checks guard every mutation. Zotero automatically moves the former journal field into Extra during type conversion; only that redundant generated line is removed after confirming its exact contents, since Repository now retains arXiv. Original Extra text, authors, dates, titles, DOI/URL values, tags, relationships and all collection memberships are preserved. All twelve child items keep their keys, versions and contents, and all five BibTeX exports retain their previous citation keys. Final collection inventory remains 331 records: 34 preprints, 129 journal articles, 129 conference papers, 14 theses, 14 webpages, three reports and eight book sections. No arXiv-journal-field or arXiv-DOI record remains mistyped in this collection.
 
 This is metadata maintenance on already credited works, with no new scientific inclusion/exclusion decision or full-reading increment; unchanged historical screens are not submitted again. Direct retrieval and correct item typing are recorded in AGENTS for subsequent work. The preceding PDF-reading commit `a1f33e148fe9c93c9ae14252dfa8affc8135c369` passed [CI 37727121818](https://github.com/Happypig375/interactive-software-evolution/actions/runs/37727121818): scope checks passed; maintenance, Linux/Windows runtime validation and E2 baseline were skipped under the documentation route.
+
+## Entire-collection preprint audit and proposal readiness — 2026-10-08
+
+The user's follow-up extends correction to the entire Nu collection `PKLXQNEE`. A fresh native inventory checks all **331 top-level records**, including DOI, venue, repository/archive identifier, URL and edition notes, rather than just the five arXiv-journal cases above. The audit covers arXiv, SSRN and other preprint/repository signals, including published parents with related manuscript attachments. Of 291 DOI-bearing records, 196 match retained registry metadata among 263 cached registry/metadata files inspected; the remaining records are checked against their existing identity/venue/edition evidence. Fifty-four records contain a preprint-related signal. This is a collection-wide type/edition audit, not a fresh independent verification of every bibliographic field against a registry.
+
+No further item-type conversion is required after the preceding five corrections. **Twenty-one existing Preprint records** need a missing, unversioned or noncanonical arXiv identifier completed/normalized; S41 also needs its missing repository. Selected versions come from the existing URL, Extra or archive identifier, with the reading index also confirming P06/P11 v2. A selected edition is not silently replaced by the newest edition.
+
+| ID / native key | Corrected `archiveID` | Verified parent version |
+| --- | --- | --- |
+| P03 / `DMRG56CT` | `2605.20049v1` | 6154 |
+| P04 / `FJMUKCZT` | `2606.21804v1` | 6155 |
+| P05 / `WG2ALA8Q` | `2603.24755v2` | 6156 |
+| P06 / `KDR3Z9UV` | `2607.02606v2` | 6157 |
+| P07 / `PZJFA3SG` | `2603.27745v1` | 6158 |
+| P08 / `TUJJ7JU4` | `2606.01522v2` | 6159 |
+| P09 / `NXQAZ5K8` | `2508.21433v3` | 6160 |
+| P10 / `ZB685P9D` | `2603.17104v1` | 6161 |
+| P11 / `RJ9GV3AP` | `2607.03525v2` | 6162 |
+| P12 / `R833TUNQ` | `2603.00601v4` | 6163 |
+| A03 / `PU4ASENH` | `2607.27283v1` | 6173 |
+| S03 / `XGKNHB3A` | `2602.02896v1` | 6165 |
+| S08 / `ATDVX5GR` | `2603.17833v1` | 6173 |
+| S09 / `XBISAYTM` | `2603.09004v1` | 6173 |
+| S10 / `5ZWBZGH6` | `2602.02660v3` | 6168 |
+| S11 / `XSVXJ83C` | `2602.13723v6` | 6169 |
+| S12 / `SRP4EDCM` | `2606.13298v1` | 6173 |
+| S17 / `RRKTU3PA` | `2512.22418v2` | 6171 |
+| S41 / `9V2ERRQH` | `2110.15246v1` | 6173 |
+| S55 / `LZ2BP3XM` | `2608.04264v1` | 6174 |
+| S86 / `T9XPQ623` | `2512.09762v2` | 6175 |
+
+Native conditional writes preserve all 21 exported citation keys, parent keys, tags, relationships, memberships and other bibliographic fields. All **29 child items** retain their keys, versions and contents. Before the last two writes, a version check stops on five earlier parents whose native versions advanced with no content changes; those exact differences are verified before continuation, and completed writes are not repeated. The final comparison verifies all 310 other records unchanged. The collection has **34 Preprints: 32 arXiv and two SSRN**, each with repository and archive identifier; all 32 arXiv identifiers pin a version. The remaining types stay 129 journal articles, 129 conference papers, 14 theses, 14 webpages, three reports and eight book sections. Private before/after snapshots, field comparisons, exported keys and the mutation journal remain outside Git. No record, membership or attachment is deleted or duplicated.
+
+### Focused remaining-literature check
+
+The existing B01–B12 map, primary-gap notes and scientific disposition are revisited to answer whether more literature is needed before proposal/results. **W763** runs three exact queries: `"Evolution of Software Engineering Problems in Game Development" "Cardinal" "Bouchard"`, `"Software product families from a phylogenetics perspective" "preprint"`, and `"Leveraging Phylogenetics in Software Product Families" "pdf"`, plus opens [S227 arXiv v2](https://arxiv.org/abs/2605.28258v2). It returns thirteen search panels and that metadata page. **W764** reopens the arXiv metadata at the submission-history/abstract scope and attempts the newly found [JISBD summary deposit](https://biblioteca.sistedes.es/entities/resumen/46ed43c3-8808-406f-b751-3827b66a09a0); the latter fails with a cache miss. These are focused access/version checks, not a new broad search or a claim of search exhaustion. No Scite literature-search or Consensus call occurs.
+
+S227 v2 is dated 2 October 2026; the completed primary reading remains v1. Its body/release must be checked if that playtesting/agent method is adopted. The JISBD record is a 2025 `resumen` with the S263 title/authors and a listed 146.66 KB file; the PDF is not acquired or read, and the record does not establish access to the twelve-page SPLC edition. S263/S264's methods remain deferred. S266's newly observed SSRN delivery URL (delivery identifier `f4c6b99d-6440-465a-b087-6f376ccaa9dc-MECA.pdf`, `abstractid=7124688&mirid=1`) returns **HTTP 403** on one direct attempt. The search panel supplies the already known abstract/33-page metadata, not a PDF. No denied route is repeatedly retried, and no new full-reading increment follows.
+
+The fourteen source units receive scoped dispositions: one credited edition check, eight deferred method/access leads and five unused discovery containers. Embedded recommendations and bibliography snippets do not receive primary-reading credit. Historical comparison checks 560 prior decision files, matches ten units and withholds nine unchanged decisions. The remaining material update is S227's version dependency. Scite answer `nu_collection_readiness_20261008` accepts **five decisions: one credited, three deferred and one unused**; its service total is one included/four excluded, with deferral explicitly distinguished from merit rejection. All five are web-provenance title/abstract/metadata-stage decisions. Receipt and inspected `citation_report` agree on membership and all 30 source/provenance/reason/stage fields each, with zero skips, missing reasons or linkage warnings and no truncation; answer-scoped retrieved count is null.
+
+The [readiness assessment](nu-background-survey-2026-09-30.md#scientific-disposition-and-remaining-work) recommends drafting the scoped Nu claim/comparator proposal now and resolving its essential literature dependencies before fixing methods or stronger claims. S266 matters for contemporary problem-prevalence/task-selection claims; S263/S264 for content generation/reuse; S227 v2 for a GUI-agent/playtesting comparison. Exact temporal/state/type comparator gaps remain conditional. Existing methods already distinguish comprehension/partial progress from completed correct changes. Results require the specified empirical comparison; an absent Nu effect estimate is neither a literature-access gap nor a null result. Reading count remains 254, and experimental holds remain unchanged.
+
+Local checks pass: eleven CI-routing regressions, both changed Markdown files' UTF-8/local links, and Git whitespace. This segment changes only the survey and search ledger. Source bodies, native snapshots and unrelated `uv.lock` remain outside the publication; runtime and experimental validation are not claimed.
