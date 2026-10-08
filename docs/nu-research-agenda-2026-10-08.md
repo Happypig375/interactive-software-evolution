@@ -4,7 +4,9 @@
 
 The central question is **when Nu's combination of representations, coordination, history and development tools changes the cost and correctness of real software evolution**. The highest-value result would identify useful conditions of benefit and their costs, including conditions where a credible alternative works better. Whole-package value, the MMCC/ImSim choice and a source convention such as D1 answer different questions. They belong in one agenda with separate comparisons.
 
-This agenda covers twenty currently plausible directions, including less mature extensions. It is a revisable map of the question space, not a claim that every possible idea has been enumerated, a commitment to run twenty studies, or a numerical stopping rule for reading. [PLAN](../PLAN.md) owns authority. The [B01–B12 survey](literature/nu-background-survey-2026-09-30.md), [reading index](literature/full-reading/INDEX.md) and [search ledger](literature/nu-background-searches-2026-09-30.md) retain source coverage and gaps.
+This agenda covers **21 currently plausible directions**, including less mature extensions and the user-added R21 steering question. It is a revisable map, not a claim that every possible idea has been enumerated or a commitment to run 21 studies. [PLAN](../PLAN.md) owns authority. The [B01–B12 survey](literature/nu-background-survey-2026-09-30.md), [reading index](literature/full-reading/INDEX.md) and [search ledger](literature/nu-background-searches-2026-09-30.md) retain source coverage and gaps.
+
+**Implemented continuation:** the [saved plan](nu-research-continuation-plan-2026-10-08.md) and [six detailed designs](nu-research-study-designs-2026-10-08.md) prioritize **mechanisms/costs plus bounded agent maintenance**. Human-steered development is the intended practical context; its anticipated 2027 importance is a planning assumption, not a measured forecast. Steering effectiveness is deferred pending measurement and participant-design work. Human-only and agent-only extremes remain optional reference cases; the near-term packet does not require three equal workflow arms. Source-grounded task diversity and counterexamples address the user's convergence concern without claiming that prompts or repeated AI outputs establish independent thinking.
 
 ## How the priorities are chosen
 
@@ -42,8 +44,9 @@ Research value and order of execution are different. R01 has the greatest direct
 | 18 / R18 | C | Can explicit state/history help distributed play, rollback or concurrent simulation? | A possible extension beyond local development, conditional on a real Nu capability and workload. |
 | 19 / R19 | C | How do deployment targets, power and energy change the value assessment? | Resource costs at equivalent useful work on relevant platforms. |
 | 20 / R20 | C | What expressive and collaborative work becomes possible for designers or less specialized users? | Whether tooling broadens useful authoring without shifting hidden work to programmers. |
+| Future / R21 | B, deferred human study | Which representations and intervention policies help humans steer agents toward correct changes? | Whether specification, review, redirection and takeover costs justify a workflow under reliable measures. |
 
-Band A deserves the most preparation now. Band B should receive concrete designs and consequential reading alongside it. Band C remains an active set of conditional questions; it is neither discarded nor permission to invent missing Nu facilities. No band implies that a positive effect is expected or that its experiments are already feasible.
+Band A deserves the most preparation now. Band B receives actionable designs and consequential reading alongside it; R21's future label separates human-study feasibility from eventual research value and does not renumber the existing IDs. Band C remains an active set of conditional questions. No band implies a positive effect or established feasibility. R01–R06 now have detailed specifications; the dispositions below govern their next preparation.
 
 ## Band A study preparation
 
@@ -110,6 +113,8 @@ Next, prepare prerequisite and training boundaries and identify whether the ques
 Compare concrete agent workflows using Nu representations, typed/source context or inspection tools while fixing the intended model/policy and documenting available information and cost. Human and agent results require separate estimates. Valid repairs may reorganize code; conformity to the assigned starting style is not an outcome filter.
 
 Measure new/retained behavior across every assigned attempt, resource use, failure classes and recovery burden. P03–P13, S35/S36 and the game-agent readings already overlap strongly with generic context/planning claims. The next preparation is an information/feedback/accounting contract and a close-method comparison. Read [S227 v2](https://arxiv.org/abs/2605.28258v2) before adopting its updated GUI-playtesting method; the completed note covers v1. Redirect if the contribution is just another model leaderboard, F# port, or unpriced tool advantage. New model calls and workers remain unallocated.
+
+The current packet proposes bounded agents as executors of independently specified changes, while treating task convergence as a coverage risk. Source/history/practice provenance, adverse families and valid alternative solutions matter more than repeated prompts on one puzzle. Agent-only observations do not estimate human-steered productivity; R21 retains that future transfer question.
 
 ### R09 Sequences of change and retained obligations
 
@@ -185,6 +190,42 @@ Ask whether Nu's actual authoring workflow lets designers or less specialized de
 
 Measure successfully expressed behavior, revision work, learning and assistance; creative quality requires a justified independent assessment rather than screenshot preference as a substitute for behavior. S67, S253, S288 and S291–S293 motivate expressive and cross-role questions. Next, identify a role, authoring capability and representative unsupported change, then follow the exact usability/expressiveness method needed. Promote when that role and facility exist in the intended setting. Redirect if the proposed benefit depends on inventing a new editor or on excluding all requests outside a prepared vocabulary.
 
+## R21 Human steering and intervention — future direction
+
+Ask whether Nu's representations, state visibility and contracts help people specify work, delegate, inspect evidence, redirect an agent and accept correct changes. This is distinct from R08's fixed agent/tool policy and R11's multi-person editing. It remains valuable for the user's intended 2027 setting, while direct steering effectiveness is deferred because construct reliability, task/person variation and participant feasibility are unresolved.
+
+Preserve two future policies: **steering-only**, where people specify/inspect/diagnose/redirect and agents implement, and **unrestricted intervention**, which also permits direct editing and takeover. Human-authored replacement code or patches supplied through prompts count as human coding. Count specification, context gathering, review, redirection, rescue and rework alongside agent cost and verified outcomes. A successful artifact does not reveal how much expert work produced it.
+
+[S229](literature/full-reading/S229-picoscenes-expert-ai.md) supplies favorable expert–AI practice with explicit allocation/accounting limits. Next, develop a literature-grounded observation vocabulary and reliability questions before proposing participant numbers; a larger sample cannot by itself define the construct. Small descriptive/pilot work could later inform feasibility, but no recruitment or study is authorized now. Retain human-only/agent-only cases only when they clarify a specific question, rather than requiring three equally funded arms or a universal autonomy ranking. Do not retrofit this direction into D1 or add a steering-policy factorial to R02.
+
+## Readiness and next actions for all directions
+
+These are preparation dispositions, not execution decisions. **Review-ready** means ready for bounded feasibility review with stated unvalidated conditions. **Conditional** identifies a consequential dependency; **deferred** preserves a future question or existing hold. The [study packet](nu-research-study-designs-2026-10-08.md) owns detailed R01–R06 contracts and shared dependencies.
+
+| ID | Disposition | Consequential dependency | Next desk action / promotion condition |
+| --- | --- | --- | --- |
+| R01 | Conditional; human net-value study deferred | Real package support and full work boundary | Inventory pinned Nu and candidate ordinary Godot facilities for common requirements; distinguish component evidence from future human benefit. |
+| R02 | Review-ready at package scope | Initial contract, ownership paths and task provenance | Bind local/coordinated sketches to source owners/events; retain physics/API differences and require later equivalence observations. |
+| R03 | Conditional | Exact restore/effect boundary and actual agent access | Trace one supported history operation and retained/native references; defer the agent extension if the facility is inaccessible without new machinery. |
+| R04 | Review-ready under D1 conditions | Legitimate equivalent source convention and independent obligations | Identify an authentic fallback site plus distinct/default-preserving/compiler-silent requirement sketches. |
+| R05 | Review-ready for observation specification | Independent reference behavior and exercise evidence | Specify satisfying, violating and inconclusive traces for R02/R03; no executable oracle is built. |
+| R06 | Conditional | Supported retention policy and equivalent useful work | Inventory retained references/disposal and define measurement/overhead boundaries for R03's operation. |
+| R07 | Deferred human comparison; conditional desk work | Prerequisites, training and valid constructs | Define onboarding versus trained-productivity claims; read S38 before adopting its constructs as measures. |
+| R08 | Conditional support for bounded tasks | Real tool access, feedback and accounting | Apply the packet's information contract; read S227 v2 only if the updated GUI method is selected. |
+| R09 | Conditional | Requirement lineage and failed-predecessor policy | Prepare a sequence specification distinguishing actual inherited, repaired and clean predecessor states; promote when a single-change result needs durability evidence. |
+| R10 | Conditional mechanism question | Supported edit and continuation contract | Map one proposed edit to restart/replay/migration boundaries, with identities and pending effects; promote only an actual supported capability. |
+| R11 | Deferred team comparison | Actual merge/history facilities and role boundary | Identify a source-supported concurrent-change/handoff case and total-team accounting before participant design. |
+| R12 | Conditional | Reuse unit, expressible variants and generation methods | Separate use from extension of a vocabulary; resolve S263/S264 if their method changes the selected comparator. |
+| R13 | Conditional | Valid host/world models and relevant boundary predicates | Write one intended extension/replacement contract using S298/S299; promote only if the additional guarantee or effort question exceeds a restated theorem. |
+| R14 | Active enabling desk work | Task provenance and population scope | Link each selected requirement family to source/practice evidence; resolve S266 before expanded prevalence claims. |
+| R15 | Deferred D2 | Meaningful prospective choice and pre-outcome information | Retain the selector history; promote only after R01/R02 expose a practical predictable trade-off and D2 is explicitly reopened. |
+| R16 | Conditional later transfer | A bounded result worth transferring | State the changed language/context/package dimension and credible equivalent behavior; preserve E/H adverse compactness evidence. |
+| R17 | Conditional | Actual engine/application integration boundary | Locate a consequential upstream compatibility change and its affected obligations before promoting a comparison. |
+| R18 | Deferred exploratory extension | Verified distributed Nu capability and real workload | Establish a concrete use case before reading netcode/CRDT methods as treatment evidence or proposing new infrastructure. |
+| R19 | Conditional extension of R06 | Target platform and matched useful work | Identify an energy-relevant adoption boundary, then bind build/sampling/measurement correspondence; promote only if it changes the value decision. |
+| R20 | Deferred human-role comparison | Existing authoring facility and intended non-specialist role | Identify a representative supported/unsupported revision and assistance boundary before expressive-reach claims. |
+| R21 | Deferred steering effectiveness | Reliable constructs, task/person variation and feasible participant design | Prepare measurement candidates from S229 and consequential primary studies; preserve both intervention policies without selecting sample size or running a pilot. |
+
 ## Shared study requirements
 
 Each later protocol needs a claim-to-source-to-comparison record: the actual Nu revision/capability, intended users and changes, closest methods and adverse evidence, assigned treatment, initial information, permitted development feedback, final observation, total cost, and the inference it supports. The current source basis remains revision `064f7ae92a8506689cd91aff5e6804a375d6ef3d`; this preparation does not certify current-head source correspondence. A later source refresh must record what changed.
@@ -199,15 +240,15 @@ Preserve favorable, null, adverse and interaction results. Existing E/H results 
 
 ## Preparation order and literature continuation
 
-1. **Develop R01–R06 together as distinct study outlines.** Use R14's existing practice evidence to state beneficiaries/change families and R05/R06 to state behavior and cost boundaries. R02 and R03 currently offer the strongest concrete mechanism/workflow contrasts; R01 is the adoption question they may help make tractable. R04 remains a narrower convention/modeling contribution.
-2. **Produce a source-bound comparison sheet before any build.** For each leading outline, map ownership, identity, order, state/history and effect boundaries, available tools, initial failure information and credible alternative behavior. The immediate deliverable is a reviewable paper design with unresolved feasibility questions, not constructed baselines or new tests.
-3. **Prepare the B directions in parallel at the document level.** Use their cards to identify distinct beneficiaries and outcomes; reuse already understood methods. Do not expand into a single all-factor experiment. A newly found close or adverse source can reorder the agenda.
+1. **Use the completed R01–R06 design packet.** The current emphasis is mechanisms/costs plus bounded agent maintenance, with R14 supplying practice/task provenance. R01 retains eventual adoption value; human steering is a future R21 question. No mandatory human/agent/team factorial follows.
+2. **Resolve the exact source and observation dependencies before any build.** Begin with R02 ownership/order/identity/effects and R03's real history/access boundary, applying R05/R06's specifications. Bind actual source paths and requirement provenance; the scenario sketches are not mined issues, implemented successors or validated equivalent baselines.
+3. **Maintain all other dispositions above.** Use their cards to identify beneficiaries, outcomes and conditions for promotion. Resolve consequential accessible gaps without waiting for every human/access-limited direction. A newly found close or adverse source can reorder the agenda.
 4. **Read where the answer can change the design.** S42's previously queued publication and selected artifact are now reconstructed. S38 is the next accessible conceptual dependency if usability measures are adopted. S227 v2 becomes a method/version dependency for R08; S263/S264 for R12; S266 for an expanded contemporary practice claim. Exact temporal, live-state and comparator gaps remain attached to the directions that need them. Resolve accessible consequential gaps without waiting for a fixed batch to finish or for denied sources to become available.
 5. **Promote C directions by evidence.** A verified capability, an actual stakeholder/workload need, or a close method that exposes an important unanswered question can raise their priority. Generic novelty claims, attractive feature names and raw citation counts cannot.
 
 Searches are targeted to missing mechanisms, comparators, methods, contrary results and edition changes. Use aliases across relevant communities and follow primary sources. Scite requests remain `limit:20`; native Consensus requests remain `page_size:100` when used. Continue useful pages by actual returns and reformulate noisy queries; log unopened continuations and denied routes. Abstract/title screens locate reading candidates and do not establish effect, absence or full understanding. Create/reuse Zotero records before selected reading, preserve preprint types and edition lineage, and report considered decisions once after historical deduplication.
 
-The new discovery pass inspected engine-usability/adoption and distributed-state leads and extended the retained practice query through positions 81–100. Broad prefixes were noisy and were reformulated; later pages remain open. The resulting map strengthens the distinction between metric-based usability, actual developer outcomes and exploratory networking capabilities. It does not certify novelty for all twenty directions. Reopen the closest-source/edition check before a stronger novelty or publication claim.
+The preceding discovery pass inspected engine-usability/adoption and distributed-state leads and extended the retained practice query through positions 81–100. Broad prefixes were noisy and were reformulated; later pages remain open. The current design pass reuses that evidence and completed reconstructions; it adds no new retrieval/full-reading credit or citation-screen decisions. Neither pass certifies novelty across the agenda. Reopen the closest-source/edition check before a stronger novelty or publication claim.
 
 All current construction, recruitment, added-worker, model/probe/candidate and H-execution holds remain; new experimental allocation is zero. Authorized work now is continued literature, source inspection, synthesis and preparation of the full prioritized agenda. When a concrete study is ready for a separate execution decision, its comparison, costs and unresolved risks must be reviewable first.
 
@@ -215,17 +256,17 @@ All current construction, recruitment, added-worker, model/probe/candidate and H
 
 | Survey theme | Agenda directions |
 | --- | --- |
-| B01 Foundations and comprehension | R01, R02, R07, R20 |
+| B01 Foundations and comprehension | R01, R02, R07, R20, R21 |
 | B02 Domain types and evolution | R04, R10, R13, R16 |
 | B03 Reactive coordination and lifecycle | R02, R05, R13, R18 |
 | B04 Persistent state, effects and history | R03, R06, R09–R11, R18 |
 | B05 Game architecture alternatives | R01, R02, R12, R15, R17 |
 | B06 Runtime and resource costs | R06, R18, R19 |
 | B07 Specification, testing and oracles | R05 and the outcome contract of every empirical direction |
-| B08 Debugging and live development | R03, R08, R10, R20 |
-| B09 Coding agents and language effects | R04, R08, R09, R16 |
-| B10 Maintenance and adoption in practice | R01, R07, R11, R12, R14, R17, R20 |
+| B08 Debugging and live development | R03, R08, R10, R20, R21 |
+| B09 Coding agents and language effects | R04, R08, R09, R16, R21 |
+| B10 Maintenance and adoption in practice | R01, R07, R11, R12, R14, R17, R20, R21 |
 | B11 Architecture choice and assessment | R01, R02, R06, R15 |
-| B12 Empirical and synthesis methods | R05, R14 and the shared study requirements |
+| B12 Empirical and synthesis methods | R05, R14, R21 and the shared study requirements |
 
 Player enjoyment, accessibility, security and resilience may be important requirements or costs within a chosen game/workflow, but no inspected Nu-specific causal mechanism currently justifies standalone superiority studies for them. Promote such a direction when an actual capability, beneficiary and comparison are established. Generic AI game generation, universal language rankings and unrelated hardware leaderboards likewise need a concrete connection to this agenda before they displace its leading questions.
