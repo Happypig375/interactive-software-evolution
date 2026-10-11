@@ -58,7 +58,7 @@ Band A deserves the most preparation now. Band B receives actionable designs and
 
 **Evidence and rival.** The [pinned Nu account](nu-grounded-maintenance-methodology-2026-09-14.md) and survey characterize capabilities; S255–S259 and S269–S271 offer prepared-tool/package comparisons. S42 shows why package rankings can reverse with the information supplied. Familiarity, task fit and tooling maturity may explain a difference; that remains part of a practical package contrast but prevents attribution to immutability or language alone.
 
-**Next preparation and redirect condition.** Specify beneficiaries, a small set of independently motivated change families and at least one credible comparator rationale. Bind both workflows to actual supported facilities before constructing anything. Narrow or redirect if equivalent requirements cannot be supported credibly, the comparison is merely a deliberately weak baseline, or no consequential adoption decision remains. A scoped adverse Nu result is still informative.
+**Next preparation and redirect condition.** The [2026-10-11 inventory](nu-comparator-and-convention-audit-2026-10-11.md#r01-version-and-package-boundary) now pins a provisional Godot/GDScript edition and its ordinary facilities, including live inspection, programmable undo and diagnostic snapshots. Select authentic applications and common requirements without removing useful comparator facilities; account for each package's required integration. Narrow or redirect if equivalent requirements cannot be supported credibly, the comparison is merely a deliberately weak baseline, or no consequential adoption decision remains. A scoped adverse Nu result is still informative.
 
 ### R02 Ownership and temporal coordination
 
@@ -82,7 +82,7 @@ Band A deserves the most preparation now. Band B receives actionable designs and
 
 **Outcome and rival.** Correct new and retained behavior, including compiler-silent semantic/temporal obligations, under a common allowance. Record diagnostic opportunities separately from obligations. Explicit cases may expose edit sites but also create noisy work or encourage mechanically compiling repairs. Static types, informative names, documentation, compiler feedback and source size are distinct interventions.
 
-**Evidence and next action.** P08, S34–S37, S127/S129 and the completed type-evolution readings constrain the design. Prepare examples of diagnostic and nondiagnostic obligations as prose requirements, without implementing successors or final tests. Keep D1 as one convention study; it cannot establish whole-Nu or F#/C# superiority. Redirect if the source contrast is artificial, practically immaterial or already resolved by a close comparison.
+**Evidence and next action.** P08, S34–S37, S127/S129 and the completed type-evolution readings constrain the design. The [existing-site audit](nu-comparator-and-convention-audit-2026-10-11.md#r04-an-authentic-existing-source-site) now specifies the guarded MMCC update/fallback, checked-in warning policy and contrasting authored requirements. FS0025 is not explicitly promoted to an error; exact effective policy and diagnostics await authorized validation. Extend task provenance beyond these related single-application sketches. Keep D1 as one convention study; it cannot establish whole-Nu or F#/C# superiority. Redirect if the contrast is practically immaterial or already resolved by a close comparison.
 
 ### R05 Interactive correctness and evaluation
 
@@ -204,10 +204,10 @@ These are preparation dispositions, not execution decisions. **Review-ready** me
 
 | ID | Disposition | Consequential dependency | Next desk action / promotion condition |
 | --- | --- | --- | --- |
-| R01 | Conditional; human net-value study deferred | Real package support and full work boundary | Inventory pinned Nu and candidate ordinary Godot facilities for common requirements; distinguish component evidence from future human benefit. |
+| R01 | Conditional; human net-value study deferred | Eligible application/common requirements and full work boundary | Use the pinned ordinary Godot/GDScript inventory; retain shipped tools and account for authored recovery work. Verify task fit before construction. |
 | R02 | Review-ready at package scope | Eligible change, task diversity and initial behavior | Use the 2026-10-11 source/issue audit; #1145 is already patched, L-control is authored and C-exit adapted. Retain package attribution and require later common-behavior observations. |
 | R03 | Technical contract source-grounded; agent extension conditional | Snapshot-safe application subset and actual agent access | Use the audited functional-mode gameplay restore/native rebuild boundary; select required continuation and effects. In-process APIs/console do not verify agent transport. |
-| R04 | Review-ready under D1 conditions | Legitimate equivalent source convention and independent obligations | Identify an authentic fallback site plus distinct/default-preserving/compiler-silent requirement sketches. |
+| R04 | Review-ready under D1 conditions | Actual equivalence/diagnostics, independent obligations and task diversity | Use the audited existing fallback and provisional warning-only policy; extend authored serve/pause/control sketches with broader practice provenance. |
 | R05 | Source-bound trace specification prepared | Independent reference behavior and exercise evidence | Bind the audit's traces to chosen requirements, phases, horizons and tolerances before later construction; no executable oracle exists. |
 | R06 | Cost boundary source-grounded; measurements conditional | Same-mode retention and equivalent useful work | Use the retained/shared/native inventory; separate checkpoint creation, retention, rebuilding and resumed frames. History eviction/instrumentation is not a finished feature. |
 | R07 | Deferred human comparison; conditional desk work | Prerequisites, training and valid constructs | Define onboarding versus trained-productivity claims; read S38 before adopting its constructs as measures. |
