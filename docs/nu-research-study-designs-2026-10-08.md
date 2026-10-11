@@ -36,6 +36,8 @@ Requirements must precede candidate outcomes. Keep the desired behavior independ
 
 ### Task provenance and convergence risk
 
+The [R14 practice/task record](nu-practice-and-task-provenance-2026-10-11.md) now maps these and later cases to their source lineage, beneficiary, omitted work and eligibility requirements. Preserve corrected reports and the distinction between public need, current implementation and authored task. The current frame is purposive; many issues share one maintainer and do not establish independent user demand. Existing default-asset automation and customization/derived-asset work supply a conditional total-work extension. They do not add an experimental arm or validate a new task.
+
 The following are **requirement sketches**, not mined issues, authored successors, approved benchmark tasks or a claim of current Nu support for every operation.
 
 | Family | Proposed requirement and old behavior to retain | Contrast or counterexample it can expose | Provenance and limit |
