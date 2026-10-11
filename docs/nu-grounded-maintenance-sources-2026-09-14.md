@@ -186,8 +186,8 @@ not human expert validation.
 | [Event graph](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/EventGraph/EventGraph.fs#L49) | Event-state organization is inspectable; not a claim that this is event sourcing or a globally pure engine. |
 | [Stub-world test](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu.Tests/WorldTests.fs#L15) | Static source calls initialization, a stub world and a one-frame run. This investigation performed no build/run and did not establish a working headless candidate sandbox. |
 
-Curated material did not yield a verified Nu-specific public issue/PR task.
-The examples in the methodology note are illustrations, not mined instances.
+Curated material in this 2026-09-14 pass did not yield a verified Nu-specific public issue/PR task.
+The examples in the methodology note are illustrations, not mined instances. The later [2026-10-11 audit](nu-source-contracts-and-scenarios-2026-10-11.md) verifies #1145's issue-to-patch lineage and refines ownership/history contracts at the same pin; that historical workaround is already present, so it does not itself supply an eligible new matched task.
 The extracted [F# compiler PR 772](https://github.com/dotnet/fsharp/pull/772)
 and [Lerna issue 1636](https://github.com/lerna/lerna/issues/1636) concern
 governance and are excluded as engine-maintenance task evidence. The historical

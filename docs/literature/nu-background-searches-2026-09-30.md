@@ -7801,3 +7801,99 @@ The packet supplies source/observation boundaries, requirement sketches, common 
 The strongest next desk actions are passive source/task binding for R02 and the exact history/access boundary for R03, using R05/R06's correctness and cost specifications. S38, S227 v2, S263/S264, S266 and other exact-method gaps remain conditional on their design consequences. These documents add no construction, model allocation, participant contact or experimental result. Public prose is the only intended tracked change; private evidence and unrelated `uv.lock` remain excluded.
 
 Local checks pass all eleven CI-routing regression tests, UTF-8 and local-link checks for eight changed/new Markdown files, 21 ordered direction cards/dispositions, six detailed proposal sections, table widths, the unchanged reading checkpoint and expected working paths. Git whitespace is checked before publication. These checks establish document structure and routing, not scientific sign-off, source equivalence or runtime behavior. The maintainer performed the synthesis and self-review locally under the existing worker hold.
+
+
+## 2026-10-11 ? Nu source contracts and public maintenance history
+
+**Decision:** resolve R02/R03 source/task/access dependencies with R05/R06 correctness and cost rules. The [audit](../nu-source-contracts-and-scenarios-2026-10-11.md) records findings and source ranges; the packet and agenda incorporate them. This is passive source/practice inspection and reuse of completed S42/S296/S297 reconstructions. No Scite literature search, Consensus call, PDF reading or Zotero mutation occurred. Full-paper coverage remains **255**; the publication index/assets are unchanged.
+
+### Discovery and actual coverage
+
+W767 queried `site:github.com/bryanedds/Nu/issues undo snapshot advancing ImSim pause`; twelve displayed titles/excerpts were screened. Off-repository snapshot tools were irrelevant. The moving Nu README/repository, Project-5 and #354 were discovery leads only. A web-reader open of the pinned Gaia page failed; existing pinned Git objects supplied source instead. No Nu working-tree edit, branch refresh or current-HEAD correspondence is claimed.
+
+Native public GitHub REST searches used page 1, `per_page=100`, default relevance and no date/state filter beyond `is:issue`. These GitHub page sizes are distinct from Scite's required `limit:20`. Every response reported `incomplete_results=false` and fit one page.
+
+| Local ID | Exact query | Returned / total | Continuation |
+| --- | --- | --- | --- |
+| NU-U1 | `repo:bryanedds/Nu is:issue undo` | 20 / 20 | Query exhausted; an initial per_page=30 request returned the same twenty before the archived per_page=100 request. Deduplicated, not twenty new decisions. |
+| NU-U2 | `repo:bryanedds/Nu is:issue ImSim` | 10 / 10 | Retrieved query exhausted; other terms remain possible. |
+| NU-U3 | `repo:bryanedds/Nu is:issue pause` | 8 / 8 | Retrieved query exhausted. |
+| NU-U4 | `repo:bryanedds/Nu is:issue subscription` | 9 / 9 | Query exhausted; does not subsume handler/lifecycle terms. |
+| NU-U5 | `repo:bryanedds/Nu is:issue Breakout` | 0 / 0 | Bounded non-discovery, not absence. #1145's patch supplies a separate route. |
+
+These searches contain **47 positions / 45 distinct Nu issues**. Thirteen Nu bodies and all comments were read: #156/#716/#785/#852/#895/#922/#955/#957/#958/#967/#1055/#1089/#1145. Following #957/#958 adds Jolt #1520's complete issue and twelve comments. All **29 declared/returned comments across fourteen threads** were read. Images/profiler screenshots, linked videos and unvisited implementations were not credited. Current fetched texts are not reconstructed as-of edit histories. Exhausted narrow queries do not establish field saturation.
+
+Existing Git objects identify Nu `064f7ae92a8506689cd91aff5e6804a375d6ef3d`, dated 2026-07-23. Seventy-eight selected files were privately exported and hashed; acquisition is not reading. The four Breakout game/gameplay files and `Nu/Nu.Tests/WorldTests.fs` were read fully. Selected regions of Gaia, WorldTypes, WorldModule, WorldModule2, WorldModuleEntity, WorldPrelude, WorldImSim, WorldFacets, WorldAudio, EventGraph and JoltPhysicsEngine supply eleven other credited files. The audit links all sixteen paths; private coverage records exclude uninspected exported files. Clipped output was selectively reread for consequential claims, not counted as complete coverage.
+
+Commit `d3b4824f51b7d7bb79ec9b2c970024c2d56066d3` (2025-10-04) explicitly names #1145; parent `99a72d36f97dd2667314a64b435edaace6a459ed` was verified. Metadata, the six-file list and Breakout-specific diff were read. The guard remains at the study pin. Other file diffs, the full causal fix and old-game reproduction were not assessed. A known parent is not a validated eligible task; public solutions must stay outside later candidate context.
+
+### Considered-source dispositions
+
+**C:** sixteen pinned files and the selected commit above; Nu #156/#716/#785/#852/#895/#922/#957/#958/#967/#1055/#1089/#1145; and [Jolt #1520](https://github.com/jrouwe/JoltPhysics/issues/1520). The audit assigns each a bounded mechanism/practice use. These are not independent empirical replications or present-day prevalence/performance evidence. #1055 qualifies leak status; #895's allocation/regression account remains historical practitioner reporting.
+
+The remaining Nu decisions follow. D means deferred/not credited, not merit rejection. All are title screens except #955's full issue text.
+
+| Source | Decision | Reason / continuation |
+| --- | --- | --- |
+| [#53 ? NuEdit Undo / Redo Destabilized in V1.0](https://github.com/bryanedds/Nu/issues/53) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#99 ? Improve event debugging experience.](https://github.com/bryanedds/Nu/issues/99) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#151 ? When Gaia crashes due to user code, handle the top-level exception with a dialog that asks if the user would like to undo.](https://github.com/bryanedds/Nu/issues/151) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#178 ? Event system is a little slow, garbagey.](https://github.com/bryanedds/Nu/issues/178) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#206 ? Implement Quake-style Console for interfacing with game engine during full game session.](https://github.com/bryanedds/Nu/issues/206) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#208 ? Implement remaining bits of NuScript.](https://github.com/bryanedds/Nu/issues/208) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#218 ? Gaia is not a sufficiently 'active' editor.](https://github.com/bryanedds/Nu/issues/218) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#242 ? World update timer](https://github.com/bryanedds/Nu/issues/242) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#288 ? Use of Array.add in event system causing perf issues.](https://github.com/bryanedds/Nu/issues/288) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#313 ? Implement partial undo / redo support in Imperative mode in Gaia.](https://github.com/bryanedds/Nu/issues/313) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#359 ? Implement memento-style of undo / redo for imperative-mode Gaia and make that mode the default.](https://github.com/bryanedds/Nu/issues/359) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#396 ? ELMISH_CACHEs are not invalidated when world diverges.](https://github.com/bryanedds/Nu/issues/396) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#398 ? Elmish event signal whose value is not equatable causes delay when tearing down subscription.](https://github.com/bryanedds/Nu/issues/398) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#521 ? See if we can reduce live object count involved in each event subscription.](https://github.com/bryanedds/Nu/issues/521) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#565 ? Weighted Blend PBR Shader (for terrains and such)](https://github.com/bryanedds/Nu/issues/565) | N | Rendering feature is outside the selected ownership/history contract. |
+| [#592 ? Undo / redo seems to make editor lose track of what screen is selected.](https://github.com/bryanedds/Nu/issues/592) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#686 ? Using some hacky, imperfect behavior for slider undo / redo in Gaia.](https://github.com/bryanedds/Nu/issues/686) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#713 ? One frame eye changes when undo / redo and when exiting gaia.](https://github.com/bryanedds/Nu/issues/713) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#772 ? Undo / redo not working for setting back lighting config values.](https://github.com/bryanedds/Nu/issues/772) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#779 ? Svelte-like compiled MMCC change propagation via an F# language extension.](https://github.com/bryanedds/Nu/issues/779) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#787 ? See if an Elm-like memo function is implementable in Nu.](https://github.com/bryanedds/Nu/issues/787) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#788 ? Does Gaia need a mutable world binding any more?](https://github.com/bryanedds/Nu/issues/788) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#900 ? Consider putting all physics properties of RigidBodyFacet into a single record / property.](https://github.com/bryanedds/Nu/issues/900) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#955 ? For World.doSubscription, chances actually seem very good that the generated key will provide enough uniqueness without a user-provided name.](https://github.com/bryanedds/Nu/issues/955) | D | Body read; proposed automatic-key uniqueness and error behavior are not established or adopted. |
+| [#981 ? Consider a more general name for ImNui.](https://github.com/bryanedds/Nu/issues/981) | N | Naming-only change does not establish the behavioral contract. |
+| [#1025 ? Experiment with SatoriGC.](https://github.com/bryanedds/Nu/issues/1025) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#1044 ? Make a Wiki entry about ImSim 'Presumptive Lenses' and similar ImSim best practices.](https://github.com/bryanedds/Nu/issues/1044) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#1103 ? Use tables to align property names in Gaia instead of each property being their own independent row](https://github.com/bryanedds/Nu/issues/1103) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#1229 ? Consider prototyping an ImSim-like API for Prime.Ecs.](https://github.com/bryanedds/Nu/issues/1229) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#1257 ? Integrated Unreal-style networking in Nu.](https://github.com/bryanedds/Nu/issues/1257) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#1281 ? Generic imsim doGroup function is not working](https://github.com/bryanedds/Nu/issues/1281) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#1331 ? Evolving Nu audio API design due to enhanced SDL3 capabilities.](https://github.com/bryanedds/Nu/issues/1331) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+| [#1374 ? See if we can make the MMCC screen selection more like the ImSim approach of passing a selection boolean to each screen declaration.](https://github.com/bryanedds/Nu/issues/1374) | D | Retained for a consequential task/comparator/cost dependency; body unassessed in this segment. |
+
+All twelve W767 web decisions remain uncredited; only search excerpts were read.
+
+| Source | Decision and reason |
+| --- | --- |
+| [bryanedds/Nu/blob/master/ReadMe.md](https://github.com/bryanedds/Nu/blob/master/ReadMe.md) | D: Search excerpt provides discovery only; moving README is not the pinned source contract. Title/search excerpt only. |
+| [bryanedds/Nu](https://github.com/bryanedds/Nu) | D: Search excerpt has a different temporal branch description; do not merge it with pinned implementation evidence. Title/search excerpt only. |
+| [bryanedds/Nu/issues/354](https://github.com/bryanedds/Nu/issues/354) | D: Rendering roadmap lead; not investigated for selected history/coordination contracts. Title/search excerpt only. |
+| [bryanedds/Project-5](https://github.com/bryanedds/Project-5) | D: Related game lead from search excerpt; no independent comparator or task inspected. Title/search excerpt only. |
+| [TencentCloud/CubeSandbox/issues/1197](https://github.com/TencentCloud/CubeSandbox/issues/1197) | N: Unrelated sandbox snapshot product, not Nu. Title/search excerpt only. |
+| [open-gsd/gsd-pi/issues/1490](https://github.com/open-gsd/gsd-pi/issues/1490) | N: Unrelated orchestration pause issue, not Nu. Title/search excerpt only. |
+| [anomalyco/opencode/issues/7553](https://github.com/anomalyco/opencode/issues/7553) | N: Unrelated agent SDK undo feature, not Nu. Title/search excerpt only. |
+| [anomalyco/opencode/issues/28033](https://github.com/anomalyco/opencode/issues/28033) | N: Unrelated agent snapshot ignore behavior, not Nu. Title/search excerpt only. |
+| [simstudioai/sim/issues/3081](https://github.com/simstudioai/sim/issues/3081) | N: Unrelated workflow pause/resume search hit, not Nu. Title/search excerpt only. |
+| [simstudioai/sim/blob/main/apps/sim/lib/workflows/executor/human-in-the-loop-manager.ts](https://github.com/simstudioai/sim/blob/main/apps/sim/lib/workflows/executor/human-in-the-loop-manager.ts) | N: Unrelated workflow executor search hit, not Nu. Title/search excerpt only. |
+| [anomalyco/opencode/issues/15391](https://github.com/anomalyco/opencode/issues/15391) | N: Unrelated file snapshot replay issue, not Nu. Title/search excerpt only. |
+| [anomalyco/opencode/issues/7775](https://github.com/anomalyco/opencode/issues/7775) | N: Unrelated file snapshot restoration issue, not Nu. Title/search excerpt only. |
+
+The new set has **75 sources: 30 C, 35 D, 10 N**. Scite `report_citations` was called once as `nu_source_contracts_20261011`: **30 cited / 45 excluded, zero skipped**. `citation_report` confirms screened 75 / included 30 / excluded 45, 31 full-text-stage records (including selected code regions and #955), 44 title/excerpt records, zero missing reasons, `retrieval_unlinked=false`, and no truncation. Answer-scoped retrieved count is null. Full-text stage is not whole-codebase or paper reading. Historical publication decisions were not reported again; this is no systematic-review certificate.
+
+Private receipts in `.artifacts/nu-background-20260930/nu-source-20261011/` preserve source hashes, REST responses, coverage, decisions and report outputs. Bodies/extractions stay outside Git. The maintainer performed source reasoning and self-review locally; no extra worker or human sign-off is claimed.
+
+### Design consequence and continuation
+
+R02 now has actual owners/order/lifetime paths and verified public issue-to-patch lineage. Its local task remains authored, its coordinated task adapted, and the historical guard already present. R03 supports functional-mode represented-gameplay recovery with native reconstruction and shared-reference/effect limits. In-process APIs and Gaia's F# console do not verify agent access. R05 now has satisfying/violating/inconclusive trace specifications; R06 distinguishes checkpoint, retention, rebuild and resumed-frame costs within one execution mode. The native issue chain is an R17 version-audit lead, not proof of a current bug.
+
+Next settle eligible task/application and comparator boundaries, task diversity and the snapshot-safe state/effect subset. R01 capability/comparator and R04 authentic fallback-site preparation remain independent. Read another primary when it changes a selected contract or comparison; unknown Nu benefit is not by itself a missing paper. Runtime/oracle/overhead/access validation remains held. No baseline, final test, adapter, recruitment, model probe, candidate run or H execution occurred.
+
+Local validation passes eleven existing CI-routing regression tests, UTF-8/local-file links and table structure for ten Markdown documents, 44 distinct pinned source-link targets/ranges, 78 acquired-source hashes, 21 ordered direction/disposition IDs and six design sections. The reading index/assets are unchanged. Git whitespace is checked before publication. No Nu/runtime/candidate check is run; exact-head CI scope must be reported separately.
