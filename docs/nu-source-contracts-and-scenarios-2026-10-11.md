@@ -44,7 +44,9 @@ These are public reports and static correspondences, not reproduced defects, sam
 
 **C-exit, a practice-grounded adapted requirement:** a pause/resume control must remain usable during ordinary play, and quitting must finish at an interactive title screen despite a pause request near exit. A later play selection must initialize fresh lives/score/bricks without stale actions. This follows #1145's situation, with adaptation declared: neither inspected Breakout file already supplies the proposed full pause-control task, and ImSim already contains the historical quit guard. Do not silently remove that guard to manufacture a common defect. A historical repair study would require the eligible older application, complete patch/reproduction audit and explicit public-solution exposure policy; the parent hash alone is insufficient.
 
-These requirements permit an ImSim-local solution, explicit coordinating state, or another safe organization. Their source spread is an explanation, not a score. The two examples establish a reviewable contrast, not a two-task allocation, sample-size justification or sufficient task diversity.
+The subsequent [pause/exit contract](nu-pause-exit-contract-2026-10-11.md) now specifies C-exit's input, effective-pause boundary, permitted UI/effects, quit precedence and fresh initialization. It selects standalone imperative/static timing for this case, distinguishes a deferred pause request from its effect, and proposes an outer-loop exit deadline plus a separate wall-clock watchdog for later independent validation. Runtime/input/phase access and the proposed bound remain unverified; Gaia's halted quick-cut path does not validate standalone exit.
+
+These requirements permit an ImSim-local solution, explicit coordinating state, or another safe organization. Their source spread is an explanation, not a score. Global engine halt is not a mandatory pause implementation. The two examples establish a reviewable contrast, not a two-task allocation, sample-size justification or sufficient task diversity.
 
 ## R03: what Gaia restores
 
