@@ -8800,3 +8800,16 @@ The two scripts total829bytes and35lines. They qualify an automation-absent comp
 Private reproducibility receipts: `.artifacts/nu-background-20260930/practice-task-provenance-20261011/` contains all search/selected-body/comment snapshots with identities/hashes, the wiki/source acquisitions, complete issue roster and selection/disposition map, citation receipts and document/publication checks. Source bodies, copied scripts and the wiki clone remain ignored and are not committed. Prior reading IDs/index/assets, historical E/H evidence, frozen protocols, `uv.lock` and all experimental/security boundaries are preserved.
 
 **Next consequence:** select a practical beneficiary/decision before a separately reviewable feasibility case, using the provenance, valid-alternative and total-work fields. R03/R10 need an actual avoided reconstruction burden; asset upkeep can fill a consequential omitted-work gap if selected. Broader independent adopter/role/population coverage and S266's exact expanded-corpus method remain distinct from unknown Nu benefit. Continue another named consequential source/method dependency; repeated narrow title searches and cosmetic task variants would not resolve these boundaries. No candidate construction, recruitment, extra worker, adapter, live model probe or experiment is authorized.
+
+### Native attachment recheck after the R14 publication
+
+After publishing `c94d02047e4db68856f665dd6389510bd520c479`, the native Zotero helper reports version10.0.6, local API3/schema44 available on23119, with the API preference enabled. A read-only check at 2026-10-11T08:09:06.755065+00:00 verifies the four existing parents and all eight children below in collection `PKLXQNEE`. Each has its existing note and one explicitly partial text attachment; **none has a newly available PDF**. No attachment body is reread, no source edition/type is changed, and no library write, UI workaround, fresh denied-route search or duplicate citation submission occurs.
+
+| Gap | Verified native parent | Existing attachment |
+| --- | --- | --- |
+| S253 | `ERL3ILFC` v5560; conferencePaper | `BLZHQZJC` v5561; text/plain |
+| S266 | `7SLKDL8C` v5724; preprint | `GHETLQZF` v5718; text/plain |
+| S263 | `VG8B7V8U` v5701; conferencePaper | `FT8ALN27` v5695; text/plain |
+| S264 | `9E4I7XE9` v5703; journalArticle | `5LZRTZ3B` v5697; text/plain |
+
+[S253](full-reading/S253-game-tool-expectations-partial.md) retains complete indexed primary text but missing visuals/edition/questionnaires; [S266](full-reading/S266-postmortem-extension-access.md) retains only its abstract; [S263/S264](full-reading/S263-S264-content-generation-access.md) retain their specified prefixes rather than generation methods. These exact gaps remain open. The snapshot is private at `.artifacts/nu-background-20260930/reading-gap-recheck-20261011/native-snapshot.json`; its SHA256 is `b82e199e7af99db02b9285083712700a1cc3322e95ada81946ca718006c8e166`. A new lawful manuscript/attachment or a concrete claim needing a different primary route can change the next action; an unchanged attachment inventory does not justify rerunning the same denied searches or treating the methods as absent. The separately required feasibility/workflow decision for the prepared cases and zero experimental allocation remain unchanged.
