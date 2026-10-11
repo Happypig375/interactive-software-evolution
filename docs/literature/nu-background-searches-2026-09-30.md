@@ -8632,3 +8632,55 @@ S38 credits useful domain/abstraction affordances as well as editing/navigation/
 R07 now distinguishes all-assigned adoption outcomes from explicitly conditional performance after training, and R20 exposes supported configuration versus specialist-dependent extension. Equal training duration, successful compilation, preference and comprehension are not interchangeable with mastery or correct maintenance. The proposed role cases remain authored, access/behavior unvalidated and practical value unmeasured. Before using a programming-walkthrough instrument, reconstruct the Bell 1991 prediction-versus-use primary and its relevant design account. Otherwise continue R08's information/feedback contract and exact consequential edition dependencies.
 
 The reading index now records 256 fully read works, including 240 S works; this adds **one** publication reading and no locally executed experiment. No source variant, curriculum, editor operation, observer/adapter, model/worker run, recruitment or steering study was constructed or executed. Human comparison stays deferred; all holds and zero experimental allocation remain. The broad survey stays open at its named remaining dependencies.
+
+## 2026-10-11 continuation: R08 candidate information and controller compatibility
+
+The [R08 information/feedback contract](../nu-agent-information-and-feedback-contract-2026-10-11.md) specifies candidate inputs, source/edit access, current diagnostics, temporal observations, stopping and separately resourced final evaluation. It is support for the leading bounded maintenance questions, not an independent model leaderboard, implemented tool workflow or new execution permission.
+
+Five repository files were acquired through Git objects at **`065e3f931400300f24216e72164c2e8e7a90a7f7`**, totaling **61,122 bytes**. Four were read completely and one in selected ranges. The sparse engineering checkout was not restored, imported or executed. Private exact bodies, hashes, reading ranges, reused-note identities, web receipts, decisions and validation remain under ignored `.artifacts/nu-background-20260930/agent-information-20261011/`.
+
+| Pinned source | Actual text coverage | Bytes / SHA256 |
+| --- | --- | --- |
+| `protocols/workstream-e3a-v1/candidate-instructions.md` | Complete, lines 1–39 | 2,316 / `c8d337cbb2d53ce0be5ab44dfc521e79039ea8c64ca699f318a7432d987389b6` |
+| `protocols/workstream-e3a-v1/specification.json` | Complete, lines 1–120 | 6,253 / `f32586b6b79eb7e2397a58d7faee60fb3e1d4993b1f3950edfdec67cae6d4325` |
+| `src/ise/e3a_codex.py` | Complete, lines 1–160 | 12,662 / `93bf32cb1f757af7fe63e1854a327775c0422713bfaaf5baf62487501ab85529` |
+| `src/ise/e3a_runner.py` | Complete, lines 1–191 | 11,705 / `3fd8732a876bc0ef906758631f778038941a7a8194c36678555bc298c59df1e0` |
+| `src/ise/workstream_e3a.py` | Selected lines 97–115, 211–325 and 371–487 of 520; function/keyword locators additionally inspected | 28,186 / `be5b432f8d57c47a281788a8c6b03bc4d80557a7c2c108945148ca32a416437b` |
+
+The existing study packet, source/convention/history contracts and completed P08/P12/S42 notes were revisited at their relevant information, diagnostic, observation and accounting passages. Earlier E3a capability/adoption/renewal/amendment and H0 excerpts were navigation/history, not newly credited execution evidence; the pinned implementation governs the present source claims. No historical report was rerun or rescored. There is no new primary paper, PDF/supplement reading, Zotero operation or publication-count change in this segment.
+
+One official-domain web query, **`Codex noninteractive JSONL ephemeral`**, restricted to developers.openai.com, platform.openai.com and learn.chatgpt.com, returned **12 search panels**. One canonical non-interactive page was opened, followed by two in-page finds. Selected basic-usage/JSONL passages, including web lines 942–981, establish the limited documentation distinction used here; the broad navigation/sidebar is not a completed documentation-corpus review. The translation-fallback search URL and canonical page are one source group. Other returned pages were screened only at their snippets. No Scite/Consensus literature search, graph query, Codex command, catalog/model/count probe or authentication operation occurred.
+
+### Source decisions
+
+| Source/route | Disposition and actual basis |
+| --- | --- |
+| [candidate-instructions.md](<https://github.com/Happypig375/interactive-software-evolution/blob/065e3f931400300f24216e72164c2e8e7a90a7f7/protocols/workstream-e3a-v1/candidate-instructions.md>) | C; Complete 39 lines. Historical no-tools, root-level full-file replacement and repair instructions; not a Nu-compatible edit/tool contract. |
+| [specification.json](<https://github.com/Happypig375/interactive-software-evolution/blob/065e3f931400300f24216e72164c2e8e7a90a7f7/protocols/workstream-e3a-v1/specification.json>) | C; Complete 120 lines. Historical authority, visible replay, development stopping and resource/scoring fields; current PLAN overrides historical execution flags and allowances. |
+| [e3a_codex.py](<https://github.com/Happypig375/interactive-software-evolution/blob/065e3f931400300f24216e72164c2e8e7a90a7f7/src/ise/e3a_codex.py>) | C; Complete 160 lines. Visible replay, accepted JSONL item types, usage/byte/capture accounting and failures. No current CLI/provider or tool-loop execution verified. |
+| [e3a_runner.py](<https://github.com/Happypig375/interactive-software-evolution/blob/065e3f931400300f24216e72164c2e8e7a90a7f7/src/ise/e3a_runner.py>) | C; Complete 191 lines. All-assigned accounting and post-controller scoring; first/terminal holdouts share the remaining trajectory deadline. Possible missingness, not a demonstrated historical outcome. |
+| [workstream_e3a.py](<https://github.com/Happypig375/interactive-software-evolution/blob/065e3f931400300f24216e72164c2e8e7a90a7f7/src/ise/workstream_e3a.py>) | C; Selected lines97-115,211-325,371-487 of520. Candidate inputs, root-path replacement checks, sorted/deduplicated diagnostic blocks and development-only stopping. No whole-module reading or executed trace transformation. |
+| [Official non-interactive mode](<https://learn.chatgpt.com/docs/non-interactive-mode>) | C; Current documentation distinguishes ephemeral rollout-file persistence from JSONL command/file/tool events. No proof of pinned customized-client isolation, billing or current live capability. |
+| [Command-line reference](<https://learn.chatgpt.com/docs/cli/reference>) | N; Search-result flags only; canonical non-interactive page supplies the selected distinction. No separate current-client conclusion. |
+| [Developer commands](<https://learn.chatgpt.com/docs/developer-commands>) | N; Duplicate command-surface result; no additional primary passage used. |
+| [Codex Security CLI FAQ](<https://learn.chatgpt.com/docs/security/cli/faq>) | N; Different security-scanning product/workflow; not the retained E3a controller. |
+| [OpenAI CLI](<https://developers.openai.com/api/docs/libraries/openai-cli>) | N; Different API CLI; no backend substitution or method evidence. |
+| [Environment variables](<https://learn.chatgpt.com/docs/config-file/environment-variables?translationFallback=zh-Hans>) | N; Broad configuration result; no environment mutation or candidate-isolation inference from its snippet. |
+| [Using Goals in Codex](<https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex>) | N; General goal continuation is not the adopted fixed candidate stopping/feedback contract; no method adopted. |
+| [Legacy local shell guide](<https://developers.openai.com/api/docs/guides/tools-local-shell>) | N; Legacy API tool route, outside preserved OAuth/controller boundary; no migration or tool capability adopted. |
+| [Glossary](<https://learn.chatgpt.com/docs/glossary>) | N; Terminology snippet adds no evidence beyond the fetched primary page. |
+| [Configuration reference](<https://learn.chatgpt.com/docs/config-file/config-reference?trk=article-ssr-frontend-pulse_little-text-block>) | N; Search snippet only; no need to infer customized-client behavior from current general configuration. |
+| [Access tokens](<https://learn.chatgpt.com/docs/enterprise/access-tokens>) | N; Different authentication route; no access/billing change, adoption or method credit. |
+| [Advanced configuration](<https://learn.chatgpt.com/docs/config-file/config-advanced?translationFallback=de-DE>) | N; General configuration snippet; no pinned client or runtime verification. |
+
+Once-only `report_citations` answer **`nu_agent_information_contract_20261011`** accepted **6 cited / 11 excluded / 0 skipped**, matching **6 C / 0 D / 11 N**. `citation_report` confirms 17 screened, six full-text-stage decisions with complete/selected extents above and eleven title/abstract-stage navigation screens, exact membership, no missing reasons, linkage warnings or truncation. Answer-scoped retrieved is null. This is an audit of repository/doc sources, not seventeen studies or a literature saturation claim; unchanged historical readings were not resubmitted.
+
+### Consequences and continuation
+
+The retained controller gives inline source and accepts restricted full-file replacements under no-tools authority. It uses visible replay, and its parser does not accept a general command/file/tool event stream. Current official documentation about JSONL and ephemeral persistence cannot validate that customized binary or authorize an ordinary-tool replacement. Historical execution flags and allowances remain historical; current allocation is zero.
+
+The diagnostic formatter deduplicates exact blocks and sorts errors first. That preserves its declared diagnostic policy, but does not establish order or multiplicity preservation for a temporal trace encoded as diagnostic-like blocks. A whole trace retained as one block may preserve order; no formatter defect was executed. The proposed Nu feedback must separately retain sequence, identity, phase and omitted ranges, particularly for pause/quit and burst/effect obligations.
+
+The controller correctly ends before hidden scoring, but the inspected batch shares the remaining trajectory deadline between first/terminal holdout evaluations and includes scoring in slot elapsed time. This creates a possible observation-budget dependency without proving any historical row was affected. The proposed Nu contract gives final evaluation a separate resource boundary, records its costs/missingness, and prevents hidden results from entering candidate repair or stopping.
+
+R08's information/accounting preparation is now concrete. Actual tool/edit/observation access needs a separate workflow/feasibility decision within preserved backend, transport and security choices. A constrained no-tools question would be a different study; no silent fallback or new adapter is authorized. S227 v2 remains a primary edition dependency only if its GUI method is selected. Continue other consequential desk dependencies, preserving R21's future steering boundary, all E/H evidence and zero allocation.
