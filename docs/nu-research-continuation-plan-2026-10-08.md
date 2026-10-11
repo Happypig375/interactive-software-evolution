@@ -48,11 +48,13 @@ The existing full-reading reconstructions support this design segment. It adds n
 | S263/S264 | Resolve the original generation/validity/comparator methods when R12 or a selected package comparison needs them. Current access limits remain. |
 | S266 | Resolve the full corpus and coding lineage before expanded contemporary prevalence or representative-task claims. Existing practice evidence supports narrower motivation. |
 | Exact history/temporal/type comparator | Resolve its missing body, visual, artifact or edition contract before making that facility central to a treatment. |
-| R21 steering methods | Begin with S229's reconstructed expert–AI workflow; follow primary comparative, null and adverse evidence when preparing measurement reliability and participant-design questions. |
+| R21 steering methods | The [measurement contract](nu-steering-measurement-contract-2026-10-11.md) now combines S229/S302/S303 into candidate observations, costs and reliability questions. Select a practical comparison before separately authorized instrument/participant feasibility; numerical source distributions and a participant count are not validated defaults. |
 
 Scite searches request limit 20 and paginate by effective returns where relevant. Native Consensus requests page_size 100 when supported. Reuse/create native Zotero records before selected reading; preserve preprint types, version lineage, keys, memberships and attachments. Record actual text/visual/supplement coverage and access failures. Update existing notes, index, synthesis and search ledger, report new/material decisions once, and inspect the citation report. No numerical reading target closes the survey.
 
 R21 retains **steering-only** and **unrestricted-intervention** policies. In the former, humans specify, inspect, diagnose and redirect while agents author changes; supplying replacement code or patches in prompts counts as human coding. The latter permits direct implementation and takeover with their effort counted. These are future design alternatives, not an additional immediate four-arm experiment. Measurement reliability and task/person variation must inform a later participant-number decision; neither a necessarily large nor an adequately small sample is assumed.
+
+The 2026-10-11 desk continuation prepares this measurement boundary: visible action, reported intent, diagnostic exposure, acceptance and verified behavior remain separate. Human active work, elapsed time and concurrent agent work need distinct accounting. Repeated suggestions do not establish independent coverage; source/practice provenance and contrasting requirements remain necessary. The new primary readings and their exact edition/artifact limits are recorded in the reading index and ledger, without promoting R21 above the mechanism/agent studies.
 
 ## Readiness, validation and continuation
 

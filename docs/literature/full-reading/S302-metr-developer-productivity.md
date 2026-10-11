@@ -1,0 +1,62 @@
+# S302 — AI permission, developer time and observed activity
+
+Joel Becker, Nate Rush, Beth Barnes and David Rein, *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*. Selected edition: [arXiv 2507.09089v2](https://arxiv.org/abs/2507.09089v2), 25 July 2025; DOI [10.48550/arXiv.2507.09089](https://doi.org/10.48550/arXiv.2507.09089). The arXiv metadata names Elizabeth Barnes; the PDF prints Beth Barnes. These are recorded labels, not an inferred additional author.
+
+**Complete selected-paper reading, 2026-10-11:** all 51 PDF text pages, appendices A–G and all 45 bibliography entries consumed. Visual inspection covers pages 1, 2, 4, 5, 8–11, 17–19, 21–24, 27–35, 46 and 48–50: all 23 figures, eight tables, equations 1–15, the main unnumbered estimand and consequential codebook layout. Figures 20–21 were additionally enlarged. Reading the bibliography does not mean reading its underlying sources. No participant recording, raw dataset or analysis was acquired or rerun in this segment.
+
+## What was compared
+
+Sixteen experienced open-source developers completed 246 analyzed issues: 136 with AI allowed and 110 with AI disallowed. They had about five years' experience and 1,500 commits in their respective repositories, on average. Recruitment used professional networks, communities and active GitHub contributors, with eligibility/review rules favoring mature projects. This is a selected field sample, not representative sampling of programmers, games or Nu users (§§2, G).
+
+Developers proposed valuable work and forecast both AI/no-AI durations **before assignment**. Roughly half the issues were not previously formal repository issues. The instructions preferred small tasks and permitted splitting larger work; actual order was developer-chosen and concurrent work was possible. Twenty-five early issues used block randomization; subsequent assignment used a fair coin. The original instruction's claim that order would be randomized is explicitly corrected in the paper. Removing the early block-assigned issues gives a reported 20% slowdown, close to the primary result.
+
+The intervention is **permission to use generative AI**, not mandatory use, a fixed agent or a pure steering policy. Participants could use any AI tools or none; the other condition disallowed generative AI including AI autocomplete, while ordinary search remained allowed. Most work occurred in February–June 2025, primarily using Cursor and Claude 3.5/3.7. Cursor subscriptions for 13 developers, basic live training, check-ins and occasional prompting advice form part of the support package. Some participants switched IDEs. The result does not isolate a model, prompting skill, human supervision or source representation.
+
+Participants were paid $150/hour. Issue work included understanding, implementation, checking, submission and the original author's changes after review. Reported study overhead was under five hours per person, separate from issue time. Recruitment, preparation and researchers' support are not a measured whole-team adoption cost.
+
+## Outcome and analysis
+
+The primary outcome is self-reported active implementation time before and after PR review, rather than calendar lead time or all reviewers' person-hours. Twenty-seven issues lacking completed review receive condition-mean post-review time. Extreme alternative imputations and recorded-duration comparisons preserve an adverse timing direction, without proving missingness harmless.
+
+The main model regresses log completion time on randomized AI permission and the **pre-assignment no-AI forecast** (§D). The reported **19% increase in completion time** contrasts with a forecast 24% decrease and post-study belief of a 20% decrease. The unadjusted ratio of mean times gives a 34% increase; it is a distinct estimator, with chance differences in forecast difficulty. Figure 5 shows largely longer observed durations under permission, with crossing portions of the distributions. Beliefs and activity shares do not replace the timing result.
+
+The paper reports `exp(beta) - 1` as relative time change. Its conversion from the log effect to a conditional arithmetic-mean ratio explicitly assumes the residual is independent of assignment and forecast and has a finite exponential expectation. Default intervals use HC3; alternative developer-cluster corrections are similar, while the developer-then-issue bootstrap is wider. A task-level assignment does not turn 246 issues into 246 independent participants. Post-study belief estimates are weighted by completed-issue count but remain reports from sixteen people. Figure axes place negative time change above zero: a higher plotted point means a shorter time, not a larger positive effect on duration.
+
+Keep the positive evidence alongside the adverse aggregate: some developer/task point estimates favor AI; reported useful cases include unfamiliar APIs, tests and finding helpers, and 69% continued using Cursor. Continued use can have benefits other than speed. The 21 proposed explanatory factors use qualitative reports, targeted questions and exploratory subsets, with acknowledged low power and multiple comparisons. Their classifications are **not causal mediation estimates** or proof that a particular factor caused the slowdown.
+
+## Assignment, completion and observation are different populations
+
+The paper separately describes thirteen uncompleted assigned issues and 24 intentionally dropped issues (§C.3.3). It reports robustness among developers without selected dropout, while the main analysis remains completed/analyzed work. Three other developers' contributions are wholly excluded: two repositories stopped development and one developer showed widespread early noncompliance (§G.6). Do not derive an all-assigned denominator by simply adding these partly separate descriptions. A future study needs an explicit assignment-to-outcome flow and reasons for missing work.
+
+Manual labeling covered 128 recordings/143 hours, about 29% of total reported hours. Short recordings were prioritized and small review revisions were often unrecorded. Filtering noncompliance, recordings with more than 10% broken footage, and durations differing from self-report by more than 20% leaves **74 recordings/84 hours**, comprising 44 AI-allowed and 30 AI-disallowed issues (§§2.4, G.8). Activity findings apply to that selected subset. Three AI-use violations among 54 labeled disallowed recordings are a separate compliance observation.
+
+The paper reports eight broad activities and 27 fine categories, at roughly ten-second resolution. Figures 6 and 19–21 distinguish average shares from average minutes. With AI allowed, less time share goes to direct coding and reading/searching; prompting, output review and waiting appear, and idle/overhead share rises. Roughly 9% goes to reviewing/cleaning AI output and 4% to waiting in the valid allowed subset. These categories do not measure cognitive effort or verified correctness.
+
+The codebook (§G.8) is useful but cannot simply be adopted as a validated steering scale:
+
+- Labels distinguish issue/code/document reading, writing, testing/debugging, repository operations, communication, prompting, generation review and cleanup. Separate columns record AI purpose, model and interface.
+- Observers are told to mark ambiguity **unknown**, preserve transition times, and record the prompt–generation–accept/reject–subsequent-edit sequence. Predominantly writing mixed intervals are assigned one label; this sacrifices finer interleaving information.
+- Apparent thinking is inferred from a screen; an inactive display cannot establish mental inactivity. A taken generation is defined partly by later retention/usefulness, mixing action with subsequent disposition. Acceptance, later reversion, observed checks and independently scored behavior should therefore be separate fields for Nu.
+- The instructions propose hand-checking one tenth of submissions and a bonus for sufficient timing accuracy, but the paper gives no inter-rater agreement statistic, measured timestamp error distribution or validated transfer to other interfaces. Future independent annotation and adjudication are still needed.
+
+Cursor analytics concern suggested/accepted **lines** for thirteen people, although later prose calls the less-than-44% figure accepted generations. Do not silently equate these units. Likewise, §C.3.2 describes 16.4% non-use in 44 videos, whereas §C.3.6 says non-prompting and explicitly excludes autocomplete. Preserve that narrower distinction; do not infer an integer count of issues without any AI.
+
+## Edition and reporting qualifications
+
+The downloaded v2 has 21 factors and Figure 23; the landing metadata's 20 factors/22 figures is stale. In §C.1.2 the prose grouping for external-resource needs conflicts with the printed scale, where larger values mean less required reference material. Figure 7's labels do not resolve the actual coding. Do not infer the implemented groups without the data/code.
+
+Figure 12's initially favorable greater-than-50-hour Cursor bin contains one developer. Footnote 15 reports another participant's corrected prior exposure: including that person's issues would move the bin from about 25% shorter time to roughly zero change. Preserve this correction rather than adopting an expertise threshold. Figure 8's comparative caption does not outweigh its wide intervals and the text's unclear-effect finding. Figure 23 clips extremely wide interval ends near +1800%; its few-issue month bins are not evidence of a stable temporal trend. Equation 12 visibly subtracts one on the log-coefficient interval while Equation 13 transforms the unshifted coefficient; this printed inconsistency is not evidence that the released computation used the wrong formula.
+
+## Later author update, separate from v2
+
+The [24 February 2026 update](https://metr.org/blog/2026-02-24-uplift-update/) reports 57 developers: ten returning participants/137 tasks and 47 new participants/690 tasks. Relative-time estimates favor AI by 18% and 4%, respectively; both intervals include zero. The authors consider the estimates unreliable because of participant/task selection, reduced pay, selective completion and concurrent-work timing. Their expectation of larger benefits is not an identified effect. This qualifies extrapolation of the earlier result; it does not revise its edition or establish a reversal for an unchanged population. The full article and original chart were inspected; linked datasets remain uninspected. This webpage adds no full-paper credit.
+
+## Consequence for future R21
+
+Use this adverse field result with [S229's favorable expert–AI case](S229-picoscenes-expert-ai.md), retaining their different interventions, task selection, outcomes and accounting. Do not pool headline percentages. For Nu, specify permission and assistance policies separately from observed human/agent activity; retain non-use, noncompletion and unrecorded intervals; measure active human work, elapsed time and agent work without adding overlapping intervals twice. Context preparation, diagnostic guidance, human-authored code supplied in prompts and takeover all remain work.
+
+The source supports an observation vocabulary and concrete reliability questions. It does not supply a validated steering score, a participant-number justification, current-tool rankings or a Nu effect. A future intervention comparison still needs independently checked behavior, legitimate alternative solutions and task/person variation. No recruitment, pilot, observer implementation or candidate execution occurs here.
+
+## Native records and private evidence
+
+Registered before selected reading in collection `PKLXQNEE`: preprint parent **`Q9ASARJF`**, versioned archive ID `2507.09089v2`; PDF **`5NLN4SNF`**, canonical note **`QZI38E5V`**. Direct versioned arXiv retrieval returned a 51-page PDF of **5,668,559 bytes**, SHA256 **`3e18d9e097a3163dbae662e8b7c68ace0510be433891994b136ae7730beab25c`**, MD5 `d95d33717d0a9b0745182baebfc29e80`. Native attachment bytes match. The 2026 webpage has its own registered parent **`T5CT42NW`** and five named contributors; it is not a preprint edition. Private HTML/chart identities and coverage, final native versions and citation decisions are in the [search ledger](../nu-background-searches-2026-09-30.md). Source bodies, extracts and renders stay outside Git.
