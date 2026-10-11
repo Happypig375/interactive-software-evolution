@@ -1,0 +1,68 @@
+# Nu learning, preparation and role boundaries
+
+**Prepared 2026-10-11.** This resolves R07's desk-level distinction between onboarding, trained productivity and usability descriptions, and narrows R20's role/assistance question. It uses [S38's complete reading](literature/full-reading/S38-cognitive-dimensions.md), completed empirical reconstructions and the existing source contracts. It is a study specification, not delivered training, observed participant performance or authority to recruit. [PLAN](../PLAN.md) and the [ranked agenda](nu-research-agenda-2026-10-08.md) retain all construction and experimental holds, zero new allocation and future R21 steering.
+
+## The decision and two different claims
+
+The practical question is whether a specified role can adopt a supported Nu workflow, or whether already prepared users can perform useful maintenance with it. A lower time on a prepared task can coexist with greater preparation cost. Specify which decision matters before choosing a population, task or endpoint.
+
+| Question | Population and work boundary | Accepted evidence and interpretation |
+| --- | --- | --- |
+| Initial adoption/onboarding | People eligible on declared **pre-assignment** prerequisites; include setup, learning, help, unsuccessful preparation and later assigned work. | Correct new/retained behavior and total preparation/task/support costs across all assignments. Report inability to reach readiness, abandonment and missing observations. A workflow that helps prepared users but excludes many intended adopters has a different adoption result. |
+| Trained productivity | A declared population with relevant preparation and an explicit readiness policy. State whether readiness was established before assignment or achieved through the assigned workflow. | Correct maintenance and total task work in that population; also report the training effort and selection that produced it. A comparison restricted to treatment-specific training completers is conditional performance, not an unselected causal adoption effect. |
+| Editing a supplied solution | People given an explicit target representation and ordinary editing tools. | Editing operations, mistakes and time to the declared target/behavior. This is a useful narrower question when editing friction is the decision. It excludes independent solution discovery by design, as S38's exercise does. |
+
+These are alternative scopes, not three required study arms. No participant count follows from the number of cases. A human comparison remains deferred until the beneficiary, practical decision, task value and measurement reliability justify it. Bounded agent studies can proceed only under their own later authority and do not estimate these human effects.
+
+## Prerequisites and preparation
+
+Do not collapse experience into one novice/expert label. Record baseline F#/functional-programming knowledge, general programming experience, engine/editor experience, interactive-domain knowledge, source-control familiarity and the intended authoring responsibility separately. These are proposed baseline descriptors, not validated instruments or observed properties of participants. Relevance depends on the task; a presentation author need not have the same prerequisites as a behavior author.
+
+The preparation sheet must identify the exact source/tool versions, installation route, documentation, worked examples, allowed search/IDE/editor facilities, assistance policy, readiness criterion and time/cost accounting. Existing source inspection establishes possible facilities, not that a newcomer can successfully access them. Technical setup failure and conceptual misunderstanding must remain distinct observations, with their resolution costs retained.
+
+Equal minutes of instruction do not guarantee equal preparation. Training to a declared competence criterion can improve comparability for a trained-use question, but the extra time, failures and resulting population are part of the record. Freeze the policy before outcomes. Do not keep adding explanation until a favored workflow passes, discard unsuccessful trainees, or condition a main assigned effect on later mastery. If readiness is checked after workflow-specific training, retain both all-assigned onboarding outcomes and the explicitly conditional trained-use account.
+
+Practice/readiness tasks must exercise relevant prerequisites without supplying the scored maintenance solution. A practice task may teach how to find a property, navigate an event handle or verify a simple behavior; it must not reveal the exact successor patch or hidden final tests. State permitted development feedback and support before assignment. Record help requests, material supplied, time and contributor; a specialist's implementation is assistance, not free environment functionality. Actual human design advice in this research remains advice, not participant data.
+
+## Concrete role and task boundaries
+
+The [R12 reuse contract](nu-reuse-and-authoring-contract-2026-10-11.md) supplies a quiescent editor-authored entity tree, supported configuration, family revision and vocabulary extension. The [R11 collaboration contract](nu-collaboration-and-handoff-contract-2026-10-11.md) binds the title scene to F# event handles and specifies a rename/presentation integration case. Both use the previously inspected Nu pin `064f7ae92a8506689cd91aff5e6804a375d6ef3d`; this segment adds no new Nu source or runtime inspection.
+
+| Responsibility and candidate work | Preparation question | Outcome and interpretation boundary |
+| --- | --- | --- |
+| Presentation author: revise a button's label/layout within the prepared scene | Can the author find the intended entity, distinguish its name from visible text, save the intended artifact and obtain supported feedback? | Observe the declared presentation, clickable region and retained action through verified access. Successful configuration within supplied properties does not establish ability to add a new mechanic. |
+| Family maintainer: revise a supported button family while retaining intended instance differences | Does the author understand the declared default/source correspondence and which differences should follow the revision? | Retain intended values and identities under the R12 contract, including the cost of finding and repairing unwanted changes. A supplied family or helper has construction and support costs. |
+| Behavior author/integrator: rename Play to Start while preserving click routing and a separate presentation edit | Can the author locate the scene/source boundary and understand the intended correspondence, or obtain counted help? | Verify one intended button, the revised presentation and new/retained behavior. A parsable scene or successful compilation does not establish integration. |
+| Vocabulary extension: express behavior outside the prepared authoring options | Which programming, tool-building or specialist intervention is actually necessary? | Record successful expression, dependence on another role, unsupported requests and full extension/integration work. This conditional case requires its own concrete behavior requirement before use. Do not claim general expressive reach from only supported variants. |
+
+These are source-inspired authored cases, not mined participant requests, validated curricula or a representative sample. The first three already have artifact boundaries; practical importance and supported observation still need validation. The fourth is a required *boundary on a broad claim*, not a demand to invent a new editor or force every first study to include unsupported functionality. R20 stays conditional on an actual role and facility. Ordinary documentation, composition/helpers, manual correspondence and counted specialist support remain credible alternatives.
+
+## Outcomes, denominators and costs
+
+Use independent new and retained behavior obligations from the selected task contract. Keep assignment, readiness, intermediate behavior, final outcome and missingness separate. A comprehension question can diagnose an interpretation; a preference rating can describe experience. Neither is successful maintenance. Style conformity and a patch matching a reference are not behavioral requirements; safe reorganization and other correct solutions remain valid.
+
+For each assigned task preserve correct completion within the declared allowance, incomplete/incorrect behavior, unobserved obligations, abandonment and rescue. Describe time/cost outcomes alongside those states, rather than comparing only successful completion times. A timeout is not an observed time to eventual correct completion. Task observations repeat within people or teams; different edits by one person are not independent participants. Order, prior practice and carryover need an explicit policy before a future study.
+
+Separate installation/environment preparation, instruction and practice, independent task work, navigation/feedback, help/coordination, integration/verification and rework. Report elapsed delivery and summed active person-work separately, with specialist and tool-builder contributions visible. Record any amortization over **actual declared reuse**, not hypothetical unlimited future variants. Retain available-tool differences when the intended treatment is a realistic package, and limit attribution accordingly.
+
+Delayed retention and transfer are useful only with a defined interval, access policy and different task demand. Repeating the trained patch under new names does not establish general transfer. A future design must choose a relevant delayed or novel-task outcome and its observation reliability; this desk specification supplies no retention estimate, measurement validation or sample-size claim.
+
+## What the literature changes
+
+| Evidence already reconstructed | Consequence for this specification |
+| --- | --- |
+| [S38 Cognitive Dimensions](literature/full-reading/S38-cognitive-dimensions.md) | Use task-specific qualitative mechanisms; no aggregate usability/learning score or automatic human-to-agent transfer. Its 508.3/193.6/63.3-second editing contrast uses supplied final programs, so it informs editing friction without estimating independent problem solving. |
+| [S39 reactive comprehension](literature/full-reading/S39-reactive-comprehension.md) | Preserve its favorable trained-student comprehension result. Two lectures plus substantial assigned homework and restricted execution/tool access define that result; it is not unprepared adoption or completed maintenance. |
+| [S40 reactive API usability](literature/full-reading/S40-reactive-api-usability.md) | Retained submitters, questionnaire respondents and interviewees are different denominators. Do not make training/task completion a silent entry filter or substitute structural metrics for human outcomes. |
+| [S42 debugger-package comparison](literature/full-reading/S42-stream-debugger-comparison.md) | Preserve its overall stream benefit and known-failing-object reversal. Initial information and ordinary tool costs can change the useful package ordering; an informal introduction is not established equivalent mastery. |
+| [S300 comprehension and modification](literature/full-reading/S300-cognitive-fit-and-modification.md) and [S301 documentation experiments](literature/full-reading/S301-modularity-rule-maintenance-access.md) | Preserve the task-dependent associations and favorable documentation results, while keeping observed comprehension, partial progress, structural conformity and independently correct completion distinct. |
+
+A Cognitive Dimensions observation should name the task, role, representation/tool, hypothesized difficulty or benefit and the evidence actually available. For example, the title-scene/source reference boundary is an inspectable dependency; whether a user misses it is unmeasured. A documented lookup facility is not proof it was used or understood. Predictions can guide observations without becoming measured cognitive variables.
+
+Before adopting a formal programming-walkthrough method, reconstruct the [1991 comparison of predictions with first-program use](https://doi.org/10.1145/108844.108846) and the [problem-centered design account](https://doi.org/10.1207/s15327051hci0603%264_5). They are metadata/context leads here, not completed primary readings. S38's general recommendation alone does not validate a Nu prerequisite or readiness instrument. The engine-API structural-metric study already retained by R07 remains unread beyond its abstract and supplies no direct human effect.
+
+## Readiness and next consequential action
+
+R07 now has explicit population, preparation, information, outcome and work boundaries. Its human comparison remains deferred. The next desk decision is whether knowledge/readiness analysis is needed for a selected role/task; if so, the primary programming-walkthrough comparison can change how predicted prerequisites are checked against actual use. Alternatively, continue the higher-priority bounded-agent information contract and its exact method/edition gaps. Neither route requires more generic framework description.
+
+A future review must establish the practical beneficiary, common task behavior, supported access, authentic preparation/help policy, independent observations and reliability before recruitment or construction. If the result is only faster editing of a supplied target, state that useful scope. If a favorable prepared-task result disappears after preparation and assistance are counted, preserve that adverse adoption result. Nothing here changes the experimental holds, constructs a baseline, adds a worker, measures Nu benefit or reopens steering effectiveness.
