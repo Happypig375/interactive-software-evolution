@@ -58,6 +58,8 @@ Record eligible assigned attempts, valid completions, demonstrated failures, bud
 
 Human operational intervention and rescue must be logged if later execution encounters them. Keep the original assigned outcome; a rescued patch cannot replace it. A separate assisted follow-up requires its own declared scope. Test authors and any actual reviewers must be identified honestly; a specification written by this maintainer is not human sign-off.
 
+For a later sequence extension, the [R09 contract](nu-change-sequence-contract-2026-10-11.md) deliberately inherits each stage's submitted workspace, unlike the independently initialized single-change design. It fixes conversation/environment and feedback policies separately, versions active/retired obligations, and distinguishes inherited failure, new regression, recovery and unknown observations. Intermediate delivery and final cumulative correctness are different endpoints. This is a proposed extension with its own feasibility/allocation gate, not a change to historical protocols or current execution authority.
+
 | Quantity | Accounting rule |
 | --- | --- |
 | Agent resources | All attempted model/tool work under the pinned accounting rule, including failed repairs; keep tokens, tool time and priced expenditure distinct. |
