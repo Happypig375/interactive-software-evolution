@@ -61,3 +61,28 @@ Preserve assignment and all attempted outcomes, including blocked infrastructure
 R08 now has an explicit information, temporal-feedback, stopping and accounting specification. The remaining execution dependency is concrete: reconcile the intended tool/edit/observation authority with the retained no-tools controller and actual Nu access while preserving the required backend, transport and security decisions. A constrained no-tools Nu question would be a different study and must be named as such; silently imposing it is not completion of the proposed workflow. No new adapter, proxy, model worker, OAuth staging or live probe is authorized.
 
 The next action for this contract is a **separate workflow/feasibility decision**, followed only under later authority by minimal necessary validation of source/edit access, common diagnostics, phase-correct observations, information isolation and independent scoring. S227 v2 becomes necessary if its updated GUI-agent/playtesting method is selected; nothing here adopts that method. Continue other consequential literature or task-practice dependencies while these execution gates remain held. Documentation and existing engineering checks do not establish a Nu agent effect or complete the broad survey.
+
+## 2026-10-15: revised GUI-playtesting method
+
+The [complete S227 v2 reading](literature/full-reading/S227-continual-gui-playtesting-v2.md)
+resolves the preceding edition-reading dependency. It retains favorable
+Play2Code rubric results and adds full-benchmark human agreement and two
+alternative judges for one generation backbone. Its development GUI playtester
+receives a generated guide, screenshots and memory without the final rubric;
+the final rubric judge is a separate role after stopping. This supports the
+information separation above as a reported method. The unreleased scaffold,
+prompts, parser and traces prevent independent verification of that isolation.
+
+Retain complete ordered observations even if a summary and fix list are useful
+candidate feedback. Cross-task memory requires a declared task order/reset
+policy. The approximate $5/$12/$17 inference-cost sample does not cover total
+work or establish equal resources. Gain-group trajectories and the human plot
+remain inconsistent with parts of the text; early-stop later-round populations
+remain unspecified. Those comparisons cannot set a Nu effect prediction.
+
+Screenshot/browser interaction is useful complementary evidence, but does not
+establish fixed-tick observation, entity identity, event multiplicity, audio or
+world-history access. Continue actual Nu tool/phase-access and independent-score
+feasibility under PLAN's current local-work authority. Candidate/model
+allocation, backend, transport and security decisions remain separate. This
+reading neither executes a GUI agent nor validates the proposed Nu workflow.

@@ -1,0 +1,26 @@
+The four variants are generated from the verified original Gameplay.fs.
+
+baseline-explicit
+  no source change
+
+baseline-wildcard
+@@ Gameplay.update terminal clause
+-        | Playing | Quit -> gameplay
++        | _ -> gameplay
+
+paused-explicit
+@@ GameplayState
+ type GameplayState =
+     | Playing
+     | Quit
++    | Paused
+
+paused-wildcard
+@@ GameplayState
+ type GameplayState =
+     | Playing
+     | Quit
++    | Paused
+@@ Gameplay.update terminal clause
+-        | Playing | Quit -> gameplay
++        | _ -> gameplay

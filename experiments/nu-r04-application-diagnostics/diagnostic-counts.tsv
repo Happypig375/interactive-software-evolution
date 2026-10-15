@@ -1,0 +1,10 @@
+variant	severity	code	msbuild_count	raw_log_lines	canonical_lines
+baseline-explicit	warning	NU1901	133	266	95
+baseline-explicit	warning	NU1902	77	154	55
+baseline-wildcard	warning	NU1901	133	266	95
+baseline-wildcard	warning	NU1902	77	154	55
+paused-explicit	warning	FS0025	1	2	1
+paused-explicit	warning	NU1901	133	266	95
+paused-explicit	warning	NU1902	77	154	55
+paused-wildcard	warning	NU1901	133	266	95
+paused-wildcard	warning	NU1902	77	154	55

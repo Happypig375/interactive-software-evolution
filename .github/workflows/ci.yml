@@ -115,7 +115,7 @@ jobs:
     needs: scope
     if: ${{ always() && (needs.scope.result != 'success' || (needs.scope.outputs.scope != 'docs' && needs.scope.outputs.scope != 'maintenance')) }}
     runs-on: windows-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - name: Require successful scope checks
         if: ${{ needs.scope.result != 'success' }}

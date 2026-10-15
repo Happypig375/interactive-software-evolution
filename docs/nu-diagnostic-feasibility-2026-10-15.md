@@ -69,3 +69,17 @@ The final portable runner was executed into the fresh private directory `.artifa
 **Execution disposition: complete for the bounded compiler-diagnostic feasibility question.** The provisional audit claim is now updated from "unprobed" at this adapted site: under this exact SDK and reproduced checked-in source policy, an unhandled added case yields warning FS0025 while an equivalent wildcard is silent, and FS0025 is not build-blocking.
 
 This does not validate the actual Nu application's runtime equivalence, any serve/pause temporal or lifecycle oracle, warning delivery or attention in an agent workflow, source-convention benefit, task prevalence or representative coverage. It also does not evaluate parent/imported policy in an eventual full Nu build beyond the selected project's explicit properties; the isolated effective invocation is preserved. A later source-integrated feasibility check would need to build an isolated copy of the actual project and independently observe its relevant runtime behavior. A later agent study still needs frozen information delivery, task provenance, valid alternatives, all-attempt accounting and independent behavioral scoring.
+
+## Actual-project continuation, 2026-10-15
+
+The [four actual MMCC project builds](nu-application-diagnostic-feasibility-2026-10-15.md)
+now resolve the preceding full-graph diagnostic dependency. Both baselines and
+both union-extended variants build successfully. Adding `Paused` to the explicit
+arm yields one FS0025 warning; the wildcard remains silent. The unchanged
+project also emits 210 dependency warnings in each variant. Exact source,
+policy, package and assembly identities and both attempts are retained.
+
+This extends compiler evidence only. A correct paused update fallback still
+requires separate content, clock, trigger, effect and lifecycle work; the
+application was not launched in this continuation. Runtime and agent-delivery
+feasibility remain distinct next steps.

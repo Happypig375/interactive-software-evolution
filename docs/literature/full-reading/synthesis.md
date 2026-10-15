@@ -1158,3 +1158,16 @@ The [R07/R20 inventory](../../nu-learning-and-role-contract-2026-10-11.md#candid
 [S205](S205-jescala-dissertation-access.md) now resolves the fuller JEScala primary-method gap with a complete233-page dissertation reading. Event-graph propagation, per-disjunction consumption/blocking, specialized FSM transition functions and serialized proxy handlers are distinct contracts. The specialized FSM implementations substantially outperform the general Join encoding in the reported benchmark; the event-monitor case reuses sequential parts and runs faster in its concurrent version. These are useful constructive/performance results with restricted domains, no independent maintenance sample and no acquired implementation archive. Exact34-row correspondence with S142 prevents double-counting; the dissertation’s French percentages retain arithmetic discrepancies.
 
 The [R03 B1 continuation](../../nu-history-continuation-2026-10-15.md) now adds one source-bounded runtime witness to the earlier B0 result: new seeded history and fresh reconstruction match complete model values and selected projection for twenty updates, including the predicted wall reversal. Managed game geometry, no new application randomness and monitored absence of input bound the result. Audio, framebuffer, native contact state, ordinary agent access and comparative costs remain unmeasured. These concrete mechanisms and observations sharpen the comparison; neither a fuller predecessor description nor one passing prefix establishes Nu’s empirical value.
+
+**Revised GUI-playtesting method, 2026-10-15:** [S227 v2](S227-continual-gui-playtesting-v2.md)
+is complete across all19pages and all7figures/10tables. It adds full-benchmark
+judge agreement, two alternative judges for one backbone and approximate
+inference costs while clarifying rubric-blind development versus final scoring.
+The favorable main results remain in the same work/dataset lineage; current
+coverage stays269works. Gain labels are improved, but the plotted large/moderate
+gains appear interchanged relative to the thresholds. Human is higher in the
+first two plotted rounds and GPT-5.4 in the last three, contrary to the prose's
+all-round human advantage. Early-stop later-round populations and total work
+remain unspecified; the checked release still matches the prior static gallery.
+Preserve ordered behavior and separate final resources in R05/R08, then validate
+the actual Nu access boundary. No agent execution or Nu effect is established.

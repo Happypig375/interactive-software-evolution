@@ -100,3 +100,14 @@ implementation itself changed, that publication selects the full matrix.
 No historical validation command or archived experiment was deleted. Skipped
 checks must be described as skipped, and actual CI scope must accompany later
 validation claims. This policy adds no experimental allocation or treatment.
+
+## Windows job deadline, 2026-10-15
+
+At `f81a7a677aae5d2472ca70bc1868adeb4ad5ac32`,
+[run 38699292554](https://github.com/Happypig375/interactive-software-evolution/actions/runs/38699292554)
+passed Linux validation. Windows passed every preceding check but was cancelled
+at its 20-minute job deadline during the final C3 deterministic validation.
+That interrupted check has no completed result. The Windows job allowance is
+now 30 minutes to accommodate the existing suite; its commands, assertions,
+per-process limits and scope rules are unchanged. Verify the next containing
+commit before reporting Windows validation as passed.

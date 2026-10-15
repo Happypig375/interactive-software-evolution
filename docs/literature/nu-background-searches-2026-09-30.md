@@ -9012,3 +9012,73 @@ Scite `report_citations` was submitted once for `nu_jescala_dissertation_2026101
 The canonical S205 native note `9LW7Q42H` was conditionally updated from v4953 to **v6977** with exact readback. Parent `RFWD6G8J` v4960, its two collection memberships, PDF `TY27SXGM` v4956, sibling membership and other object fields remain unchanged. The prior access status is preserved as history. Private receipt: `.artifacts/s205-reading-20261015/zotero-note/verification-final.json`. Source/benchmark archives and the scoped exceptional/blocking-dependent monitor cases remain unresolved; follow them when a concrete coordination comparison requires them.
 
 The companion S142 canonical note `4HLXKAWX` was conditionally updated from v4951 to **v6980**, preserving its managed status/history and adding the completed S205 method/lineage continuation. Exact readback passed. Parent `Z8CPMTIR` v4955, PDF `R7E38U3P` v3613, personal sibling `P6RCKTVH` v3604, memberships and remaining object fields were unchanged. Receipt: `.artifacts/s205-reading-20261015/zotero-note-s142/verification-final.json`. This adds no S142 full-reading credit.
+
+## 2026-10-15 — S227 v2 method and edition comparison
+
+The official exact-version arXiv page identified the 2 October 2026 revision of
+*GUI Agents for Continual Game Generation*. Native collection preflight found
+only the existing v1 parent. V2 was registered as a separate `preprint` before
+body reading: parent `IIE3UT2H` v6981, repository arXiv, archiveID
+`2605.28258v2`, with the same eleven authors and S227 work lineage. A first
+registration script stopped after successful creation because Zotero reordered
+tags; recovery reused that sole v2 record without duplication.
+
+Direct authorized retrieval from `https://arxiv.org/pdf/2605.28258v2` yielded
+19 pages, 22,951,588 bytes, SHA256
+`fa3d387905033f1073dcfd4a6bea5cc5b78ea53718e640330cf254e9f11d3fe6`.
+The existing remote-Zotero integration's exact-hash check reused attachment
+`HDYABSRB` v6983 and verified stored bytes. Acquisition note `VGQW9JSD` v6984
+initially recorded identity-only coverage. The v1 parent `28BG5ATZ` v6125,
+attachment `54YSM7FI` v5243 and note `8EWIM8MT` v5251 were unchanged at that
+acquisition checkpoint.
+
+The [complete v2 reading](full-reading/S227-continual-gui-playtesting-v2.md)
+covers all19 pages, references and Appendices A–H, with12 visual pages covering
+all7 figures/10 tables. The embedded-font warning did not prevent text recovery;
+consequential layouts and values were visually checked. Parent acceptance
+revisited judge-validation/cost/grouping/human-comparison source pages and
+Figure6. The first note overstated GPT-5.4's plotted lead as all-round and
+understated the remaining group-threshold mismatch. Those interpretations were
+corrected against 300-DPI v1/v2 figures before publication: Human is slightly
+higher at rounds1–2, GPT-5.4 at rounds3–5; the nominal Large and Moderate panels
+appear interchanged relative to their printed gain thresholds. V1's selected
+figure wording was also corrected with dated provenance, without claiming a
+new complete v1 reading.
+
+V2 replaces the32-game judge validation with full200-game coverage, adds two
+alternative judges for one backbone and a partial inference-cost sample, and
+clarifies development versus final scoring. Favorable generation gains remain
+credited. Early-stop later-round populations, fractional-round aggregation,
+human-condition differences, total work and missing scaffold/raw rows remain
+explicit. Current full-work coverage stays **269 = 13 P + 3 A + 253 S**: a later
+edition and a selected-figure revisit add no work or independent-study count.
+
+The official website/repository were reopened only to check release identity.
+Current HTTP200 HTML is10,832 bytes with unchanged SHA256
+`d1ece8916a9346649807e17a727b6c600d4012966190f3495970c16c62cf67e2`;
+GitHub main still resolves to `8c5e1675fc25da0876e48dcbe1da5f5f4e57bed7`,
+dated27May2026. Prior296-blob/eight-demo static-gallery coverage therefore
+remains applicable at that pin. No tree/game bodies were reread or executed,
+and no absence beyond those routes is inferred. This was an exact-edition and
+release check, with no new broad search or Scite literature-search call.
+
+Scite `report_citations` was submitted once for `nu_s227_v2_method_20261015`:
+**2 cited,0 excluded,0 skipped**. The inspected `citation_report` agrees on two
+included full-text-stage edition units, with completev2 versus selectedv1
+coverage explicit, no missing reasons, no linkage warning and no truncation;
+answer-scoped retrieved count is null. Unchanged historical gallery/repository
+decisions were not resubmitted. Private acquisition, reading, source-difference,
+release and citation receipts are under `.artifacts/s227-v2-reading-20261015/`.
+The R05/R08 synthesis and next-action routes now distinguish this resolved
+primary-method dependency from actual Nu observation and scoring feasibility.
+
+Native synchronization then updated v2 note `VGQW9JSD` to **v7004** with exact
+accepted-source readback and acquisition history. Parent `IIE3UT2H` became
+**v7005** by changing only the pending-reading phrase and removing the queued
+tag. V1 note `8EWIM8MT` became **v7006**, preserving its original note and
+appending the dated figure correction and v2 pointer. V1 parent `28BG5ATZ`
+v6125 and both PDF objects/hashes remained exact; sibling sets, membership and
+exactly two title editions were verified. Private receipt:
+`.artifacts/s227-v2-reading-20261015/zotero-note-maintenance/final-verification.json`.
+This deliberate note maintenance follows, and does not contradict, the earlier
+unchanged-v1 acquisition audit.
