@@ -109,3 +109,7 @@ exactly-once guarantee. A consequential next runtime case should use an actual
 application lifecycle only when its phase, owner identity, trigger, horizon and
 effect observations are separately fixed. This probe does not by itself promote
 R05 or R13, and it did not construct an agent adapter or run a candidate model.
+
+## Fuller coordination method, 2026-10-15
+
+The completed [S205 dissertation](literature/full-reading/S205-jescala-dissertation-access.md) distinguishes event-graph propagation from per-group queue consumption, occurrence-dependent caller blocking and actor-backed serialization of proxy handlers. Its specialized FSM and monitor cases supply useful scoped performance evidence, not a Nu oracle or maintenance effect. The current probe does not test those contracts. A later practical comparison promising them must observe queue/group identity, actual order, sender/reaction thread, blocking/completion, registration/removal and failure behavior, and count instrumentation/synchronization/verification work. Do not add those mechanisms merely to enlarge this feasibility case.

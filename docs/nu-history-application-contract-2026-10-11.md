@@ -70,3 +70,7 @@ Continue independent source/task work on credible R02/R04 diversity and R01's co
 ## 2026-10-15 observed feasibility
 
 The [execution record](nu-history-feasibility-2026-10-15.md) now establishes one halted B0 checkpoint in actual functional Gaia/MMCC Breakout and a matched fresh-process reconstruction. It retains deadline and instrumentation failures and corrects the observer's synchronous-pause assumption. Complete model/property equality and both negative controls pass at the stated boundaries. This supersedes the historical launch/B0-access gap only for the instrumented bridge; ordinary agent access, B1 continuation, framebuffer/effect restoration and comparative costs remain unestablished.
+
+## 2026-10-15 bounded B1 result
+
+The [B1 record](nu-history-continuation-2026-10-15.md) subsequently passes one fixed twenty-step represented-state continuation, with exact local event order and complete model/selected-projection agreement. It reconstructs B0’s recorded values into new processes and retains a new history root; it does not resume the old process. A step-five managed wall bounce is observed without new application randomness. Native contact state, audio, framebuffer and replayed input remain untested. The next R03 gap is a practical recovery/repair comparison with complete work accounting and verified workflow access, rather than another generic snapshot inventory.

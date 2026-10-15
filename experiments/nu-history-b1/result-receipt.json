@@ -1,0 +1,219 @@
+{
+  "kind": "one seeded represented-state B1 history/fresh pair",
+  "nuPin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+  "platform": "Windows x64",
+  "dotnetSdk": "10.0.302",
+  "dotnetRuntime": "10.0.10",
+  "sourceIntegrity": {
+    "verifiedUtc": "2026-10-15T07:10:35.351324+00:00",
+    "pin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+    "filesChecked": 3240,
+    "differences": [
+      {
+        "file": "Nu/Nu.Gaia/Gaia.fs",
+        "original_sha256": "0cf653d4988ceefffd45935b37d0dcbcfb72c44bfd9ed47b3eb5ebd8ebc3b22e",
+        "current_sha256": "98e8c470c2795472f13a9ccf8f2c002b56be8235db40ca95c4a9fd3b07462012"
+      }
+    ],
+    "expectedDifference": "Nu/Nu.Gaia/Gaia.fs (existing B0 observer bridge only)"
+  },
+  "sourceReview": "Independent maintainer source review, then parent implementation/trace acceptance; no human or independent implementation replication.",
+  "buildAttempts": [
+    {
+      "id": "build-01",
+      "exitCode": 1,
+      "error": "FS0001, missing list-element separator in schedule observation; no runtime launched",
+      "warnings": 396
+    },
+    {
+      "id": "build-02",
+      "exitCode": 0,
+      "errors": 0,
+      "warnings": 243,
+      "fix": "Added the missing F# list-element semicolon; requirements unchanged."
+    }
+  ],
+  "runtimeAttempts": [
+    {
+      "id": "history-01",
+      "startedUtc": "2026-10-15T07:08:47Z",
+      "exitCode": 0,
+      "timedOut": false,
+      "deadlineSeconds": 600,
+      "processElapsedSeconds": 48.15600000000268,
+      "costInterpretation": "Run duration only; arms perform different work and this is not a cost comparison."
+    },
+    {
+      "id": "fresh-01",
+      "startedUtc": "2026-10-15T07:10:30Z",
+      "exitCode": 0,
+      "timedOut": false,
+      "deadlineSeconds": 600,
+      "processElapsedSeconds": 39.98399999999674,
+      "costInterpretation": "Run duration only; arms perform different work and this is not a cost comparison."
+    }
+  ],
+  "executedIdentities": {
+    "probeSha256": "da51b41675e0984773ffdf278791d8f7e7821dea5b287ca4c68c0383138bd505",
+    "applicationSha256": "fa67775802ab6f0f489709478a3e6493f6d2db9f38277fa945b58e8da2cac675",
+    "assemblies": {
+      "Nu.dll": "5bcf797de1ae15dc79f9a0f49b30d96247816f928b158a519f64cb563f8b8e3c",
+      "Nu.Gaia.dll": "2b0367cf986f053cdba03749d8ef0e75366ba9b220693d7a029a612fc106210f",
+      "Probe.dll": "17caeeff4a018743f31ae7e4b5fbaf5cd11e7ff6c3186ee1417ce936b1767ff5",
+      "FSharp.Core.dll": "517c1301e8cb5086fbe63a3c8879049933eb998b1569f754b1e653314ad51232"
+    },
+    "sourceFiles": {
+      "B1.fs": "69adfbb00de8499ad546b9e18033ae4651fd87d62fb6ba277f208d345113daa5",
+      "B1.fsproj": "dbd59d854291cf12648f227f7fba5b14958cbd5de6cfd64555d4ddf7b2b87547",
+      "run.py": "d2451e9cbf4a161aa1b6133306c175bbdc0569c83145873727b538ae2daeb1af",
+      "README.md": "b4a0d3a6a7299e9ec69e221709a886209b1318ab6d5f75b38bc4c15da402696b"
+    }
+  },
+  "observations": {
+    "pass": true,
+    "arms": [
+      {
+        "arm": "history",
+        "observedSteps": 20,
+        "schedules": 2,
+        "absoluteUpdates": 30,
+        "absoluteTimeUpdates": 30
+      },
+      {
+        "arm": "fresh",
+        "observedSteps": 20,
+        "schedules": 1,
+        "absoluteUpdates": 20,
+        "absoluteTimeUpdates": 20
+      }
+    ],
+    "completeModelsCompared": 20,
+    "selectedProjectionsCompared": 20,
+    "analysisNegativeControls": [
+      {
+        "kind": "projection",
+        "rejected": true
+      },
+      {
+        "kind": "step-order",
+        "rejected": true
+      },
+      {
+        "kind": "event-order",
+        "rejected": true
+      }
+    ],
+    "negativeControlScope": "Mutated in-memory observations, not additional application executions."
+  },
+  "finalSummary": {
+    "time": 169,
+    "score": 100,
+    "lives": 5,
+    "ballPosition": [
+      "C2EFD832",
+      "41B25458",
+      "00000000"
+    ],
+    "ballDirection": [
+      "3F5B043E",
+      "BF048B1B",
+      "00000000"
+    ],
+    "bricks": 29,
+    "ballPositionNumeric": [
+      -119.92225646972656,
+      22.291183471679688,
+      0.0
+    ],
+    "ballDirectionNumeric": [
+      0.8555334806442261,
+      -0.5177475810050964,
+      0.0
+    ]
+  },
+  "traces": [
+    {
+      "attempt": "history-01",
+      "traceSha256": "59aa39cfad8b085a3deadf1c3d241dae71715ba71536beec56b8f83676c81c79",
+      "traceBytes": 287734,
+      "directionXSteps": [
+        {
+          "step": 1,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 2,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 3,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 4,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 5,
+          "directionX": "3F5B043E"
+        },
+        {
+          "step": 6,
+          "directionX": "3F5B043E"
+        }
+      ]
+    },
+    {
+      "attempt": "fresh-01",
+      "traceSha256": "c6574e8f4a7791e8dc77f1eb062f1f76c61913291936aa1256059dd2c9aea15a",
+      "traceBytes": 254331,
+      "directionXSteps": [
+        {
+          "step": 1,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 2,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 3,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 4,
+          "directionX": "BF5B043E"
+        },
+        {
+          "step": 5,
+          "directionX": "3F5B043E"
+        },
+        {
+          "step": 6,
+          "directionX": "3F5B043E"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Seeded new live history root, not the closed B0 history-04 process.",
+    "One fixed prefix, no randomness consumed by application continuation.",
+    "No native rigid-body/contact, audio request/playback, framebuffer or complete WorldState equivalence.",
+    "Monitored absence of Left/Right input, not replayed/controlled keyboard input.",
+    "No ordinary agent access, repair benefit or comparative cost estimate."
+  ],
+  "privateEvidence": ".artifacts/r03-b1-20261015/",
+  "prospectiveContract": {
+    "file": "pre-execution-contract.md",
+    "sha256": "b4a0d3a6a7299e9ec69e221709a886209b1318ab6d5f75b38bc4c15da402696b",
+    "matchesExecutionReadme": true
+  },
+  "outputGuard": {
+    "returnCode": 1,
+    "existingOutputUnchanged": true,
+    "filesChecked": 4
+  },
+  "comparisonSha256": "99e8a7d1ef1fd7fc4040926ad97f82201e8eac5a11937bab784cbec5eedacf76",
+  "comparisonImplementationSha256": "c69b08222d51643a8e91ffde82d6651190ad5d18f8fd4c5c30697a1c9f9c504f",
+  "postRunCorroboration": "Parent independently parsed both B0 observations as identical to seed at unchanged10/10 counters; drift end also matches continuation step10. The latter is a post-run check, not an added prospective endpoint."
+}

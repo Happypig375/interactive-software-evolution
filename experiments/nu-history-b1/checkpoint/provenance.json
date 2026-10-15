@@ -1,0 +1,19 @@
+{
+  "sourceAttempt": "R03 B0 history-04",
+  "sourceRevision": "d23adcc40e368f77791fab6c4bc897a7fee43b62",
+  "nuPin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+  "scope": "Serialized represented model and selected projection only; the original process and live WorldState root no longer exist.",
+  "copiedUtc": "2026-10-15T07:01:11.036772+00:00",
+  "files": [
+    {
+      "file": "gameplay.symbol",
+      "bytes": 2062,
+      "sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+    },
+    {
+      "file": "projection.json",
+      "bytes": 5859,
+      "sha256": "f62c9f3a906905f844e8b5dc58593bb99392f62293cee0899cc54bcfc8dd3cbd"
+    }
+  ]
+}
