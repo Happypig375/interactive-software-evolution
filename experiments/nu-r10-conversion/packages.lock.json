@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "FSharp.Core": {
+        "type": "Direct",
+        "requested": "[10.1.302, )",
+        "resolved": "10.1.302",
+        "contentHash": "bN7XMQrAQg1dyHScJ7FcsznERBkvm74LtIo1O6C5mUzgbDqSwNbDpb3+nBGaJAjDmtC/suK5Vx5pFysKY6Hm+Q=="
+      },
+      "Prime": {
+        "type": "Direct",
+        "requested": "[11.5.1, 11.5.1]",
+        "resolved": "11.5.1",
+        "contentHash": "Dxvje++XxdbfI9uAoIBUPkRQqK+7Fjo4EnYiP2/3AgzBWtQtEtsEr6dlDxwgaPRyiyegf+R3bg0SiDvj1a+65A==",
+        "dependencies": {
+          "Csv": "2.0.93",
+          "FParsec": "1.1.1",
+          "FSharp.Core": "9.0.300"
+        }
+      },
+      "Csv": {
+        "type": "Transitive",
+        "resolved": "2.0.93",
+        "contentHash": "3KD+VCDn1yKZFrGgi7KS8BxqfpFbX3Pfz+jqHq6a1A/V9HvSmn3VazlSLdOu6Whiopso3lcUhgL4qkalBgIz1Q=="
+      },
+      "FParsec": {
+        "type": "Transitive",
+        "resolved": "1.1.1",
+        "contentHash": "Wdjf/gCNLEwd+0nUCDh9jAIIcKGwfhRramySTnTcVVgNC6i4Vp5aJklUJJfvFkEZMYNZEDGcI8pCa36/TmwmSg==",
+        "dependencies": {
+          "FSharp.Core": "4.3.4"
+        }
+      }
+    }
+  }
+}

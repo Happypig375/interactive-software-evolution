@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "protocol": "r10-prime-conversion-v1",
+  "recordedDate": "2026-10-15",
+  "publicationCheck": {
+    "completed": true,
+    "dotnetSdk": "10.0.302",
+    "fsharpInteractive": "15.2.302.0 for F# 10.0",
+    "targetFramework": "net8.0",
+    "lockedRestoreExitCode": 0,
+    "releaseBuildExitCode": 0,
+    "buildWarnings": 0,
+    "buildErrors": 0,
+    "runExitCode": 0,
+    "passedCases": 8,
+    "totalCases": 8,
+    "matchesOriginalCaseOutcomes": true
+  },
+  "source": {
+    "programSha256": "4002E922267215B03191ABB049A1E032460333C631AB2E4C92AEB43A2844741F",
+    "projectSha256": "AC468F827F0A1CA3A6AE6918E4A66BA84BB6EEC7D3AE5A9955C62D8F8A213DF6",
+    "lockFileSha256": "16D1841C0829F35F2DB8F45A06855CBD6CD818A4A7E540E7A2D147E18EBE05DA",
+    "preExecutionContractSha256": "FBBFE84D32068E4C246E7776D06DE51040936C2B0DE3EA2BCC0527993A837BC7"
+  },
+  "dependency": {
+    "name": "Prime",
+    "packageVersion": "11.5.1",
+    "assemblyVersion": "11.5.1.0",
+    "fileVersion": "11.5.1.0",
+    "informationalVersion": "11.5.1+4026f3156865d536d0c4d36f1dc361485df8117a",
+    "loadedDllSha256": "61A67158910296D92E22CF4C4D7EC9EDB194C55AB00098534850E281E370C787"
+  },
+  "observations": {
+    "rawV0ToV1": {
+      "sevenFieldsRetained": true,
+      "brickReward": 0,
+      "fallbackUsed": false
+    },
+    "proposedExplicitV0Mapping": {
+      "sevenFieldsRetained": true,
+      "brickReward": 200
+    },
+    "repeatV1": {
+      "reward200RetainedAcrossTwoConversions": true,
+      "reward0RetainedAcrossTwoConversions": true,
+      "reward75RetainedAcrossTwoConversions": true
+    },
+    "freshV1": {
+      "score": 0,
+      "lives": 5,
+      "brickReward": 200
+    },
+    "nestedPositionalReorder": {
+      "destinationSize": 110,
+      "destinationPosition": 64,
+      "semanticSwapObserved": true
+    },
+    "renamedActiveCase": {
+      "exceptionType": "Prime.ConversionException",
+      "fallbackUsed": true,
+      "fallbackScore": 0,
+      "fallbackLives": 5
+    },
+    "unknownEditionOutcome": "Error"
+  },
+  "scope": "Prime conversion and proposed isolated symbolic mapping with representative integer nested values; no Nu/Gaia reload, supported insertion point, actual MMCC Vector3/Color/reference conversion, mutable model boundary, effects, resumed behavior, or benefit result.",
+  "publicationFormatting": {
+    "change": "Removed empty lines at EOF after execution. All preceding bytes unchanged. Existing source/build hashes retain executed inputs; hashes below identify formatted working-copy files. No semantic change or new run claimed.",
+    "files": [
+      {
+        "file": "R10ConversionProbe.fsproj",
+        "executed_or_original_sha256": "ac468f827f0a1ca3a6ae6918e4a66ba84bb6eec7d3ae5a9955c62d8f8a213df6",
+        "published_sha256": "88ca0c5de294bb40aa8c23ebd77d5fdbf8feb4792640bfc5486e78921262aa70"
+      },
+      {
+        "file": "README.md",
+        "executed_or_original_sha256": "613023872636a904266b9caf9ce40f93702d22480c96d16a27d4cd52b1a48a40",
+        "published_sha256": "36787959c534537441c2e736c85adbe40b64a3bffa7abbd893dc3889fe9f6ac2"
+      },
+      {
+        "file": "pre-execution-contract.md",
+        "executed_or_original_sha256": "fbbfe84d32068e4c246e7776d06de51040936c2b0de3ea2bcc0527993a837bc7",
+        "published_sha256": "cbe4e41e62064a0e70ab8f354f5f0f619d061ce4a69011f8befe75c5163c4dea"
+      }
+    ]
+  }
+}

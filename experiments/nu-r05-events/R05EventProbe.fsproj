@@ -1,0 +1,66 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <NuGetAudit>false</NuGetAudit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Nu">
+      <HintPath>$(NuSourceRoot)\Nu\Nu\bin\Release\net10.0\Nu.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="Nu.Math">
+      <HintPath>$(NuSourceRoot)\Nu\Nu\bin\Release\net10.0\Nu.Math.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="Nu.Spine">
+      <HintPath>$(NuSourceRoot)\Nu\Nu\bin\Release\net10.0\Nu.Spine.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="AssimpNet">
+      <HintPath>$(NuSourceRoot)\Nu\Nu.Dependencies\AssimpNet\netstandard2.1\AssimpNet.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="BulletSharpPInvoke">
+      <HintPath>$(NuSourceRoot)\Nu\Nu.Dependencies\BulletSharpPInvoke\netstandard2.1\BulletSharp.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="OpenGL.Net">
+      <HintPath>$(NuSourceRoot)\Nu\Nu.Dependencies\OpenGL.NET\lib\netcoreapp2.2\OpenGL.Net.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="TiledSharp">
+      <HintPath>$(NuSourceRoot)\Nu\Nu.Dependencies\TiledSharp\lib\netstandard2.0\TiledSharp.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <PackageReference Include="Aether.Physics2D" Version="2.2.0" />
+    <PackageReference Include="AstcEncoderCSharp" Version="5.3.1-alpha.0.4" />
+    <PackageReference Include="Box2D.NET" Version="3.1.1.557" />
+    <PackageReference Include="BCnEncoder.Net" Version="2.2.1" />
+    <PackageReference Include="DotRecast.Recast.Toolset" Version="2026.1.1" />
+    <PackageReference Include="JoltPhysicsSharp" Version="2.19.5" />
+    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.14.0" />
+    <PackageReference Include="Pfim" Version="0.11.4" />
+    <PackageReference Include="Prime" Version="11.5.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.1" />
+    <PackageReference Include="System.Drawing.Common" Version="10.0.1" />
+    <PackageReference Include="Twizzle.ImGui-Bundle.NET" Version="1.91.5.2" />
+    <PackageReference Include="ppy.SDL3-CS" Version="2026.302.0" />
+    <PackageReference Include="ppy.SDL3_ttf-CS" Version="2026.302.0" />
+    <PackageReference Include="ppy.SDL3_image-CS" Version="2026.302.0" />
+    <PackageReference Include="ppy.SDL3_mixer-CS" Version="2026.302.0" />
+    <PackageReference Update="FSharp.Core" Version="10.1.300" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(NuSourceRoot)\Nu\Nu\assimp.dll" Link="assimp.dll" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="$(NuSourceRoot)\Nu\Nu\libbulletc.dll" Link="libbulletc.dll" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="$(NuSourceRoot)\Nu\Nu\zlib1.dll" Link="zlib1.dll" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+  <Target Name="RequireNuSourceRoot" BeforeTargets="ResolveReferences">
+    <Error Condition="'$(NuSourceRoot)' == ''" Text="Pass -p:NuSourceRoot=&lt;absolute Nu source root&gt;." />
+  </Target>
+</Project>

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "protocol": "r01-ordinary-platform-v1",
+  "recordedDate": "2026-10-15",
+  "reproduction": {
+    "completed": true,
+    "privateOutputDirectory": ".artifacts/r01-platform-20261015/reproduction-attempt-3",
+    "summarySha256": "7F8E05FB48046D1F50AEDA5E8CFFA4D666F2B366A4E17E6B8E473019C7537A96",
+    "stationaryTraceSha256": "FA73315E34A007FF16705430108D95164BC93E09FBF545BAFFE7862A37B21FAD",
+    "movingTraceSha256": "E715CEC5B7AF4383571CB48CC4B5E96C369EA8A3D133FD62D3E85B54A000E61E",
+    "tracesMatchOriginalAndPriorReproduction": true,
+    "nonemptyOutputDirectoryRejectedBeforeSimulation": true
+  },
+  "source": {
+    "programSha256": "2F707D4F53C71AAC97AAE28F4E1069FE220461954AE38890EE97904753473B54",
+    "nuSourceCommitInspectedReadOnly": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+    "dependency": "Box2D.NET 3.1.1.557",
+    "dependencyInformationalVersion": "1.0.0+d72ce440f6d409c3e15720a66b060051e7fdb87d",
+    "loadedAssemblySha256": "E5DCFE35346DA43E1E476E056721C7D5B6E617A13F5C4736C3B17A6E2A5FE5BF"
+  },
+  "authoredDecisionRule": {
+    "stationaryRelativeDriftToleranceH": 0.01,
+    "movingRelativeDriftToleranceH": 0.05,
+    "movingPlatformTravelToleranceH": 0.01,
+    "minimumSupportedObservationUpdates": 114,
+    "totalObservationUpdates": 120,
+    "supportRequiresPositiveManifoldPointCount": true,
+    "externallyValidatedDefinitionOfUsefulCarrying": false
+  },
+  "observations": {
+    "stationary": {
+      "supportedAtSettlingBoundary": true,
+      "supportedAtFinalBoundary": true,
+      "supportedObservationUpdates": 120,
+      "platformDisplacementH": 0.0,
+      "riderDisplacementH": 0.0,
+      "relativeHorizontalDriftH": 0.0,
+      "finalRiderVelocityHPerSecond": 0.0,
+      "finalPlatformVelocityHPerSecond": 0.0,
+      "conditionPass": true
+    },
+    "moving": {
+      "supportedAtSettlingBoundary": true,
+      "supportedAtFinalBoundary": true,
+      "supportedObservationUpdates": 120,
+      "platformDisplacementH": 1.9999988,
+      "riderDisplacementH": 1.9000956,
+      "finalRiderMinusPlatformOffsetH": -0.099903226,
+      "absoluteRelativeHorizontalDriftH": 0.099903226,
+      "finalRiderVelocityHPerSecond": 1.0,
+      "finalPlatformVelocityHPerSecond": 1.0,
+      "conditionPass": false
+    }
+  },
+  "outcome": {
+    "stationaryControlValid": true,
+    "dependencyCarryPositive": false,
+    "scope": "Adverse result for the frozen instantaneous-start, default-friction dependency case; not a general Box2D.NET defect or Nu-world, gameplay, usability, or comparator result."
+  },
+  "publicationFormatting": {
+    "change": "Removed empty lines at EOF after execution. All preceding bytes unchanged. Existing source/build hashes retain executed inputs; hashes below identify formatted working-copy files. No semantic change or new run claimed.",
+    "files": [
+      {
+        "file": "PROTOCOL.md",
+        "executed_or_original_sha256": "8327f0ff4f58c5d80a2a97bfe4544875cb491c1fb0817af98cfc6e06a196d2b7",
+        "published_sha256": "95e95dbea6ea1878000c004cf264b641781f1742c6c80ef8ec283fe28e0d6b93"
+      },
+      {
+        "file": "README.md",
+        "executed_or_original_sha256": "56e495443c8a912a85760020ccc105fe370ff6f19c8b12aaefe2db2181a76f84",
+        "published_sha256": "a574519e217005b3720b7c560e1013edf5e36a134f96687fd1425e779c7b7982"
+      },
+      {
+        "file": "nu-r01-platform.csproj",
+        "executed_or_original_sha256": "7528fb336c4fcce47eec8ad4fa87701ef6492dab41d51669b4da60a02fb6008b",
+        "published_sha256": "56036c46c471d738bd9ccb3116c27ff71f22519d38ec1b3c2e6797430ffcc3f7"
+      },
+      {
+        "file": "packages.lock.json",
+        "executed_or_original_sha256": "f3d78104940ebf2ccd92b3c050eaac2a3d3316d7510eb0f4e537b1d695d96e80",
+        "published_sha256": "05ebd9ffe5d3c7412e8d96d65b23a8c9583e1c10c485f604c7ad62da7a6db806"
+      }
+    ]
+  }
+}

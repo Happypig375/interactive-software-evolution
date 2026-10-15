@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "protocol": "nu-r05-events-v1",
+  "recordedDate": "2026-10-15",
+  "nuSource": {
+    "pin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+    "archiveSha256": "EB0AA77197DE1971D79AA0657C2AF5CF33B99BA8302A24BA44F3306CCA4BF92B",
+    "filesChecked": 3240,
+    "mismatches": 0
+  },
+  "nuAssembly": {
+    "initialBuildSha256": "34333D868469A76E686B4651E0329BE810505FB2EEB6FC6576E0AD68EE239DE5",
+    "initialEmbeddedProductVersion": "1.0.0+49ff4d9b42a89b074f3892585f88a6a1e618d533",
+    "initialMetadataInterpretation": "Verified 064f7ae source built under an enclosing Git worktree whose revision was inherited as SourceRevisionId; retained as a provenance defect, not evidence of different source contents.",
+    "correctedBuildSha256": "E96CD61D188C689F7E39E2670B4D8582E26B9EA2DC95E1A15056891B7C99CD68",
+    "correctedProductVersion": "1.0.0+064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+    "assemblyVersion": "1.0.0.0"
+  },
+  "preservedFirstRuntimeAttempt": {
+    "exitCode": 1,
+    "cascadeExpected": "group,screen,game",
+    "cascadeActual": "game,screen,group",
+    "resolveExpected": "group,screen",
+    "resolveActual": "game,screen",
+    "explicitUnsubscribeExpected": "plain:before",
+    "explicitUnsubscribeActual": "plain:before",
+    "disposition": "The predeclared ascending-order assumption was false. Pinned SortPriority.compare orders larger elevation first; the observer specification was corrected before the final run."
+  },
+  "publicationCheck": {
+    "dotnetSdk": "10.0.302",
+    "runtime": ".NET 10.0.10",
+    "restoreExitCode": 0,
+    "buildExitCode": 0,
+    "buildWarnings": 0,
+    "buildErrors": 0,
+    "runExitCode": 0,
+    "nonemptyOutputRejected": true,
+    "probeAssemblySha256": "FE069EE87FE52A5012B6767E4C033FC8052B2887AA46A476E022C9B9B14B26DC",
+    "loadedNuDllSha256": "E96CD61D188C689F7E39E2670B4D8582E26B9EA2DC95E1A15056891B7C99CD68"
+  },
+  "loadedPrime": {
+    "assemblyVersion": "11.5.1.0",
+    "informationalVersion": "11.5.1+4026f3156865d536d0c4d36f1dc361485df8117a",
+    "sha256": "61A67158910296D92E22CF4C4D7EC9EDB194C55AB00098534850E281E370C787"
+  },
+  "observations": {
+    "cascadePriority": {
+      "expected": "game,screen,group",
+      "actual": "game,screen,group",
+      "passed": true
+    },
+    "resolveStop": {
+      "expected": "game,screen",
+      "actual": "game,screen",
+      "passed": true
+    },
+    "publisherNeutralExplicitUnsubscribe": {
+      "expected": "plain:before",
+      "actual": "plain:before",
+      "passed": true
+    }
+  },
+  "source": {
+    "programSha256": "EA078372C38268D1C9E6F7BEFD59407360CA0CBA9DE0226043FB94D7E7D0D11A",
+    "projectSha256": "7203A05B09FABF4C977B03D526ED525FA702CBEC356C84DEEA092F879F317508",
+    "protocolSha256": "CD847C2ADB18110BF7C57538899FD11EAA01553A710FF2CB789C7D8E6C129F96",
+    "readmeSha256": "9C6AD713383796380B00103C101C448F7D1A34983B41B0F0DD55FB79CB88B5C0",
+    "runnerSha256": "34249E6CF6322B01AF0D92633B9F4714B4F7CF2331A55F7EF716F6AF436DB8CD",
+    "globalJsonSha256": "F3D52C907F4D8406AAB2E94BD7F580DA9E2DEFF0D2E297BD00607532A7EEBBA4"
+  },
+  "scope": "Compiled Nu event delivery in a stub World for exact-address subscriber elevation order, Cascade versus Resolve, publisher-neutral delivery through a never-created Screen handle, and explicit plain-subscription removal. No wildcard-specific ordering, unsorted publication, selected-only filtering, monitor cleanup, actual entity destruction, ImSim sweeping, full game loop, transition/input/native behavior, performance, benefit, agent adapter, or whole-application correctness result.",
+  "publicationFormatting": {
+    "change": "Removed empty lines at EOF after execution. All preceding bytes unchanged. Existing source/build hashes retain executed inputs; hashes below identify formatted working-copy files. No semantic change or new run claimed.",
+    "files": [
+      {
+        "file": "PROTOCOL.md",
+        "executed_or_original_sha256": "cd847c2adb18110bf7c57538899fd11eaa01553a710ff2cb789c7d8e6c129f96",
+        "published_sha256": "884df4712bbe15b32429a16b85395bff6c8769a3e1fde4527499f7797b5cb737"
+      },
+      {
+        "file": "Program.fs",
+        "executed_or_original_sha256": "ea078372c38268d1c9e6f7befd59407360ca0cba9de0226043fb94d7e7d0d11a",
+        "published_sha256": "a437a1a54617c10a91b078b7d0e5badeb952abbfec6d66e46d64967327910a5e"
+      },
+      {
+        "file": "R05EventProbe.fsproj",
+        "executed_or_original_sha256": "7203a05b09fabf4c977b03d526ed525fa702cbec356c84deea092f879f317508",
+        "published_sha256": "731c7256d00579f150aaf2eab44cb137dcb3ee45ca8d9577f0b179d77aeb42bb"
+      },
+      {
+        "file": "README.md",
+        "executed_or_original_sha256": "9c6ad713383796380b00103c101c448f7d1a34983b41b0f0dd55fb79cb88b5c0",
+        "published_sha256": "a5fef34eaf9f1b15af1d3fac9e5653e58b7ef42283377a48e2b47e12c052b401"
+      },
+      {
+        "file": "global.json",
+        "executed_or_original_sha256": "f3d52c907f4d8406aab2e94bd7f580da9e2deff0d2e297bd00607532a7eebba4",
+        "published_sha256": "1e23a26d555754d3c37fcf4fc27e0633e0e7b2c24e041f30c3d053227936a5cc"
+      },
+      {
+        "file": "run-probe.ps1",
+        "executed_or_original_sha256": "34249e6cf6322b01af0d92633b9f4714b4f7cf2331a55f7ef716f6af436db8cd",
+        "published_sha256": "85c58584af570d326e179c4543d8715eb329ebc060a32a57fd8f27d8eb810445"
+      }
+    ]
+  }
+}

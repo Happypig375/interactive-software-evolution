@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "Box2D.NET": {
+        "type": "Direct",
+        "requested": "[3.1.1.557, )",
+        "resolved": "3.1.1.557",
+        "contentHash": "uNe7DBFX9pX3twdKhgL2MS1qOeV6EQjG6Hr/QibJhk/Wx2Izb/qlyNXQmrrOZH+5A3t9l/tHZGrIkIq6mmB2nQ=="
+      }
+    }
+  }
+}

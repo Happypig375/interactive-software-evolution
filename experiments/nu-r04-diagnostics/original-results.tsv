@@ -1,0 +1,7 @@
+case	build_exit	run_exit	unique_fs0025	raw_fs0025_log_mentions	behavior
+baseline	0	0	0	0	8 samples; 0 explicit/wildcard mismatches
+successor-distinct-explicit	0	2	1	2	ReadyToServe raised Microsoft.FSharp.Core.MatchFailureException
+successor-distinct-catchall	0	1	0	0	ReadyToServe paddle oracle failed: actual 12; expected 16
+successor-distinct-explicit-wrong	0	1	0	0	ReadyToServe paddle oracle failed: actual 12; expected 16
+successor-fallback-explicit	0	2	1	2	Paused raised Microsoft.FSharp.Core.MatchFailureException
+successor-fallback-catchall	0	0	0	0	Paused identity oracle passed

@@ -1,0 +1,7 @@
+case	build_exit	run_exit	unique_fs0025	raw_fs0025_log_mentions	matches_original_receipt
+baseline	0	0	0	0	True
+successor-distinct-explicit	0	2	1	2	True
+successor-distinct-catchall	0	1	0	0	True
+successor-distinct-explicit-wrong	0	1	0	0	True
+successor-fallback-explicit	0	2	1	2	True
+successor-fallback-catchall	0	0	0	0	True

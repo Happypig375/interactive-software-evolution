@@ -4,6 +4,8 @@
 
 The first comparison should establish correct recovery of a noninitial declared state, then account for the work needed to reach it. A later debugging extension would need real faults, permitted agent access and an independent repair endpoint. A toy model restoring successfully alone would not establish a consequential research contribution or human benefit.
 
+**Execution continuation, 2026-10-15:** the user has now authorized confident construction and experiments. The [bounded feasibility record](nu-history-feasibility-2026-10-15.md) carries the first local B0 work and actual outcomes. Statements below about held execution describe the original 2026-10-11 audit; they do not override the newer authority in PLAN. The observation and comparison requirements remain in force.
+
 ## Source and execution eligibility
 
 All Nu references use `064f7ae92a8506689cd91aff5e6804a375d6ef3d`. Nineteen pinned files were acquired and hashed locally; selected bodies were inspected, with eighteen new/material source decisions. Earlier generic `World.switch` evidence is reused without another screening credit. The [search ledger](literature/nu-background-searches-2026-09-30.md) records actual ranges. No new publication, Zotero mutation, compiler/runtime probe, baseline or observer was added.
@@ -64,3 +66,7 @@ These are specification examples, not executed traces, injected faults, independ
 R03 now has a selected first application, mode, represented-value boundary, checkpoint policy, continuation limits and same-work comparator requirement. **B0 feasibility remains conditional on launch, phase/access and model/content correspondence; B1 additionally needs controlled input/timing and the selected horizon.** The agent extension remains deferred: in-process getters, Gaia's console and a GUI history list do not establish a permitted agent transport. No adapter or task-solving observer should be inferred from this design.
 
 Continue independent source/task work on credible R02/R04 diversity and R01's common requirements. Revisit a literature method only when it changes the selected comparison or observation contract. Exact native build/replay work is consequential if a promoted case actually promises native continuation. The next step for this specific B0 contract is a separately reviewable feasibility/construction decision; more generic snapshot reading cannot certify a runtime, repair benefit or useful effect size.
+
+## 2026-10-15 observed feasibility
+
+The [execution record](nu-history-feasibility-2026-10-15.md) now establishes one halted B0 checkpoint in actual functional Gaia/MMCC Breakout and a matched fresh-process reconstruction. It retains deadline and instrumentation failures and corrects the observer's synchronous-pause assumption. Complete model/property equality and both negative controls pass at the stated boundaries. This supersedes the historical launch/B0-access gap only for the instrumented bridge; ordinary agent access, B1 continuation, framebuffer/effect restoration and comparative costs remain unestablished.
