@@ -1,0 +1,888 @@
+{
+  "date": "2026-10-15",
+  "pin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+  "status": "complete-two-arm-bounded-feasibility-pass",
+  "decision": "Both unchanged pinned applications completed the frozen synthetic Play / Gameplay / Quit / Title / fresh-Play lifecycle once within fixed callback and wall bounds. Both secondary exact-initializer diagnostics passed.",
+  "frozen_inputs": {
+    "archive": {
+      "path": "A:\\nu-value-research\\.artifacts\\r03-feasibility-20261015\\nu-064f7ae.tar",
+      "bytes": 998277120,
+      "sha256": "eb0aa77197de1971d79aa0657c2af5cf33b99ba8302a24ba44f3306cca4bf92b"
+    },
+    "source_manifest": {
+      "path": "source-input-manifest.json",
+      "files": 3240,
+      "sha256": "bcdac43ef77a4138863cb7800954b55b18ebe733d68c9ffc536a18eb33a9ac08"
+    },
+    "unchanged_application_manifests": {
+      "mmcc": {
+        "files": 159,
+        "sha256": "04be72819f6c40e87dd71ade056e0ecdff7520b1823c00384781c4956db8747f",
+        "manifest": {
+          "path": "mmcc-unchanged-application-manifest.json",
+          "bytes": 26300,
+          "sha256": "39174d033c2974e99b0453d075f7b82accabbe33649d3633575e4bb9d0726692"
+        }
+      },
+      "imsim": {
+        "files": 158,
+        "sha256": "d3217d7fe6b2cf9dc9d3708f57ae831d855f10cfbcb2cd3b68f12e9391a0e7da",
+        "manifest": {
+          "path": "imsim-unchanged-application-manifest.json",
+          "bytes": 26163,
+          "sha256": "b815e8de47d394b29d345bcd195ff77469e53b577bd7cefc1881739c52a07c13"
+        }
+      }
+    },
+    "public_inputs": {
+      "global.json": {
+        "bytes": 105,
+        "sha256": "0588e32d44bdf884e0305ded21820b13a59b1518efd39976c34d909eff3b1044"
+      },
+      "Probe.fsproj": {
+        "bytes": 1510,
+        "sha256": "6bb64a6438f5d1b3b70247cc1d956b8ba5fcb18684bd993fb2f0c84d4c360970"
+      },
+      "Common.fs": {
+        "bytes": 7532,
+        "sha256": "3a90f25f5bb800f580d08b5e265dc4c9a7b66c20ddb7eae1a9813f74fae856d7"
+      },
+      "Probe.fs": {
+        "bytes": 45275,
+        "sha256": "5cabbc8a738a733ad7603dbf774708382e9b3b76c57730f10649433346269120"
+      },
+      "pre-execution-contract.md": {
+        "bytes": 11177,
+        "sha256": "8cb96291c171ee6a6654278cfad7e6b165c3cd90f50108b87baae209f1e4b959"
+      },
+      "initializer-diagnostic-addendum.md": {
+        "bytes": 2404,
+        "sha256": "773e4557bfa1c4eccf447646a745bb754bbb512a6b4d3d896879be937db5af18"
+      },
+      "prepare.py": {
+        "bytes": 5101,
+        "sha256": "c53cdd48915faa484251175474ff0179cd1b7143c72e7cce86003b378786edd2"
+      },
+      "build.py": {
+        "bytes": 8980,
+        "sha256": "dc4854cd5f5982358c6e174f9791fb896dee38752e81899973eb88edafc3d926"
+      },
+      "run.py": {
+        "bytes": 7612,
+        "sha256": "434e9251fdd62521358c03f22bf16c2d23161b2f6b8b63326b25b0134dfd685e"
+      }
+    },
+    "contract": {
+      "path": "experiments/nu-r02-standalone-lifecycle/pre-execution-contract.md",
+      "bytes": 11177,
+      "sha256": "8cb96291c171ee6a6654278cfad7e6b165c3cd90f50108b87baae209f1e4b959"
+    },
+    "initializer_addendum": {
+      "path": "experiments/nu-r02-standalone-lifecycle/initializer-diagnostic-addendum.md",
+      "bytes": 2404,
+      "sha256": "773e4557bfa1c4eccf447646a745bb754bbb512a6b4d3d896879be937db5af18"
+    }
+  },
+  "final_build": {
+    "sdk": "10.0.302",
+    "original_source_inputs_checked": 3240,
+    "original_source_input_mismatches": [],
+    "warnings_per_arm": {
+      "mmcc": 270,
+      "imsim": 270
+    },
+    "errors_per_arm": {
+      "mmcc": 0,
+      "imsim": 0
+    },
+    "diagnostic_codes": {
+      "mmcc": [
+        "NU1901",
+        "NU1902"
+      ],
+      "imsim": [
+        "NU1901",
+        "NU1902"
+      ]
+    },
+    "host_files_per_arm": {
+      "mmcc": 349,
+      "imsim": 349
+    },
+    "assemblies": {
+      "mmcc": {
+        "probe": {
+          "path": "source/Projects/Breakout Mmcc/bin/Release/net10.0/StandaloneLifecycleProbe.dll",
+          "bytes": 67072,
+          "sha256": "71c844795a76662f6eb7027fae8c9ace51049e5e0db81752d39bed1b3c5a80a8",
+          "assembly_name": "StandaloneLifecycleProbe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "application": {
+          "path": "source/Projects/Breakout Mmcc/bin/Release/net10.0/Breakout Mmcc.dll",
+          "bytes": 52224,
+          "sha256": "08b1b29c58418051c8b47e7cdebda8afdd36953771ba44e44c0d5c881cce620c",
+          "assembly_name": "Breakout Mmcc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "nu": {
+          "path": "source/Projects/Breakout Mmcc/bin/Release/net10.0/Nu.dll",
+          "bytes": 4949504,
+          "sha256": "d0b3f01a0916120be18ab4e0c5e74cde867dd6809cf3457eb1344a0d55560958",
+          "assembly_name": "Nu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        }
+      },
+      "imsim": {
+        "probe": {
+          "path": "source/Projects/Breakout ImSim/bin/Release/net10.0/StandaloneLifecycleProbe.dll",
+          "bytes": 70144,
+          "sha256": "dd9a7c215c43b84ff99810ea3812a48cbf2e607866c0d2da1307d10308242e07",
+          "assembly_name": "StandaloneLifecycleProbe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "application": {
+          "path": "source/Projects/Breakout ImSim/bin/Release/net10.0/Breakout ImSim.dll",
+          "bytes": 38400,
+          "sha256": "a200add9c378bc9e71cc788137ceaa0ef5ac836ee242fd3bf035321348308894",
+          "assembly_name": "Breakout ImSim, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        "nu": {
+          "path": "source/Projects/Breakout ImSim/bin/Release/net10.0/Nu.dll",
+          "bytes": 4949504,
+          "sha256": "d0b3f01a0916120be18ab4e0c5e74cde867dd6809cf3457eb1344a0d55560958",
+          "assembly_name": "Nu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        }
+      }
+    },
+    "receipt": {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-05/build-attempt-01/build-receipt.json",
+      "bytes": 148909,
+      "sha256": "a60b2b7fb244da88f9b0a38bd09d4555259a508a5aafc71503e804ac511eba84"
+    }
+  },
+  "history": [
+    {
+      "stage": "preflight-01",
+      "outcome": "preparation failure before probe copy/build: incorrect expected application aggregate constants",
+      "receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-01/attempt-result.json",
+        "bytes": 711,
+        "sha256": "3525baef91c756b29f2bf89596bbea3c97be75d2e385014dfb022a06c8774d1c"
+      }
+    },
+    {
+      "stage": "preflight-02",
+      "outcome": "preparation passed; superseded before build by source-note and identity-chain corrections",
+      "prepare_receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-02/prepare-receipt.json",
+        "bytes": 2101,
+        "sha256": "cfff9692b5cf96016088688e665e54128c4235a1f7c21b2c948a483822e7ff24"
+      },
+      "supersession": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-02-supersession.json",
+        "bytes": 734,
+        "sha256": "d1ceffdea3cf1535bcca690daad91cf004ec49158cf5e22f5a615742371d3fe8"
+      }
+    },
+    {
+      "stage": "preflight-03",
+      "outcome": "full build retained: MMCC exit1 272 warnings/71 errors; ImSim exit1 272 warnings/73 errors",
+      "receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-03/build-attempt-01/build-receipt.json",
+        "bytes": 5972,
+        "sha256": "936906fcebffc4dd1ed192d5659bb9aac76396b1ab72dea45668b52429bd9aee"
+      }
+    },
+    {
+      "stage": "probe-repair-01",
+      "outcome": "probe-only compile retained: both arms exit1 with two remaining ref-parameter inference errors",
+      "receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/probe-repair-01/receipt.json",
+        "bytes": 2618,
+        "sha256": "1c84fb95e82b2826fad9746552f4e9115c1ddba802671933dee195e9c166674f"
+      }
+    },
+    {
+      "stage": "probe-repair-02",
+      "outcome": "probe-only compile passed both arms against the unchanged preflight-03 built dependency graph",
+      "receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/probe-repair-02/receipt.json",
+        "bytes": 2618,
+        "sha256": "5592abf630b1588219bb5810f4104d92552e16bc91a044741833d4fe7e18d3d3"
+      }
+    },
+    {
+      "stage": "preflight-04",
+      "outcome": "both builds passed with 270 warnings/0 errors, but spaced-path quoting made all assembly_name metadata unavailable; not accepted as final",
+      "receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-04/build-attempt-01/build-receipt.json",
+        "bytes": 151342,
+        "sha256": "8fc38a6598a568321b6bacb194c99c5bf6992f76ea97fb3855c5201b463cf478"
+      },
+      "metadata_addendum": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-04/build-attempt-01/assembly-identity-addendum.json",
+        "bytes": 2444,
+        "sha256": "216a357750c93234927eea69c000c119946861f0441ebdcd462b0d085c4bb065"
+      }
+    },
+    {
+      "stage": "preflight-05",
+      "outcome": "final accepted preparation and build; both arms exit0 with complete assembly identities",
+      "prepare_receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-05/prepare-receipt.json",
+        "bytes": 2885,
+        "sha256": "fe33366bc77261c123f93097874b9244b09e073b9d97d657153fd588ed4ef94f"
+      },
+      "build_receipt": {
+        "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-05/build-attempt-01/build-receipt.json",
+        "bytes": 148909,
+        "sha256": "a60b2b7fb244da88f9b0a38bd09d4555259a508a5aafc71503e804ac511eba84"
+      }
+    }
+  ],
+  "prospective_corrections": [
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/contract-prebuild-amendment-01/receipt.json",
+      "bytes": 865,
+      "sha256": "8a2a0d2468e8769eefbde1044ec7e7eedc5f50b4cde0ad2ce2a91371c26669a8"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/prebuild-correction-02/receipt.json",
+      "bytes": 4237,
+      "sha256": "12a1a82b2b20c81a4a9df33a08a490031852579e7a5bdd14e1febdb20af94ad9"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/prebuild-correction-03/receipt.json",
+      "bytes": 4230,
+      "sha256": "95c7b219fb49c9632f02e4c620ad3552d33f40772e7e269f298c55cd5c8ba018"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/prebuild-correction-04/receipt.json",
+      "bytes": 3846,
+      "sha256": "cd69483861a939e4cfd27ae611385c11c789f57ff2b4a60883266a118abc7313"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/prebuild-correction-05/receipt.json",
+      "bytes": 3797,
+      "sha256": "29ebf857a1e4ed24c387a614e0d8ba2f405546f893cc22c04a9219d9b59c79ef"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/prebuild-correction-06/receipt.json",
+      "bytes": 3885,
+      "sha256": "918dfd84a3c21afd6bc82a5563eab6939bf81f3e9ecf0ec58ca319eb8a8e8fdc"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/prebuild-correction-07/receipt.json",
+      "bytes": 3852,
+      "sha256": "4d29712e34f9484cdb853952b8dad3e187111804017d97a9ffab25d4b0a8e47b"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/prebuild-correction-08/receipt.json",
+      "bytes": 3910,
+      "sha256": "7b91f071407c90c169135008f973064e362040c3bc180fbf542db9f1c237aa36"
+    }
+  ],
+  "reviews_and_release": [
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/parent-source-archive-verification-01.json",
+      "bytes": 1221,
+      "sha256": "06ceae4b0b3df695e881ae678d4ff38f997e50e08d5a675b2bda94d704bfad74"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/independent-implementation-review-final.md",
+      "bytes": 5240,
+      "sha256": "a8ad684abd6792fca6e04a37fa8e7b48b2f9073a0eb0b95539b5f469dd725e5d"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/parent-execution-release-01.json",
+      "bytes": 1287,
+      "sha256": "b17c3e846ce9059626b229deec59476eba10b1b0be6c5ea3517012a01d0d6619"
+    },
+    {
+      "path": ".artifacts/r02-standalone-lifecycle-20261015/independent-runtime-review-01.md",
+      "bytes": 6603,
+      "sha256": "b8ec8011f9ae548e04393545268ff9079bc933ffb4cbf0b953fd7405e9fd8382"
+    }
+  ],
+  "runtimes": {
+    "mmcc": {
+      "primary_outcome": "pass",
+      "primary_message": "unchanged standalone Play / Gameplay / Quit / Title / fresh-Play lifecycle passed",
+      "secondary_initializer_outcome": "pass",
+      "engine_exit_code": 0,
+      "engine_termination": "returned-zero",
+      "pre_process_callbacks": 485,
+      "post_process_callbacks": 485,
+      "wall_elapsed_seconds": 88.26600000000326,
+      "timed_out": false,
+      "owned_process_terminal": true,
+      "cleanup_errors": [],
+      "effective_configuration": {
+        "desiredFrameRate": "StaticFrameRate 60L",
+        "tickDeltaAveraging": false,
+        "imperative": true,
+        "accompanied": false,
+        "advancing": true,
+        "transitionConfiguration": {
+          "splashIncoming": "30",
+          "splashOutgoing": "60",
+          "splashSlide": "60",
+          "titleIncoming": "30",
+          "titleOutgoing": "60",
+          "gameplayIncoming": "30",
+          "gameplayOutgoing": "60"
+        }
+      },
+      "actions": [
+        {
+          "action": "first-play",
+          "before": 0,
+          "after": 1,
+          "delta": 1
+        },
+        {
+          "action": "quit",
+          "before": 0,
+          "after": 1,
+          "delta": 1
+        },
+        {
+          "action": "second-play",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        }
+      ],
+      "application_request_observations": [
+        {
+          "destination": "Gameplay",
+          "postProcess": 189,
+          "action": "first-play",
+          "observationPoint": "after-publication"
+        },
+        {
+          "destination": "Quit",
+          "postProcess": 287,
+          "action": "quit",
+          "observationPoint": "after-publication"
+        },
+        {
+          "destination": "Title",
+          "postProcess": 287,
+          "action": "quit",
+          "observationPoint": "after-publication"
+        },
+        {
+          "destination": "Gameplay",
+          "postProcess": 385,
+          "action": "second-play",
+          "observationPoint": "after-publication"
+        }
+      ],
+      "phase_boundaries": [
+        {
+          "phase": "active-witness",
+          "postProcess": 284
+        },
+        {
+          "phase": "title-hold",
+          "postProcess": 382
+        },
+        {
+          "phase": "fresh-hold",
+          "postProcess": 480
+        }
+      ],
+      "transition_increments": {
+        "first_play_to_idling": 95,
+        "quit_to_idling_title": 95,
+        "second_play_to_idling": 95
+      },
+      "active_samples": [
+        {
+          "sample": 1,
+          "ballPosition": {
+            "values": [
+              44.887783,
+              -43.591976,
+              0
+            ],
+            "bits": [
+              "42338D17",
+              "C22E5E2F",
+              "00000000"
+            ]
+          },
+          "input": {
+            "left": false,
+            "right": false,
+            "p": false
+          }
+        },
+        {
+          "sample": 2,
+          "ballPosition": {
+            "values": [
+              46.20801,
+              -46.28586,
+              0
+            ],
+            "bits": [
+              "4238D501",
+              "C23924B8",
+              "00000000"
+            ]
+          },
+          "input": {
+            "left": false,
+            "right": false,
+            "p": false
+          }
+        },
+        {
+          "sample": 3,
+          "ballPosition": {
+            "values": [
+              47.52824,
+              -48.97974,
+              0
+            ],
+            "bits": [
+              "423E1CEB",
+              "C243EB41",
+              "00000000"
+            ]
+          },
+          "input": {
+            "left": false,
+            "right": false,
+            "p": false
+          }
+        }
+      ],
+      "stable_title_projection": {
+        "topState": "Title",
+        "gameplayScreen": {
+          "exists": true,
+          "selected": false
+        },
+        "gameplayTime": 0,
+        "gameplayState": "Quit",
+        "score": 0,
+        "lives": 0,
+        "brickCount": 0,
+        "paddlePosition": {
+          "values": [
+            0,
+            -160,
+            0
+          ],
+          "bits": [
+            "00000000",
+            "C3200000",
+            "00000000"
+          ]
+        },
+        "ballPosition": {
+          "values": [
+            0,
+            48,
+            0
+          ],
+          "bits": [
+            "00000000",
+            "42400000",
+            "00000000"
+          ]
+        },
+        "sceneExists": false
+      },
+      "secondary_initializer": {
+        "status": "pass",
+        "message": "two exact initializer generations passed",
+        "records": [
+          {
+            "seam": "mmcc-post-select",
+            "generation": 1,
+            "gameplayTime": 0,
+            "state": "Playing",
+            "score": 0,
+            "lives": 5,
+            "brickCount": 30,
+            "selectedGameplay": true,
+            "selected": {
+              "exists": true,
+              "name": "Gameplay",
+              "idling": true,
+              "transition": "IdlingState (UpdateTime 0L)"
+            },
+            "outerEntry": 252,
+            "postProcessSeen": 251,
+            "updateTime": 251,
+            "tickTime": 44708655,
+            "gameTime": "251"
+          },
+          {
+            "seam": "mmcc-post-select",
+            "generation": 2,
+            "gameplayTime": 0,
+            "state": "Playing",
+            "score": 0,
+            "lives": 5,
+            "brickCount": 30,
+            "selectedGameplay": true,
+            "selected": {
+              "exists": true,
+              "name": "Gameplay",
+              "idling": false,
+              "transition": "OutgoingState (UpdateTime 349L)"
+            },
+            "outerEntry": 448,
+            "postProcessSeen": 447,
+            "updateTime": 447,
+            "tickTime": 160321556,
+            "gameTime": "447"
+          }
+        ],
+        "sceneIds": [],
+        "prePlaySceneAbsent": [],
+        "prePlayGenerations": []
+      },
+      "raw_evidence": {
+        "process": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-mmcc-01/process.json",
+          "bytes": 1743,
+          "sha256": "8b31ba4dbed06adb42466f50ff2fb86b751264a1e62b73c633dea818a9eaf60d"
+        },
+        "stdout": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-mmcc-01/stdout.log",
+          "bytes": 325,
+          "sha256": "d5a494264f037993c404e5c9c5e265a391d53f3f5712da02c162e2818886b98c"
+        },
+        "stderr": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-mmcc-01/stderr.log",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "result": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-mmcc-01/probe/result.json",
+          "bytes": 1863,
+          "sha256": "56ffd0c3ea85e8bdca9168f8f2d2fe96fc7b14518f0da10d86677f2e60d6cfeb"
+        },
+        "trace": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-mmcc-01/probe/trace.jsonl",
+          "bytes": 597514,
+          "sha256": "7a3b5cc90a6a90cc84781869ed99fd307ca4d064629809010a6f74d32f18a76f"
+        }
+      },
+      "post_runtime_host_audit": {
+        "prelaunch_manifest_files": 349,
+        "prelaunch_manifest_files_changed": [],
+        "runtime_created_files": [
+          {
+            "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-05/source/Projects/Breakout Mmcc/bin/Release/net10.0/Log.txt",
+            "bytes": 325,
+            "sha256": "d5a494264f037993c404e5c9c5e265a391d53f3f5712da02c162e2818886b98c"
+          },
+          {
+            "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-05/source/Projects/Breakout Mmcc/bin/Release/net10.0/imgui.ini",
+            "bytes": 85,
+            "sha256": "ddbd5a6f78472f765baa0fa689fb6f71c53656de1c10822555a44f8c8b3dcd19"
+          }
+        ]
+      }
+    },
+    "imsim": {
+      "primary_outcome": "pass",
+      "primary_message": "unchanged standalone Play / Gameplay / Quit / Title / fresh-Play lifecycle passed",
+      "secondary_initializer_outcome": "pass",
+      "engine_exit_code": 0,
+      "engine_termination": "returned-zero",
+      "pre_process_callbacks": 487,
+      "post_process_callbacks": 487,
+      "wall_elapsed_seconds": 78.71900000001187,
+      "timed_out": false,
+      "owned_process_terminal": true,
+      "cleanup_errors": [],
+      "effective_configuration": {
+        "desiredFrameRate": "StaticFrameRate 60L",
+        "tickDeltaAveraging": false,
+        "imperative": true,
+        "accompanied": false,
+        "advancing": true,
+        "transitionConfiguration": {
+          "splashIncoming": "30",
+          "splashOutgoing": "60",
+          "splashSlide": "60",
+          "titleIncoming": "30",
+          "titleOutgoing": "60",
+          "gameplayIncoming": "30",
+          "gameplayOutgoing": "60"
+        }
+      },
+      "actions": [
+        {
+          "action": "first-play",
+          "before": 0,
+          "after": 1,
+          "delta": 1
+        },
+        {
+          "action": "quit",
+          "before": 0,
+          "after": 1,
+          "delta": 1
+        },
+        {
+          "action": "second-play",
+          "before": 1,
+          "after": 2,
+          "delta": 1
+        }
+      ],
+      "application_request_observations": [
+        {
+          "destination": "Gameplay",
+          "postProcess": 190,
+          "action": "first-play",
+          "observationPoint": "postProcess-entry"
+        },
+        {
+          "destination": "Quit",
+          "postProcess": 288,
+          "action": "quit",
+          "observationPoint": "postProcess-entry"
+        },
+        {
+          "destination": "Title",
+          "postProcess": 289,
+          "action": "quit",
+          "observationPoint": "postProcess-entry"
+        },
+        {
+          "destination": "Gameplay",
+          "postProcess": 388,
+          "action": "second-play",
+          "observationPoint": "postProcess-entry"
+        }
+      ],
+      "phase_boundaries": [
+        {
+          "phase": "active-witness",
+          "postProcess": 284
+        },
+        {
+          "phase": "title-hold",
+          "postProcess": 384
+        },
+        {
+          "phase": "fresh-hold",
+          "postProcess": 482
+        }
+      ],
+      "transition_increments": {
+        "first_play_to_idling": 95,
+        "quit_to_idling_title": 97,
+        "second_play_to_idling": 95
+      },
+      "active_samples": [
+        {
+          "sample": 1,
+          "ballPosition": {
+            "values": [
+              6.0560117,
+              -34.27743,
+              0
+            ],
+            "bits": [
+              "40C1CAD9",
+              "C2091C17",
+              "00000000"
+            ]
+          },
+          "input": {
+            "left": false,
+            "right": false,
+            "p": false
+          }
+        },
+        {
+          "sample": 2,
+          "ballPosition": {
+            "values": [
+              6.239527,
+              -36.770687,
+              0
+            ],
+            "bits": [
+              "40C7AA35",
+              "C213152F",
+              "00000000"
+            ]
+          },
+          "input": {
+            "left": false,
+            "right": false,
+            "p": false
+          }
+        },
+        {
+          "sample": 3,
+          "ballPosition": {
+            "values": [
+              6.423043,
+              -39.263943,
+              0
+            ],
+            "bits": [
+              "40CD8991",
+              "C21D0E47",
+              "00000000"
+            ]
+          },
+          "input": {
+            "left": false,
+            "right": false,
+            "p": false
+          }
+        }
+      ],
+      "stable_title_projection": {
+        "topState": "Title",
+        "gameplayScreen": {
+          "exists": true,
+          "selected": false
+        },
+        "gameplayState": "Quit",
+        "score": 0,
+        "lives": 5,
+        "brickCount": 30,
+        "sceneExists": false,
+        "paddle": {
+          "exists": false
+        },
+        "ball": {
+          "exists": false
+        },
+        "quit": {
+          "exists": false
+        }
+      },
+      "secondary_initializer": {
+        "status": "pass",
+        "message": "two exact initializer generations passed",
+        "records": [
+          {
+            "seam": "imsim-scene-register",
+            "generation": 1,
+            "sceneId": 270,
+            "sceneExists": true,
+            "gameplaySelected": true,
+            "prePlayAbsenceBound": true,
+            "state": "Playing",
+            "score": 0,
+            "lives": 5,
+            "brickCount": 30,
+            "selected": {
+              "exists": true,
+              "name": "Gameplay",
+              "idling": false,
+              "transition": "IncomingState (UpdateTime 251L)"
+            },
+            "outerEntry": 252,
+            "postProcessSeen": 251,
+            "updateTime": 251,
+            "tickTime": 44650018,
+            "gameTime": "251"
+          },
+          {
+            "seam": "imsim-scene-register",
+            "generation": 2,
+            "sceneId": 1171,
+            "sceneExists": true,
+            "gameplaySelected": true,
+            "prePlayAbsenceBound": true,
+            "state": "Playing",
+            "score": 0,
+            "lives": 5,
+            "brickCount": 30,
+            "selected": {
+              "exists": true,
+              "name": "Gameplay",
+              "idling": false,
+              "transition": "IncomingState (UpdateTime 449L)"
+            },
+            "outerEntry": 450,
+            "postProcessSeen": 449,
+            "updateTime": 449,
+            "tickTime": 162283388,
+            "gameTime": "449"
+          }
+        ],
+        "sceneIds": [
+          270,
+          1171
+        ],
+        "prePlaySceneAbsent": [
+          true,
+          true
+        ],
+        "prePlayGenerations": [
+          1,
+          2
+        ]
+      },
+      "raw_evidence": {
+        "process": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-imsim-01/process.json",
+          "bytes": 1747,
+          "sha256": "5d02c94e950c1c733f9d8f870648e43c5331779aa222ad4cae37f8e5d82d6dae"
+        },
+        "stdout": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-imsim-01/stdout.log",
+          "bytes": 325,
+          "sha256": "586727ebe3f1dd76cc59b42b211662f14e959067ba9d9321531b0b601cc96b07"
+        },
+        "stderr": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-imsim-01/stderr.log",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "result": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-imsim-01/probe/result.json",
+          "bytes": 2094,
+          "sha256": "2993c5983a9a41dd3dfdd46d2f833bd724fb311d2c2f20cb4e034ba42364b137"
+        },
+        "trace": {
+          "path": ".artifacts/r02-standalone-lifecycle-20261015/runtime-imsim-01/probe/trace.jsonl",
+          "bytes": 587217,
+          "sha256": "4af3376a206b054b6bb33065406c84d7c5ade7354a58c43c463c06e5cf16bd16"
+        }
+      },
+      "post_runtime_host_audit": {
+        "prelaunch_manifest_files": 349,
+        "prelaunch_manifest_files_changed": [],
+        "runtime_created_files": [
+          {
+            "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-05/source/Projects/Breakout ImSim/bin/Release/net10.0/Log.txt",
+            "bytes": 325,
+            "sha256": "586727ebe3f1dd76cc59b42b211662f14e959067ba9d9321531b0b601cc96b07"
+          },
+          {
+            "path": ".artifacts/r02-standalone-lifecycle-20261015/preflight-05/source/Projects/Breakout ImSim/bin/Release/net10.0/imgui.ini",
+            "bytes": 85,
+            "sha256": "ddbd5a6f78472f765baa0fa689fb6f71c53656de1c10822555a44f8c8b3dcd19"
+          }
+        ]
+      }
+    }
+  },
+  "adverse_or_discrepant_observations": [
+    "The frozen nominal ImSim Play-to-idling prediction was +96 callbacks; both observed ImSim entries reached idling in +95. The fixed <=100 oracle passed and was not revised.",
+    "MMCC application requests were first observed immediately after publication in the injection callback; ImSim requests were first observed at later postProcess entries. No same-callback consumption equality was required."
+  ],
+  "scope_limits": [
+    "Synthetic publication exercised existing ClickEvents, not physical pointer input, SDL delivery, ButtonFacet down/up, ImGui capture, click audio, framebuffer output, or full input/replay behavior.",
+    "The first post-Select scalar witnesses are post-step observations. The secondary callbacks are pinned source seams and do not establish a general pre-first-update guarantee.",
+    "The result establishes bounded standalone lifecycle and observer feasibility for these two unchanged applications. It does not establish MMCC-versus-ImSim causality, package equivalence, pause correctness, practical value, maintenance benefit, or agent access.",
+    "Random directions, brick names/colors, trajectories, collisions, backend/solver identity, and exact timing equality were outside the cross-arm comparison.",
+    "The executed reviewed ImSim stable-Title predicate checked absence of every retained-brick and retained-life derived entity. The compact stable-title trace projection records the Scene and named Paddle/Ball/Quit entities but does not enumerate those individual per-brick or per-life booleans."
+  ]
+}

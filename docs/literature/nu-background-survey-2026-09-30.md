@@ -1504,7 +1504,35 @@ are local first-use component observations with unequal retained payload scopes,
 not an isolated persistence effect or a maintenance-benefit estimate. The startup
 timeout remains unexplained; no feasibility/diagnostic time enters the measured
 summaries. Construction, workflow access, diagnosis and useful repair costs
-remain unmeasured. The next prepared comparison is R02's ordinary standalone
-MMCC/ImSim lifecycle boundary, preserving the existing ImSim quit workaround and
-source/physics differences; another identical timing series would not establish
-that practical value.
+remain unmeasured. R02's standalone continuation below now supplies its bounded
+unchanged-application lifecycle prerequisite; another identical timing series
+would not establish practical value.
+
+### Standalone lifecycle and initializer observations, 2026-10-15
+
+**Discovery and primary understanding:** no new publication search or reading
+is claimed. The [R02 standalone pair](../nu-standalone-lifecycle-feasibility-2026-10-15.md)
+executes the previously source-bound MMCC/ImSim lifecycle, preserving the
+existing quit workaround, different state owners, and source/physics packages.
+Both unchanged applications pass their single assigned run, with all earlier
+preparation/build failures retained.
+
+**Evidence disposition:** for B03/B07/B08, ordinary standalone mode and the
+public event/observation boundary now have executed support. Both runs reach
+Title, Gameplay, Quit, and a fresh second session within fixed callback and
+wall bounds. MMCC clears its model; ImSim retains unselected screen properties
+while removing its old scene and descendants. Separate exact scalar captures
+observe two initialized generations in each arm; ImSim's scene IDs differ.
+Its Play transition is one callback faster than the frozen nominal prediction
+(95 rather than 96), without changing the common bound or pass definition.
+These findings validate the declared lifecycle scope, not package equivalence
+or an isolated ownership effect.
+
+**Next consequential action:** establish the input and effective-pause boundary
+for the prepared pause/exit references. Synthetic ClickEvents do not exercise
+SDL, ButtonFacet hit testing, capture, or physical input. Programmatically
+queued keyboard events also do not change held-key polling state, so a later
+reference's convenient event route must not silently exclude valid alternatives.
+Retain construction, observation, synchronization and recovery work separately
+from any future maintenance-benefit outcome. The historical issue motivates an
+adaptation; task prevalence and practical benefit remain unmeasured.

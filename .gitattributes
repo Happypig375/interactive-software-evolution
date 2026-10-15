@@ -29,7 +29,8 @@
 /tests/test_e3a_codex.py text eol=lf
 /tests/test_e3a_run.py text eol=lf
 
-# Preserve the exact hashed bytes of these completed experiment inputs/receipts.
+# Preserve the exact hashed bytes of these experiment inputs and receipts.
+/experiments/nu-r02-standalone-lifecycle/** -text whitespace=cr-at-eol
 /experiments/nu-r04-pause-runtime/** -text whitespace=cr-at-eol
 /experiments/nu-r06-recovery-cost/** -text whitespace=cr-at-eol
 # Unified-diff empty context lines retain their required single-space prefix.
