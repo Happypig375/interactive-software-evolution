@@ -109,5 +109,11 @@ passed Linux validation. Windows passed every preceding check but was cancelled
 at its 20-minute job deadline during the final C3 deterministic validation.
 That interrupted check has no completed result. The Windows job allowance is
 now 30 minutes to accommodate the existing suite; its commands, assertions,
-per-process limits and scope rules are unchanged. Verify the next containing
-commit before reporting Windows validation as passed.
+per-process limits and scope rules are unchanged.
+
+The containing commit `1f69fba5f446c654db7290fa9767c47d73125a14` passed
+[run 38704367773](https://github.com/Happypig375/interactive-software-evolution/actions/runs/38704367773):
+scope checks, full Linux validation (14m19s), and full Windows validation
+(17m15s). The separate maintenance job and optional E2 baseline were skipped
+under the full route. This completed run does not supply a result for the
+interrupted check on the earlier commit.

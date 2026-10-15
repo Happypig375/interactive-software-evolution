@@ -39,3 +39,45 @@ The direct audit confirms that eight of the nine named paper gaps had already ga
 The only residual named acquisition gap is S305's 1991 *Human–Computer Interaction* journal edition. A fresh queue used the modern publisher alias `10.1080/07370024.1991.9667171` while preserving the parent DOI `10.1207/s15327051hci0603&4_5`. The helper initially classified accessibility strings as a verification challenge, but the user's authoritative screenshot showed the rendered DOI Foundation page actually said **DOI NOT FOUND** for that alias. The resulting request for human verification was mistaken and was withdrawn; no such action was needed. The official Taylor & Francis article page independently verifies the exact title, Lewis/Rieman/Bell authorship, volume 6 issues 3–4, pages 319–355 and publication identity at `https://www.tandfonline.com/doi/abs/10.1080/07370024.1991.9667171`. The existing task tab was navigated directly to that publisher page and then to its official `.../doi/epdf/10.1080/07370024.1991.9667171?needAccess=true` link. The `epdf` page's actual accessibility text identifies the exact article and says **Get Access**, **Log in via your institution**, and **PDF download + Online access / 48 hours access**. The bounded helper found neither accessible PDF bytes nor a verified download route; purchasing, a trial and a new login were outside the authorized scope. A separate MHTML snapshot attempt on the abstract page stopped before saving because the native Save As filename control did not commit the exact requested path; it supplied no page-body evidence and created no local snapshot. Task `20261015T132406-aac5665a` remains saved under `.artifacts/pdf-acquisition-20261015/s305-final-run/` with the official `epdf` access page open in the original task-owned tab. No candidate bytes were downloaded, reviewed or attached. The existing technical report is sufficient for a separately labelled report-edition reading, but not for a final-edition or exact-correspondence claim.
 
 This audit reused fourteen existing PDF children across twelve parents: eight exact full paper/preprint PDFs, one complete technical report, four full-thesis files and one interview-protocol supplement. It downloaded **0**, attached **0**, and created **0** duplicates. The PDF presence findings supersede the older absence statements only; they do not establish reading coverage or change scientific conclusions until the relevant papers are reconstructed and integrated.
+
+## Second native attachment reconciliation
+
+A later read-only audit checked remaining access statements against native
+collection `PKLXQNEE`. It found ten more local bodies. No download, tab opening,
+Zotero mutation or paper-body reading occurred during this acquisition audit;
+subsequent readings have separate coverage receipts. The exact audit is saved
+privately in `.artifacts/remaining-pdf-audit-20261015/reconciliation.json`.
+
+| Work / edition | Parent version | PDF version | Pages / bytes | SHA-256 |
+| --- | --- | --- | --- | --- |
+| S240, Pixel 15(2),254–266 | `Y5VD4GHT` v5445 | `WX4AFBYI` v5512 | 13 / 918,452 | `1adcd87739f8a1ac2a7d016810d708a3dcb78d2a34d63d626af3a86c2d655627` |
+| S265, final journal article | `DMZN5HBS` v5709 | `4QRS6N42` v6691 | 15 / 3,165,249 | `55888c06e3f3906b9f10bfa716918b20c94630af5e4d4c4aa7c1208ddb3a9a4a` |
+| S272, IEEE/GAS 2015 | `65ZQHDSY` v5770 | `9MDVQYLC` v6740 | 7 / 158,593 | `90c400c1c367994d18ae580648a9bbc1eb7e12320b677072cf27bda2571c4681` |
+| S273, licentiate thesis inner body | `EXNYNNFZ` v6837 | `U7ZHDKJX` v6839 | 98 / 1,677,504 | `eb14868217cd6c6bc45ee26acea21d1f99dd83f8170350a3da0198f12a1554aa` |
+| S274, SuBViS conference paper | `BDIULBB9` v5774 | `SPFK8U3V` v6730 | 11 / 725,534 | `9cbda76d1bc12d4c66b8b5b3fdf0a4571f292cec3bad45f0f1d4bf19b2d31659` |
+| S275, BPAlt journal article | `9LNAAB57` v5780 | `Z7NRDBW8` v6689 | 16 / 9,620,630 | `1fcaa9a2c584c0a2651847ed843e470222d19dde1410d4d68a7c64e0de1bd91b` |
+| S279, expanded journal article | `GDCSUS2I` v5813 | `TRQ4KJAC` v6635 | 28 / 1,392,026 | `76095506f42097b1d63ddc2fad9d3597ec2473f46eeefb9e0ee0f96c7ce46743` |
+| S280, IEEE/ICST 2014 | `RQN7VPZM` v5815 | `H4QLJ685` v6738 | 10 / 715,155 | `22adf53044d226450a9deae3ba65f271e7bc043412ca1f7c7bb70d60f7879232` |
+| S282, PACMHCI 6/CHI PLAY article245 | `AQRML7QI` v5831 | `FU3P6Z22` v6633 | 31 / 6,998,068 | `b62b3c43c64285c084f96dc8612451efddb044c2bd3b3c6481c189f5d065b3e5` |
+| S286, TOG 42(6) journal article | `BQG8UT5U` v5886 | `JUFDJX8H` v6669 | 12 / 21,967,350 | `3df0cd5b0bb6c22532f3e392017e95fa06c44b91b0f70ea81cd4153311e1e598` |
+
+The initial audit called S286 an ACM conference paper; the original identifies
+the selected edition as a TOG journal article. S273 starts at its abstract and
+has blank PDF title/author metadata. Its outer cover/title leaf is absent. The
+assigned reading must bind the abstract, institutional identity and numbered
+extent before claiming complete available-body coverage; the file is not
+assumed equivalent to a cover-inclusive institutional package. Reading and
+integration status belong to the [reading index](full-reading/INDEX.md).
+
+Primary-body gaps remain for S305's journal, S262's original paper, S221's
+original/revised-chapter remainder, S152's dissertation, S153's dissertation
+and S206's full publication. S305's previously listed report attachment has
+since been moved, with its lineage preserved, to the separate report parent
+`KJKJRYQA`; the old journal parent remains `VFB2TP7A` v6495. The report reading
+does not close the journal gap. S01,S20,S27,S75,S198,S231,S241,S247,S255,S267,
+S270,S276,S278,S284,S288 and S303 have usable alternate editions with explicit
+final-edition correspondence limits. Selected supplements remain missing for
+S30,S210,S249,S260,S265,S284 and S293. S144's main paper and 31-page design
+supplement are both local; its remaining selected-coverage limit is reading,
+not acquisition. These are exact residual scopes, not evidence that a method
+or research direction is absent.

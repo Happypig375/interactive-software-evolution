@@ -1,0 +1,119 @@
+{
+  "result": "bounded-pass",
+  "date": "2026-10-15",
+  "nu_pin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+  "platform": {
+    "os": "Microsoft Windows 10.0.19045",
+    "architecture": "X64",
+    "dotnet_sdk": "10.0.302",
+    "dotnet_runtime": "10.0.10"
+  },
+  "prospective_contract_sha256": "558178ac939e8045bdb56c44c1567100515becfa497931c10bb52cee09e7c55b",
+  "exact_archive_sha256": "eb0aa77197de1971d79aa0657c2af5cf33b99ba8302a24ba44f3306cca4bf92b",
+  "probe_sha256": "69bf03c4effbeb7f32eb0880cd55db5297485a7941c1b9ed6ff00b205824cb92",
+  "generated_script_sha256": "e5132fd638dbd1a53adaccfeb9744e32a7051a10ece580ebef2fcf0e3963b5da",
+  "loaded": {
+    "prime": {
+      "identity": "Prime, Version=11.5.1.0, Culture=neutral, PublicKeyToken=null",
+      "sha256": "61a67158910296d92e22cf4c4d7ec9edb194c55ab00098534850e281e370c787"
+    },
+    "fsharp_compiler_service": {
+      "identity": "FSharp.Compiler.Service, Version=43.12.204.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "sha256": "c022989f50845e07928652aae15b1116b87ac27ede1407a46ea77c6376e875bc"
+    },
+    "baseline_application_sha256": "9e7806b5a915752f11ec023d39118e1b57679c4b841d6734dd53fadfeaf4b393",
+    "fresh_application_sha256": "7c5186412eba3dd03c28228a830014e788999f14c6c475ce477d2aef273d0aac"
+  },
+  "reload_identity": {
+    "model_type": "FSI_0005.Breakout.Gameplay",
+    "dispatcher_type": "FSI_0005.Breakout.GameplayDispatcher",
+    "dispatcher_model_type": "FSI_0005.Breakout.Gameplay",
+    "assembly": "FSI-ASSEMBLY-MULTI, Version=0.0.0.32762, Culture=neutral, PublicKeyToken=null",
+    "mvid": "6ad09199-e181-34de-a745-03839991d06a",
+    "reward": 200
+  },
+  "observations": {
+    "checkpoint": {
+      "time": 149,
+      "score": 100,
+      "lives": 5,
+      "bricks": 29,
+      "ball": [
+        -64,
+        53,
+        0
+      ]
+    },
+    "post_update": {
+      "time": 150,
+      "score": 300,
+      "lives": 5,
+      "bricks": 28,
+      "removed": [
+        "@455"
+      ],
+      "ball": [
+        -64,
+        56,
+        0
+      ],
+      "ball_direction": [
+        0,
+        -1,
+        0
+      ]
+    },
+    "event_word": [
+      "TimeUpdate",
+      "Update"
+    ],
+    "game_delta_updates": [
+      1
+    ],
+    "sampled_left_or_right_held_updates": 0,
+    "live_fresh_complete_model_equal": true,
+    "live_fresh_complete_projection_equal": true,
+    "next_halted_stable": true,
+    "negative_data_controls_rejected": [
+      "score100",
+      "reset",
+      "wrongBrick"
+    ]
+  },
+  "comparison": {
+    "pass": true,
+    "checkpoint_model_sha256": "494e66765b6462aab1e40e556422b58135276f5232e02eca6307615e52607e40",
+    "checkpoint_projection_sha256": "cadcc707a58eb15e44f46ea541f335130b63ef8d2567bd8bf0f7b438f9621ea5",
+    "post_model_sha256": "7280b81438ed58fe3cd59bf10e67fd0a58480ef5d7a6080a5f9f95540a17eedf",
+    "post_projection_sha256": "8e902fed6dc935c1d61c8650ab87a63e9351d06573a5d5f20601ff120f9c91ba",
+    "live_trace_sha256": "299a7b6ecd64186f1a0a1b912ff6315a602ac0417a98c6922e85e0373dd30887",
+    "fresh_trace_sha256": "a025843c8bf444479c55c90da2a8b0c88e33c7bd6d5bc706aeeeb62bed71a219"
+  },
+  "attempts": {
+    "preparation": 1,
+    "all_build_attempts_including_accepted_pair": {
+      "failed": 3,
+      "successful": 7
+    },
+    "runtime_before_accepted_pair": {
+      "live_successful": 2,
+      "fresh_failed": 2,
+      "fresh_successful": 1
+    },
+    "accepted_pair": {
+      "live_exit": 0,
+      "fresh_exit": 0,
+      "live_seconds": 24.907,
+      "fresh_seconds": 28.031
+    }
+  },
+  "limits": [
+    "The bridge bypasses F9 and menu invocation.",
+    "Zero sampled Left/Right-held updates does not validate native input event capture or replay.",
+    "Source effect requests are not observed audio, framebuffer, or native-host effects.",
+    "This one unchanged seven-field schema does not validate renamed-type conversion or other schemas.",
+    "One successful behavior-only case does not establish general Gaia live-reload benefit or cost."
+  ],
+  "published_contract_sha256": "960b6ef9f293bf88afca307385b697ead31e6cc43aa46af0bce663234359f400",
+  "contract_publication_change": "Removed one trailing empty line only; exact frozen bytes and original hash retained privately."
+}
