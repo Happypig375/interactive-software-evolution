@@ -9349,3 +9349,189 @@ The remaining technical-report, primary-log and test-suite gaps matter for
 exact historical endpoint reconstruction, not the selected Nu pause/recovery
 feasibility gate. Reading completion does not establish a maintenance,
 agent or Nu effect or close the broad survey.
+
+### S308/S309 API metric origin and artifact boundary, 2026-10-15
+
+This segment began and the selected reading completed on 15 October HKT;
+integration and the source report crossed into 16 October HKT (15 October UTC).
+The pre-reading decision was whether the eight engine-API structural metrics
+could serve R01/R07/R20 outcomes, or instead describe particular interface
+properties requiring separate developer-outcome validation. The decision card
+is retained privately under `.artifacts/s308-engine-api-20261015/`.
+
+#### Exact retrieval and actual coverage
+
+| Route | Request | Return and boundary |
+| --- | --- | --- |
+| SC251 | Exact DOI `10.1002/spe.2985`, `limit:20`, `offset:0`; no date/keyword filter | First call rejected because `user_intent` exceeded 100 characters; no results. Corrected call returned 1 of 1. Identity/abstract/access metadata, not body coverage. |
+| SC252 | Exact DOI `10.1002/spe.2215`, `limit:20`, `offset:0`; no date/keyword filter | 1 of 1; online date 2013-09-03 and later 45(1):75–110 issue kept separate. Default sorting has no substantive ranking implication for these exact lookups. |
+| G34 | Seed `10.1002/spe.2985`, `direction:out`, depth 1, edge cap 100, intents/snippets requested | 40 edges,41 nodes, `truncated:false`; seed coverage 40, no low-coverage flags. Every edge is citing S308→cited target. Titles and returned contexts were considered; nodes are not full readings. |
+| S308 body request | DOI `10.1002/spe.2985`, offset 0, requested length 8000 | `source:abstract`, `contentDenied:true`,1,547 of 1,547 characters, `hasMore:false`. Complete abstract coverage only. |
+| W768 | `"On the comprehension of application programming interface usability in game engines"` plus direct publisher open | 18 displayed search panels plus publisher page. Primary identity/abstract and locator scope. The raw per-occurrence response was not saved; full panel identities cannot be reconstructed from the retained record, so this is an explicit provenance limit rather than an exact occurrence census. |
+| W769 | `"Some structural measures of API usability" Rama Kak PDF` plus direct publisher open | 15 displayed search panels plus publisher page. Exact author-hosted Purdue PDF found; other identity/index/related-title routes were not read as bodies. Raw response retained. |
+| W770 | `"On the comprehension of application programming interface usability in game engines" PDF` | 17 retained numbered occurrences; four publisher/DOI/ResearchGate acquisition occurrences, with duplicates. Raw serialization was not saved, but the owner recovered all 17 displayed titles/URLs from retained tool output without rerunning. No verified author PDF. |
+
+The artifact owner additionally made four batched calls containing 16 queries:
+
+| Web route | Exact queries | Displayed coverage |
+| --- | --- | --- |
+| W771–W774 | `site:iittp.ac.in "Akhila Sri Manasa Venigalla"`<br>`site:github.com/AkhilaSriManasa "API Usability"`<br>`site:github.com/AkhilaSriManasa "10.1002/spe.2985"`<br>`"API-Usability-in-Game-Engines-95-repos"` | 16 combined occurrences; per-query counts and total hits unavailable |
+| W775–W778 | `site:rishalab.in "On the comprehension of application programming interface usability in game engines"`<br>`site:rishalab.in "API-Usability-in-Game-Engines-95-repos"`<br>`site:iittp.ac.in "API-Usability-in-Game-Engines-95-repos"`<br>`site:github.com/AkhilaSriManasa "On the comprehension"` | 13 combined occurrences; per-query counts and total hits unavailable |
+| W779–W782 | `"GE526" dataset GitHub game engines`<br>`site:github.com "GE526" "Game Engines"`<br>`site:github.com/AkhilaSriManasa GE526`<br>`site:github.com/sridhar-chimalakonda GE526` | 17 combined occurrences; per-query counts and total hits unavailable |
+| W783–W786 | `site:github.com "AMNOI" "AMNCI" "AMGI"`<br>`site:github.com "APLCI" "AESI" "ATSI" "ADI" API usability`<br>`site:github.com/AkhilaSriManasa AMNOI`<br>`site:github.com/chimalakonda AMNOI` | 12 combined occurrences; per-query counts and total hits unavailable |
+
+These four batches exposed58 occurrences and56 unique URLs. Combined-batch
+counts are 16, 13, 17 and 12; per-query allocation and total engine hits were not
+returned/retained. “No useful route” is not a zero-result count. The earlier
+route TSV retained only eight expressions; the recovered
+`artifact/external-provenance.json` is the complete16-query record. No query
+was rerun to manufacture provenance. W768–W786 are 19 query expressions, not
+19 papers or field saturation. Web panels, DOI identities and work/edition
+lineages are separate units.
+
+Direct primary checks used the publisher, author profile, institutional list,
+Crossref/ORCID, pinned GitHub metadata/tree and the official GE526-to-OSF link.
+The bounded 51-repository author-account metadata inventory is not 51 code
+readings. The artifact note supplies the exact pinned files and coverage.
+No Consensus query, new account, purchase or message to an author was made.
+
+#### Graph disposition
+
+`C` credits the stated evidence; `C / body D` credits identity/abstract while
+retaining the unread body. `D` is a potentially relevant API-method,
+validation or assistance lead, deferred until a named task or stronger claim
+needs its original method. `N` serves other game/application/technology
+background and is not used for this metric-derivation decision. Both D and N
+remain title/context-only. “Reused” identifies two unchanged prior sources
+that were not resubmitted as new decisions. The two Grid titles are not
+treated as verified independent studies or verified identical editions.
+
+| DOI | Title | Disposition |
+| --- | --- | --- |
+| 10.1002/spe.2215 | Some structural measures of API usability | C |
+| 10.1002/spe.2985 | On the comprehension of application programming interface usability in game engines | C / body D |
+| 10.1007/3-540-44681-8_1 | The Anatomy of the Grid: Enabling Scalable Virtual Organizations | N |
+| 10.1007/978-3-030-45688-7_50 | A Game Logic Specification Proposal for 2D Video Games | Reused |
+| 10.1007/978-3-319-07446-7_1 | MobileQuiz: A Serious Game for Enhancing the Physical and Cognitive Abilities of Older Adults | N |
+| 10.1007/978-3-642-34347-6_10 | Methods towards API Usability: A Structural Analysis of Usability Problem Categories | D |
+| 10.1007/s00779-012-0590-6 | LunchTime: a slow-casual game for long-term dietary behavior change | N |
+| 10.1007/s11042-016-3729-z | Designing and evaluating the usability of an API for real-time multimedia services in the Internet | D |
+| 10.1007/s11219-019-09476-z | What are the characteristics of popular APIs? A large-scale study on Java, Android, and 165 libraries | D |
+| 10.1016/j.cosrev.2019.05.001 | A systematic mapping study of API usability evaluation methods | D |
+| 10.1016/j.infsof.2015.01.009 | Automated measurement of API usability: The API Concepts Framework | D |
+| 10.1016/j.infsof.2017.12.010 | A systematic approach to API usability: Taxonomy-derived criteria and a case study | D |
+| 10.1016/j.jss.2016.07.026 | API usage pattern recommendation for software development | D |
+| 10.1016/j.sbspro.2012.06.938 | A Serious Game for Developing Computational Thinking and Learning Introductory Computer Programming | N |
+| 10.1080/01972243.2014.915276 | Using APIs for Data Collection on Social Media | N |
+| 10.1080/13540602.2016.1206523 | A qualitative literature review of educational games in the classroom: the teacher’s pedagogical activities | N |
+| 10.1109/esem.2013.14 | An Empirical Study of API Usability | D |
+| 10.1109/icalt.2014.194 | A Survey of Frameworks and Game Engines for Serious Game Development | N |
+| 10.1109/icdim.2010.5664241 | OpenLabyrinth: An abstract pathway-based serious game engine for professional education | N |
+| 10.1109/icse.2007.85 | The Factory Pattern in API Design: A Usability Evaluation | D |
+| 10.1109/icse-companion.2009.5071006 | Automatic evaluation of API usability using complexity metrics and visualizations | D |
+| 10.1109/ms.2017.20 | Practices and Technologies in Computer Game Software Engineering | Reused |
+| 10.1109/netgames.2015.7382990 | Dissecting games engines: The case of Unity3D | N |
+| 10.1109/saner.2018.8330214 | Why and how Java developers break APIs | D |
+| 10.1109/tcad.2020.3007319 | OpenTimer v2: A New Parallel Incremental Timing Analysis Engine | N |
+| 10.1109/vlhcc.2012.6344511 | Usable results from the field of API usability: A systematic mapping and further analysis | D |
+| 10.1109/vlhcc.2014.6883051 | Gidget: An online debugging game for learning and engagement in computing education | N |
+| 10.1145/1067343.1067383 | A lightweight rule-based Al engine for mobile games | N |
+| 10.1145/1321261.1321311 | Evaluation of game engines for simulated surgical training | N |
+| 10.1145/1453101.1453117 | The implications of method placement on API learnability | D |
+| 10.1145/1536513.1536565 | Affective game engines | N |
+| 10.1145/1718918.1718957 | API peer reviews | D |
+| 10.1145/2793107.2810331 | SnackBreaker | N |
+| 10.1145/2896587 | Improving API usability | D |
+| 10.1145/3115934 | Performance Analysis of Game Engines on Mobile and Fixed Devices | N |
+| 10.1145/3194793.3194795 | Discovering API usability problems at scale | D |
+| 10.1177/109434200101500302 | The Anatomy of the Grid: Enabling Scalable Virtual Organizations | N |
+| 10.17083/ijsg.v4i4.194 | Overview and Comparative Analysis of Game Engines for Desktop and Mobile Devices | N |
+| 10.20385/1860-2037/4.2007.5 | Marker-Based Embodied Interaction for Handheld Augmented Reality Games | N |
+| 10.23919/mipro.2017.7973518 | Comparison of game engines for serious games | N |
+| 10.4018/978-1-5225-9618-9.ch024 | A Brief Review of Game Engines for Educational and Serious Games Development | N |
+
+The 16 D leads are not a mandatory reading batch. The complete S309 primary
+already resolves what its own validation establishes; a stronger general
+claim about API metrics would require the consequential alternatives and
+adverse evidence rather than asserting that no other validation exists.
+
+#### Native registration, acquisition and reading
+
+| Work | Verified native identity | Actual coverage |
+| --- | --- | --- |
+| S308 | `GUADYRFC` v7245, `journalArticle`, key `Venigalla2021GameEngineAPIUsability`, `PKLXQNEE` | Registered before selected reading; no PDF acquired. [Access/artifact note](full-reading/S308-engine-api-metrics-access.md); no full-reading increment. |
+| S309 | `QK6399JY` v7252, `journalArticle`, key `Rama2015StructuralAPIUsability`, `PKLXQNEE`; PDF `DLCXECD4` v7267 | Registered before selected reading. [Complete 36-page early-view reconstruction](full-reading/S309-structural-api-usability.md); online 2013-09-03, not silently the paginated 2015 issue. |
+
+The requested remote Zotero integration left S308 unresolved. LibKey reached
+Wiley ePDF but exposed no attributable PDF; another remote attempt failed
+before task-tab binding because 123 enabled address bars were found. Direct
+LibKey returned a 5,580-byte JavaScript shell and the publisher PDF target
+returned 403. The address-bar error is a tool-state failure. No visible
+verification challenge was established and none was assigned to the user.
+
+For S309 the exact [Purdue author URL](https://engineering.purdue.edu/RVL/Publications/RamaKakAPIQ_SPE.pdf)
+returned HTTP 200 `application/pdf`. Integration collect, explicit
+hash/title/edition review and guarded attach produced one new PDF child:
+1,726,026 bytes, 36 pages, SHA-256
+`0fc175548dfef995d4ede24ca0f25bd200000269ac773f97fc732502f63ef49b`.
+There was no prior PDF child or duplicate hash. The parent and citation key
+remained unchanged. An author-hosted early-view journal PDF does not change
+the record's bibliographic type to preprint.
+
+The reading covers all 36 text pages, 51 references, all eight metric definitions,
+Algorithm 1, Figures1–11 and TablesI–VI. All pages were viewed in contact sheets;
+individual renders of 1, 9–11, 14–19 and 21–36 cover consequential originals.
+The parent additionally checked original formula/algorithm/screenshot/tables
+on 14, 21, 22, 28, 32 and text on 23, 29, 34. The method supplies structural counts,
+selected manual examples and some community-belief/version checks across
+seven Java systems, without observed developer outcomes. The author-stated
+human-validation gap and AMNCI definition/pseudocode/aggregate discrepancy
+are retained. The latter uses a deliberately loose conditional lower bound,
+not a reproduced implementation or an exact feasible minimum. No code,
+dataset or experiment was reproduced.
+
+The candidate S308 companion is pinned at
+`797f55baed26a0844f4ae2476e0833790aa5bb2b`. Its three-file tree contains a
+README, 95-row workbook and unread plots PDF; source revisions and a metric
+tool are absent from that tree. The workbook SHA-256 is
+`a1bf498c62ea8e003d795ec5731501a0b17cf55c3b5bd71c58286322e3786b9f`.
+Its shared aggregate is a sum despite README average wording; the About
+field says 100 while the workbook/README say 95. Author/account/topic evidence
+supports the companion attribution, while an explicit paper link remains
+unverified. The selected GE526 name comparison does not bind all 95 sources.
+Artifact inspection adds no journal-reading or usability-validation credit.
+
+The index therefore moves **283→284 = 13 P + 3 A + 268 S**. This is one new completed
+publication, with two new registered parents and one acquired PDF; it is not
+an added independent human study or closure of the broad survey. R01/R07/R20
+retain correct behavior, all-assigned outcomes, assistance and total work.
+Any structural descriptor must identify the task-facing interface and its
+language/extraction assumptions; this evidence does not validate a Nu
+usability score. S308's body remains a specific source-access dependency.
+
+#### Note synchronization and considered-source report
+
+Guarded native maintenance created S308 note `QN6Q654I` v7268 and S309 note
+`IP54VNGS` v7269. Exact decoded content matches accepted Markdown hashes
+`98fcd84df20e78e4d4cd6cc70ba6118dfd836c0c41da6455087181d4f93bdd45`
+and `36dcb0af0a67c78bc151f2ff6408b6a3bbb10edd0589c4792f750c4077e63952`.
+No newline normalization occurred. Parent versions, all fields, tags,
+memberships and citation keys stayed exact; S309's existing PDF object and
+physical bytes also stayed exact. S308's sole child is its note; S309's
+children are its PDF and note. Before/request/after/verification receipts
+are retained privately under each segment's `zotero-note-maintenance/`.
+
+Scite accepted `nu_s308_s309_api_metrics_20261015` once: **7 cited, 106 excluded,
+0 skipped**. The inspected answer report has 113 screened source identities,
+`retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false` ; 3 are mapped to full-text stage and 110 to title/
+abstract stage. The three full-text-stage entries are S309 and two expressly
+bounded artifacts, not three fully read papers. Provenance is 39 Scite,
+73 web and 1 direct-primary-artifact identity. Service “excluded” includes
+deferred, unread and unused search routes; it is not 106 scientific merit
+rejections. Known work aliases are consolidated, the two unchanged graph
+sources and unchanged S40 occurrence are not resubmitted, and the W768
+unretained occurrences are not invented. The exact 113-source record covers
+the identifiable considered set, not a certified census of all earlier
+retrievals. Arguments, decisions and inspected report are preserved in
+`.artifacts/s308-engine-api-20261015/`.

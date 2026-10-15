@@ -1289,3 +1289,31 @@ identities and edition-specific counts. For R04/D1, observe diagnostic
 exposure, behavioral correctness and the work of reaching both separately;
 this construction study does not estimate the explicit-case versus catch-all
 maintenance effect, agent performance or Nu value.
+
+### S308/S309: structural API scores and observed developer outcomes
+
+The complete [S309 primary derivation](S309-structural-api-usability.md)
+reconstructs the eight metrics later used by the engine-API study. Its seven
+Java systems demonstrate calculations, same-property counts and selected
+manual examples, with some community-belief and version comparisons. These
+are useful structural checks. The authors explicitly leave the relation to
+programmers' actual difficulty untested; there are no task-time, correctness,
+learning or maintenance outcomes. One metric also has unresolved definition,
+pseudocode and aggregate-score inconsistencies. The selected paper does not
+validate a cross-language usability scale.
+
+For R01/R07/R20, define the interface actually exposed to the task before
+collecting any structural descriptor. Declaration order, overloads, parameter
+conventions, declared exceptions and documentation differ across languages and
+tools. A C++ engine-core score need not describe an F#/GDScript application API.
+Keep independently checked behavior, all assigned outcomes, assistance and
+total work as outcomes; assess a structural metric's predictive value separately
+if a practical question makes it consequential.
+
+[S308](S308-engine-api-metrics-access.md) remains a close access-limited source.
+Its abstract reports 95 C++ repositories; the likely author results workbook
+has those rows but no engine revisions or extraction code. Its aggregate is a
+sum where the README says average. Those facts do not resolve the unread
+paper's corpus, implementation, thresholds or validation, and the related
+GE526 corpus is not an established replacement. S309's complete reading does
+not supply S308's methods or close the broad survey.
