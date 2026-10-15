@@ -116,9 +116,50 @@ later S254 Phylogenix cases, so this is one publication-reading increment, not
 an independent-study increment. The current checkpoint is therefore
 **282 = 13 P + 3 A + 266 S**.
 
+### Later S206 publisher-volume acquisition and accepted reading — 2026-10-15
+
+After the zero-acquisition audits and the separately dated S262 event above,
+the authorized integration downloaded **one** publisher source volume and
+attached **one** exact article derivative for S206. This later event does not
+revise any earlier acquisition count. The publisher source is the complete
+610-page LNCS 6183 volume: **9,348,114 bytes**, SHA-256
+`3f9c290a84dee40c4bc337070c11d53577e9e4a04897574147dee88b581c65dd`.
+Only source PDF leaves 311–314, corresponding to printed pp. 300–303, were
+extracted and attached as the article; the volume's other 606 pages receive no
+reading credit.
+
+At acquisition, parent `TCF847EU` remained version 4983 with bibliographic data
+and memberships unchanged; only its child count increased. Later canonical
+note/tag maintenance and final versions are recorded in the
+[background ledger](nu-background-searches-2026-09-30.md#s206-publisher-completion-and-s132-lineage-reconciliation-2026-10-15).
+New imported attachment `VCD95IIU`
+version 7119 is the exact four-page publisher VOR of Stefan Hanenberg,
+*Doubts about the Positive Impact of Static Type Systems on Programming Tasks
+in Single Developer Projects — An Empirical Study*, ECOOP 2010 / LNCS 6183,
+pp. 300–303, DOI `10.1007/978-3-642-14107-2_14`: **122,120 bytes**, **4
+pages**, SHA-256
+`37728b772a2306074172761cb994e8d30c3ff68996052a801c955858fd72fe74`.
+The historical two-page preview `TDV38UY3` version 4985 remains unchanged, and
+no second same-hash article child was created. The exact acquisition receipt is
+`.artifacts/s206-acquisition-20261015/acquisition-receipt.json`.
+
+All four article pages, Figure 1's scanner/parser boxplots and all nine
+references were subsequently read and visually inspected. The accepted scope
+is in [the S206 note](full-reading/S206-ecoop-type-study-partial.md) and
+`.artifacts/s206-reading-20261015/coverage-receipt.md`. Matching author,
+49-person sample, scanner/parser task, language treatment, training, outcomes
+and p-values strongly support one experiment lineage with S132 rather than an
+independent replication. Exact participant, log and test-suite identity is
+unverified, and S206 prints 25 hidden scanner tests where S132 prints 23. The
+unlocated intermediate technical report, primary logs, source programs, hidden
+tests, participant data and analysis code remain provenance or artifact gaps,
+not S206 body gaps. This publication increment makes the current checkpoint
+**283 = 13 P + 3 A + 267 S**.
+
 Primary-body gaps remain for S305's journal, S221's
-original/revised-chapter remainder, S152's dissertation, S153's dissertation
-and S206's full publication. S305's previously listed report attachment has
+original/revised-chapter remainder, S152's dissertation and S153's
+dissertation. S206 no longer has a primary-body gap. S305's previously listed
+report attachment has
 since been moved, with its lineage preserved, to the separate report parent
 `KJKJRYQA`; the old journal parent remains `VFB2TP7A` v6495. The report reading
 does not close the journal gap. S01,S20,S27,S75,S198,S231,S241,S247,S255,S267,

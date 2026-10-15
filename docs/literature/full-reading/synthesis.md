@@ -1266,3 +1266,26 @@ need explicit boundaries if used. The final paper's distance-matrix notation
 and the earlier inspected package's method differences also require exact
 build evidence before attributing an output to the named algorithm. They do
 not erase the demonstrated structural overview or establish a Nu advantage.
+
+### S206 completed: preserve adverse typing evidence and experiment lineage
+
+The complete [ECOOP short report](S206-ecoop-type-study-partial.md) supplies
+the previously missing results and Figure 1. Its dynamic-language group is
+faster on the hidden scanner-test completion endpoint (p=.04); the parser
+result (p=.40) does not establish equivalence. The fuller
+[OOPSLA report](S132-scanner-parser-types.md) supplies the scanner exclusions:
+21 completers per group, from 25 dynamic and 24 static assignments. Training,
+annotations, casts and checking/feedback are bundled, and the extra two static
+training hours lie outside the measured outcome. Preserve the favorable
+dynamic result at that scope rather than infer that typing is uniformly
+helpful or harmful.
+
+The matching author, sample, tasks, languages, training and headline results
+strongly support one experiment lineage, not independent replication. A
+targeted original-page return also exposes a source discrepancy: S206 says
+25 hidden scanner tests and S132 says 23. Exact tests/logs and the June 2010
+technical report cited by S206 remain unlocated. Keep the two publication
+identities and edition-specific counts. For R04/D1, observe diagnostic
+exposure, behavioral correctness and the work of reaching both separately;
+this construction study does not estimate the explicit-case versus catch-all
+maintenance effect, agent performance or Nu value.

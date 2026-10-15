@@ -1438,3 +1438,29 @@ I/O, viewer handoff and inspection distinct if those operations enter its
 workload. Follow the remaining source/build, viewer, video or timing evidence
 only for a comparison that depends on it; the current recovery-cost case does
 not require another Phylogenix source crawl.
+
+### S206 original completion: adverse results and shared study lineage
+
+**Discovery and primary understanding:** the requested remote Zotero route
+retrieved the publisher volume and registered its exact four-page
+[ECOOP article](full-reading/S206-ecoop-type-study-partial.md) before reading.
+All text, both Figure 1 plots and nine references are now read. A targeted
+text/visual return to S132's PDF page 7 / printed p.28 resolves what its scanner
+test-count passage actually says; it is not a second full reading.
+
+**Evidence disposition:** for B02/B10/B12, the report preserves a dynamic-group
+scanner-time advantage (p=.04) and an inconclusive parser comparison (p=.40),
+under bundled language/checker/annotation treatments. S132's fuller methods
+make the timing result conditional on 21 completers in each group, excluding
+four dynamic and three static participants; parser outcomes retain all 49.
+Unequal 16/18-hour training is outside those endpoints. The matching designs
+strongly support one experiment lineage, without verified participant/log/test
+identity. S206's 25 hidden scanner tests conflict with S132's 23; its reference
+4 names an unlocated June 2010 technical report, not the final OOPSLA paper.
+
+**Next consequential action:** R04/D1 must keep compiler feedback, observed
+behavior and training/adaptation work distinct. The original-body gap is
+closed; follow the technical report, tests or logs if exact endpoint
+reconstruction becomes necessary. No current Nu/D1 prediction depends on
+resolving that historical discrepancy. The prepared pause and recovery checks
+can proceed under their own contracts, preserving failures and complete work.

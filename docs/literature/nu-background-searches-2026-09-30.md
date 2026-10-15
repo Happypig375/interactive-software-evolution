@@ -9276,3 +9276,76 @@ Exact arguments, accepted response and report are retained in
 `.artifacts/s262-reading-20261015/completed-segment.json`. This is an edition
 completion, not broad search saturation; the selected Nu pause/recovery
 comparisons proceed under their own prospective contracts.
+
+### S206 publisher completion and S132 lineage reconciliation, 2026-10-15
+
+**Decision and acquisition:** complete the missing results/figure of the ECOOP
+typing report before interpreting its adverse result for R04/D1. The requested
+remote Zotero integration followed DOI `10.1007/978-3-642-14107-2_14` to the
+[LNCS 6183 publisher volume](https://link.springer.com/content/pdf/10.1007/978-3-642-14107-2.pdf).
+The 610-page volume is 9,348,114 bytes, SHA-256
+`3f9c290a84dee40c4bc337070c11d53577e9e4a04897574147dee88b581c65dd`.
+PDF leaves 311–314 are the exact four-page article, printed pp.300–303:
+122,120 bytes, SHA-256
+`37728b772a2306074172761cb994e8d30c3ff68996052a801c955858fd72fe74`.
+One volume download and one article attachment are distinct acquisition units;
+610 acquired pages are not 610 pages read. No challenge, new search, purchase,
+account or message to another person was needed. Acquisition receipts remain
+in `.artifacts/s206-acquisition-20261015/`.
+
+**Registration and actual coverage:** parent `TCF847EU` v4983, canonical note
+`VEA6FUPJ` v4988 and new PDF `VCD95IIU` v7119 were verified before reading.
+The older two-page preview `TDV38UY3` v4985 remains intact. All four original
+article pages were read as text and at 220 dpi, including both Figure 1
+boxplots and nine references. The [completed reconstruction](full-reading/S206-ecoop-type-study-partial.md)
+closes the preview's missing-results gap. Its 49-person scanner/parser study,
+languages, 16/18-hour training and headline results strongly support shared
+lineage with S132; exact participant/log/test correspondence remains
+unverified. S206 cites an unlocated technical report due in June 2010,
+not directly the final S132 OOPSLA publication.
+
+A targeted text/visual return to **S132 PDF page 7 / printed p.28, section4.4**
+verifies its 23 scanner tests against S206's 25. Original `U9K3QT3I` remains
+SHA-256 `7a2eae04589b46859c2595ac318dda0963cd4b536af446d95888d6ca24b70936`.
+No full rereading, test-suite acquisition or replication is claimed. Prior
+S132 methods supply the scanner-completer denominator (21 per group from
+25 dynamic/24 static assignments) and all-49 parser analysis. The current
+index is **283 = 13 P + 3 A + 267 S**: one new completed publication, not a
+second independent experiment. The survey/synthesis retain adverse scanner
+evidence, non-equivalence of a nonsignificant parser result, treatment bundles
+and work outside the outcomes.
+
+**Native maintenance:** guarded writes changed S206 note `VEA6FUPJ`
+v4988→7126, with raw-byte-exact final decoded content matching the accepted
+8,572-byte source, SHA-256
+`3bd27d4a14bbf01ec61c1f2bbff20d485bbee0b3024ab8c452e493c7e901dfe1`.
+Parent `TCF847EU` changed v4983→7127, then Zotero automatically advanced it to
+v7128 without another substantive field change. Only `ISE partial reading`
+was removed; no tags were added. Its three memberships (`PKLXQNEE`,
+`Q7GYARCA`, `MBYQJXUF`), metadata, children and physical attachment hashes
+remain exact. New PDF `VCD95IIU` stays v7119 and old preview `TDV38UY3` v4985.
+
+The linked S132 note `CCUPSE94` changed v4986→7129 with an immediate exact
+decoded match to the 11,559-byte source, SHA-256
+`7bde8dc08b20da2421ec4d278c164744663c5c57ec0807f4c29b9ae035c2921c`.
+Zotero then advanced it to v7130, replacing the source's 64 CR characters
+with spaces before LF and changing nothing else; final normalized SHA-256
+`2ebd628031c6ed7ee483431942ddf0838a2119787aa8f3d28efe3f3e1e37917d`.
+Parent `L6ZLJ59R` was not written and remains exact v4989; PDF `U9K3QT3I`
+remains exact v3251. Separate before/request/after/final receipts are under
+`.artifacts/s206-reading-20261015/zotero-note-maintenance/` and
+`.artifacts/s132-s206-lineage-20261015/zotero-note-maintenance/`.
+
+**Completed source decisions:** Scite accepted
+`nu_s206_full_edition_and_s132_lineage_20261015` once: **2 cited, 0 excluded,
+0 skipped**. The inspected report reconciles two screened full-text-stage
+identities, `retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false`. One is a full publication completion; the other
+is the explicitly bounded original-page revisit. No unchanged historical
+screens were resubmitted. Exact arguments, response and inspected report are
+in `.artifacts/s206-reading-20261015/completed-segment.json`.
+
+The remaining technical-report, primary-log and test-suite gaps matter for
+exact historical endpoint reconstruction, not the selected Nu pause/recovery
+feasibility gate. Reading completion does not establish a maintenance,
+agent or Nu effect or close the broad survey.
