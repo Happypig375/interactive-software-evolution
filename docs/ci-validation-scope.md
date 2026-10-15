@@ -125,3 +125,21 @@ scope checks, full Linux validation (9m29s), and full Windows validation
 (15m30s). Maintenance and the optional E2 baseline were skipped under the full
 route. This validates the repository checks at that head; the R10 record owns
 its separate bounded runtime evidence.
+
+## R10 schema publication, 2026-10-16
+
+The R10 schema package at `262ec34d12a07df6dc804000c9884601e494632c` selected
+the full route. [Run 38789012172](https://github.com/Happypig375/interactive-software-evolution/actions/runs/38789012172)
+passed Linux on the first attempt and Windows on the unchanged failed-job retry.
+The separate maintenance job and optional E2 baseline were skipped. This is
+repository validation; the [R10 execution record](nu-schema-reload-feasibility-2026-10-16.md)
+owns its separate native observations.
+
+The first Windows attempt completed 548 unit tests with one error: the existing
+`test_python_probe_failure_starts_no_proxy_or_artifacts` exceeded its 45-second
+outer PowerShell deadline. The exact committed test and launcher passed a local
+targeted reproduction without changing files, assertions or deadlines. The
+failed Windows job was retried once after the workflow finished; the initial
+timeout remains an unexplained failed check. No scientific trial was rerun.
+Original job logs, the local test receipt and both CI attempts are retained
+privately under `.artifacts/r10-schema-20261016/ci/`.

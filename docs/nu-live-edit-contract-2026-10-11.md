@@ -189,3 +189,66 @@ mapping success.
 The [executed schema case](nu-schema-reload-feasibility-2026-10-16.md) now observes the predicted missing-field default in an actual functional Gaia reload: the installed eight-field FSI model has reward zero while preserving all seven inherited fields and the declared projection. Its next prescribed hit keeps score 100. The fresh edited application first initializes reward 200, then its explicitly reconstructed reference reaches score 300. Both complete reward-specific continuations and stable halts pass; the required live mapping and matched successful preservation fail. This is an observed application boundary, not a migration repair or benefit estimate.
 
 The source-bound explicit composition above remains unconstructed. Any later treatment must preserve the old-schema witness, distinguish legitimate retained zero/nondefault values and repeated reloads, and observe intermediate content/synchronization/effect obligations. Neither successful conversion nor the fresh reference supplies those guarantees.
+
+## 2026-10-16 handler installation and witness storage
+
+The proposed application route now has two further source-bound dependencies
+resolved. These are desk findings; no migration variant has been implemented,
+compiled or run.
+
+The application can declare `Game.Handle.CodeReloadEvent =|>` in the replacement
+dispatcher's `Definitions`, returning a new-typed gameplay message. Generic
+synchronization evaluates those definitions after converting the model. Handler
+keys include the late-binding generation: reconciliation removes the preceding
+declared handlers and installs the new ones before Gaia publishes its reload
+event. The existing screen is retained. The callback receives the event; the
+resulting `Message` receives the already-converted model, so it cannot recover
+the absent-versus-zero distinction without the earlier raw witness. This route
+depends on `=|>`; direct `=>` signals have different keys. Arbitrary manually
+registered subscriptions are outside this reconciliation. See
+[generation keys](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldContent.fs#L697),
+[handler replacement](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldContent.fs#L79)
+and [typed message dispatch](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModule2.fs#L2816).
+
+Prefer a uniquely named, immutable scalar screen Xtension property declared
+through `static member Properties` and `nonPersistent` for the pending witness.
+Reload attaches missing properties before the new `TrySynchronize` call and
+preserves existing values. In the `reinitializing` branch, the override can
+capture the raw schema predicate into that slot before delegating to the base.
+Plain property setting does not itself call model synchronization; the eventual
+model write does. Keep the slot out of content definitions so they do not
+overwrite it. The new handler must check its access results and use a declared
+clear/migrate order. See [missing-property attachment](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModuleScreen.fs#L440)
+and [plain property setting](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModuleScreen.fs#L322).
+
+For exact Breakout, the unchanged parent declares Gameplay with empty property
+definitions. Parent content reconciliation does not call the child dispatcher;
+the later per-simulant pass calls its override once with `reinitializing=true`,
+before the first typed V1 read. A mapping write can later call synchronization
+with `false,false` and must not recapture the witness. This is a source prediction
+for the retained parent, not a universal call-count guarantee. A prospective
+first-capture policy should distinguish unseen, captured-present and
+captured-absent states in the per-screen scalar, retain the first observation
+through conversion, and consume it at the event. Unexpected source shapes and
+capture order require explicit failure dispositions. The engine's
+`Content.UpdateLateBindingsCount` is internal, so it is not an available public
+application generation token. See [the final synchronization loop](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/World.fs#L244),
+[child reconciliation](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldContent.fs#L256)
+and [the unchanged parent declaration](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Breakout%20Mmcc/Breakout.fs#L69).
+
+This ordinary World-state route avoids putting the witness in a mutable
+dispatcher dictionary outside history. It does not establish branch isolation,
+atomic capture/migration/clearing, rollback or retry safety. A dictionary would
+also need screen address plus state identity and stale-entry cleanup: Screen
+equality alone uses the address, which can be reused. `nonPersistent` controls
+descriptor persistence, not those guarantees. Compilation failure can still
+publish the reload event, so a scoped positive witness remains necessary.
+
+The unfrozen next comparison distinguishes absent reward (install 200),
+legitimate zero (retain zero), and nondefault 75 (retain 75), plus a repeat using
+actual inherited state. A successful repeat cannot erase a failed first
+installation. Application mapping, intermediate content/effects, observer work
+and fresh reconstruction must remain separately accounted. The private
+installation, storage and capture-order notes and parent source checks are retained
+under `.artifacts/r10-schema-20261016/next-migration/`; this preparation does not
+reopen or repair the published initializer-only observation.
