@@ -1573,3 +1573,11 @@ body remains the executable acquisition target when its corpus or method
 claim matters; S309's reading does not fill it. A further generic API catalogue
 cannot settle Nu's benefit or readiness. Human learning and steering
 comparisons remain future work under their existing allocation boundaries.
+
+## 2026-10-16 continuation: application schema defaulting and preservation
+
+**Discovery and primary understanding:** no new paper search or reading is credited. The completed S71/S86/S295 and S218/S219 mechanisms remain distinct predecessors. A pinned [Nu source audit](../nu-live-edit-contract-2026-10-11.md#2026-10-16-source-boundary-for-an-explicit-migration) binds raw pre-conversion observation, typed conversion, content synchronization and event/setter ordering; it does not construct an atomic application migration.
+
+**Evidence disposition for B02/B04/B08:** the [R10 initializer-only live/fresh case](../nu-schema-reload-feasibility-2026-10-16.md) now preserves the old seven-field checkpoint and selected projection while actual FSI conversion gives the added reward field zero despite its initializer of 200. The declared next hit yields score 100; the fresh application observes initial reward 200 and its explicit required-state reconstruction yields 300. Both complete reward-specific continuation oracles pass. This is a valid failed live mapping, not a matched successful preservation pair or a general schema result. The frozen contract, complete selected observations, full attempt ledger, build/runner identities and narrow Nu.Spine exact-path timing limit are retained.
+
+**Next consequential action for B08/B11/B12:** a justified explicit-migration treatment must distinguish first installation from legitimate zero/nondefault retained configuration and repeated reload, observe intermediate content/effects, and account for all mapping, verification and reconstruction work. The unchanged-schema success remains valid at its narrower boundary; this adverse schema result neither erases it nor establishes a net benefit. Ordinary agent access, native/external effects and human steering remain separate questions. R02 input construction remains stopped under PLAN?s return.

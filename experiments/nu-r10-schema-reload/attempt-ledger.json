@@ -1,0 +1,694 @@
+{
+  "schemaVersion": 1,
+  "gateRule": "Five unresolved failures at one unchanged preparation, build, objective-check, or runtime gate require return.",
+  "nativeLaunch": true,
+  "attempts": [
+    {
+      "id": "objective-preparation-01",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer-objective-checks-prep/objective-checks.json",
+        "sha256": "1363987a2642deddff444e8996726b8b76ee109818f21b6d695bcf501c4b3e7a",
+        "bytes": 3587
+      }
+    },
+    {
+      "id": "preparation-01",
+      "gate": "preparation",
+      "status": "failed",
+      "failureClass": "The preparer archive identity used an in-memory read and raised MemoryError before destination creation.",
+      "nativeLaunch": false,
+      "source": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/preparation-attempt-01.prepare.py",
+        "sha256": "213fe1a52f45bcd00e6ca87e0aa44f0007c154856cebc92dcec1a40efffea0ed",
+        "bytes": 7103
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/preparation-attempt-01.stdout.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/preparation-attempt-01.stderr.log",
+        "sha256": "183c48586ab98b013859e9e5f09996bcfa8d725b890f9245f767ade556e355c0",
+        "bytes": 1674
+      }
+    },
+    {
+      "id": "preparation-02",
+      "gate": "preparation",
+      "status": "passed",
+      "nativeLaunch": false,
+      "source": {
+        "path": "experiments/nu-r10-schema-reload/prepare.py",
+        "sha256": "48f024449d9e7051db2574d6e1c344ca1e0cd9a1000466d7c883722f1e1068f6",
+        "bytes": 7264
+      },
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/prepare-receipt.json",
+        "sha256": "5e1330b4c1c0732b414616d0c0365fe98e883e7ff5054ff8fb61563ec0a0c032",
+        "bytes": 1671
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/preparation-attempt-02.stdout.log",
+        "sha256": "da0893cbd3931b44feb4ee3192d3580c3b0ea1b61645c05711b336d2d271f85a",
+        "bytes": 3344
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/preparation-attempt-02.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "objective-check-02",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-01/objective-checks.json",
+        "sha256": "8ea3938f95eeba9dc440abed0dab19380a772863784302f26eb1a197bc6ce9f7",
+        "bytes": 3671
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-02.stdout.log",
+        "sha256": "40bc14a4aefe1240adc2d96ecdcbfdc3ac9564df926c54ab66f717b737dbe196",
+        "bytes": 7344
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-02.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "build-01",
+      "gate": "build",
+      "status": "interrupted-unknown",
+      "failureClass": "The initiating worker disappeared during restore; no terminal process result was retained and no build process remained alive when ownership transferred.",
+      "nativeLaunch": false,
+      "log": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-attempt-01.log",
+        "sha256": "106f46155d9951f85cff69b71c734e2b127e5c1a57be80d305b73f6e10c9c98c",
+        "bytes": 570
+      }
+    },
+    {
+      "id": "build-02",
+      "gate": "build",
+      "status": "passed",
+      "nativeLaunch": false,
+      "warnings": 334,
+      "errors": 0,
+      "log": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-attempt-02.log",
+        "sha256": "289ea4e683e924f23205b41e9244c54ee674e2da3bb2bf3c83839cfeddccb386",
+        "bytes": 368512
+      },
+      "output": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-02-preserved/outputs/probe-bin/SchemaReload.dll",
+        "sha256": "68ff3036bc2792e8342b4d85e0fdcedafcce7a8ce3102738c3a002de7777daab",
+        "bytes": 50176
+      },
+      "preservationReceipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-02-preserved/preservation-receipt.json",
+        "sha256": "8fb1817368f52444f170a158ef3378b5d52864f5043809611a3904663111915a",
+        "bytes": 47240
+      }
+    },
+    {
+      "id": "objective-check-03",
+      "gate": "objective-check",
+      "status": "failed",
+      "failureClass": "Start-Process split the spaced Gameplay path into two arguments; argparse rejected the invocation before creating the requested output directory.",
+      "nativeLaunch": false,
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-03.stdout.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-03.stderr.log",
+        "sha256": "f0701af12400cc8e95448b8721de0972f5431cb1ebecb20576223ce5df2e0ccf",
+        "bytes": 138
+      }
+    },
+    {
+      "id": "objective-check-04",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-04/objective-checks.json",
+        "sha256": "57a4d07b487e08ef97636576ae91648a8c5dd41d7ac6fb3a60726f7b1661542c",
+        "bytes": 3671
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-04.stdout.log",
+        "sha256": "b329a004199504e614e0fcd670793b8f6878a8c1e88fc28e6831f4c665c96cac",
+        "bytes": 7344
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-04.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "source-review-01",
+      "gate": "source-review",
+      "status": "failed",
+      "unresolved": true,
+      "gateFailureCount": 1,
+      "findingCount": 4,
+      "nativeLaunch": false,
+      "failureClass": "Focused pre-native review withheld acceptance pending B1-B4 corrections; findings count as one failed review gate.",
+      "review": {
+        "path": ".artifacts/r10-schema-20261016/review/source-review-01.md",
+        "sha256": "439c74957c7a67b94278d70b637235fe110ed51e8e3c3d6cf9a9fee5d3e749ee",
+        "bytes": 14244
+      }
+    },
+    {
+      "id": "objective-check-05",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 23,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-05/objective-checks.json",
+        "sha256": "ac2157b977ca9880e78825d7fc107de82c1ddd590caae338b5ad8e3fec7594f1",
+        "bytes": 6734
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-05.stdout.log",
+        "sha256": "40d85a6fa3a4d29abba31aa4c26ecca2a435d8a4c319488732785013ba542e36",
+        "bytes": 13884
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-05.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "build-03",
+      "gate": "build",
+      "status": "passed",
+      "nativeLaunch": false,
+      "warnings": 122,
+      "errors": 0,
+      "scope": "Corrected SchemaReload probe only; no restore and BuildProjectReferences=false.",
+      "log": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-attempt-03.log",
+        "sha256": "6618091d4bca69305caf3c22b62582e2c6580b016f46a10772d928269ea1aca0",
+        "bytes": 119302
+      },
+      "output": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build03-corrected-01/outputs/probe-bin/SchemaReload.dll",
+        "sha256": "76043b1c6814aa4225cf54686c4f9dfe578d66673ab4990de27f52281161506a",
+        "bytes": 51200
+      }
+    },
+    {
+      "id": "objective-check-06",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 23,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-06/objective-checks.json",
+        "sha256": "ab1b84de0cff3241519920ea1e4dae877a5db920ad22f6e3d7ae29dcdc0b6b5d",
+        "bytes": 6734
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-06.stdout.log",
+        "sha256": "b714278e1ad5f49a1851918b08121844b116d31eede368e88952b219cc47841d",
+        "bytes": 13884
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-06.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "objective-check-07",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 23,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-07/objective-checks.json",
+        "sha256": "367162f398f0a1cca552747d0c4159e5f8ab1438ac3366c145726a2e36555405",
+        "bytes": 6734
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-07.stdout.log",
+        "sha256": "8f206fa728d4f1c6420f31bf39a0edcce49f56042b19b8587635d5db55043d55",
+        "bytes": 13884
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-07.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "objective-check-08",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 23,
+      "scope": "Final corrected sources with retained sealing and benign-child cleanup control receipts and exact event sequence.",
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-08/objective-checks.json",
+        "sha256": "8296872444ba19d5b2f5339cb08b8be05e2fabd3510b7777ba6be4557bbb2752",
+        "bytes": 6734
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-08.stdout.log",
+        "sha256": "c89fadc531d76c8d9a9208d1e053d433f6a8bce5f23d060f293d141295b69c8c",
+        "bytes": 13884
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-08.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "build-snapshot-v0-01",
+      "gate": "build-snapshot",
+      "status": "passed",
+      "nativeLaunch": false,
+      "files": 277,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build03-corrected-01/receipt.json",
+        "sha256": "8aae4cb8c72cd2bffe05942d85c0d2ea185209b19150be0a010bd88bed19ea05",
+        "bytes": 109160
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-build03-01.stdout.log",
+        "sha256": "26fdf279c0633e628a8243a0eb19026ff53a23d8153083878e528e527548c581",
+        "bytes": 496
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-build03-01.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "supersededBy": "build-snapshot-v0-final-01"
+    },
+    {
+      "id": "objective-check-09",
+      "gate": "objective-check",
+      "status": "failed",
+      "nativeLaunch": false,
+      "failureClass": "New rewardInRange contradiction check correctly exposed the synthetic live installed event's missing rewardInRange field.",
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-09.stdout.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-09.stderr.log",
+        "sha256": "00406f925fb7bec833b74272b90ea22a781dc834720f7aed173a4cce50cd0f31",
+        "bytes": 2740
+      }
+    },
+    {
+      "id": "objective-check-10",
+      "gate": "objective-check",
+      "status": "failed",
+      "nativeLaunch": false,
+      "failureClass": "The first fixture correction coupled live rewardInRange to preservation; the comparator correctly rejected the truthful reward-200/preservation-failure case.",
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-10.stdout.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-10.stderr.log",
+        "sha256": "28d29ad2bf1fe45c17addd5165925ac39f69cee1b28fba8badde73f233f95cf4",
+        "bytes": 2878
+      }
+    },
+    {
+      "id": "objective-check-11",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 23,
+      "scope": "Final B1-B4 sources, including observation-derived mode-specific reward/range/applicability flags.",
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-11/objective-checks.json",
+        "sha256": "6057aef654e2c1e387058bb6bcb1622422ef3c9d76ba4d00bfa95b2596d124b8",
+        "bytes": 6734
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-11.stdout.log",
+        "sha256": "26d18d2529381a0198827a08d4189158d8a90b89543b84f7e674ecb616f8971a",
+        "bytes": 13884
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-11.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "build-04",
+      "gate": "build",
+      "status": "passed",
+      "nativeLaunch": false,
+      "warnings": 122,
+      "errors": 0,
+      "scope": "Final corrected SchemaReload probe only; no restore and BuildProjectReferences=false.",
+      "log": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-attempt-04.log",
+        "sha256": "e69268457cf5409f568c63b28211fc4118aa6afa1fa3b49c47a34e8f2a495916",
+        "bytes": 119302
+      },
+      "output": {
+        "path": "experiments/nu-r10-schema-reload/bin/Release/net10.0/SchemaReload.dll",
+        "sha256": "3ebf43c16f1a3a4de1963727f40163190b1d3eae7116fd7941fa86f8a71841e5",
+        "bytes": 51200
+      }
+    },
+    {
+      "id": "build-snapshot-v0-final-01",
+      "gate": "build-snapshot",
+      "status": "passed",
+      "nativeLaunch": false,
+      "files": 277,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build04-final-01/receipt.json",
+        "sha256": "8085799efc97fc467af3bae1cc1d4d5d1ca909353f29f96c2a6324d591936877",
+        "bytes": 109156
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-build04-final-01.stdout.log",
+        "sha256": "4170e2de578749fb6e44ca2ff1925443b4f3a2ec5bd4bfacfcb5f349cdafbe27",
+        "bytes": 488
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-build04-final-01.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "supersededBy": "build-snapshot-v0-review02-final-01"
+    },
+    {
+      "id": "source-review-02",
+      "gate": "source-review",
+      "status": "failed",
+      "unresolved": true,
+      "gateFailureCount": 1,
+      "findingCount": 3,
+      "nativeLaunch": false,
+      "failureClass": "Focused corrected-source review withheld acceptance pending B2a, B3a, and B2b; findings count as one failed review gate.",
+      "review": {
+        "path": ".artifacts/r10-schema-20261016/review/source-review-02.md",
+        "sha256": "d5806ae03c7696905ed6c32a6760bb2f1328f112ba06d6225dfcc6bc53e90f0a",
+        "bytes": 12693
+      }
+    },
+    {
+      "id": "objective-check-12",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 28,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-12/objective-checks.json",
+        "sha256": "5401770209b2442066fb5aef418f7e22e8ffa42196e07acb54187819c6b9150a",
+        "bytes": 7198
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-12.stdout.log",
+        "sha256": "6c04347aada460388f28736aea9ce68119d1cfb9c87aace089eb45a616e50642",
+        "bytes": 14852
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-12.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "source-manifest-01",
+      "gate": "source-manifest",
+      "status": "passed",
+      "nativeLaunch": false,
+      "files": 3240,
+      "checkedBytes": 995709375,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/source-manifest-preseal-01.json",
+        "sha256": "4567ea9578dc56b12df5387dfdd844f8457a0a0f2ba55006c8306172783d0b46",
+        "bytes": 1132084
+      }
+    },
+    {
+      "id": "objective-check-13",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 28,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-13/objective-checks.json",
+        "sha256": "6aaaf126a05be4649d564edebc23a999511c44c1ebb7d23636241a2fe5b05135",
+        "bytes": 7198
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-13.stdout.log",
+        "sha256": "e06dad64e7cecd88d6dc0f0dbf7c5c3789c2672ee3b662ae8bc8478b74d0b09a",
+        "bytes": 14852
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-13.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "build-snapshot-v0-review02-final-01",
+      "gate": "build-snapshot",
+      "status": "passed",
+      "nativeLaunch": false,
+      "files": 1145,
+      "sourceManifestFiles": 3240,
+      "outputRootFiles": 1131,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build04-review02-final-01/receipt.json",
+        "sha256": "2588e1dd40c6250d686d80056ddc3d1aab5ac8699ad0bb912889d7c160dc2bd1",
+        "bytes": 518370
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-review02-final-01.stdout.log",
+        "sha256": "a3a44945a519b12d44f81268846f06459c71db710307eff8895853f303583deb",
+        "bytes": 506
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-review02-final-01.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "supersededBy": "build-snapshot-v0-review02-final-02"
+    },
+    {
+      "id": "objective-check-14",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 29,
+      "scope": "Final focused checks plus accepted 3240-file source/full-output/toolchain arm-receipt verification.",
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-14/objective-checks.json",
+        "sha256": "f48464003b98607420c41644349206cc65b5caf0c9a9ab909eec9a2a410e733a",
+        "bytes": 7315
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-14.stdout.log",
+        "sha256": "36d935fbb0f0dbde7c56b1355be1c9b6dff22b229a3b49fb4240faa8a74c1cb3",
+        "bytes": 15094
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-14.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "build-snapshot-v0-review02-final-02",
+      "gate": "build-snapshot",
+      "status": "passed",
+      "nativeLaunch": false,
+      "files": 1145,
+      "sourceManifestFiles": 3240,
+      "outputRootFiles": 1131,
+      "scope": "Final README-accurate complete seal; compiled outputs remain accepted build 04.",
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build04-review02-final-02/receipt.json",
+        "sha256": "9a49be5ff895361598b613646d8a7fca4b7234c3aab7bf68186c3a9e80ceb0ac",
+        "bytes": 518370
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-review02-final-02.stdout.log",
+        "sha256": "957df186d86c038defe2f64e801799f8b15a311c24ddac6053bf118c76bfee84",
+        "bytes": 506
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/seal-v0-review02-final-02.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "objective-check-15",
+      "gate": "objective-check",
+      "status": "passed",
+      "nativeLaunch": false,
+      "checks": 29,
+      "scope": "Final README-accurate accepted receipt verification and focused B2a/B3a/B2b controls.",
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-15/objective-checks.json",
+        "sha256": "ec68e95612898f3981ba65b8adda6dec06915ab994ffaf0f343741f879415e22",
+        "bytes": 7315
+      },
+      "stdout": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-15.stdout.log",
+        "sha256": "80f4bf503e20860bad8ef074396c3e6b5ae446d5c2c5051d3f2e1729cfe90e94",
+        "bytes": 15094
+      },
+      "stderr": {
+        "path": ".artifacts/r10-schema-20261016/implementation-notes/objective-attempt-15.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    {
+      "id": "source-review-03",
+      "gate": "source-review",
+      "status": "passed",
+      "nativeLaunch": false,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/review/source-review-03.md",
+        "sha256": "2e7a618d5cffb0b49a083382e7617204f11fa00ad1a5c4f48fae387a8efc9aa2",
+        "bytes": 11207
+      }
+    },
+    {
+      "id": "parent-native-acceptance-01",
+      "gate": "pre-native-acceptance",
+      "status": "passed",
+      "nativeLaunch": false,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/parent-verification/pre-native-acceptance-01.json",
+        "sha256": "a884e5b2e97f0885b3e4a55c666515441ca6448c148d73112a220e7917648b52",
+        "bytes": 2662
+      }
+    },
+    {
+      "id": "runtime-live-01",
+      "gate": "runtime",
+      "status": "completed-valid-failed-mapping",
+      "mode": "live",
+      "nativeLaunch": true,
+      "outputDirectory": ".artifacts/r10-schema-20261016/initializer/runtime/live-01",
+      "checkpointDirectory": ".artifacts/r10-schema-20261016/initializer/runtime/checkpoint-01",
+      "runnerPass": true,
+      "observedReward": 0,
+      "preservationPass": true,
+      "continuationPass": true,
+      "mappingRequirementPass": false,
+      "processReceipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/runtime/live-01/process.json",
+        "sha256": "1bec29cde99e817553c0bf478645a4459ae79c64d134b6bb3a00305b778b639a",
+        "bytes": 6833
+      }
+    },
+    {
+      "id": "build-v1-01",
+      "gate": "build",
+      "status": "passed",
+      "nativeLaunch": false,
+      "purpose": "fresh required-state reference after the retained live-01 edit; not a repair of that live result",
+      "exitCode": 0,
+      "warnings": 212,
+      "errors": 0,
+      "buildLog": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-v1-attempt-01.log",
+        "sha256": "38406e25a63d5a0b68aaf247ef87a29713fc9518dbbae11b3e8eb3427f705155",
+        "bytes": 221450
+      }
+    },
+    {
+      "id": "build-snapshot-v1-01",
+      "gate": "build-snapshot",
+      "status": "passed",
+      "nativeLaunch": false,
+      "files": 1148,
+      "sourceManifestFiles": 3240,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v1-build01-01/receipt.json",
+        "sha256": "e0872f7697a8ab73b61daf3c58302e04c0ca4366cf3e41869b238c11a0503b24",
+        "bytes": 519471
+      }
+    },
+    {
+      "id": "parent-fresh-acceptance-01",
+      "gate": "pre-native-acceptance",
+      "status": "passed",
+      "nativeLaunch": false,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/parent-verification/pre-fresh-acceptance-01.json",
+        "sha256": "11c2603c7d1b4ebf680120949d8d1990f26ee2974aa91aa60ea12b6c9d3c76e8",
+        "bytes": 3383
+      }
+    },
+    {
+      "id": "runtime-fresh-01",
+      "gate": "runtime",
+      "status": "completed-valid-required-reference",
+      "mode": "fresh",
+      "nativeLaunch": true,
+      "purpose": "Observe V1 initialization and reconstruct required checkpoint with explicit reward 200; live-01 remains a failed mapping.",
+      "outputDirectory": ".artifacts/r10-schema-20261016/initializer/runtime/fresh-01",
+      "runnerPass": true,
+      "observedReward": 200,
+      "freshInitializationPass": true,
+      "preservationPass": true,
+      "continuationPass": true,
+      "processReceipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/runtime/fresh-01/process.json",
+        "sha256": "6304e293954c5780112fa38d1e5673de4316909543c271918ad06683626fff18",
+        "bytes": 5262
+      }
+    },
+    {
+      "id": "comparison-01",
+      "gate": "observation-validation",
+      "status": "passed-valid-failed-live-mapping",
+      "nativeLaunch": false,
+      "matchedSuccessfulPreservationPair": false,
+      "receipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/runtime/comparison-01/comparison.json",
+        "sha256": "8197db1e1e399e2782c43579500179bcde33c9215118724975659374e1881a89",
+        "bytes": 1474
+      }
+    }
+  ],
+  "unresolvedFailureCounts": {
+    "preparation": 0,
+    "build": 0,
+    "objective-check": 0,
+    "build-snapshot": 0,
+    "source-manifest": 0,
+    "source-review": 0,
+    "runtime": 0
+  },
+  "reviewFailureAccounting": "Each failed source-review disposition is one unresolved gate attempt; its findings are not counted as separate failures."
+}

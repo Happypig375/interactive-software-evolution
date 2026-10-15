@@ -1,0 +1,638 @@
+{
+  "schemaVersion": 1,
+  "createdUtc": "2026-10-15T18:45:46.150394+00:00",
+  "pin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+  "treatment": "Initializer-only added immutable field; no explicit migration or observation-driver repair.",
+  "scope": "One actual live attempt and one explicitly reconstructed fresh required-state reference.",
+  "comparison": {
+    "schemaVersion": 2,
+    "observationProcessesPassed": true,
+    "oracle": {
+      "path": "experiments/nu-r10-schema-reload/oracle.json",
+      "sha256": "327d804d8d780f70894476267f0995554764798309b6a5fa1b88c1fe69b1cb2c",
+      "bytes": 33458
+    },
+    "liveRequiredRewardInstalled": false,
+    "liveMappingRequirementPass": false,
+    "freshInitializationPass": true,
+    "livePreservationPass": true,
+    "freshPreservationPass": true,
+    "liveContinuationAttempted": true,
+    "freshContinuationAttempted": true,
+    "liveContinuationPass": true,
+    "freshContinuationPass": true,
+    "liveObservedReward": 0,
+    "freshObservedReward": 200,
+    "checkpointSevenAndProjectionEqual": true,
+    "postModelAndProjectionEqual": false,
+    "matchedSuccessfulPreservationPair": false,
+    "arms": {
+      "live": {
+        "path": ".artifacts/r10-schema-20261016/initializer/runtime/live-01/probe/trace.jsonl",
+        "sha256": "b633e27cf2e1471253f0687bac9b6091b91fcb054d62c689076eecd8a9e72188",
+        "bytes": 120826
+      },
+      "fresh": {
+        "path": ".artifacts/r10-schema-20261016/initializer/runtime/fresh-01/probe/trace.jsonl",
+        "sha256": "61013317b5139664e02e961db3415ef49db448f21798ba5d37a7c32d51b45f69",
+        "bytes": 118394
+      }
+    },
+    "interpretation": "All verdicts are derived from retained observations. Live mapping requires both the required reward 200 and complete inherited-state/projection preservation."
+  },
+  "observations": {
+    "path": "experiments/nu-r10-schema-reload/observations.json",
+    "sha256": "15f34cc92fd70f430c5d5a7101a37e9c0570a287cc8dbf3f48fdbc3d4949dab9",
+    "bytes": 260400
+  },
+  "observed": {
+    "live": {
+      "result": {
+        "event": "result",
+        "processPass": true,
+        "detail": "Observation completed with a failed application requirement.",
+        "phase": "next-halted",
+        "mode": "live",
+        "mappingRequirementPass": false,
+        "requiredRewardInstalled": false,
+        "preservationPass": true,
+        "continuationAttempted": true,
+        "continuationPass": true,
+        "freshInitializationApplicable": false,
+        "freshInitializationPass": false,
+        "freshInitialReward": -1,
+        "observedReward": 0,
+        "rewardInRange": true,
+        "matchedRequirementPass": false,
+        "updates": 1,
+        "timeUpdates": 1,
+        "leftInputs": 0,
+        "rightInputs": 0
+      },
+      "eventSchedule": {
+        "event": "event-schedule",
+        "updates": 1,
+        "timeUpdates": 1,
+        "order": [
+          "TimeUpdate",
+          "Update"
+        ],
+        "gameDeltaUpdates": [
+          1
+        ],
+        "leftInputs": 0,
+        "rightInputs": 0
+      },
+      "runtimeIdentity": {
+        "event": "configuration",
+        "mode": "live",
+        "projectDll": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0/Breakout Mmcc.dll",
+        "targetDir": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0",
+        "currentDirectory": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0",
+        "runtime": ".NET 10.0.10",
+        "os": "Microsoft Windows 10.0.19045",
+        "architecture": "X64",
+        "plugin": "Breakout.BreakoutPlugin",
+        "assemblies": [
+          {
+            "fullName": "Nu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "e7def5ff-3d05-2297-0fe6-3dcfeac16ebe",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Nu.dll",
+            "sha256": "4aed0cff4115ed02f5952e497e3223bb52424744fafafc20b98737b803480463"
+          },
+          {
+            "fullName": "Nu.Gaia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "8cb91392-51d7-7996-5f92-a36582654c0e",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Nu.Gaia.dll",
+            "sha256": "a1f9e51fa43fa0c146a08f056d4fb94a682c2a6b88afec67bb4f24034979f760"
+          },
+          {
+            "fullName": "Breakout Mmcc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "9552b216-5679-38c6-3a2d-8c150b52e53d",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Breakout Mmcc.dll",
+            "sha256": "b78571493ffe95b368eb1d46f834003e0a9ba87805154efc8820af09ddcc3a1f"
+          },
+          {
+            "fullName": "Prime, Version=11.5.1.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "a44ef7a6-1204-bd4f-22b8-f4f73631adbf",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Prime.dll",
+            "sha256": "61a67158910296d92e22cf4c4d7ec9edb194c55ab00098534850e281e370c787"
+          },
+          {
+            "fullName": "FSharp.Compiler.Service, Version=43.12.204.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+            "mvid": "807944ee-8ccd-c319-bb44-7daaa27ed11a",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/FSharp.Compiler.Service.dll",
+            "sha256": "c022989f50845e07928652aae15b1116b87ac27ede1407a46ea77c6376e875bc"
+          }
+        ]
+      },
+      "postScalars": {
+        "time": 150,
+        "score": 100,
+        "lives": 5,
+        "brickCount": 28,
+        "ballPosition": [
+          -64.0,
+          56.0,
+          0.0
+        ],
+        "ballDirection": [
+          0.0,
+          -1.0,
+          0.0
+        ]
+      },
+      "eventSequence": [
+        "configuration",
+        "oracle-data-controls",
+        "precomputed-oracle",
+        "checkpoint-halted",
+        "reload-start",
+        "fsi-assemblies",
+        "reload-installed",
+        "post-reload-pre-advance",
+        "resume-request",
+        "event-schedule",
+        "post-update-halted",
+        "next-halted-stable",
+        "result",
+        "engine-exit"
+      ],
+      "reloadInstallation": {
+        "event": "reload-installed",
+        "actualType": "FSI_0005.Breakout.Gameplay",
+        "actualAssembly": {
+          "fullName": "FSI-ASSEMBLY-MULTI, Version=0.0.0.32762, Culture=neutral, PublicKeyToken=null",
+          "mvid": "6ad11aae-3b31-4c1a-a745-0383ae1ad16a",
+          "dynamic": false,
+          "location": "",
+          "sha256": ""
+        },
+        "dispatcherType": "FSI_0005.Breakout.GameplayDispatcher",
+        "dispatcherAssembly": {
+          "fullName": "FSI-ASSEMBLY-MULTI, Version=0.0.0.32762, Culture=neutral, PublicKeyToken=null",
+          "mvid": "6ad11aae-3b31-4c1a-a745-0383ae1ad16a",
+          "dynamic": false,
+          "location": "",
+          "sha256": ""
+        },
+        "dispatcherModelType": "FSI_0005.Breakout.Gameplay",
+        "fieldNames": [
+          "GameplayTime",
+          "GameplayState",
+          "Paddle",
+          "Ball",
+          "Bricks",
+          "Score",
+          "Lives",
+          "BrickReward"
+        ],
+        "observedReward": 0,
+        "requiredRewardInstalled": false,
+        "mappingRequirementPass": false,
+        "preservationPass": true,
+        "rewardInRange": true
+      }
+    },
+    "fresh": {
+      "result": {
+        "event": "result",
+        "processPass": true,
+        "detail": "Required initializer mapping and continuation passed.",
+        "phase": "next-halted",
+        "mode": "fresh",
+        "mappingRequirementPass": false,
+        "requiredRewardInstalled": true,
+        "preservationPass": true,
+        "continuationAttempted": true,
+        "continuationPass": true,
+        "freshInitializationApplicable": true,
+        "freshInitializationPass": true,
+        "freshInitialReward": 200,
+        "observedReward": 200,
+        "rewardInRange": true,
+        "matchedRequirementPass": true,
+        "updates": 1,
+        "timeUpdates": 1,
+        "leftInputs": 0,
+        "rightInputs": 0
+      },
+      "eventSchedule": {
+        "event": "event-schedule",
+        "updates": 1,
+        "timeUpdates": 1,
+        "order": [
+          "TimeUpdate",
+          "Update"
+        ],
+        "gameDeltaUpdates": [
+          1
+        ],
+        "leftInputs": 0,
+        "rightInputs": 0
+      },
+      "runtimeIdentity": {
+        "event": "configuration",
+        "mode": "fresh",
+        "projectDll": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0/Breakout Mmcc.dll",
+        "targetDir": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0",
+        "currentDirectory": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0",
+        "runtime": ".NET 10.0.10",
+        "os": "Microsoft Windows 10.0.19045",
+        "architecture": "X64",
+        "plugin": "Breakout.BreakoutPlugin",
+        "assemblies": [
+          {
+            "fullName": "Nu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "e7def5ff-3d05-2297-0fe6-3dcfeac16ebe",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Nu.dll",
+            "sha256": "4aed0cff4115ed02f5952e497e3223bb52424744fafafc20b98737b803480463"
+          },
+          {
+            "fullName": "Nu.Gaia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "8cb91392-51d7-7996-5f92-a36582654c0e",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Nu.Gaia.dll",
+            "sha256": "a1f9e51fa43fa0c146a08f056d4fb94a682c2a6b88afec67bb4f24034979f760"
+          },
+          {
+            "fullName": "Breakout Mmcc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "96d0b1d2-a2e8-bbf8-797a-6b876f85cfab",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Breakout Mmcc.dll",
+            "sha256": "e08b8663a2cb7caac8b4dda720db305bdc96e89d7ca8ffb79b1f059cabaaf0df"
+          },
+          {
+            "fullName": "Prime, Version=11.5.1.0, Culture=neutral, PublicKeyToken=null",
+            "mvid": "a44ef7a6-1204-bd4f-22b8-f4f73631adbf",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/Prime.dll",
+            "sha256": "61a67158910296d92e22cf4c4d7ec9edb194c55ab00098534850e281e370c787"
+          },
+          {
+            "fullName": "FSharp.Compiler.Service, Version=43.12.204.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+            "mvid": "807944ee-8ccd-c319-bb44-7daaa27ed11a",
+            "dynamic": false,
+            "location": "experiments/nu-r10-schema-reload/bin/Release/net10.0/FSharp.Compiler.Service.dll",
+            "sha256": "c022989f50845e07928652aae15b1116b87ac27ede1407a46ea77c6376e875bc"
+          }
+        ]
+      },
+      "postScalars": {
+        "time": 150,
+        "score": 300,
+        "lives": 5,
+        "brickCount": 28,
+        "ballPosition": [
+          -64.0,
+          56.0,
+          0.0
+        ],
+        "ballDirection": [
+          0.0,
+          -1.0,
+          0.0
+        ]
+      },
+      "eventSequence": [
+        "configuration",
+        "fresh-initial-model",
+        "oracle-data-controls",
+        "precomputed-oracle",
+        "checkpoint-halted",
+        "resume-request",
+        "event-schedule",
+        "post-update-halted",
+        "next-halted-stable",
+        "result",
+        "engine-exit"
+      ]
+    }
+  },
+  "processes": {
+    "live": {
+      "startedUtc": "2026-10-15T18:23:55Z",
+      "exitCode": 0,
+      "runnerPass": true,
+      "nativeLaunch": true,
+      "timedOut": false,
+      "checkpointTimedOut": false,
+      "elapsedSeconds": 121.3130000000001,
+      "cleanup": {
+        "required": false,
+        "reason": "process-already-completed",
+        "timeoutSeconds": 20.0,
+        "attempted": false,
+        "completed": true,
+        "exitCode": 0,
+        "errors": [],
+        "primary": {
+          "attempted": false,
+          "confirmedTreeCleanup": false
+        },
+        "fallback": {
+          "required": false,
+          "attempted": false,
+          "rootCompleted": true
+        },
+        "treeCleanupConfirmed": true,
+        "pass": true,
+        "furtherNativeWorkAllowed": true
+      },
+      "probe": {
+        "path": "experiments/nu-r10-schema-reload/bin/Release/net10.0/SchemaReload.dll",
+        "sha256": "3ebf43c16f1a3a4de1963727f40163190b1d3eae7116fd7941fa86f8a71841e5",
+        "bytes": 51200
+      },
+      "application": {
+        "path": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0/Breakout Mmcc.dll",
+        "sha256": "b78571493ffe95b368eb1d46f834003e0a9ba87805154efc8820af09ddcc3a1f",
+        "bytes": 52224
+      },
+      "gameplaySource": {
+        "path": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/Gameplay.fs",
+        "sha256": "571e2a5ce3f0630972f2fbe4e9a6a3c376bcf4d1a74589d14c882b2ee0db1423",
+        "bytes": 12382
+      },
+      "sourceManifestVerification": {
+        "fileCount": 3240,
+        "checkedBytes": 995709375,
+        "overrides": {
+          "Nu/Nu.Gaia/Gaia.fs": "instrumented-gaia",
+          "Projects/Breakout Mmcc/Gameplay.fs": "gameplay-v0"
+        }
+      },
+      "armReceipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build04-review02-final-02/receipt.json",
+        "sha256": "9a49be5ff895361598b613646d8a7fca4b7234c3aab7bf68186c3a9e80ceb0ac",
+        "bytes": 518370
+      },
+      "liveCheckpointBinding": {
+        "path": ".artifacts/r10-schema-20261016/initializer/runtime/checkpoint-01/checkpoint-binding.json",
+        "sha256": "0c9061c2de491b73d78984bf561910276b38c207bf09616c86c896619380f036",
+        "bytes": 2004
+      }
+    },
+    "fresh": {
+      "startedUtc": "2026-10-15T18:41:22Z",
+      "exitCode": 0,
+      "runnerPass": true,
+      "nativeLaunch": true,
+      "timedOut": false,
+      "checkpointTimedOut": false,
+      "elapsedSeconds": 154.46900000000005,
+      "cleanup": {
+        "required": false,
+        "reason": "process-already-completed",
+        "timeoutSeconds": 20.0,
+        "attempted": false,
+        "completed": true,
+        "exitCode": 0,
+        "errors": [],
+        "primary": {
+          "attempted": false,
+          "confirmedTreeCleanup": false
+        },
+        "fallback": {
+          "required": false,
+          "attempted": false,
+          "rootCompleted": true
+        },
+        "treeCleanupConfirmed": true,
+        "pass": true,
+        "furtherNativeWorkAllowed": true
+      },
+      "probe": {
+        "path": "experiments/nu-r10-schema-reload/bin/Release/net10.0/SchemaReload.dll",
+        "sha256": "e5800c44b772d99ef8001f115caf4f4740011ee3b25a8a0e9e131aa1ae08d8f1",
+        "bytes": 51200
+      },
+      "application": {
+        "path": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/bin/Release/net10.0/Breakout Mmcc.dll",
+        "sha256": "e08b8663a2cb7caac8b4dda720db305bdc96e89d7ca8ffb79b1f059cabaaf0df",
+        "bytes": 52224
+      },
+      "gameplaySource": {
+        "path": ".artifacts/r10-schema-20261016/initializer/source/Projects/Breakout Mmcc/Gameplay.fs",
+        "sha256": "b8a2cac2c5731407c7126ae2121d28cbceffed2e065cb18488e3379282feccb8",
+        "bytes": 12453
+      },
+      "sourceManifestVerification": {
+        "fileCount": 3240,
+        "checkedBytes": 995709446,
+        "overrides": {
+          "Nu/Nu.Gaia/Gaia.fs": "instrumented-gaia",
+          "Projects/Breakout Mmcc/Gameplay.fs": "gameplay-v1"
+        }
+      },
+      "armReceipt": {
+        "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v1-build01-01/receipt.json",
+        "sha256": "e0872f7697a8ab73b61daf3c58302e04c0ca4366cf3e41869b238c11a0503b24",
+        "bytes": 519471
+      },
+      "liveCheckpointBinding": {
+        "path": ".artifacts/r10-schema-20261016/initializer/runtime/checkpoint-01/checkpoint-binding.json",
+        "sha256": "0c9061c2de491b73d78984bf561910276b38c207bf09616c86c896619380f036",
+        "bytes": 2004
+      }
+    }
+  },
+  "processElapsedInterpretation": "Includes prelaunch file verification; attempt bookkeeping only, not a timing comparison or performance estimate.",
+  "sourceAndBuild": {
+    "sdk": "10.0.302",
+    "runtime": "10.0.10",
+    "v0CopiedFiles": 1145,
+    "v1CopiedFiles": 1148,
+    "sourceFilesPerArm": 3240,
+    "executedPackageFiles": [
+      {
+        "path": "experiments/nu-r10-schema-reload/SchemaReload.fs",
+        "sha256": "76f942e7947c1bfc9a45c848edccfda3ee222669a69f094a8b66870243784ee8",
+        "bytes": 36740
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/SchemaReload.fsproj",
+        "sha256": "f11da3e50cd4cc08b348276eddbec91389991a98d5abe6d9aee6b225d0dde47b",
+        "bytes": 1088
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/prepare.py",
+        "sha256": "48f024449d9e7051db2574d6e1c344ca1e0cd9a1000466d7c883722f1e1068f6",
+        "bytes": 7264
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/schema_edit.py",
+        "sha256": "0c6a8b56c9adce1565416e66a5e69c368f440f99e92983ab57b5bc4566add747",
+        "bytes": 3100
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/source_manifest.py",
+        "sha256": "56b7ef0e08b488eafd3dd4bacd4240fb9f58aceb40c6ca0b9f3995d8eacdba12",
+        "bytes": 7832
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/seal_build.py",
+        "sha256": "ca95441ba0d3054d72d66f5ddc346b03cb2dc4177c37e3b2b8c42a5497b775a9",
+        "bytes": 14898
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/run.py",
+        "sha256": "2ca150b216a0ce248bdf18b839504fefdab3d0e60cf4eb94c97aa53fa5d9dd81",
+        "bytes": 18860
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/compare.py",
+        "sha256": "19989e9799a6e5bae0a90da2bae041db6280f0f2ed44bb35812ad204601800d5",
+        "bytes": 19210
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/objective_checks.py",
+        "sha256": "0b8e84d6837058b5890698cae4d0fedaa60fdbcf3af5098a54c29aa1e2d25629",
+        "bytes": 22364
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/README.md",
+        "sha256": "065fd6d33b640bb10ce54da2b84e5b933ed249ecb51e3902e29446fe49cdb930",
+        "bytes": 8354
+      },
+      {
+        "path": "experiments/nu-r10-schema-reload/oracle.json",
+        "sha256": "327d804d8d780f70894476267f0995554764798309b6a5fa1b88c1fe69b1cb2c",
+        "bytes": 33458
+      }
+    ],
+    "readmeIdentityScope": "Executed snapshot README is retained privately; published README may add outcome and corrected reproduction prose after both native attempts."
+  },
+  "protocol": {
+    "path": "experiments/nu-r10-schema-reload/pre-execution-contract.md",
+    "sha256": "4c6bc39e4927c593f14026373d8e1a147a721c15dc1228a260c1643cf0006076",
+    "bytes": 7606
+  },
+  "protocolAmendment": {
+    "path": "experiments/nu-r10-schema-reload/protocol-amendment-01.md",
+    "sha256": "8ac641cedeb4d130773d70e8367e3effb285f1a6f670f1ca8975ad284a5a8465",
+    "bytes": 2859
+  },
+  "oracle": {
+    "path": "experiments/nu-r10-schema-reload/oracle.json",
+    "sha256": "327d804d8d780f70894476267f0995554764798309b6a5fa1b88c1fe69b1cb2c",
+    "bytes": 33458
+  },
+  "attemptLedger": {
+    "path": "experiments/nu-r10-schema-reload/attempt-ledger.json",
+    "sha256": "38ad3544c715b620263396de639ab4a498b018d990560ea62eccf324c76cc88f",
+    "bytes": 28365
+  },
+  "evidence": {
+    "liveProcess": {
+      "path": ".artifacts/r10-schema-20261016/initializer/runtime/live-01/process.json",
+      "sha256": "1bec29cde99e817553c0bf478645a4459ae79c64d134b6bb3a00305b778b639a",
+      "bytes": 6833
+    },
+    "liveTrace": {
+      "path": ".artifacts/r10-schema-20261016/initializer/runtime/live-01/probe/trace.jsonl",
+      "sha256": "b633e27cf2e1471253f0687bac9b6091b91fcb054d62c689076eecd8a9e72188",
+      "bytes": 120826
+    },
+    "freshProcess": {
+      "path": ".artifacts/r10-schema-20261016/initializer/runtime/fresh-01/process.json",
+      "sha256": "6304e293954c5780112fa38d1e5673de4316909543c271918ad06683626fff18",
+      "bytes": 5262
+    },
+    "freshTrace": {
+      "path": ".artifacts/r10-schema-20261016/initializer/runtime/fresh-01/probe/trace.jsonl",
+      "sha256": "61013317b5139664e02e961db3415ef49db448f21798ba5d37a7c32d51b45f69",
+      "bytes": 118394
+    },
+    "comparison": {
+      "path": ".artifacts/r10-schema-20261016/initializer/runtime/comparison-01/comparison.json",
+      "sha256": "8197db1e1e399e2782c43579500179bcde33c9215118724975659374e1881a89",
+      "bytes": 1474
+    },
+    "v0Seal": {
+      "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build04-review02-final-02/receipt.json",
+      "sha256": "9a49be5ff895361598b613646d8a7fca4b7234c3aab7bf68186c3a9e80ceb0ac",
+      "bytes": 518370
+    },
+    "v1Seal": {
+      "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v1-build01-01/receipt.json",
+      "sha256": "e0872f7697a8ab73b61daf3c58302e04c0ca4366cf3e41869b238c11a0503b24",
+      "bytes": 519471
+    },
+    "v0Manifest": {
+      "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v0-build04-review02-final-02/source-manifest.json",
+      "sha256": "4567ea9578dc56b12df5387dfdd844f8457a0a0f2ba55006c8306172783d0b46",
+      "bytes": 1132084
+    },
+    "v1Manifest": {
+      "path": ".artifacts/r10-schema-20261016/initializer/build-snapshots/v1-build01-01/source-manifest.json",
+      "sha256": "930c90df1db50d99afba55b0c4375d5ed7fa9cefa308b8766f49d2b6c798f6a3",
+      "bytes": 1132084
+    },
+    "objectiveChecks15": {
+      "path": ".artifacts/r10-schema-20261016/initializer/objective-checks-15/objective-checks.json",
+      "sha256": "ec68e95612898f3981ba65b8adda6dec06915ab994ffaf0f343741f879415e22",
+      "bytes": 7315
+    },
+    "sourceReview03": {
+      "path": ".artifacts/r10-schema-20261016/review/source-review-03.md",
+      "sha256": "2e7a618d5cffb0b49a083382e7617204f11fa00ad1a5c4f48fae387a8efc9aa2",
+      "bytes": 11207
+    },
+    "sourceBoundaryAudit": {
+      "path": ".artifacts/r10-schema-20261016/source-boundaries/source-boundaries.md",
+      "sha256": "e2cfb28335076fa83cfa5a66cac0b483caf4958cbf25e5bf6148626ca3430695",
+      "bytes": 13152
+    },
+    "localReferenceSupplement": {
+      "path": ".artifacts/r10-schema-20261016/review/live-local-reference-provenance-supplement-01.md",
+      "sha256": "031722e43f7712f65a0c07894191ed0248402e3c7fed7c686ffd064869d470bf",
+      "bytes": 5793
+    },
+    "postLiveLocalReferences": {
+      "path": ".artifacts/r10-schema-20261016/parent-verification/live-local-reference-observations-01/receipt.json",
+      "sha256": "628bbb18af91b03f068e7270ce5959bb6bdeb0a58c11593d7499e1439a327663",
+      "bytes": 7342
+    },
+    "parentLiveAcceptance": {
+      "path": ".artifacts/r10-schema-20261016/parent-verification/pre-native-acceptance-01.json",
+      "sha256": "a884e5b2e97f0885b3e4a55c666515441ca6448c148d73112a220e7917648b52",
+      "bytes": 2662
+    },
+    "parentFreshAcceptance": {
+      "path": ".artifacts/r10-schema-20261016/parent-verification/pre-fresh-acceptance-01.json",
+      "sha256": "11c2603c7d1b4ebf680120949d8d1990f26ee2974aa91aa60ea12b6c9d3c76e8",
+      "bytes": 3383
+    },
+    "parentPairedValidation": {
+      "path": ".artifacts/r10-schema-20261016/parent-verification/paired-observation-validation-01.json",
+      "sha256": "42469718933ee2499c6dc9d12966177eac978302b50ffaa6718cbc6a2256e242",
+      "bytes": 5319
+    },
+    "checkpointBinding": {
+      "path": ".artifacts/r10-schema-20261016/initializer/runtime/checkpoint-01/checkpoint-binding.json",
+      "sha256": "0c9061c2de491b73d78984bf561910276b38c207bf09616c86c896619380f036",
+      "bytes": 2004
+    },
+    "liveGeneratedScript": {
+      "path": ".artifacts/r10-schema-20261016/initializer/runtime/live-01/probe/generated-reload.fsx",
+      "sha256": "e5132fd638dbd1a53adaccfeb9744e32a7051a10ece580ebef2fcf0e3963b5da",
+      "bytes": 1392
+    }
+  },
+  "limitations": [
+    "Authored exact seven-to-eight-field requirement; no general schema-migration claim.",
+    "Fresh explicitly sets reward 200 after observing its initializer; it cannot rescue live conversion.",
+    "Gaia bridge bypasses F9/menu; no native input replay, audio, framebuffer or external-resource preservation observation.",
+    "FSI reload and fresh Release compilation are not a controlled compile-mode comparison.",
+    "Nu.Spine exact project-local path has a prelaunch timing/resolved-load provenance gap; presealed and post-live copies match with no observed mismatch.",
+    "No practical cost, ordinary-agent-access or maintenance-benefit estimate.",
+    "Source reviews are independent AI maintainer reviews, not human sign-off or empirical replications."
+  ]
+}

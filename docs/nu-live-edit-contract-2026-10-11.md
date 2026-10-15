@@ -126,3 +126,66 @@ The [behavior-only R10 construction](nu-live-reload-feasibility-2026-10-15.md) n
 This resolves the selected behavior-only launch/reload, checkpoint, one-step behavior and matched-reconstruction feasibility gates. The added-field mapping above still needs its own supported insertion point and pre-conversion witness, and different schemas need distinct correspondences. No automatic defaulting or fallback result is promoted to semantic preservation. Choose the consequential missing effect/schema/workflow boundary before extending the case catalogue; preparation, verification, failures and restoration belong in any later total-work comparison.
 
 The completed originals [S218](literature/full-reading/S218-redac-cyclic-reconfiguration.md) and [S219](literature/full-reading/S219-gui-updates-access.md) now supply the close .NET predecessor details. ReDAC guards calls to reach a reconfiguration point; the GUI paper copies a controlled object graph, memoizes aliases/cycles, repairs delegates, recreates GUI defaults and redirects native messages. These are different mechanisms from Prime’s symbolic record conversion. Their limited field policies, deferred GUI installation, absent rollback and S219’s unmeasured performance remain explicit. The earlier access gaps are closed for these publications, not for their exact executed implementations or a comparative Nu benefit.
+
+## 2026-10-16 source boundary for an explicit migration
+
+The selected pre-conversion observation point is now source-bound. At the same
+Nu pin, replacing a screen dispatcher retains its existing model and content.
+The final late-binding pass invokes the new dispatcher's
+`TrySynchronize(initializing, true, screen, world)`. Its generic implementation
+reads the typed model before deriving definitions and content. Successful
+conversion immediately replaces the old model slot; only a conversion exception
+reaches `GetFallbackModel`. A successfully defaulted added integer therefore
+does not invite the application's fallback to supply its initialization value.
+See [dispatcher replacement](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModule2.fs#L3377),
+[the final synchronization pass](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/World.fs#L236),
+[generic synchronization](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModule2.fs#L2894)
+and [conversion](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModuleScreen.fs#L140).
+
+A concrete application dispatcher can override the public virtual
+`TrySynchronize : bool * bool * Screen * World -> unit`. Before delegating to
+the generic base, the public `screen.TryGetProperty "Model" world` returns the
+retained type and raw value without converting it. That permits an explicit
+source-schema/field-presence witness. It is a callable application surface,
+not a validated migration transaction. The [virtual signature](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldTypes.fs#L571)
+and [raw Model getter](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModuleScreen.fs#L492)
+establish this narrower access claim.
+
+Writing a replacement model from inside that override needs a separate policy.
+Both ordinary generic and raw Model setters synchronize again before publishing
+the model-change event. An unguarded call recurses. A guard that permits nested
+base synchronization can perform two content passes; suppressing that nested
+pass permits the change event to run while old content/subscriptions remain.
+Neither sequence is an established atomic migration. The newly born dispatcher
+instance can serve several matching screens, so instance-held pending state
+also needs a per-screen policy. See [both setters](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModuleScreen.fs#L129)
+and [content synchronization](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldContent.fs#L256).
+
+One prospective application composition is to capture the witness before the
+base call, allow the ordinary conversion/content pass, and conditionally apply
+the explicit mapping through a public setter in a synchronous CodeReloadEvent
+handler. The event follows late-binding synchronization; a pending positive
+witness is necessary because compilation failure can also publish it. This
+composition has an intermediate default-derived content pass plus another
+normal synchronization and change event. Those are real ordering/effect
+obligations, not free automatic preservation. A driver that instead captures
+and repairs the model around the reload call would be research instrumentation,
+not evidence that the application implements this composition.
+
+The engine files supporting this audit were compared byte-for-byte with eleven
+pinned Git blobs. Gaia's caller/event ordering was checked against the pin;
+the previously instrumented Gaia file was not mislabeled as pristine. The
+private source report and identity table are retained under
+`.artifacts/r10-schema-20261016/source-boundaries/`. No application migration
+override, event handler or atomicity guarantee has been established by this
+source audit. The separately frozen [initializer-only probe contract](../experiments/nu-r10-schema-reload/pre-execution-contract.md)
+and [preparation-stage clarification](../experiments/nu-r10-schema-reload/protocol-amendment-01.md)
+first ask whether the ordinary added-field edit meets the declared mapping;
+it introduces no explicit repair and keeps observation validity separate from
+mapping success.
+
+## 2026-10-16 initializer-only application observation
+
+The [executed schema case](nu-schema-reload-feasibility-2026-10-16.md) now observes the predicted missing-field default in an actual functional Gaia reload: the installed eight-field FSI model has reward zero while preserving all seven inherited fields and the declared projection. Its next prescribed hit keeps score 100. The fresh edited application first initializes reward 200, then its explicitly reconstructed reference reaches score 300. Both complete reward-specific continuations and stable halts pass; the required live mapping and matched successful preservation fail. This is an observed application boundary, not a migration repair or benefit estimate.
+
+The source-bound explicit composition above remains unconstructed. Any later treatment must preserve the old-schema witness, distinguish legitimate retained zero/nondefault values and repeated reloads, and observe intermediate content/synchronization/effect obligations. Neither successful conversion nor the fresh reference supplies those guarantees.
