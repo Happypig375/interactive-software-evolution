@@ -1,0 +1,17 @@
+diff --git a/Common.fs b/Common.fs
+index 0795749..226448d 100644
+--- a/Common.fs
++++ b/Common.fs
+@@ -72,9 +72,9 @@ module Common =
+         gameplay.Bricks.Count = 30 && actualPositions = expectedPositions &&
+         (gameplay.Bricks |> Seq.forall (fun (KeyValue (_, brick)) ->
+             equalVector brick.Size (v3 64.0f 16.0f 0.0f) &&
+-            Single.IsFinite brick.Color.R && brick.Color.R >= 0.5f && brick.Color.R < 1.0f &&
+-            Single.IsFinite brick.Color.G && brick.Color.G >= 0.5f && brick.Color.G < 1.0f &&
+-            Single.IsFinite brick.Color.B && brick.Color.B >= 0.5f && brick.Color.B < 1.0f &&
++            Single.IsFinite brick.Color.R && brick.Color.R >= 0.5f && brick.Color.R <= 1.0f &&
++            Single.IsFinite brick.Color.G && brick.Color.G >= 0.5f && brick.Color.G <= 1.0f &&
++            Single.IsFinite brick.Color.B && brick.Color.B >= 0.5f && brick.Color.B <= 1.0f &&
+             bits brick.Color.A = bits 1.0f))
+ 
+     let freshAfterOneShape (gameplay : Gameplay) =

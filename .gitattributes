@@ -28,3 +28,14 @@
 /scripts/e3a_run.py text eol=lf
 /tests/test_e3a_codex.py text eol=lf
 /tests/test_e3a_run.py text eol=lf
+
+# Preserve the exact hashed bytes of these completed experiment inputs/receipts.
+/experiments/nu-r04-pause-runtime/** -text whitespace=cr-at-eol
+/experiments/nu-r06-recovery-cost/** -text whitespace=cr-at-eol
+# Unified-diff empty context lines retain their required single-space prefix.
+/experiments/nu-r04-pause-runtime/audio-instrumentation.patch whitespace=-blank-at-eol,cr-at-eol
+/experiments/nu-r04-pause-runtime/preflight-06-to-final-common.patch whitespace=-blank-at-eol,cr-at-eol
+/experiments/nu-r04-pause-runtime/preflight-07-to-final-common.patch whitespace=-blank-at-eol,cr-at-eol
+# Retain the terminal blank line in the original frozen protocol artifacts.
+/experiments/nu-r04-pause-runtime/fault-gates.md whitespace=-blank-at-eof,cr-at-eol
+/experiments/nu-r04-pause-runtime/pre-execution-contract.md whitespace=-blank-at-eof,cr-at-eol

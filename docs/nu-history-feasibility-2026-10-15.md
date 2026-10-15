@@ -54,3 +54,25 @@ The two successful processes took 84.906 and 24.688 seconds respectively. These 
 ## B1 continuation follow-up
 
 The [subsequent seeded B1 pair](nu-history-continuation-2026-10-15.md) now compares twenty resumed steps after a newly retained/undone Gaia world with fresh reconstruction of the fixed `history-04` model values. Complete models and selected projections agree, including a source-predicted wall bounce. The old `history-04` process was already closed; no old live root or native state was resumed. Audio, native contact, framebuffer, randomness/input replay, ordinary agent access and comparative costs remain outside that observation.
+
+## Later reconstruction limitation observed in R04
+
+An observation-only diagnostic of the
+[R04 pause setup](nu-pause-runtime-feasibility-2026-10-15.md) subsequently
+recorded the exact fixed B0 model while two projected brick entities retained incorrect
+positions. The scene's entity-name set, brick sizes and dynamically updated
+colors matched. Pinned source matches children by name and dispatcher; brick
+positions use the reinitializing `==` property form, while colors use dynamic
+`:=`. The observed stale positions are the first two fresh grid positions.
+This supports an identity-collision explanation, although the initial keys
+were not directly logged. The preceding failed run stopped at the same gate
+but did not record those actual projected positions.
+
+The earlier F01/B1 successes retain their complete observed comparisons. They
+do not establish that direct `SetGameplay` generally reconstructs a fixed
+checkpoint over existing same-name entities with different initialization
+values. R04 and the prospective recovery-cost probe now require a common
+halted, verified absent-scene boundary before first installing B0. That setup
+is explicit alignment work; it does not demonstrate preservation of live
+entity lifetimes or arbitrary native state. The original failures and their
+unchanged projection oracles remain part of the evidence.

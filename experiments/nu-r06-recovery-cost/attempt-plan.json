@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "feasibility": [
+    {"attemptId": "FH", "kind": "feasibility", "route": "H", "scored": false},
+    {"attemptId": "FR", "kind": "feasibility", "route": "R", "scored": false}
+  ],
+  "measuredOrder": [
+    {"attemptId": "H1", "kind": "measured", "route": "H", "pair": 1},
+    {"attemptId": "R1", "kind": "measured", "route": "R", "pair": 1},
+    {"attemptId": "R2", "kind": "measured", "route": "R", "pair": 2},
+    {"attemptId": "H2", "kind": "measured", "route": "H", "pair": 2},
+    {"attemptId": "H3", "kind": "measured", "route": "H", "pair": 3},
+    {"attemptId": "R3", "kind": "measured", "route": "R", "pair": 3},
+    {"attemptId": "R4", "kind": "measured", "route": "R", "pair": 4},
+    {"attemptId": "H4", "kind": "measured", "route": "H", "pair": 4},
+    {"attemptId": "H5", "kind": "measured", "route": "H", "pair": 5},
+    {"attemptId": "R5", "kind": "measured", "route": "R", "pair": 5},
+    {"attemptId": "R6", "kind": "measured", "route": "R", "pair": 6},
+    {"attemptId": "H6", "kind": "measured", "route": "H", "pair": 6}
+  ],
+  "deadlineSeconds": 600,
+  "callbackWatchdog": 1200,
+  "executionStatus": "not authorized until parent preflight acceptance and R04 runtime reservation release"
+}

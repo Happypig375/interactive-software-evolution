@@ -1,0 +1,1552 @@
+{
+  "schemaVersion": 3,
+  "createdUtc": "2026-10-15T12:54:52.731982+00:00",
+  "evidenceAsOfUtc": "2026-10-15T12:53:01.246340+00:00",
+  "status": "complete retained first measured series with bounded feasibility and diagnostic context",
+  "scope": "FH passed the history feasibility route. Original FR remains a failed fixed-600-second startup attempt with unknown cause. Separate unscored FRD1 passed the reconstruction observation without stack intervention and does not replace FR. All twelve prospectively ordered measured assignments passed once, yielding six complete H/R pairs. Reported timing, allocation and collection summaries are descriptive for this frozen workload; they do not establish benefit.",
+  "platform": {
+    "nuPin": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+    "sdk": "10.0.302"
+  },
+  "prospectiveDesignLineage": {
+    "originalContract": {
+      "path": ".artifacts/r06-recovery-cost-20261015/pre-execution-contract-original.md",
+      "sha256": "8900d1fe74fdc2e42c228724e9240431430bc77632f5960ba9080a320bdc674d",
+      "bytes": 8247
+    },
+    "clarifiedContractUsedByBuild02": {
+      "path": "experiments/nu-r06-recovery-cost/pre-execution-contract.md",
+      "sha256": "4ecd7f4afc602c22182aa8fe954d9753e660b2fe980da6c0c5c7c39121df4951",
+      "bytes": 10344,
+      "clarification": "Before every R06 build or observation, the history witness became weak while preserving exact identity, and the callback-entry timestamp became the literal first callback operation. The workload, routes, output contract and attempt order did not change."
+    },
+    "setupAmendmentBeforeWordingCorrection": {
+      "path": ".artifacts/r06-recovery-cost-20261015/pre-build-setup-amendment-original.md",
+      "sha256": "23afc12180ff695c8820568ce50c9c30160c39291251d92a979a7e9e3a8e2fa9",
+      "bytes": 3328
+    },
+    "setupAmendmentUsedByBuild02": {
+      "path": "experiments/nu-r06-recovery-cost/pre-build-setup-amendment-2026-10-15.md",
+      "sha256": "5b1f72d5bf104d581a607c61d351f155f687bc0839d9eb77cc261a297bd653ba",
+      "bytes": 3356,
+      "purpose": "Common H/R setup clears the fresh Gameplay content before fixed B0 seeding to avoid retained entity-name collisions. The final wording correction narrows the falsifier to Update or TimeUpdate during content removal; code did not change."
+    },
+    "acceptedSourceAndWordingReceipt": {
+      "path": ".artifacts/r06-recovery-cost-20261015/source-preparation-07.json",
+      "sha256": "2d0551ad4e43681d51332a4e60ab0df431e407ce9a51cad0a08ffb9c0b3d4cf5",
+      "bytes": 3093
+    },
+    "buildRoutingCorrectionReceipt": {
+      "path": ".artifacts/r06-recovery-cost-20261015/source-preparation-08.json",
+      "sha256": "4db836c67bdd874844b1d0187c155d3ef0aedb07fbc02892a8b6e6d85be570c0",
+      "bytes": 2504,
+      "scope": "Build-output routing only; no scientific source, contract, timer or oracle change."
+    }
+  },
+  "buildHistory": {
+    "build01": {
+      "status": "failed",
+      "exitCode": 1,
+      "runtimeStarted": false,
+      "buildReceipt": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-01/build.json",
+        "sha256": "4ccafe3a6facfbbd4780c978abcef0f208bae0478b0c02b4811893fbb9897eab",
+        "bytes": 5688
+      },
+      "failureInspection": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-01/failure-inspection.json",
+        "sha256": "8c6c3d6d2d4a9fe349d4fc7bff9cc9c42a18e4596b9c70a25139bad4c1eac4fd",
+        "bytes": 12772
+      },
+      "stdout": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-01/stdout.log",
+        "sha256": "78532a30894c26dadd37531b77b06570dd60dedee2ea64b92c3de4aba092eda1",
+        "bytes": 217934
+      },
+      "stderr": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-01/stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      "diagnostics": {
+        "msbuildWarnings": 396,
+        "msbuildErrors": 2,
+        "errorCode": "MSB3073",
+        "cause": "The central artifacts path moved Nu.Pipe.dll away from the pinned post-build locations expected by Breakout Mmcc and Nu.Gaia. This was not an R06 F# compiler diagnostic."
+      },
+      "disposition": "No common executable was accepted; partial outputs are retained and excluded."
+    },
+    "build02": {
+      "status": "accepted",
+      "startedUtc": "2026-10-15T11:16:06Z",
+      "exitCode": 0,
+      "buildReceipt": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/build.json",
+        "sha256": "6945a68aa7e1bbea5084a3ed822e1370ff2e35a384c6c752c5439fd32df19fb2",
+        "bytes": 71345
+      },
+      "prepareReceipt": {
+        "path": ".artifacts/r06-recovery-cost-20261015/prepare-05.json",
+        "sha256": "99d360265239eab2e1dd8322e1f895a83b9256f270a65936215263815b6bc515",
+        "bytes": 2913
+      },
+      "dependencyVerification": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/dependency-verification.json",
+        "sha256": "a2432033c38a462a4a0be189ec306cc00f2cb2b70847eee94d2b0fbbf2a0732b",
+        "bytes": 84353
+      },
+      "parentVerification": {
+        "path": ".artifacts/r06-recovery-cost-20261015/parent-build02-verification.json",
+        "sha256": "23e68e6dfa3a928da5f4aa7caeb6173735098cc933c7313c129bc109cfe924a1",
+        "bytes": 1142
+      },
+      "diagnostics": {
+        "warnings": 400,
+        "errors": 0,
+        "summary": "Build succeeded.",
+        "uniqueFilesVerifiedByParent": 242,
+        "managedDependencyFiles": 48,
+        "windowsRuntimeTargets": 17,
+        "applicationAssetFiles": 148,
+        "applicationAssemblyMatchesProbeCopy": true
+      }
+    }
+  },
+  "frozenSourceInputs": {
+    "entries": {
+      "r06/RecoveryCost.fs": {
+        "path": "experiments/nu-r06-recovery-cost/RecoveryCost.fs",
+        "sha256": "15aa4a42f6c05cee598dc4ad97f2316f09df8cb38306de61eb655edd24e98e10",
+        "bytes": 26291
+      },
+      "r06/RecoveryCost.fsproj": {
+        "path": "experiments/nu-r06-recovery-cost/RecoveryCost.fsproj",
+        "sha256": "5fb121b996149e3e1870a620b62fce74770e6d01cd8f446be359008a7637f7f0",
+        "bytes": 982
+      },
+      "r06/global.json": {
+        "path": "experiments/nu-r06-recovery-cost/global.json",
+        "sha256": "0588e32d44bdf884e0305ded21820b13a59b1518efd39976c34d909eff3b1044",
+        "bytes": 105
+      },
+      "r06/prepare.py": {
+        "path": "experiments/nu-r06-recovery-cost/prepare.py",
+        "sha256": "c331bb3771bc462705199088f38961c25e2c466f2853128bd9df6cefa86b3fb7",
+        "bytes": 9050
+      },
+      "r06/build.py": {
+        "path": "experiments/nu-r06-recovery-cost/build.py",
+        "sha256": "b9971f98177fd13b2ee8879a8dc933e32d20830049f2a7ac8d94f99abb29df70",
+        "bytes": 12135
+      },
+      "r06/run.py": {
+        "path": "experiments/nu-r06-recovery-cost/run.py",
+        "sha256": "759868b586b25aebc682598551d19961a12644abc0b47a3e16f07d337c072892",
+        "bytes": 6906
+      },
+      "r06/attempt-plan.json": {
+        "path": "experiments/nu-r06-recovery-cost/attempt-plan.json",
+        "sha256": "ddf08fa6a1dc2947948fc718e1fcf4d0ace2331c5fd46a2cc4e76f01c2fbf4b8",
+        "bytes": 1234
+      },
+      "r06/README.md": {
+        "path": ".artifacts/r06-recovery-cost-20261015/README-build02.md",
+        "sha256": "e1e98a2a7612af6f77185071883e3069bd31b79735acf862a8bffa2c95b1adcb",
+        "bytes": 5607,
+        "buildInputPath": "experiments/nu-r06-recovery-cost/README.md",
+        "preservation": "Exact build02 README bytes preserved before the post-runtime publication correction."
+      },
+      "r06/pre-execution-contract.md": {
+        "path": "experiments/nu-r06-recovery-cost/pre-execution-contract.md",
+        "sha256": "4ecd7f4afc602c22182aa8fe954d9753e660b2fe980da6c0c5c7c39121df4951",
+        "bytes": 10344
+      },
+      "r06/pre-build-setup-amendment-2026-10-15.md": {
+        "path": "experiments/nu-r06-recovery-cost/pre-build-setup-amendment-2026-10-15.md",
+        "sha256": "5b1f72d5bf104d581a607c61d351f155f687bc0839d9eb77cc261a297bd653ba",
+        "bytes": 3356
+      },
+      "b0/Probe.fs": {
+        "path": "experiments/nu-history-b0/Probe.fs",
+        "sha256": "e72cb31e05ee0ae97a24e3a774b1034d20c5eb98e9896fb0e800467666543ccf",
+        "bytes": 16706
+      },
+      "b0/Probe.fsproj": {
+        "path": "experiments/nu-history-b0/Probe.fsproj",
+        "sha256": "3b7776024b1732d901d8a7022e546b334214f218735cb6639900454080cb450b",
+        "bytes": 1103
+      },
+      "b0/prepare.py": {
+        "path": "experiments/nu-history-b0/prepare.py",
+        "sha256": "f8dbf7e2b6f26fcf8ff212e088e8b8105d30f2219b29fc5c72a07b588dbd12f3",
+        "bytes": 2822
+      },
+      "b1/B1.fs": {
+        "path": "experiments/nu-history-b1/B1.fs",
+        "sha256": "69adfbb00de8499ad546b9e18033ae4651fd87d62fb6ba277f208d345113daa5",
+        "bytes": 13621
+      },
+      "isolated/Nu/Nu.Gaia/Gaia.fs": {
+        "path": ".artifacts/r06-recovery-cost-20261015/source-05/Nu/Nu.Gaia/Gaia.fs",
+        "sha256": "67f46559f8e01ef56e3062002bca82efc2a35ef3b1b1ca9ed14f854d944e5167",
+        "bytes": 279368
+      },
+      "fixed/gameplay.symbol": {
+        "path": "experiments/nu-history-b1/checkpoint/gameplay.symbol",
+        "sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a",
+        "bytes": 2062
+      },
+      "fixed/projection.json": {
+        "path": "experiments/nu-history-b1/checkpoint/projection.json",
+        "sha256": "f62c9f3a906905f844e8b5dc58593bb99392f62293cee0899cc54bcfc8dd3cbd",
+        "bytes": 5859
+      }
+    },
+    "allBuildTimeBytesVerifiedAgainstBuild02": true,
+    "currentPublicPathsDifferOnlyByPublicationReadme": true
+  },
+  "commonBinaries": {
+    "allCurrentBytesVerifiedAgainstBuild02": true,
+    "entries": {
+      "RecoveryCost.dll": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/projects/nu-r06-recovery-cost/bin/Release/net10.0/RecoveryCost.dll",
+        "sha256": "207d6027af9a793e1b3fabfcdd8f073ee572d89b72d33dfd632bb90bc8298fd4",
+        "bytes": 37376
+      },
+      "RecoveryCost.runtimeconfig.json": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/projects/nu-r06-recovery-cost/bin/Release/net10.0/RecoveryCost.runtimeconfig.json",
+        "sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "bytes": 342
+      },
+      "RecoveryCost.deps.json": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/projects/nu-r06-recovery-cost/bin/Release/net10.0/RecoveryCost.deps.json",
+        "sha256": "25823a37d2b3bc8cd748552f99d81416611b9a9bf07293bfe2bb2084ecb5b5c4",
+        "bytes": 55071
+      },
+      "Probe.dll": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/projects/nu-r06-recovery-cost/bin/Release/net10.0/Probe.dll",
+        "sha256": "4f871536e43adbea7509c64a4a00ecf2c8e5387ea36d175ec0ce22f6e34ef6c7",
+        "bytes": 31744
+      },
+      "Breakout Mmcc.dll": {
+        "path": ".artifacts/r06-recovery-cost-20261015/source-05/Projects/Breakout Mmcc/bin/Release/net10.0/Breakout Mmcc.dll",
+        "sha256": "d487ecf2d87ffd13a2b4d733c8f9e81a2a050ac2c82004a8cd9f6a6965a5ad8e",
+        "bytes": 52224
+      },
+      "Nu.dll": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/projects/nu-r06-recovery-cost/bin/Release/net10.0/Nu.dll",
+        "sha256": "fce20a9c1212046c8d8f58cd32c12ca087322092e04f382124123299573e9138",
+        "bytes": 4949504
+      },
+      "Nu.Gaia.dll": {
+        "path": ".artifacts/r06-recovery-cost-20261015/build-02/projects/nu-r06-recovery-cost/bin/Release/net10.0/Nu.Gaia.dll",
+        "sha256": "a3451b275acf8b79c09895217f63083901bc2baca1fa5f3bcbfee019f16b62f8",
+        "bytes": 236544
+      }
+    }
+  },
+  "offlineAnalysis": {
+    "acceptanceReceipt": {
+      "path": ".artifacts/r06-recovery-cost-20261015/offline-analysis-acceptance-v4.json",
+      "sha256": "1318aa440e17af5fcdd1c6192e1bb4f5c5243d41679f2e4ebbb8d59159d35804",
+      "bytes": 1441
+    },
+    "summarizer": {
+      "path": "experiments/nu-r06-recovery-cost/summarize.py",
+      "sha256": "12238b28ba61ce6c823810175e43df368baba913fdf9051815701ac3b2b28e95",
+      "bytes": 34793
+    },
+    "validator": {
+      "path": "experiments/nu-r06-recovery-cost/summarize_validation.py",
+      "sha256": "f4c8855590479fd62e39315f0a65af689cfe8de43bffc9b27643f8b2d54ea9bc",
+      "bytes": 14879
+    },
+    "validationReceipt": {
+      "path": ".artifacts/r06-summarizer-validation-20261015-v4/validation.json",
+      "sha256": "9d2af709c69ebc8fc28ae5c3e167655a1f0e71b40117be0685839c5770dcd2ba",
+      "bytes": 7120
+    },
+    "independentReview": {
+      "path": ".artifacts/r06-summarizer-independent-review-20261015.md",
+      "sha256": "ffb8b33ccb4f3e25c6bef7b2490f24bf949b204bd7469041214029782eed7aa3",
+      "bytes": 6477
+    },
+    "canonicalFHFRSummary": {
+      "json": {
+        "path": ".artifacts/r06-recovery-cost-20261015/feasibility-summary-01/summary.json",
+        "sha256": "78e53d581f889679d944b7a65e87f8fd79582e16cd20efc6b5c7418cb59a5273",
+        "bytes": 220305
+      },
+      "markdown": {
+        "path": ".artifacts/r06-recovery-cost-20261015/feasibility-summary-01/summary.md",
+        "sha256": "8352bc314c9486c0d1f0341e86eea8c8a1db340622ffd5b47baa202f44f19cc1",
+        "bytes": 4379
+      }
+    },
+    "ownerDuplicateSummary": {
+      "json": {
+        "path": ".artifacts/r06-recovery-cost-20261015/feasibility-analysis-01/summary.json",
+        "sha256": "94b875f00532b0737457131d7e54430c587efd9a17840efad85b3b561d1366a1",
+        "bytes": 220305
+      },
+      "markdown": {
+        "path": ".artifacts/r06-recovery-cost-20261015/feasibility-analysis-01/summary.md",
+        "sha256": "8352bc314c9486c0d1f0341e86eea8c8a1db340622ffd5b47baa202f44f19cc1",
+        "bytes": 4379
+      },
+      "relationship": "The JSON differs from the canonical summary only in generatedUtc; Markdown is byte-identical. This is duplicate processing of the same FH/FR receipts, not independent replication."
+    },
+    "statusCounts": {
+      "pass": 1,
+      "fail": 1,
+      "notRun": 12,
+      "invalid": 0
+    },
+    "measuredStatistics": {
+      "history": {
+        "assigned": 6,
+        "validCompleteUsed": 0,
+        "medianMilliseconds": null,
+        "rangeMilliseconds": null
+      },
+      "reconstruction": {
+        "assigned": 6,
+        "validCompleteUsed": 0,
+        "medianMilliseconds": null,
+        "rangeMilliseconds": null
+      },
+      "pairs": {
+        "assigned": 6,
+        "validCompleteUsed": 0,
+        "medianHistoryMinusReconstructionMilliseconds": null,
+        "rangeHistoryMinusReconstructionMilliseconds": null
+      }
+    },
+    "frozenBuildIdentityScope": "summarize.py, summarize_validation.py and this result receipt are offline reporting files outside the accepted build-02 source identities and have no runtime influence.",
+    "scopeBoundary": "The earlier feasibility-summary-01 remains the canonical FH/FR cutoff analysis. After the measured series ended, the unchanged accepted v4 summarizer was invoked once with fourteen explicit receipts: FH, FR and the twelve measured attempts. FRD1 was excluded because it is outside the assigned schema."
+  },
+  "attempts": [
+    {
+      "attemptId": "FH",
+      "kind": "feasibility",
+      "route": "H",
+      "status": "pass",
+      "scored": false
+    },
+    {
+      "attemptId": "FR",
+      "kind": "feasibility",
+      "route": "R",
+      "status": "fail",
+      "scored": false
+    },
+    {
+      "attemptId": "H1",
+      "kind": "measured",
+      "route": "H",
+      "pair": 1,
+      "status": "pass"
+    },
+    {
+      "attemptId": "R1",
+      "kind": "measured",
+      "route": "R",
+      "pair": 1,
+      "status": "pass"
+    },
+    {
+      "attemptId": "R2",
+      "kind": "measured",
+      "route": "R",
+      "pair": 2,
+      "status": "pass"
+    },
+    {
+      "attemptId": "H2",
+      "kind": "measured",
+      "route": "H",
+      "pair": 2,
+      "status": "pass"
+    },
+    {
+      "attemptId": "H3",
+      "kind": "measured",
+      "route": "H",
+      "pair": 3,
+      "status": "pass"
+    },
+    {
+      "attemptId": "R3",
+      "kind": "measured",
+      "route": "R",
+      "pair": 3,
+      "status": "pass"
+    },
+    {
+      "attemptId": "R4",
+      "kind": "measured",
+      "route": "R",
+      "pair": 4,
+      "status": "pass"
+    },
+    {
+      "attemptId": "H4",
+      "kind": "measured",
+      "route": "H",
+      "pair": 4,
+      "status": "pass"
+    },
+    {
+      "attemptId": "H5",
+      "kind": "measured",
+      "route": "H",
+      "pair": 5,
+      "status": "pass"
+    },
+    {
+      "attemptId": "R5",
+      "kind": "measured",
+      "route": "R",
+      "pair": 5,
+      "status": "pass"
+    },
+    {
+      "attemptId": "R6",
+      "kind": "measured",
+      "route": "R",
+      "pair": 6,
+      "status": "pass"
+    },
+    {
+      "attemptId": "H6",
+      "kind": "measured",
+      "route": "H",
+      "pair": 6,
+      "status": "pass"
+    }
+  ],
+  "FH": {
+    "rawIdentities": {
+      "process": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FH-01/process.json",
+        "sha256": "066309718899a7f0bd35f7fb5c4b51b8efb6cc9d78f7f53a2289451348a8cb11",
+        "bytes": 7793
+      },
+      "trace": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FH-01/probe/trace.jsonl",
+        "sha256": "9ccda9153b47b584a09d1cef09a9022fa7b4467cc219b8e8a7918f82471b08c9",
+        "bytes": 52898
+      },
+      "result": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FH-01/probe/result.json",
+        "sha256": "8c871a6e488c159dd772ebc2430df403d01999d960029912a3c0083f88f72eb1",
+        "bytes": 268
+      },
+      "stdout": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FH-01/stdout.log",
+        "sha256": "2ec99df213f1b2b4bc3074042be1930b4de37a511cac32997ea500a3f4235266",
+        "bytes": 416
+      },
+      "stderr": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FH-01/stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    "outcome": {
+      "startedUtc": "2026-10-15T11:36:28Z",
+      "timedOut": false,
+      "exitCode": 0,
+      "pass": true,
+      "processElapsedSecondsNotComponentCost": 40.92200000000594,
+      "updates": 10,
+      "timeUpdates": 10,
+      "callbacks": 15,
+      "leftInputUpdates": 0,
+      "rightInputUpdates": 0,
+      "resultDetail": "Declared B0 output reached at the next halted callback."
+    },
+    "unscoredComponentTiming": {
+      "stopwatchFrequency": 10000000,
+      "acquisition": {
+        "start": 859960820864,
+        "stop": 859960854723,
+        "ticks": 33859,
+        "milliseconds": 3.3859
+      },
+      "directRecovery": {
+        "start": 859991740652,
+        "stop": 859992059736,
+        "ticks": 319084,
+        "milliseconds": 31.9084
+      },
+      "requestToReady": {
+        "start": 859991740652,
+        "stop": 859995562385,
+        "ticks": 3821733,
+        "milliseconds": 382.1733
+      },
+      "oracleWork": {
+        "start": 859995909864,
+        "stop": 859995929618,
+        "ticks": 19754,
+        "milliseconds": 1.9754
+      },
+      "traceWorkBeforeResult": {
+        "ticks": 2203378,
+        "milliseconds": 220.3378
+      },
+      "clockPairs": [
+        {
+          "start": 859960008219,
+          "stop": 859960008220,
+          "ticks": 1,
+          "milliseconds": 0.0001
+        },
+        {
+          "start": 859960008220,
+          "stop": 859960008222,
+          "ticks": 2,
+          "milliseconds": 0.0002
+        }
+      ],
+      "interpretation": "These are one retained unscored feasibility process's component and accounting observations. They are excluded from every measured route and pair summary."
+    },
+    "gcAndMemorySamples": [
+      {
+        "label": "pre-acquisition",
+        "timestamp": 859960169454,
+        "allocatedBytesApproximate": 657734392,
+        "gen0Collections": 64,
+        "gen1Collections": 35,
+        "gen2Collections": 19,
+        "managedHeapBytesSecondary": 71933952,
+        "workingSetBytesSecondary": 1112014848,
+        "privateBytesSecondary": 1737445376
+      },
+      {
+        "label": "post-acquisition",
+        "timestamp": 859960854748,
+        "allocatedBytesApproximate": 657767184,
+        "gen0Collections": 64,
+        "gen1Collections": 35,
+        "gen2Collections": 19,
+        "managedHeapBytesSecondary": 71966816,
+        "workingSetBytesSecondary": 1108762624,
+        "privateBytesSecondary": 1737293824
+      },
+      {
+        "label": "pre-recovery",
+        "timestamp": 859991533159,
+        "allocatedBytesApproximate": 683677296,
+        "gen0Collections": 69,
+        "gen1Collections": 36,
+        "gen2Collections": 19,
+        "managedHeapBytesSecondary": 73255840,
+        "workingSetBytesSecondary": 1101737984,
+        "privateBytesSecondary": 1739833344
+      },
+      {
+        "label": "ready-entry",
+        "timestamp": 859995692082,
+        "allocatedBytesApproximate": 685249656,
+        "gen0Collections": 70,
+        "gen1Collections": 36,
+        "gen2Collections": 19,
+        "managedHeapBytesSecondary": 70296336,
+        "workingSetBytesSecondary": 1105022976,
+        "privateBytesSecondary": 1742716928
+      }
+    ],
+    "parentVerification": {
+      "path": ".artifacts/r06-recovery-cost-20261015/parent-FH-feasibility-verification.json",
+      "sha256": "46aba1c571a9dbbe470e025ee6bd065f9eef4f68d5a3e0ab9de26d1d8129c83c",
+      "bytes": 966,
+      "findings": {
+        "completeSeedReadyMatchFixedReference": true,
+        "completeTenPairDriftMatchesPriorB1": true,
+        "independentPythonFloat32ModelPrediction": true,
+        "commonClearChangesOnlyState": true,
+        "eventPhaseInputClockChecks": true
+      }
+    }
+  },
+  "FR": {
+    "rawIdentities": {
+      "process": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FR-01/process.json",
+        "sha256": "f0f720fc432c469d00bc7df08225257a8054d9e8f85e731783d1f8a7d24258bf",
+        "bytes": 7683
+      },
+      "trace": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FR-01/probe/trace.jsonl",
+        "sha256": "0755c84f10ad5bf902cecb7f1cfb47bf6a8f5be1eea92fe636416a2a9fb372e3",
+        "bytes": 654
+      },
+      "result": null,
+      "stdout": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FR-01/stdout.log",
+        "sha256": "3074eebb4451ca39f51473835c854c61ac0db2eccc25c924b0557cc6dec43b37",
+        "bytes": 325
+      },
+      "stderr": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FR-01/stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    "outcome": {
+      "startedUtc": "2026-10-15T11:38:10Z",
+      "timeoutSeconds": 600,
+      "timedOut": true,
+      "exitCode": 1,
+      "deadlineCleanupExit": 0,
+      "processElapsedSecondsNotComponentCost": 604.6870000000054,
+      "traceEventCount": 1,
+      "traceEventCounts": {
+        "configuration": 1
+      },
+      "resultFilePresent": false,
+      "classification": "Common native Gaia startup/setup timeout with no first setup/postprocess observation. Callback entry itself was not instrumented and is unknown. This is not a reconstruction-route result."
+    },
+    "notObserved": [
+      "first setup/postprocess observation",
+      "content clear",
+      "B0 seed",
+      "route-specific acquisition",
+      "ten-pair drift",
+      "reconstruction",
+      "result"
+    ]
+  },
+  "limitations": [
+    "FH establishes bounded history-route feasibility only for the declared one-checkpoint B0 service under this frozen probe. It does not establish whole-world equivalence, physical input or native-state restoration, memory retention policy, debugging benefit or maintenance value.",
+    "FR did not observe the first setup/postprocess boundary and therefore supplies no reconstruction feasibility or reconstruction timing. Callback entry itself remains unknown.",
+    "FH allocation counters are approximate, process-wide and exclude native allocations. Collection counts and boundary differences include engine/runtime/observer work. Managed heap, working set and private bytes do not identify retained roots, release or checkpoint size; no forced-GC inference is made.",
+    "Post-timeout observations cannot reconstruct resource pressure while FR was running.",
+    "The owner duplicate summary processes the same receipts and is not an independent replication.",
+    "No uncertain file-identity lineage remains among the paths embedded in this receipt: each path, SHA-256 and byte count was rechecked against current bytes. Scientific boundary uncertainty remains as stated for FR.",
+    "FRD1 supplies one additional bounded R feasibility observation under the same binary and inputs, with no stack intervention. It does not replace the failed FR, explain its startup timeout, or establish repeatability.",
+    "FRD1 component clocks and driver/process observations are unscored diagnostic accounting. They are excluded from the measured series and cannot support a route-cost or benefit comparison.",
+    "The managed-stack branch was not exercised because the target completed before the 60-second boundary. The diagnostic therefore provides no stack evidence about the original FR timeout.",
+    "All twelve measured assignments passed once under one prospectively fixed interleaved order, producing six complete pairs. This small frozen-workload series does not establish generality, repeatability across environments, causality or maintenance benefit.",
+    "The reported route and paired summaries are descriptive. No random-order comparison, uncertainty interval, p-value or benefit threshold was declared.",
+    "Measured allocation deltas are approximate and process-wide; collection deltas are observed counts rather than causal adjustments. Working-set and private-byte snapshots describe the target process, including engine, native and observer work, and do not identify retained roots.",
+    "The public README changed only after runtime and source-dependent summary checks. The preserved build-time README, rather than the current publication README, is the applicable build input identity."
+  ],
+  "plannedFollowUp": {
+    "statusAtEvidenceCutoff": "The first measured series and its semantic and descriptive verification are complete. This compact receipt remains a private publication draft pending an independent exact-byte review.",
+    "preservationRule": "Publication must preserve FH-01, failed FR-01, diagnostic FRD1-01, all twelve measured directories, the earlier cutoff receipts, the full frozen summary, and the separate build-time and publication README identities.",
+    "updatePolicy": "Replace the public result receipt only after independent review accepts these exact draft bytes or a separately identified corrected successor."
+  },
+  "excludedBodies": "Full logs, traces, raw models, copyrighted bodies, credentials, unrelated process inventories and command lines are not embedded. Retained identities are referenced only where within scope.",
+  "previousAcceptedPublicReceipt": {
+    "path": ".artifacts/r06-recovery-cost-20261015/public-result-receipt-fh-fr-accepted.json",
+    "sha256": "9bd5e16e7cf013973d9a5a853c0c3b5e1c10f402427b3a1d72ec004ff0e5df7c",
+    "bytes": 22412,
+    "relationship": "Byte-for-byte preservation of the accepted FH/FR-only public receipt before this successor draft was prepared."
+  },
+  "documentationIdentityBoundary": {
+    "buildTimeReadme": {
+      "path": ".artifacts/r06-recovery-cost-20261015/README-build02.md",
+      "sha256": "e1e98a2a7612af6f77185071883e3069bd31b79735acf862a8bffa2c95b1adcb",
+      "bytes": 5607
+    },
+    "currentPublicationReadme": {
+      "path": "experiments/nu-r06-recovery-cost/README.md",
+      "sha256": "b5f5995cfcef46e52456c607fa220744f4ca64210437dee892550d13bbfefd28",
+      "bytes": 7935
+    },
+    "identical": false,
+    "publicationCorrectionReceipt": {
+      "path": ".artifacts/r06-recovery-cost-20261015/README-publication-correction-01.json",
+      "sha256": "5be3865df074f5c54c6e8452dd46d1ef5663a306a2c572a5c3b802dc94a2e77a",
+      "bytes": 1326
+    },
+    "boundary": "The 5,607-byte README is part of build02's frozen source identity and is preserved at the build-time path above. The 7,935-byte public README was corrected only after all runtime and source-dependent summary checks; it is publication documentation, not an input to the retained build or observations."
+  },
+  "FRD1": {
+    "accounting": {
+      "attemptId": "FRD1",
+      "route": "R",
+      "kind": "feasibility",
+      "diagnostic": true,
+      "scored": false,
+      "relatedFailedAttempt": "FR",
+      "replacesFR": false,
+      "entersMeasuredDenominator": false
+    },
+    "prospectiveAndAcceptanceIdentities": {
+      "diagnosticPlan": {
+        "path": ".artifacts/r06-recovery-cost-20261015/startup-diagnostic-plan-2026-10-15.md",
+        "sha256": "48937f34d18f4e5533d1cdf0bf2d6372061fb8d801535a02a00e670a289663a2",
+        "bytes": 11545
+      },
+      "exactDriver": {
+        "path": ".artifacts/r06-recovery-cost-20261015/frd1-driver-01/driver.py",
+        "sha256": "81f67bf565b11099811f3cc93f0d92468fa72518a81623e13dc0694db8efefa3",
+        "bytes": 34662
+      },
+      "preflight": {
+        "path": ".artifacts/r06-recovery-cost-20261015/frd1-driver-01/preflight-06.json",
+        "sha256": "a840738ec1c893ee96e727cf8561ca2718372324a015fbd3760054e6cfa193f1",
+        "bytes": 4180
+      },
+      "preparationReceipt": {
+        "path": ".artifacts/r06-recovery-cost-20261015/frd1-driver-01/preparation-receipt.json",
+        "sha256": "73e994eefd66b0d35d0bfb8cf3cb1f2b2c04d0e8600f55762bc00909792194ea",
+        "bytes": 17154
+      },
+      "independentDriverReview": {
+        "path": ".artifacts/r06-recovery-cost-20261015/independent-frd1-driver-review.md",
+        "sha256": "cf7a3f28b2be9ca28c6a00932f63017ea1447762e86dca5cf7d908b2d1b71f40",
+        "bytes": 7157
+      },
+      "parentLaunchAcceptance": {
+        "path": ".artifacts/r06-recovery-cost-20261015/parent-FRD1-launch-acceptance.json",
+        "sha256": "b1827a8b1b7c369560807090e6108d9782ca00b62a9de10ce9bbfeedb908e775",
+        "bytes": 2121
+      },
+      "diagnosticToolInstallReceipt": {
+        "path": ".artifacts/r06-recovery-cost-20261015/diagnostic-tool-02/install-receipt.json",
+        "sha256": "b8eb41f8da6a062d7cb7169834b9a62fef520aac878c69a56994389cd5a6990b",
+        "bytes": 19699
+      },
+      "parentDiagnosticToolVerification": {
+        "path": ".artifacts/r06-recovery-cost-20261015/parent-diagnostic-tool-verification.json",
+        "sha256": "fd54968c4de3a7199bf00659b9ce6db586d1053b04c756406f8f7d39c5b1bd2e",
+        "bytes": 1207
+      }
+    },
+    "terminalIdentities": {
+      "diagnostic": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FRD1-01/diagnostic.json",
+        "sha256": "ab1e0b49c269f821febd128def6ae94b4245d285e5a6b6c2ae8f2811e896063b",
+        "bytes": 12865
+      },
+      "manifest": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FRD1-01/manifest.json",
+        "sha256": "710dd1a4ebb36e383ad7f77593b0e31af606dab1c416cdb24d784f3f3684be5d",
+        "bytes": 1662
+      },
+      "driverEvents": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FRD1-01/driver-events.jsonl",
+        "sha256": "f1c37de2a84431b932a7a0d6fcfed5614f7dfa3f7dedd49dab672d20ad3a297c",
+        "bytes": 330
+      },
+      "trace": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FRD1-01/probe/trace.jsonl",
+        "sha256": "8819e401b04bdd4f37233c7178d5bdfaa42776812434e2c64ab944eb9e9179f8",
+        "bytes": 52907
+      },
+      "result": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FRD1-01/probe/result.json",
+        "sha256": "be6066bde3f9dbb5c53b9ca8f52e22f3616610c74e654cb3d428203f718e43d6",
+        "bytes": 271
+      },
+      "stdout": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FRD1-01/stdout.log",
+        "sha256": "12bef18bb06da34325c3aedcb46dc8adf40c144272f9a68fa30e912be0cdaf07",
+        "bytes": 416
+      },
+      "stderr": {
+        "path": ".artifacts/r06-recovery-cost-20261015/runtime-FRD1-01/stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    "outcome": {
+      "status": "completed",
+      "timedOut": false,
+      "exitCode": 0,
+      "pass": true,
+      "targetExitOffsetSeconds": 35.75,
+      "driverElapsedSecondsNotComponentCost": 37.09399999999732,
+      "freshInitialObserved": true,
+      "stackBoundarySeconds": 60,
+      "stackBoundaryReached": false,
+      "managedStackAttempted": false,
+      "managedStackReason": "target exited before 60 seconds",
+      "cleanup": null,
+      "observationErrors": [],
+      "fatalError": null,
+      "updates": 10,
+      "timeUpdates": 10,
+      "callbacks": 15,
+      "leftInputUpdates": 0,
+      "rightInputUpdates": 0,
+      "resultDetail": "Declared B0 output reached at the next halted callback."
+    },
+    "unscoredComponentTiming": {
+      "stopwatchFrequency": 10000000,
+      "acquisition": {
+        "start": 891081047698,
+        "stop": 891081199599,
+        "ticks": 151901,
+        "milliseconds": 15.1901
+      },
+      "directRecovery": {
+        "start": 891112010685,
+        "stop": 891112142211,
+        "ticks": 131526,
+        "milliseconds": 13.1526
+      },
+      "requestToReady": {
+        "start": 891112010685,
+        "stop": 891115963543,
+        "ticks": 3952858,
+        "milliseconds": 395.2858
+      },
+      "oracleWork": {
+        "start": 891116303152,
+        "stop": 891116323422,
+        "ticks": 20270,
+        "milliseconds": 2.027
+      },
+      "traceWorkBeforeResult": {
+        "ticks": 2224385,
+        "milliseconds": 222.4385
+      },
+      "clockPairs": [
+        {
+          "start": 891080519752,
+          "stop": 891080519752,
+          "ticks": 0,
+          "milliseconds": 0.0
+        },
+        {
+          "start": 891080519753,
+          "stop": 891080519755,
+          "ticks": 2,
+          "milliseconds": 0.0002
+        }
+      ],
+      "interpretation": "These are raw values from one additional unscored diagnostic observation. They are excluded from every measured route and pair statistic."
+    },
+    "parentSemanticVerification": {
+      "path": ".artifacts/r06-recovery-cost-20261015/parent-FRD1-semantic-verification.json",
+      "sha256": "d44ac9dfcc1a58f9fc18eb2d15444bfe3c2cc9bb277f8740d0359e8c3b3137b3",
+      "bytes": 2186,
+      "findings": {
+        "rawManifestFilesVerified": 6,
+        "commonClearOnlyChangesState": true,
+        "completeSeedDriftReadyModelsAndProjectionsEqualVerifiedFH": true,
+        "positiveEventOrderDeltaPhaseAndSampledInputVerified": true,
+        "clocksVerifiedButUnscored": true,
+        "originalFRTimeoutPreservedAndCauseUnknown": true
+      }
+    },
+    "interpretationBoundary": "FRD1 is one additional bounded, unattached R feasibility observation. It does not explain FR's startup failure, establish repeatability, or measure H/R cost benefit."
+  },
+  "previousPrivateCutoffDraft": {
+    "path": ".artifacts/r06-recovery-cost-20261015/public-result-receipt-frd1-draft.json",
+    "sha256": "2234e74c09db6060d61ad106603102c789e3be6f3edd3c9e6ff3e9bbcf28d279",
+    "bytes": 34833,
+    "relationship": "Private cutoff draft after FRD1 and before the measured-series release, execution, summary and publication README correction."
+  },
+  "measuredSeries": {
+    "prospectiveReleaseDocument": {
+      "path": "experiments/nu-r06-recovery-cost/measured-series-release-2026-10-15.md",
+      "sha256": "d5942d70d4928236420ed12daf152b2113142d7f96e7d4dc9e9902df3630b838",
+      "bytes": 5555
+    },
+    "parentRelease": {
+      "path": ".artifacts/r06-recovery-cost-20261015/parent-measured-series-release-01.json",
+      "sha256": "515ef1e418c9795ac76bb3cd43570d21ee7e7db054ea7f04c976de523ee0d651",
+      "bytes": 3219
+    },
+    "allAttemptOrderReceipt": {
+      "path": ".artifacts/r06-recovery-cost-20261015/measured-series-execution-01.json",
+      "sha256": "63cdfb8528bf0c10f971560ad39feefa73483cad9ce01ee39bb9a6e4476f51a8",
+      "bytes": 37408
+    },
+    "parentRawTraceAndSemanticVerification": {
+      "path": ".artifacts/r06-recovery-cost-20261015/parent-measured-series-verification-01.json",
+      "sha256": "1b81b637a3ae070462648759ec4ef0f27a88fd82315eb80e8b23e45c9ce84cc6",
+      "bytes": 20067
+    },
+    "order": [
+      "H1",
+      "R1",
+      "R2",
+      "H2",
+      "H3",
+      "R3",
+      "R4",
+      "H4",
+      "H5",
+      "R5",
+      "R6",
+      "H6"
+    ],
+    "orderObservedExactly": true,
+    "assignedCount": 12,
+    "launchedCount": 12,
+    "passedCount": 12,
+    "failedCount": 0,
+    "timedOutCount": 0,
+    "retryReplacementOrExtensionCount": 0,
+    "originalFRPreserved": {
+      "processReceipt": {
+        "path": "A:\\nu-value-research\\.artifacts\\r06-recovery-cost-20261015\\runtime-FR-01\\process.json",
+        "sha256": "f0f720fc432c469d00bc7df08225257a8054d9e8f85e731783d1f8a7d24258bf",
+        "bytes": 7683
+      },
+      "trace": {
+        "path": "A:\\nu-value-research\\.artifacts\\r06-recovery-cost-20261015\\runtime-FR-01\\probe\\trace.jsonl",
+        "sha256": "0755c84f10ad5bf902cecb7f1cfb47bf6a8f5be1eea92fe636416a2a9fb372e3",
+        "bytes": 654
+      },
+      "classification": "retained configuration-only timeout; not replaced by this series"
+    },
+    "FRD1Excluded": {
+      "diagnostic": {
+        "path": "A:\\nu-value-research\\.artifacts\\r06-recovery-cost-20261015\\runtime-FRD1-01\\diagnostic.json",
+        "sha256": "ab1e0b49c269f821febd128def6ae94b4245d285e5a6b6c2ae8f2811e896063b",
+        "bytes": 12865
+      },
+      "classification": "additional unscored diagnostic outside the measured denominator"
+    },
+    "attemptRoster": [
+      {
+        "attemptId": "H1",
+        "route": "H",
+        "pair": 1,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "R1",
+        "route": "R",
+        "pair": 1,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "R2",
+        "route": "R",
+        "pair": 2,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "H2",
+        "route": "H",
+        "pair": 2,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "H3",
+        "route": "H",
+        "pair": 3,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "R3",
+        "route": "R",
+        "pair": 3,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "R4",
+        "route": "R",
+        "pair": 4,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "H4",
+        "route": "H",
+        "pair": 4,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "H5",
+        "route": "H",
+        "pair": 5,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "R5",
+        "route": "R",
+        "pair": 5,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "R6",
+        "route": "R",
+        "pair": 6,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      },
+      {
+        "attemptId": "H6",
+        "route": "H",
+        "pair": 6,
+        "status": "pass",
+        "timedOut": false,
+        "exitCode": 0,
+        "semanticPass": true
+      }
+    ],
+    "retainedRawIdentityBoundary": "The all-attempt receipt embeds exact process, result, trace, stdout and stderr identities for every measured assignment. Those bodies and command lines are not duplicated here."
+  },
+  "measuredAnalysis": {
+    "frozenSummarizer": {
+      "path": "experiments/nu-r06-recovery-cost/summarize.py",
+      "sha256": "12238b28ba61ce6c823810175e43df368baba913fdf9051815701ac3b2b28e95",
+      "bytes": 34793
+    },
+    "summaryJson": {
+      "path": ".artifacts/r06-recovery-cost-20261015/measured-summary-01/summary.json",
+      "sha256": "48245fb6e7494e61615032bc4cca8ecfc67ad783b8d344f83d2de06dfda52902",
+      "bytes": 2389918
+    },
+    "summaryMarkdown": {
+      "path": ".artifacts/r06-recovery-cost-20261015/measured-summary-01/summary.md",
+      "sha256": "7d141ae58afc17d212b492b058ff5a99d84e57855ef9eeb5faf832b54cc61c57",
+      "bytes": 4913
+    },
+    "summaryValidation": {
+      "path": ".artifacts/r06-recovery-cost-20261015/measured-summary-01-validation.json",
+      "sha256": "f9c119ce85b46140d4b2cc56a006b9a90f99811b3a068524c5247e0f3cb31311",
+      "bytes": 4610
+    },
+    "parentSummaryVerification": {
+      "path": ".artifacts/r06-recovery-cost-20261015/parent-measured-summary-verification-01.json",
+      "sha256": "f2a1024edb347f3d659b79a0cd131efa801202cd3c43857170bb4b2ab351c611",
+      "bytes": 8256
+    },
+    "explicitInputs": [
+      "FH",
+      "FR",
+      "H1",
+      "R1",
+      "R2",
+      "H2",
+      "H3",
+      "R3",
+      "R4",
+      "H4",
+      "H5",
+      "R5",
+      "R6",
+      "H6"
+    ],
+    "FRD1Excluded": true,
+    "measuredPassCount": 12,
+    "measuredFailNotRunInvalidCount": 0,
+    "primaryRouteStatistics": [
+      {
+        "component": "acquisition",
+        "route": "H",
+        "assignedDenominator": 6,
+        "validCompleteUsed": 6,
+        "medianMilliseconds": 2.38075,
+        "minimumMilliseconds": 2.2124,
+        "maximumMilliseconds": 4.7081
+      },
+      {
+        "component": "acquisition",
+        "route": "R",
+        "assignedDenominator": 6,
+        "validCompleteUsed": 6,
+        "medianMilliseconds": 5.38635,
+        "minimumMilliseconds": 3.8085,
+        "maximumMilliseconds": 10.2428
+      },
+      {
+        "component": "directRecovery",
+        "route": "H",
+        "assignedDenominator": 6,
+        "validCompleteUsed": 6,
+        "medianMilliseconds": 33.701499999999996,
+        "minimumMilliseconds": 19.9063,
+        "maximumMilliseconds": 44.3505
+      },
+      {
+        "component": "directRecovery",
+        "route": "R",
+        "assignedDenominator": 6,
+        "validCompleteUsed": 6,
+        "medianMilliseconds": 14.580449999999999,
+        "minimumMilliseconds": 10.2255,
+        "maximumMilliseconds": 35.4976
+      },
+      {
+        "component": "requestToReady",
+        "route": "H",
+        "assignedDenominator": 6,
+        "validCompleteUsed": 6,
+        "medianMilliseconds": 353.57090000000005,
+        "minimumMilliseconds": 284.1863,
+        "maximumMilliseconds": 370.1806
+      },
+      {
+        "component": "requestToReady",
+        "route": "R",
+        "assignedDenominator": 6,
+        "validCompleteUsed": 6,
+        "medianMilliseconds": 368.8342,
+        "minimumMilliseconds": 263.5766,
+        "maximumMilliseconds": 394.9666
+      }
+    ],
+    "historyMinusReconstructionStatistics": [
+      {
+        "component": "acquisition",
+        "assignedPairDenominator": 6,
+        "validCompletePairsUsed": 6,
+        "missingOrInvalidPairs": [],
+        "medianMilliseconds": -2.27555,
+        "minimumMilliseconds": -7.455100000000001,
+        "maximumMilliseconds": -0.7476000000000003
+      },
+      {
+        "component": "directRecovery",
+        "assignedPairDenominator": 6,
+        "validCompletePairsUsed": 6,
+        "missingOrInvalidPairs": [],
+        "medianMilliseconds": 12.00005,
+        "minimumMilliseconds": 3.222800000000003,
+        "maximumMilliseconds": 30.807800000000004
+      },
+      {
+        "component": "requestToReady",
+        "assignedPairDenominator": 6,
+        "validCompletePairsUsed": 6,
+        "missingOrInvalidPairs": [],
+        "medianMilliseconds": -14.139699999999976,
+        "minimumMilliseconds": -110.78030000000001,
+        "maximumMilliseconds": 97.50190000000003
+      }
+    ],
+    "parentPrimaryAgreement": true,
+    "secondaryPhaseDifferences": [
+      {
+        "attemptId": "H1",
+        "route": "H",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 49112,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H1",
+        "route": "H",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 1803824,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R1",
+        "route": "R",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 640424,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R1",
+        "route": "R",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 5026752,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R2",
+        "route": "R",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 639488,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R2",
+        "route": "R",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 5051488,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H2",
+        "route": "H",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 49056,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H2",
+        "route": "H",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 1721624,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H3",
+        "route": "H",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 65520,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H3",
+        "route": "H",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 1641992,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R3",
+        "route": "R",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 651888,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R3",
+        "route": "R",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 4798088,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R4",
+        "route": "R",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 651840,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R4",
+        "route": "R",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 5175096,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H4",
+        "route": "H",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 40832,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H4",
+        "route": "H",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 1722568,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H5",
+        "route": "H",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 40856,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H5",
+        "route": "H",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 1860168,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R5",
+        "route": "R",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 647584,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R5",
+        "route": "R",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 5108416,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R6",
+        "route": "R",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 631440,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "R6",
+        "route": "R",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 4967016,
+        "collectionDeltas": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H6",
+        "route": "H",
+        "phase": "acquisition",
+        "allocatedBytesApproximateDelta": 48944,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "attemptId": "H6",
+        "route": "H",
+        "phase": "recovery-to-ready",
+        "allocatedBytesApproximateDelta": 1789240,
+        "collectionDeltas": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "secondaryDescriptiveSummary": [
+      {
+        "route": "H",
+        "phase": "acquisition",
+        "n": 6,
+        "medianBytes": 49000.0,
+        "minBytes": 40832,
+        "maxBytes": 65520,
+        "medianKiB": 47.8515625,
+        "rangeKiB": [
+          39.875,
+          63.984375
+        ],
+        "observationsWithCollectionsByGeneration": [
+          0,
+          0,
+          0
+        ],
+        "collectionDeltaRangeByGeneration": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      },
+      {
+        "route": "H",
+        "phase": "recovery-to-ready",
+        "n": 6,
+        "medianBytes": 1755904.0,
+        "minBytes": 1641992,
+        "maxBytes": 1860168,
+        "medianKiB": 1714.75,
+        "rangeKiB": [
+          1603.5078125,
+          1816.5703125
+        ],
+        "observationsWithCollectionsByGeneration": [
+          3,
+          0,
+          0
+        ],
+        "collectionDeltaRangeByGeneration": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      },
+      {
+        "route": "R",
+        "phase": "acquisition",
+        "n": 6,
+        "medianBytes": 644004.0,
+        "minBytes": 631440,
+        "maxBytes": 651888,
+        "medianKiB": 628.91015625,
+        "rangeKiB": [
+          616.640625,
+          636.609375
+        ],
+        "observationsWithCollectionsByGeneration": [
+          2,
+          0,
+          0
+        ],
+        "collectionDeltaRangeByGeneration": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      },
+      {
+        "route": "R",
+        "phase": "recovery-to-ready",
+        "n": 6,
+        "medianBytes": 5039120.0,
+        "minBytes": 4798088,
+        "maxBytes": 5175096,
+        "medianKiB": 4921.015625,
+        "rangeKiB": [
+          4685.6328125,
+          5053.8046875
+        ],
+        "observationsWithCollectionsByGeneration": [
+          6,
+          0,
+          0
+        ],
+        "collectionDeltaRangeByGeneration": [
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "secondaryScope": "Approximate process-wide managed-allocation and collection differences between observation samples, including observer and concurrent engine/runtime work. These are not isolated operation allocations, native allocations, retained-root sizes or causal GC adjustments. Working-set and private-byte snapshots describe the target process, including engine, native and observer work.",
+    "interpretationBoundary": "Six declared H/R pairs; descriptive medians and ranges only. No outlier deletion, imputation, p-value, feasibility inclusion or benefit inference."
+  }
+}

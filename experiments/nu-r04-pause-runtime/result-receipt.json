@@ -1,0 +1,748 @@
+{
+  "schema": "nu-r04-pause-runtime-result-v1",
+  "status": "complete-bounded-feasibility",
+  "identity": {
+    "nu_commit": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+    "archive_sha256": "eb0aa77197de1971d79aa0657c2af5cf33b99ba8302a24ba44f3306cca4bf92b",
+    "sdk": "10.0.302",
+    "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a",
+    "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+    "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097"
+  },
+  "tracked_sources": {
+    "README.md": {
+      "path": "experiments/nu-r04-pause-runtime/README.md",
+      "sha256": "dfa917bb95b120a77604608afb5d230a90f26d545332239ca0f119fd00fb2c30",
+      "bytes": 5542
+    },
+    "global.json": {
+      "path": "experiments/nu-r04-pause-runtime/global.json",
+      "sha256": "0588e32d44bdf884e0305ded21820b13a59b1518efd39976c34d909eff3b1044",
+      "bytes": 105
+    },
+    "prepare.py": {
+      "path": "experiments/nu-r04-pause-runtime/prepare.py",
+      "sha256": "a52a1e2957ff3536a33a982447f793b069a23bcaa92172a46a48560118675e17",
+      "bytes": 16655
+    },
+    "build.py": {
+      "path": "experiments/nu-r04-pause-runtime/build.py",
+      "sha256": "d178d0ff3189904027853873d323987a766563e56068b855d3c888aca01b254d",
+      "bytes": 3319
+    },
+    "run.py": {
+      "path": "experiments/nu-r04-pause-runtime/run.py",
+      "sha256": "8d846858ae4d71e1ae66db8708870f47bc2e0cf7dc0dec2693332f2172833486",
+      "bytes": 3587
+    },
+    "Probe.fsproj": {
+      "path": "experiments/nu-r04-pause-runtime/Probe.fsproj",
+      "sha256": "233a6d1de26135caacc90ea11b7c6327bd8e9edec2d61bb81c26cc4df5200f90",
+      "bytes": 1389
+    },
+    "Common.fs": {
+      "path": "experiments/nu-r04-pause-runtime/Common.fs",
+      "sha256": "0c8b7249d895fac895b67e911cd615ab9fe3cdb8b4f3fed2bba32d16b0ee9643",
+      "bytes": 11295
+    },
+    "BaselineProbe.fs": {
+      "path": "experiments/nu-r04-pause-runtime/BaselineProbe.fs",
+      "sha256": "caa56557185d77738ac5b868f038de24ab2fdc2d4ec93c28860a39d7eb0a5211",
+      "bytes": 13066
+    },
+    "PauseProbe.fs": {
+      "path": "experiments/nu-r04-pause-runtime/PauseProbe.fs",
+      "sha256": "ac9d0b7955ea384b3487be5c22a44bf80527af835d9f6bea9318820850e5846b",
+      "bytes": 21654
+    },
+    "pre-execution-contract.md": {
+      "path": "experiments/nu-r04-pause-runtime/pre-execution-contract.md",
+      "sha256": "2ec8d0270822b8355a57e8da744e52d4da4689881e0ce639191bf9ae45dfa3de",
+      "bytes": 13458
+    },
+    "fault-gates.md": {
+      "path": "experiments/nu-r04-pause-runtime/fault-gates.md",
+      "sha256": "fc7142ffd6a6021fdeb0694e7c7c4040f1b73f9e52ad3ceca5568d9da4cffd63",
+      "bytes": 2601
+    },
+    "variant-manifest.md": {
+      "path": "experiments/nu-r04-pause-runtime/variant-manifest.md",
+      "sha256": "618e9104a35792a4e7dca334776accf228f53ff982fc0567a664a473f25b8418",
+      "bytes": 4511
+    },
+    "audio-instrumentation.patch": {
+      "path": "experiments/nu-r04-pause-runtime/audio-instrumentation.patch",
+      "sha256": "d71bbfac995db4e867e69b75c349258312b8033928968bf83155d17f0378fa56",
+      "bytes": 1597
+    },
+    "preflight-06-to-final-common.patch": {
+      "path": "experiments/nu-r04-pause-runtime/preflight-06-to-final-common.patch",
+      "sha256": "20d004991029abe8b5ca8a3e9fde5cb2272b47bff39a2e2f673fabdba8366e38",
+      "bytes": 505
+    },
+    "preflight-07-to-final-common.patch": {
+      "path": "experiments/nu-r04-pause-runtime/preflight-07-to-final-common.patch",
+      "sha256": "ce705dfa783371592ab9cec140644dbd0d6cc4c1ef88a8b3fbea663a7c74f197",
+      "bytes": 1030
+    },
+    "resolved-packages.txt": {
+      "path": "experiments/nu-r04-pause-runtime/resolved-packages.txt",
+      "sha256": "44122c48385196c0882c2b3c1c1da49a41b775f6c28bc10f3048b52956ef14ef",
+      "bytes": 1009
+    }
+  },
+  "preflight": {
+    "final_prepare": {
+      "path": ".artifacts/r04-pause-runtime-20261015/preflight-08/prepare-receipt.json",
+      "sha256": "12e3dcb46ea2b70e1e6f090a218ebdc6c26f9734714ba52681b21244c4595537",
+      "bytes": 12887
+    },
+    "final_nine_graph_build": {
+      "path": ".artifacts/r04-pause-runtime-20261015/preflight-08/build-receipt.json",
+      "sha256": "c4c35aacb8cd22e37b480c9e3658342863d4a3d03dc417e90a1b9e8ba38c1971",
+      "bytes": 14340
+    },
+    "parent_final_preflight_verification": {
+      "path": ".artifacts/r04-pause-runtime-20261015/parent-final-preflight-verification.json",
+      "sha256": "9a3f6c87b0774edaaf417a11bfc359100756aa15007903eafbb3c6a6c45398b9",
+      "bytes": 2969
+    },
+    "amended_probe_only_build": {
+      "path": ".artifacts/r04-pause-runtime-20261015/amended-probes-01/amended-build-receipt.json",
+      "sha256": "5337d666036012c5d265b26342eef015ff11253567221547a167ebb3188feb9a",
+      "bytes": 530468
+    },
+    "parent_amended_preflight_verification": {
+      "path": ".artifacts/r04-pause-runtime-20261015/amended-probes-01/parent-preflight-verification.json",
+      "sha256": "1c2a323ef01fa37fa9114647a35e3d4252554685110a073c29fc683ed0a34690",
+      "bytes": 3032
+    },
+    "executed_private_amended_wrapper": {
+      "path": ".artifacts/r04-pause-runtime-20261015/amended-probes-01/run_amended.py",
+      "sha256": "da1ded3d51894277bf7cad7b016c6a92cfd20a2b6f51d75c22916523581305c2",
+      "bytes": 4757
+    },
+    "full_build_outcome": "all nine graphs exit 0; each 334 warnings and 0 errors; warning codes NU1608, NU1901, NU1902",
+    "amended_probe_outcome": "all nine probe-only builds exit 0; 0 warnings and 0 errors; frozen application/Nu/Gaia/original-probe identities preserved"
+  },
+  "historical_runtime_attempts": [
+    {
+      "name": "runtime-baseline-explicit-01",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-baseline-explicit-01/process.json",
+        "sha256": "237eb54c7a0e9afb982083f47a8a76a3703deb8a307b3f9ec7c7c8a5dbf1e48d",
+        "bytes": 1308
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-baseline-explicit-01/probe/trace.jsonl",
+        "sha256": "61697e7c9cc3df3c74cc31a88d0f06e7fd908848cd29675e411440044ecd2495",
+        "bytes": 58767
+      },
+      "exit_code": 0,
+      "timed_out": false,
+      "result": {
+        "event": "result",
+        "pass": true,
+        "detail": "Four baseline fixtures satisfied the declared one-pair observations.",
+        "phase": "fixture-run:quit",
+        "updates": 4,
+        "timeUpdates": 4,
+        "callbacks": 13
+      }
+    },
+    {
+      "name": "runtime-baseline-wildcard-01",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-baseline-wildcard-01/process.json",
+        "sha256": "6b1885d691f160eac8836a7c22b7d734afc8c06f59b0ffec9001a21994e7b4b5",
+        "bytes": 1309
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-baseline-wildcard-01/probe/trace.jsonl",
+        "sha256": "6f5a438a57139904fdf9d1c9acb8d7bd3ea73a123c45e4b58ebc56e61a6c5d7f",
+        "bytes": 58767
+      },
+      "exit_code": 0,
+      "timed_out": false,
+      "result": {
+        "event": "result",
+        "pass": true,
+        "detail": "Four baseline fixtures satisfied the declared one-pair observations.",
+        "phase": "fixture-run:quit",
+        "updates": 4,
+        "timeUpdates": 4,
+        "callbacks": 13
+      }
+    },
+    {
+      "name": "runtime-pause-explicit-01",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-pause-explicit-01/process.json",
+        "sha256": "dd3bca532ee9512443a441d1695eca055d027ba585bd593518851699b7354358",
+        "bytes": 1297
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-pause-explicit-01/probe/trace.jsonl",
+        "sha256": "e76f9595638b0a0c6c68cfb99a4de6b58aa1e8f925421efd1aca566b1614437e",
+        "bytes": 1526
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "result": {
+        "event": "result",
+        "pass": false,
+        "detail": "B0 projection mismatch",
+        "phase": "seed-settle",
+        "updates": 0,
+        "timeUpdates": 0,
+        "callbacks": 2,
+        "pauseClicks": 0,
+        "quitClicks": 0,
+        "playClicks": 0
+      }
+    },
+    {
+      "name": "runtime-diagnostic-seed-pause-explicit-01",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-diagnostic-seed-pause-explicit-01/process.json",
+        "sha256": "40cccce6e84c375041fc7e26857a289a0b1ab4fff667994c24b85c0da4e0dfa1",
+        "bytes": 1849
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-diagnostic-seed-pause-explicit-01/probe/trace.jsonl",
+        "sha256": "e900414dd1360bc61b28cbb2ca8f44e657ecbf4cbba6af29d62f08a9feaa1915",
+        "bytes": 24639
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "result": {
+        "event": "result",
+        "pass": false,
+        "detail": "B0 projection mismatch",
+        "phase": "seed-settle",
+        "updates": 0,
+        "timeUpdates": 0,
+        "callbacks": 2,
+        "pauseClicks": 0,
+        "quitClicks": 0,
+        "playClicks": 0
+      }
+    }
+  ],
+  "amended_references_receipt": {
+    "path": ".artifacts/r04-pause-runtime-20261015/amended-probes-01/amended-reference-results-01.json",
+    "sha256": "c7db8e4f1090e17a1e2f02abaccb84da2e8f8658fbec2ca058717eabf835dce5",
+    "bytes": 17052
+  },
+  "amended_references": [
+    {
+      "name": "baseline-explicit",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-baseline-explicit-01/process.json",
+        "sha256": "2d575baaeb6d91859b21a02b3fba4e232c6222b4d796154e6c7d95d302cfd6e1",
+        "bytes": 1892
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-baseline-explicit-01/probe/trace.jsonl",
+        "sha256": "8ea50a870440954b165589d3709d5dbddfb6ef45b3a031a2d0b4e1ca6f2916c8",
+        "bytes": 64215
+      },
+      "exit_code": 0,
+      "timed_out": false,
+      "elapsed_seconds": 27.828000000008615,
+      "loaded_identities": {
+        "application_sha256": "71af2756345751f14e5dc744774a86c2bf97b8dbfc467d98d470b336c0f589c4",
+        "nu_sha256": "73e88cc7cd6b39f6f047a01c44fd448ab76503b1357309cb09e567db313edc70",
+        "gaia_sha256": "aaeb1382d0ccf8cb9247c8a773f640bcf8ee47624d0ecf0cd53daee6b3477eb2",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "4457f422a362e336d2e9af944550e45721ecee54bf65bd50bb3f7df676d68548",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": true,
+        "detail": "Four baseline fixtures satisfied the declared one-pair observations.",
+        "phase": "fixture-run:quit",
+        "updates": 4,
+        "timeUpdates": 4,
+        "callbacks": 14
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "fixture-before": 4,
+        "fixture-after": 4,
+        "result": 1,
+        "engine-exit": 1
+      }
+    },
+    {
+      "name": "baseline-wildcard",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-baseline-wildcard-01/process.json",
+        "sha256": "60f08ef5a2e8ed6a8852f2a760cd5a2471630dc6d34e38f693fefec657b05c0e",
+        "bytes": 1880
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-baseline-wildcard-01/probe/trace.jsonl",
+        "sha256": "bfd9ae93c194d0673ef3f40bfb31ecec6fa38c1c5250b5885c4ad45861a1c370",
+        "bytes": 64215
+      },
+      "exit_code": 0,
+      "timed_out": false,
+      "elapsed_seconds": 31.125,
+      "loaded_identities": {
+        "application_sha256": "33ece5d167088339bac7e231bf16850baa2f133c089d3e818e5747b3dfae2804",
+        "nu_sha256": "f85e937a1bf7fc53424dca950bd840b484fdecda5116d6454bd10ba5a490e2b8",
+        "gaia_sha256": "cc68e849f6ea6052649883ce3b163252802b0cfe9a0659afcbcd1a9bbc97ca70",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "d5d9af9f79349e47f24a058ed5182834d6782597699fb7aa917add84e53e4145",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": true,
+        "detail": "Four baseline fixtures satisfied the declared one-pair observations.",
+        "phase": "fixture-run:quit",
+        "updates": 4,
+        "timeUpdates": 4,
+        "callbacks": 14
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "fixture-before": 4,
+        "fixture-after": 4,
+        "result": 1,
+        "engine-exit": 1
+      }
+    },
+    {
+      "name": "pause-explicit",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-pause-explicit-01/process.json",
+        "sha256": "a7dea7b8fa0ddd1dad5a0f78d89ef8a9521aec576f2455e6f031afb335d0b6b9",
+        "bytes": 1873
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-pause-explicit-01/probe/trace.jsonl",
+        "sha256": "eecb9d7df550cfae09063076f280c0e30c0acb91decd161e7d3025525ac0b028",
+        "bytes": 254650
+      },
+      "exit_code": 0,
+      "timed_out": false,
+      "elapsed_seconds": 34.60899999999674,
+      "loaded_identities": {
+        "application_sha256": "c2e1627797f16327550e19cb78e8ec7bcf4663415c1a47eeae8c53b181f2a2cc",
+        "nu_sha256": "cd7e85af37c587cc28831dfff71db279bc0e5955023e784dec98a06a98e2aeff",
+        "gaia_sha256": "6ef6c999cb940ba80cb6bc3657a6d0b51d4f6e5ceefb584fc406f5cb1d235f86",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "283d0514f6556e4ead3dc39e2e236b5f881323909eadf6b25092f6edfb579fc0",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": true,
+        "detail": "Pause, ten frozen pairs, retained resume, one no-input pair, Quit reset, and fresh play passed.",
+        "phase": "fresh-run",
+        "updates": 12,
+        "timeUpdates": 12,
+        "callbacks": 22,
+        "pauseClicks": 3,
+        "quitClicks": 1,
+        "playClicks": 1
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "seed-observation": 1,
+        "seeded-B0": 1,
+        "scored-observation": 15,
+        "paused-before": 1,
+        "paused-after-ten": 1,
+        "resumed-before": 1,
+        "resumed-after-one": 1,
+        "title-after-quit": 1,
+        "fresh-gameplay": 1,
+        "result": 1,
+        "engine-exit": 1
+      }
+    },
+    {
+      "name": "pause-wildcard",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-pause-wildcard-01/process.json",
+        "sha256": "e8bd5d6b843e20ea35af680931dd2d7ba251dc841e47762655444ff9068833e0",
+        "bytes": 1874
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-pause-wildcard-01/probe/trace.jsonl",
+        "sha256": "ee236b3229accf43c64874136db32f8f794a159e20c2cc0f269ec577b4e3d2d1",
+        "bytes": 254650
+      },
+      "exit_code": 0,
+      "timed_out": false,
+      "elapsed_seconds": 28.610000000000582,
+      "loaded_identities": {
+        "application_sha256": "cf79e81d1167a5a1642c284c62b6b5302d0479a3510b0cc52fff28ee5a700f09",
+        "nu_sha256": "b71ce8f54fa29771de3a7fb8c006324ec1ad0418f21a82cbbdccab6b4088d226",
+        "gaia_sha256": "581f201e887e4349f739ad19f184fad63ec5f56c34618acdb48111ca3d7f0f32",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "f844575dfdfdc88de681394e6fc6b07783bfe89c5bf8326beeb82d4712330c6b",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": true,
+        "detail": "Pause, ten frozen pairs, retained resume, one no-input pair, Quit reset, and fresh play passed.",
+        "phase": "fresh-run",
+        "updates": 12,
+        "timeUpdates": 12,
+        "callbacks": 22,
+        "pauseClicks": 3,
+        "quitClicks": 1,
+        "playClicks": 1
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "seed-observation": 1,
+        "seeded-B0": 1,
+        "scored-observation": 15,
+        "paused-before": 1,
+        "paused-after-ten": 1,
+        "resumed-before": 1,
+        "resumed-after-one": 1,
+        "title-after-quit": 1,
+        "fresh-gameplay": 1,
+        "result": 1,
+        "engine-exit": 1
+      }
+    }
+  ],
+  "reference_comparisons": {
+    "baseline_fixed_B0_observations": {
+      "excluded": [
+        "configuration",
+        "preseed-cleared-observation"
+      ],
+      "record_count_each": [
+        13,
+        13
+      ],
+      "exact_json_equal": true,
+      "explicit_sha256": "4e1cbbf7fc8fa41b7d251cac8b1f7d20854f10e0876a489e100990dff23df2f7",
+      "wildcard_sha256": "4e1cbbf7fc8fa41b7d251cac8b1f7d20854f10e0876a489e100990dff23df2f7"
+    },
+    "pause_fixed_B0_through_resumed_one_pair": {
+      "excluded_before_comparison": [
+        "configuration",
+        "preseed-cleared-observation"
+      ],
+      "comparison_stops_inclusively_at": "resumed-after-one",
+      "record_count_each": [
+        22,
+        22
+      ],
+      "exact_json_equal": true,
+      "explicit_sha256": "b42f76fa98e6c20005953297c7be534e69a76708749678dcf4a069474afead28",
+      "wildcard_sha256": "b42f76fa98e6c20005953297c7be534e69a76708749678dcf4a069474afead28"
+    },
+    "post_resume_lifecycle": "Both arms independently passed the frozen randomized vacant/fresh invariant oracle; exact random values are not compared here."
+  },
+  "parent_reference_verification": {
+    "path": ".artifacts/r04-pause-runtime-20261015/amended-probes-01/parent-reference-verification.json",
+    "sha256": "4d6888e2f7b5c9a685bc42687786ee4a6c3b832e42dd04fb1970f955707bd1f7",
+    "bytes": 838
+  },
+  "fault_controls_receipt": {
+    "path": ".artifacts/r04-pause-runtime-20261015/amended-probes-01/amended-fault-results-01.json",
+    "sha256": "28cd2ca7e365460899b6395b5b11b1f73ba8e27259f0686e043f26cf67488674",
+    "bytes": 24569
+  },
+  "parent_fault_verification": {
+    "path": ".artifacts/r04-pause-runtime-20261015/amended-probes-01/parent-fault-verification.json",
+    "sha256": "ac76bc05309f286afbeac99c1917e2706b5e167e4819020c96d23ad65be9e3ef",
+    "bytes": 2201
+  },
+  "fault_controls": [
+    {
+      "name": "fault-missing-toggle",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-missing-toggle-01/process.json",
+        "sha256": "0589594184d6d345d175a97b4ff0c73d63fab8b220ed1077e6ecc1db312a80ab",
+        "bytes": 1910
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-missing-toggle-01/probe/trace.jsonl",
+        "sha256": "9d3bd8edb12fa2097caf13bd80ae8c5403c248d41c1c03ab36c3dda733cc1eda",
+        "bytes": 52910
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "elapsed_seconds": 26.780999999988126,
+      "loaded_identities": {
+        "application_sha256": "3a8f4a8a24ac43c44cdf1a68bec43becf4dd872cee749b02c8e8f14239b7bad8",
+        "nu_sha256": "ea0b013117ac17fbe8276c399a6342c457cdf0e09086831a670ad8a1f3d787f5",
+        "gaia_sha256": "62f62b370f50c10c186e04588daa94d5be643df6f44a86d01530b59618da14dd",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "05f56caf1a8138396490dd6d90737ac1d738708c49ecef64d6116b663a6781f0",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": false,
+        "detail": "pause-reached",
+        "phase": "pause-settle",
+        "updates": 0,
+        "timeUpdates": 0,
+        "callbacks": 4,
+        "pauseClicks": 1,
+        "quitClicks": 0,
+        "playClicks": 0
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "seed-observation": 1,
+        "seeded-B0": 1,
+        "scored-observation": 1,
+        "failure-observation": 1,
+        "exception": 1,
+        "result": 1,
+        "engine-exit": 1
+      },
+      "declared_first_gate": "pause-reached",
+      "gate_observed": true
+    },
+    {
+      "name": "fault-hidden-content",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-hidden-content-01/process.json",
+        "sha256": "cec14ba217121118e43dbc8080d30ca0e5bd9a3b92f9d1306a329d3fb07aeed1",
+        "bytes": 1909
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-hidden-content-01/probe/trace.jsonl",
+        "sha256": "0cbdd8acc3374438d87d399070ad55a5440273ee4542b1844c7fb7bc41501306",
+        "bytes": 40594
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "elapsed_seconds": 20.09299999999348,
+      "loaded_identities": {
+        "application_sha256": "a5858758a86277422a0bc52192c7a071070558d3105a4597dcd7021373755962",
+        "nu_sha256": "22d19c8edd55ddedc6123254a3905d3126aca7b74a24e50447b7048283adf46e",
+        "gaia_sha256": "ba1d9f9ea73701af4681e6203e2d4ea742b3481a78d3625c8f1c294d61f39745",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "9e89cf9dc4d2a224c0f8f444d555f41f5b638bb88f981dbf2ea338a0ca27521d",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": false,
+        "detail": "pause-projection",
+        "phase": "pause-settle",
+        "updates": 0,
+        "timeUpdates": 0,
+        "callbacks": 4,
+        "pauseClicks": 1,
+        "quitClicks": 0,
+        "playClicks": 0
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "seed-observation": 1,
+        "seeded-B0": 1,
+        "scored-observation": 1,
+        "failure-observation": 1,
+        "exception": 1,
+        "result": 1,
+        "engine-exit": 1
+      },
+      "declared_first_gate": "pause-projection",
+      "gate_observed": true
+    },
+    {
+      "name": "fault-advancing-time",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-advancing-time-01/process.json",
+        "sha256": "1791944d7689eb63e90da3170f4f1729ab15fac3fddde00a40fd207fcc91bdd2",
+        "bytes": 1910
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-advancing-time-01/probe/trace.jsonl",
+        "sha256": "6a3cc3b3f920d3e70a6456dc6f48a4af83c4375d341c464528d2db2471760910",
+        "bytes": 87392
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "elapsed_seconds": 20.156000000002678,
+      "loaded_identities": {
+        "application_sha256": "c6c7f2775d1f0fe52dcac5d5837cfc2c4412ea088e3e7582f632ae96f408ed33",
+        "nu_sha256": "06ffbef9fc69533a665b0cd2cad69b68856602f938d5b1f56d38ad81aa8fb2d0",
+        "gaia_sha256": "bec7e45ee484e4a79233fc884426dd9570c3e6efd46928d73c94cfd92664c7a3",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "204d7061d7fde5b10682e6995b4799eefd2de6cf9b8c6de5c5771e1a9ad155dd",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": false,
+        "detail": "pause-frozen-model",
+        "phase": "paused-run",
+        "updates": 1,
+        "timeUpdates": 1,
+        "callbacks": 6,
+        "pauseClicks": 1,
+        "quitClicks": 0,
+        "playClicks": 0
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "seed-observation": 1,
+        "seeded-B0": 1,
+        "scored-observation": 3,
+        "paused-before": 1,
+        "failure-observation": 1,
+        "exception": 1,
+        "result": 1,
+        "engine-exit": 1
+      },
+      "declared_first_gate": "pause-frozen-model",
+      "gate_observed": true
+    },
+    {
+      "name": "fault-reset-resume",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-reset-resume-01/process.json",
+        "sha256": "266c89d6ac95b9fa589bc509f9fb0d23575618b4004c0ce2a9a930ca29e21641",
+        "bytes": 1897
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-reset-resume-01/probe/trace.jsonl",
+        "sha256": "f3bee2db54803dcfeb042351eff99a3441eb109eb2ccb69f907503164c43488e",
+        "bytes": 220961
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "elapsed_seconds": 35.15600000000268,
+      "loaded_identities": {
+        "application_sha256": "e34707a63eef0a0fc17270e358722d73c57ed2d52da3f68e662462b72e6a0e2d",
+        "nu_sha256": "9cd6542a3cb7dfd5de6df26486986211d76ad4e9cedc73d338ab3feea3800138",
+        "gaia_sha256": "229c268f32c3e255ab68ad2b9de3b669d6ad79a453231a5bfb74e56f72b4acf4",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "79a02feab06a06e37f780ef70869349204fa0b40594e9780347ff95ab826063d",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": false,
+        "detail": "resume-retained",
+        "phase": "resume-settle",
+        "updates": 10,
+        "timeUpdates": 10,
+        "callbacks": 16,
+        "pauseClicks": 2,
+        "quitClicks": 0,
+        "playClicks": 0
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "seed-observation": 1,
+        "seeded-B0": 1,
+        "scored-observation": 13,
+        "paused-before": 1,
+        "paused-after-ten": 1,
+        "failure-observation": 1,
+        "exception": 1,
+        "result": 1,
+        "engine-exit": 1
+      },
+      "declared_first_gate": "resume-retained",
+      "gate_observed": true
+    },
+    {
+      "name": "fault-stale-quit",
+      "process": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-stale-quit-01/process.json",
+        "sha256": "376cda3aaa68c8c1a94047f4c21e4becea9c904f4c0bbdcaea3a999555195579",
+        "bytes": 1885
+      },
+      "trace": {
+        "path": ".artifacts/r04-pause-runtime-20261015/runtime-amended-fault-stale-quit-01/probe/trace.jsonl",
+        "sha256": "0264f98931b72d8b9a80ba0de7f7273d1a13bf3a79373fefba6968b6d4332f7e",
+        "bytes": 253486
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "elapsed_seconds": 35.04700000000594,
+      "loaded_identities": {
+        "application_sha256": "2ee5207ce9e883bd16a5075aa58be42fffca7e8fce55b7b2fcb3ec124e72a6f7",
+        "nu_sha256": "4fc60a523b96765e36c1c5f4a85177841c0bd2907180c6f3ab1c2394de5c4438",
+        "gaia_sha256": "b2c956f5c49fd85cc06114ed1d1ca5d49a138b0bb28af548a33e31e33f5a37e8",
+        "host_deps_sha256": "b092c5e1bb0f33511e080b55f561dc0971427ee95a8802cc938500b9e1ecbaa8",
+        "host_runtimeconfig_sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+        "amended_probe_sha256": "a790c00997a5a0271ea091c73e33855f662a259ed0157d1bb4b10156fdf79d0f",
+        "checkpoint_sha256": "ffee72d91c6e4a32b650d45e9addd9e02e179163d0c8bbaaa8cddb9c92bc783a"
+      },
+      "result": {
+        "event": "result",
+        "pass": false,
+        "detail": "quit-reset",
+        "phase": "title-halted",
+        "updates": 11,
+        "timeUpdates": 11,
+        "callbacks": 20,
+        "pauseClicks": 3,
+        "quitClicks": 1,
+        "playClicks": 0
+      },
+      "event_counts": {
+        "configuration": 1,
+        "audio-request": 3,
+        "preseed-cleared-observation": 1,
+        "seed-observation": 1,
+        "seeded-B0": 1,
+        "scored-observation": 14,
+        "paused-before": 1,
+        "paused-after-ten": 1,
+        "resumed-before": 1,
+        "resumed-after-one": 1,
+        "failure-observation": 1,
+        "exception": 1,
+        "result": 1,
+        "engine-exit": 1
+      },
+      "declared_first_gate": "quit-reset",
+      "gate_observed": true
+    }
+  ],
+  "reconstruction_limitation": "Direct SetGameplay into a populated generated-name scene failed the B0 projection gate; an observation-only rerun exposed two same-key bricks retaining prior positions. A generated-key collision is source-grounded but remains inferred because initial keys were not logged. The prospective common Quit-content clear is alignment work, not evidence that live replacement generally preserves identity.",
+  "scope_limits": [
+    "synthetic ClickEvent publication rather than physical pointer delivery",
+    "request observation rather than native audio playback",
+    "the resumed Update sampled Left and Right as both up; other input and replay state were not observed",
+    "one pinned application, functional accompanied Gaia, fixed fixtures and phase boundaries",
+    "no whole-Nu equivalence, diagnostic-attention, agent-access, maintenance-benefit, or pause-value claim"
+  ]
+}

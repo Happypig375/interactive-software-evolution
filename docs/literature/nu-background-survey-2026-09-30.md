@@ -1464,3 +1464,47 @@ closed; follow the technical report, tests or logs if exact endpoint
 reconstruction becomes necessary. No current Nu/D1 prediction depends on
 resolving that historical discrepancy. The prepared pause and recovery checks
 can proceed under their own contracts, preserving failures and complete work.
+
+### Bounded application and recovery observations, 2026-10-15
+
+This continuation adds local construction evidence, not publication readings
+or independent field coverage. The [R04 pause/lifecycle comparison](../nu-pause-runtime-feasibility-2026-10-15.md)
+passes both current baselines and both completed successors. Five frozen
+source faults reach their declared first failing checks. The wildcard remains
+a valid implementation of this selected update clause; no diagnostic-attention
+or maintenance advantage has been measured.
+
+For **B04/B08 state and live development**, a retained setup failure and its
+observation-only diagnostic show why model equality is insufficient: two bricks
+had correct model/color values but stale projected positions. Pinned keyed
+reconciliation and initialization-only positions support an identity-collision
+explanation, with the unrecorded initial key set explicitly limiting that
+inference. Clearing content before installing the fixed checkpoint is visible
+alignment work. Earlier successful B0/B1 reconstructions remain valid at their
+observed scope; they do not supply a general replacement guarantee.
+
+For **B07 observation**, positive advancing-event evidence, complete represented
+state/projection, counted event triggers, lifecycle checks and actual fault
+detections now establish a bounded application oracle. Synthetic entity clicks,
+sampled Left/Right states and request-level audio remain narrower than physical
+input, native playback or whole-game behavior. The next consequential step is
+to bind that oracle to a useful change and complete work accounting; another
+generic monitoring-method inventory would not establish maintenance value.
+
+For **B06 costs**, the [R06 component comparison](../nu-recovery-cost-feasibility-2026-10-15.md)
+separates acquisition, direct recovery, next-callback readiness and verification.
+The original reconstruction feasibility process timed out before its first
+setup observation. A separately assigned diagnostic subsequently passed without
+a stack attachment; its complete represented output matched the history route.
+The prospective release then retained the original failure and admitted exactly
+the twelve previously assigned measured processes, all of which passed. History
+acquisition was faster in all six pairs, while its direct recovery call was
+slower in all six. Request-to-ready differences ranged across both signs. These
+are local first-use component observations with unequal retained payload scopes,
+not an isolated persistence effect or a maintenance-benefit estimate. The startup
+timeout remains unexplained; no feasibility/diagnostic time enters the measured
+summaries. Construction, workflow access, diagnosis and useful repair costs
+remain unmeasured. The next prepared comparison is R02's ordinary standalone
+MMCC/ImSim lifecycle boundary, preserving the existing ImSim quit workaround and
+source/physics differences; another identical timing series would not establish
+that practical value.

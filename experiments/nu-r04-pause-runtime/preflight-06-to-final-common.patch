@@ -1,0 +1,13 @@
+diff --git a/Common.fs b/Common.fs
+index 4b047a5..0795749 100644
+--- a/Common.fs
++++ b/Common.fs
+@@ -62,7 +62,7 @@ module Common =
+         gameplay.Bricks.IsEmpty && gameplay.Lives = 0
+ 
+     let freshBricksShape (gameplay : Gameplay) =
+-        let positionKey value = bits value.X, bits value.Y, bits value.Z
++        let positionKey (value : Vector3) = bits value.X, bits value.Y, bits value.Z
+         let expectedPositions =
+             Set.ofList
+                 [for i in 0 .. 4 do

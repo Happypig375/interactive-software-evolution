@@ -1,0 +1,38 @@
+diff --git Nu/Nu/World/WorldAudio.fs Nu/Nu/World/WorldAudio.fs
+index f23c684..5bcc7d2 100644
+--- a/Nu/Nu/World/WorldAudio.fs
++++ b/Nu/Nu/World/WorldAudio.fs
+@@ -12,19 +12,32 @@ open Prime
+ [<AutoOpen>]
+ module WorldAudio =
+ 
++    // Research-only opt-in request observer. The callback must record only.
++    let mutable private audioMessageObserverOpt : (AudioMessage -> unit) option = None
++
+     type World with
+ 
++        static member setAudioMessageObserver observerOpt =
++            audioMessageObserverOpt <- observerOpt
++
+         static member internal getAudioPlayer (world : World) =
+             world.Subsystems.AudioPlayer
+ 
+         /// Enqueue an audio message to the world.
+         static member enqueueAudioMessage (message : AudioMessage) (world : World) =
+             world.Subsystems.AudioPlayer.EnqueueMessage message
++            match audioMessageObserverOpt with
++            | Some observer -> observer message
++            | None -> ()
+ 
+         /// Enqueue multiple audio messages to the world.
+         static member enqueueAudioMessages (messages : AudioMessage seq) world =
+             let audioPlayer = World.getAudioPlayer world
+-            for message in messages do audioPlayer.EnqueueMessage message
++            for message in messages do
++                audioPlayer.EnqueueMessage message
++                match audioMessageObserverOpt with
++                | Some observer -> observer message
++                | None -> ()
+ 
+         /// Get the master volume.
+         static member getMasterAudioVolume world =
