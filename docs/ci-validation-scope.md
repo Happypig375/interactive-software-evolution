@@ -117,3 +117,11 @@ scope checks, full Linux validation (14m19s), and full Windows validation
 (17m15s). The separate maintenance job and optional E2 baseline were skipped
 under the full route. This completed run does not supply a result for the
 interrupted check on the earlier commit.
+
+The later R10/literature commit
+`b596f39fb0d023155e22223f531c3a5f134b6b83` passed
+[run 38711962041](https://github.com/Happypig375/interactive-software-evolution/actions/runs/38711962041):
+scope checks, full Linux validation (9m29s), and full Windows validation
+(15m30s). Maintenance and the optional E2 baseline were skipped under the full
+route. This validates the repository checks at that head; the R10 record owns
+its separate bounded runtime evidence.

@@ -1173,3 +1173,76 @@ all-round human advantage. Early-stop later-round populations and total work
 remain unspecified; the checked release still matches the prior static gallery.
 Preserve ordered behavior and separate final resources in R05/R08, then validate
 the actual Nu access boundary. No agent execution or Nu effect is established.
+
+## 2026-10-15 continuation: structure, running behavior and complete work
+
+Ten existing native PDFs now supply complete selected-publication readings:
+[S240](S240-endless-runner-pooling-partial.md),
+[S265](S265-unity-build-energy-partial.md),
+[S272/S273](S272-S273-mvc-conformance-access.md),
+[S274](S274-subvis-access.md), [S275](S275-bpalt-partial-method.md),
+[S279/S280](S279-S280-game-runtime-monitoring.md),
+[S282](S282-ncalt-access.md) and
+[S286](S286-nodegit-source-and-access.md). Their methods strengthen the ordinary
+comparators while narrowing what a successful Nu probe would establish. These
+are ten publication completions, not ten independent studies. The MVC
+refactoring reappears with different reported metrics in S273; the monitor
+papers and S281 share game cases; the alternative-authoring tools share a
+research lineage without established person-level independence.
+
+The architecture evidence supports explicit separation and useful conformance
+feedback, with different validity limits. S272's retrospective refactoring
+reduces mean coupling while total coupling rises slightly; its claimed porting
+saving is unmeasured. S273's tool arm has fewer reported daily violations, but
+the analysis treats 191 project-day rows, including some carried-forward
+values, as observations from only eight retained students. Its conformance
+oracle itself has false positives and negatives. Neither result estimates
+maintenance time or correct delivered behavior. For R02/R04/R05, retain
+diagnostic opportunities, structural obligations and accepted behavior as
+separate outcomes; do not promote a warning-free or structurally conformant
+program to a behavioral pass.
+
+The authoring tools offer capable alternatives to manual repetition. SuBViS
+stores alternatives inside graphs, BPAlt duplicates whole Blueprint classes,
+and NCAlt combines graph alternatives with selective copying and comparison.
+Their preliminary favorable creativity/usability/preferences coexist with
+assistance, learning/order effects, defects and untested operations. BPAlt's
+selective merge/scenario functions were outside its study; NCAlt's perceived
+efficiency and ease contrasts were nonsignificant. Neither supplies an
+objective total-work comparison. NodeGit adds favorable matching/merge evidence
+for typed Blender snapshots, including generated perturbations, but no
+participant or conflict-repair evaluation. Its paper/source graph-cost formulas
+differ. These methods justify strong ordinary authoring and graph-merge
+comparators, while requiring explicit representation, identity, adapter,
+repair and verification costs in R11/R12/R20. Replacing an actor before play or
+merging a document is distinct from R03/R10's running-state obligation.
+
+The complete monitor papers make an oracle's scope concrete. Selected game-loop
+exports can miss intermediate states, an absent quantified object can make a
+property vacuously true, and a pending temporal obligation needs an explicit
+end/reset rule. Useful detected faults and bounded overhead remain positive
+evidence; they are not measured tester-time savings. For R05 and the pause
+probe, preserve ordered events and the actual failing state, witness relevant
+objects/triggers, and distinguish completed, failed and inconclusive
+obligations. Source instrumentation and fault controls establish only the
+boundary they exercise.
+
+The cost evidence also constrains R06. S240's two Task Manager panels reuse
+the same embedded image; its profiler snapshots show a small used-memory
+difference but unchanged reserved memory and unequal loaded resources. That
+cannot isolate pooling or cumulative allocation. S265 provides repeated
+build-configuration measurements and favorable/adverse cells, but average
+CPU+GPU power and derived joules per frame do not identify whole-run energy
+or total device cost. One FPS classification differs across its figure and
+released table. Monitor export, queue backpressure and monitor computation
+also have separate costs. A Nu comparison must match useful work and observation
+windows, account for preparation/reconstruction/verification and failures, and
+keep live scene size, cumulative creation, retention and tail latency distinct.
+
+The next informative work is the already prepared application-level
+pause/lifecycle validation and a practical recovery/repair comparison with
+complete work accounting. Missing supplements, exact builds, raw data and
+S305's final journal edition remain source-specific dependencies when a claim
+requires them. They do not erase the reconstructed positive results or resolve
+Nu's still-unmeasured benefit. Human collaboration, learning and steering
+effects remain future empirical questions.

@@ -47,3 +47,35 @@ Completed [S255](literature/full-reading/S255-game-product-lines-comparison-part
 Separate total work into initial family/tool construction, onboarding/support, each supported variant, family revisions, vocabulary extensions, integration/verification and repair. Report the full assigned workload and the reuse count at which costs are incurred; do not presume a break-even point or amortize setup over hypothetical future variants. Count saved-source/history storage, serialization/default resolution, target destruction/recreation, ancestor propagation and observation overhead where relevant. An inexpensive configuration task can coexist with expensive extension or integration.
 
 R12 now has a concrete reuse unit and a configuration/revision/extension boundary. Promote it only if an actual authoring or maintenance decision makes those trade-offs consequential. Before execution, establish the ordinary comparator, exact property/identity policy, supported editor/input access, saved-history behavior, valid alternative outcomes and total-work accounting. At the 2026-10-11 checkpoint, S263/S264's generation methods were access-limited; the 2026-10-15 continuation now supplies their bounded comparator evidence. They become relevant only if a selected comparison uses generation and do not block this distinct scene-family question. No editor operation, runtime, source variant, observer, human study, worker or model run was performed.
+
+### 2026-10-15 alternative-authoring continuation
+
+The complete [SuBViS](literature/full-reading/S274-subvis-access.md),
+[BPAlt](literature/full-reading/S275-bpalt-partial-method.md) and
+[NCAlt](literature/full-reading/S282-ncalt-access.md) readings close the selected
+graph/class-alternative method gaps. They supply three different reuse units:
+node/graph states, whole Blueprint classes with placed-actor choices, and
+copied behavior-tree graphs with selected-node transfer. BPAlt replaces the
+placed actor before play; its level scenario records class choices, not
+arbitrary running state. NCAlt can paste disconnected nodes when a needed
+parent is absent. These are useful supported policies, not evidence of Nu's
+family-revision or live-continuation semantics.
+
+The studies retain favorable subjective evidence with material bounds:
+SuBViS has four assisted students and a recompile defect; BPAlt has ten paid
+students, prepared templates and substantial tutorials; NCAlt has sixteen
+paid students and a strong order interaction in its usability score.
+BPAlt's selective merge/scenarios and later all-instance Play option were
+outside its study, while NCAlt's efficiency/ease and selective-merge ratings
+did not establish an advantage. No study measures complete construction,
+extension, repair and verification work. Shared authorship is a lineage,
+not independent replication or proof of person-level overlap.
+
+For the prepared button-family comparison, allow ordinary duplication,
+parameterized helpers, class/graph alternatives and explicit reconstruction
+where applicable. Score the nominated values, structure and interaction after
+reconstruction; do not add runtime-identity retention as an unstated
+requirement. Charge setup, supplied solutions, assistance, missing-vocabulary
+implementation, repair and verification to the proper role. Selective-copy
+success and favorable ratings remain distinct from R20 productivity and R21
+steering effectiveness, which are still unmeasured.

@@ -94,6 +94,32 @@ There is direct practice motivation for these terms. [Nu #957](https://github.co
 
 [#895](https://github.com/bryanedds/Nu/issues/895) reports allocation optimizations rolled back after undo/redo regressions. [#1055](https://github.com/bryanedds/Nu/issues/1055) discusses retained character-handler references but qualifies their leak status; its profiler image was not inspected. Neither is a measured current Nu regression or a universal functional-state penalty. [#852](https://github.com/bryanedds/Nu/issues/852) motivates separating represented awake state from native resumption. These reports strengthen the cost-and-correctness question, while their measurements and diagnoses remain practitioner evidence.
 
+### 2026-10-15 continuation: complete monitoring and cost originals
+
+The complete [S279/S280 readings](literature/full-reading/S279-S280-game-runtime-monitoring.md)
+resolve the journal-formula and original-visual dependencies. Their selected
+fault detection and bounded costs remain positive evidence from a shared
+game lineage. For R05, exported snapshots do not observe all transitions;
+quantification over an empty object set can vacuously satisfy a property, and
+the paper does not bind a finite-ending/reset policy for pending obligations.
+Require a witnessed relevant domain/trigger, declared observation phase,
+ordered trace and explicit completion/reset disposition. Keep the failing
+state and unfinished obligations, rather than recording only a final pass.
+These requirements inform local construction; the literature itself does not
+validate the Nu observer or a fault control.
+
+For R06, include producer export, serialization, pipe backpressure and monitor
+computation separately. [S240](literature/full-reading/S240-endless-runner-pooling-partial.md)
+now exposes uncontrolled pooling snapshots, including a reused Task Manager
+image and unequal loaded resources. [S265](literature/full-reading/S265-unity-build-energy-partial.md)
+provides repeated build-configuration measurements with favorable/adverse
+cells, but CPU+GPU average power and derived energy per frame do not establish
+whole-run or whole-device energy. Its figure/classification discrepancy and
+missing replay/raw data remain explicit. Match useful work and observation
+windows before comparing cost; retain memory reservation, live objects,
+cumulative creation, retained roots, frame tails and total work as different
+outcomes. No Nu cost or benefit estimate follows from these completed readings.
+
 ## Disposition and continuation
 
 - **R02/R14:** local source sites and a coordinated public issue/patch lineage are established. Initial behavioral parity, realistic task diversity and an eligible assigned-change boundary remain unvalidated. Retain the package claim and label L-control authored, C-exit adapted, and the older #1145 case historical.

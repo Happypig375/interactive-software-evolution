@@ -69,6 +69,26 @@ extent before claiming complete available-body coverage; the file is not
 assumed equivalent to a cover-inclusive institutional package. Reading and
 integration status belong to the [reading index](full-reading/INDEX.md).
 
+### Subsequent accepted reading coverage
+
+All ten bodies in this second reconciliation were subsequently read at the
+scopes recorded in their linked full-reading notes, raising the current
+checkpoint to **281 = 13 P + 3 A + 265 S**. This later reading completion does
+not change the acquisition result: the reconciliation still downloaded **0**,
+attached **0**, created **0** duplicates and made no Zotero mutation. These are
+ten publication/work readings, not ten independent empirical studies; the
+S272/S273 and S279/S280 edition/case lineages, the S274/S275 follow-on lineage
+and S282's shared infrastructure with S283 remain explicit.
+
+S273's accepted scope is the complete available 98-page inner thesis body.
+The prior registered catalog record, author-deposit abstract/contents and
+internal study lineage support its identity and extent; the live institutional
+route was unavailable. The absent outer cover/title leaf and blank PDF
+title/author metadata remain provenance limits. S286's selected body is the twelve-page **ACM
+Transactions on Graphics 42(6) journal article**, correcting the initial
+conference-paper label. The original attachment identities, page counts,
+bytes and hashes in the table above remain the acquisition receipt.
+
 Primary-body gaps remain for S305's journal, S262's original paper, S221's
 original/revised-chapter remainder, S152's dissertation, S153's dissertation
 and S206's full publication. S305's previously listed report attachment has

@@ -86,3 +86,34 @@ This evidence changes R11's preparation in bounded ways:
 - SceneGit merges quiescent snapshots. It supplies no stale-editor reconciliation, running-state, pending event/timer, heap-identity or external-effect guarantee. Preserve the contract's fresh-load boundary and the separate R03/R10 questions.
 
 The actual Nu evidence is unchanged: the selected `.nugroup`/F# handle boundary exists, while no dedicated collaborative or semantic merge facility has been established. Ordinary Git, communication, manual reconciliation and editor/behavior verification therefore remain the credible starting comparator. SceneGit is a possible external treatment only after a practical applicability and access decision; supplement and implementation access remain distinct from the now-complete paper reading. R11 stays deferred, and no participant study, adapter, merge fixture or human-steering execution is claimed by this continuation. If R11 is later promoted, first decide whether the title-scene plus F# boundary justifies a SceneGit-like adapter; otherwise use this method to sharpen identity, conflict and cost observations in R02/R12/R14 without constructing a new arm.
+
+## 2026-10-15 continuation: graph alternatives and inferred identity
+
+[S286 NodeGit's complete primary reading](literature/full-reading/S286-nodegit-source-and-access.md)
+now supersedes the earlier evaluation-access gap. Typed matching recovers
+correspondence without stable editor IDs and supports favorable curated merges
+and generated matching tests on sixteen Blender programs. The graph-edit
+comparators receive NodeGit's subgraph correspondence as assistance; the Git
+comparison uses a specified JSON serialization and does not measure manual
+repair. There are no recruited users or conflict-resolution trials. The public
+source's graph-cost denominator and metadata filtering differ from the paper,
+and the measured build remains unbound.
+
+This makes inferred correspondence a credible alternative for C2, subject to
+an actual Nu adapter and its costs. It does not preserve the external F# handle,
+resolve C3's incompatible intent or discharge C4's cross-object reference
+obligation. Record correspondence errors, supported edit classes, threshold/tie
+policy, adapter effort, manual repair and fresh-load behavior separately from
+a clean merge. The prior potential dangling-reference case remains a
+source-derived inference, not an executed defect.
+
+[BPAlt](literature/full-reading/S275-bpalt-partial-method.md) and
+[NCAlt](literature/full-reading/S282-ncalt-access.md) add selective graph-copy
+mechanisms with identity, connection and missing-declaration costs. BPAlt's
+merge/scenario operations were not exercised in its user study; NCAlt's
+selective-merge rating was inconclusive. Their favorable broader ratings do
+not establish safe merge or lower team work. The method-reading dependency is
+resolved, while the practical Nu collaboration decision, actual adapter and
+human comparison remain separate. Continue to use these observations in the
+leading maintenance/authoring cases without promoting R11 solely because its
+predecessors are now read.

@@ -9096,3 +9096,127 @@ Completed-segment Scite decisions were submitted once under `nu_s218_s219_origin
 The [expanded native acquisition audit](pdf-acquisition-audit-2026-10-15.md#second-native-attachment-reconciliation) separately found ten more local bodies: S240,S265,S272,S273,S274,S275,S279,S280,S282,S286. It made zero downloads or writes; exact edition/hash/version receipts and the S273 missing-title-leaf caveat are preserved. Their consequential readings were distributed across the already authorized maintainer assistants and have returned for review; they are not included in this segment’s count or citation decisions.
 
 The [R10 construction](../nu-live-reload-feasibility-2026-10-15.md) is a separate authorized execution result. Its prospective contract, saved source/binary/script identities, complete live/fresh checkpoint and one-step agreement, failed attempts and bounded interpretation are retained. The original source archive and raw traces stay private; the portable probe, contract and compact result receipt are public. No paid candidate/model or participant experiment was run.
+
+## 2026-10-15 — ten attached originals, structural outcomes and total work
+
+The second native-attachment audit found usable local bodies for S240, S265,
+S272/S273, S274/S275, S279/S280, S282 and S286. Registered parents and exact
+PDF hashes were checked before selected reading. It made no download, import
+or duplicate attachment. The [acquisition audit](pdf-acquisition-audit-2026-10-15.md#second-native-attachment-reconciliation)
+retains file identities and the [index](full-reading/INDEX.md) links the eight
+accepted notes covering these ten publications.
+
+Complete text and consequential visual coverage is now accepted for the
+13-page S240, 15-page S265, seven-page S272, 98-page S273 inner body, eleven-page
+S274, sixteen-page S275, 28-page S279, ten-page S280, 31-page S282 and twelve-page
+S286. Figures, tables, formulas and the papers' supplied appendices are covered
+as individually recorded. S273 has roman i–vi plus printed 1–92, with nine blank
+pages and no outer title leaf. Its registered catalog identity, author-deposit
+abstract/contents and internal study lineage support the selected body; live
+institutional correspondence and byte-identical edition provenance remain
+unverified. S286 is the TOG journal article, preserving the earlier acquisition
+label correction.
+
+Parent acceptance read the completed notes and checked consequential original
+passages/visuals. Independent AI maintainers also checked S265's classification
+tables and S272/S273's denominators and edition limits. These are targeted
+evidence reviews, not new full readings, participant observations or human
+sign-off. Material refinements preserve S240's repeated Task Manager image,
+S265's 46-versus-45 FPS classifications, S273's repeated day observations,
+BPAlt's post-study feature and aggregate-score limits, monitor finite-ending
+and vacuity limits, and NodeGit's paper/source normalization and 50% threshold
+discrepancies. Favorable findings remain at their measured scope.
+
+The checkpoint moves **271 → 281 = 13 P + 3 A + 265 S**, exactly ten publication
+completions and no new S identifiers. S272/S273 share the retrospective MVC
+case with unreconciled metrics. S279/S280/S281 share games; alternative-tool
+lineage and unknown participant overlap cannot establish independent
+replications. The [synthesis](full-reading/synthesis.md#2026-10-15-continuation-structure-running-behavior-and-complete-work)
+and B04–B08 coverage map connect these methods to behavioral oracles, capable
+ordinary authoring/merge alternatives and matched total-work boundaries.
+R11/R12 and the R05/R06 source contracts now use these completed methods.
+No literature reproduction or participant/agent experiment occurred in this
+reading segment; the local R04 preparation is a separately authorized workstream.
+
+### Actual new external coverage
+
+Only S273 required new external identity/extent searches. The saved tool
+history records four three-query batches; combined output does not permit
+invented per-query return counts.
+
+| Batch | Exact queries | Returned occurrences |
+| --- | --- | ---: |
+| 1 | `site:lnu.diva-portal.org "Towards Pattern Based Architectural Conformance Checking" Tobias Olsson 2016 92 pages`; `urn:nbn:se:lnu:diva-56487 Tobias Olsson thesis PDF`; `"Towards Pattern Based Architectural Conformance Checking" PDF` | 19 |
+| 2 | `"urn:nbn:se:lnu:diva-56487" "diva2"`; `"Towards Pattern Based Architectural Conformance Checking" "diva2:"`; `site:lnu.diva-portal.org/smash/record.jsf "Towards Pattern Based Architectural Conformance Checking"` | 18 |
+| 3 | `"Towards Pattern Based Architectural Conformance Checking" "946"`; `"Towards Pattern Based Architectural Conformance Checking" "FULLTEXT01.pdf"`; `"lnu-56487" "FULLTEXT01.pdf"` | 4 |
+| 4 | `"978-91-88357-12-0"`; `"Faculty of Technology, Report 43" Olsson 2016`; `"Towards Pattern Based Architectural Conformance Checking" ISBN` | 12 |
+
+These are **12 queries and 53 returned occurrences**, not 53 body readings.
+The [ResearchGate author-deposit index](https://www.researchgate.net/publication/310321145_Towards_Pattern_Based_Architectural_Conformance_Checking)
+is credited only for identity/abstract/contents correspondence. The last batch
+did not independently verify the ISBN or Report 43. Eight direct attempts
+covered the URN resolver, two candidate DiVA record hosts, three OAI requests,
+an encoded OAI retry and Avhandlingar. They returned no usable institutional
+record/body: connection/access failures, a protection surface or HTTP 403.
+The candidate `diva2:946147` mapping remains unverified; the malformed encoded
+retry is preserved as attempted rather than silently repaired.
+
+The exact queries, 53 result locators, eight routes and reverse-linked
+dispositions are saved in
+`.artifacts/s272-s273-reading-20261015/external-provenance.json`. Deduplication
+yields 56 external identities: 49 from result cards plus seven direct-route-only
+identities. One is cited at identity-only scope; 55 are not credited for this
+segment (duplicates, metadata/shells, unrelated results or access-limited
+routes). Relevant failed routes are deferred, not rejected on scientific merit.
+No Scite literature search was issued, and unchanged historical screens or
+source-packet decisions were not resubmitted.
+
+### Native synchronization and citation audit
+
+All ten existing canonical notes were updated with version conditions and
+decoded readback verification. Current parent/note versions are:
+
+| Work | Parent | Canonical note | Unchanged PDF |
+| --- | --- | --- | --- |
+| S240 | `Y5VD4GHT` v7095 | `MK5B4ELA` v7094 | `WX4AFBYI` v5512 |
+| S265 | `DMZN5HBS` v7101 | `E3BAC292` v7100 | `4QRS6N42` v6691 |
+| S272 | `65ZQHDSY` v7104 | `4JCMVFME` v7103 | `9MDVQYLC` v6740 |
+| S273 | `EXNYNNFZ` v7106 | `U789Z585` v7105 | `U7ZHDKJX` v6839 |
+| S274 | `BDIULBB9` v7093 | `AL3ML6ST` v7092 | `SPFK8U3V` v6730 |
+| S275 | `9LNAAB57` v7097 | `PBSRYR8S` v7107 | `Z7NRDBW8` v6689 |
+| S279 | `GDCSUS2I` v7088 | `QUG2R2L4` v7091 | `TRQ4KJAC` v6635 |
+| S280 | `RQN7VPZM` v7090 | `5FX5ESC7` v7091 | `H4QLJ685` v6738 |
+| S282 | `AQRML7QI` v7099 | `QAAZJQL4` v7098 | `FU3P6Z22` v6633 |
+| S286 | `BQG8UT5U` v7109 | `SL8DRIBJ` v7108 | `JUFDJX8H` v6669 |
+
+S240 and S282 each removed two stale coverage tags and added
+`ISE PDF acquired` plus `ISE full primary reading`. The other parents only
+lost their recorded stale access/partial-reading tags. S275's final wording
+correction was note-only. Bibliographic fields, Extra/citation-key state,
+`PKLXQNEE` memberships, relations, non-note siblings and attachment hashes
+were preserved; S286's selected-source packet `96989TR3` remains v5884.
+Receipts distinguish raw source, line-ending canonicalization and Zotero's
+automatic HTML normalization. Initial verifier stops caused by server-managed
+versions or reordered tags/children were resolved with read-only checks;
+successful writes were not blindly repeated. Before/after snapshots and exact
+checks remain in each reading's private `zotero-note-maintenance` directory.
+
+Scite accepted one completed decision set under
+`nu_ten_attached_originals_20261015`: **11 cited, 55 excluded, 0 skipped**.
+Ten cited units are full publications; the eleventh is the identity-only
+ResearchGate index. The inspected report reconciles **66 screened**, ten
+full-text and 56 title/abstract-stage decisions, `retrieved:null`,
+`truncated:false`, zero missing reasons and `retrieval_unlinked:false`.
+Excluded reasons are three duplicates, eleven metadata-only, 34 off-topic and
+seven access-limited routes. A first schema rejection for an overlong
+`user_intent` recorded no decisions; shortening that metadata field was the
+only change before the successful submission. Exact arguments, rejection,
+accepted response and inspected report are retained in
+`.artifacts/remaining-pdf-audit-20261015/completed-segment.json`.
+
+The unresolved work is claim-specific: raw/evaluation builds and supplements,
+finite-ending/reset policy, exact identity/adapter behavior, S305's final
+journal edition and unmeasured Nu cost or benefit. Complete reading resolves
+these ten method dependencies; it does not certify field saturation or validate
+a participant instrument. Continue the prepared application-level checks and
+follow further literature when it can change an actual comparison or inference.
