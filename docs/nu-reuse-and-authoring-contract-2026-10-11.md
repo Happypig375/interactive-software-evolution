@@ -79,3 +79,24 @@ requirement. Charge setup, supplied solutions, assistance, missing-vocabulary
 implementation, repair and verification to the proper role. Selective-copy
 success and favorable ratings remain distinct from R20 productivity and R21
 steering effectiveness, which are still unmeasured.
+
+### 2026-10-15 Phylogenix final-edition continuation
+
+The full [S262 original](literature/full-reading/S262-phylogenix-integration-partial.md)
+now establishes its three figure and final-edition contents. It demonstrates
+project-wide prefab relationship analysis and displays a Canvas cluster,
+with four reported analysis times. This supports a diagnostic/organization
+alternative when a task requires finding related objects. It does not test
+source propagation, retained instance values, vocabulary extension, runtime
+lifetime or authoring savings. Its four games overlap S254, while its exact
+reported build and the paper/package method correspondence remain unresolved.
+
+For a selected family revision, allow ordinary structural inspection alongside
+prefabs, duplication and helpers. Observe the actual edit, child/target identity,
+retained variation, behavior and repair; do not score the tree itself as a
+completed revision. Charge extraction, viewer handoff, inspection and manual
+reconciliation when they are used. The four single times with differing
+project sizes and no hardware/repetition protocol do not supply a cost model
+for this comparison. Further viewer or algorithm reconstruction is conditional
+on selecting that operation, rather than a prerequisite for the prepared Nu
+button-family question.

@@ -9220,3 +9220,59 @@ journal edition and unmeasured Nu cost or benefit. Complete reading resolves
 these ten method dependencies; it does not certify field saturation or validate
 a participant instrument. Continue the prepared application-level checks and
 follow further literature when it can change an actual comparison or inference.
+
+### S262 original PDF and final-edition completion, 2026-10-15
+
+**Decision and retrieval:** resolve the remaining Phylogenix original-body and
+figure gap before treating its relationship overview or four analysis times
+as R12/R06 evidence. The already registered parent `PKVMQLQ2` v5688 was
+reverified before reading. The requested remote Zotero integration followed
+`https://doi.org/10.1145/3646548.3676604` to the ACM PDF route
+`https://dl.acm.org/doi/pdf/10.1145/3646548.3676604`; no challenge, search,
+purchase, new account or message to another person was needed. This later
+event acquired one PDF and attached one child, separately from the two earlier
+zero-acquisition audits. Exact receipt and attempts are in
+`.artifacts/s262-acquisition-20261015/`.
+
+**Identity and actual reading:** `LGLJ8WXT` v7115 is the four-page ACM SPLC
+2024 Volume B VOR, pp.38–41, 1,978,099 bytes, SHA-256
+`2980ef35ccff890303c576838d258c86f213c37179181bb4a701e74af7e2154e`.
+All four text pages and page visuals, Figures1–3, Table1, footnotes,
+acknowledgments and 32 references were read. Figure1 was additionally inspected
+at 400 dpi. The [reconstruction](full-reading/S262-phylogenix-integration-partial.md)
+records the unexplained distance-matrix diagonal/fractions, the final
+NeonHAT count of1,318 versus the manuscript's1,319, the omitted demonstration
+appendix and changed future-work/reference contents. Ellipses prevent complete
+reconstruction of the schematic off-diagonal values. Neither that figure nor
+the prior package inspection establishes the executed historical algorithm.
+
+The complete VOR closes the primary-body/visual gap. Its four projects overlap
+S254; structural grouping and single reported analysis times do not establish
+maintenance savings or controlled scaling. Exact reported build, viewer,
+video, project snapshots and hardware/timing protocol remain unresolved.
+Earlier guide/package readings are reused, not claimed as newly completed.
+The current index is **282 = 13 P + 3 A + 266 S**, one new publication reading
+and no claim of an additional independent study. The survey, synthesis and
+R12 contract now distinguish relationship inspection from completed revision
+and total work.
+
+**Native maintenance:** conditional writes changed canonical note `E3FLLUFB`
+v5687→7116 and parent `PKVMQLQ2` v5688→7117. The decoded note exactly matches
+the accepted 19,862-byte Markdown, SHA-256
+`c92d6ee9b0ab8df83ed7354f9c6aa866663e9bf9ce6e426a40a1d16efe28e7a4`,
+with no normalization. Only stale tags `ISE indexed primary text` and
+`ISE visual/edition gap` were removed; no tags were added. Bibliographic data,
+Extra/citation-key state, collection membership, siblings, attachment objects
+and physical hashes were preserved. The PDF remains v7115. Before/request/
+after and final verification are under
+`.artifacts/s262-reading-20261015/zotero-note-maintenance/`; the coverage receipt
+separately records text/render identities and the parent figure review.
+
+**Completed source decision:** Scite accepted `nu_s262_vor_completion_20261015`
+once: **1 cited, 0 excluded, 0 skipped**. The inspected report has one screened
+full-text unit, `retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false`. No unchanged historical sources were resubmitted.
+Exact arguments, accepted response and report are retained in
+`.artifacts/s262-reading-20261015/completed-segment.json`. This is an edition
+completion, not broad search saturation; the selected Nu pause/recovery
+comparisons proceed under their own prospective contracts.

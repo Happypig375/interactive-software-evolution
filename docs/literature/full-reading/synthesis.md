@@ -1246,3 +1246,23 @@ S305's final journal edition remain source-specific dependencies when a claim
 requires them. They do not erase the reconstructed positive results or resolve
 Nu's still-unmeasured benefit. Human collaboration, learning and steering
 effects remain future empirical questions.
+
+### S262 final edition: an overview is one part of a maintenance workflow
+
+The complete [Phylogenix VOR](S262-phylogenix-integration-partial.md) now closes
+the original figure and edition gap. It shows an integrated structural view
+of four Unity prefab families and a recognizable Canvas cluster. The same
+four games recur in S254; the final NeonHAT count differs from the manuscript,
+and reported project/build correspondence remains unresolved. The useful
+overview is evidence for a diagnostic alternative, while completed family
+revision, preserved instance intent and saved work remain unmeasured.
+
+This narrows R12's comparator choice: credit ordinary relationship inspection
+where it serves the task, then observe the change and its retained obligations.
+A tree or recognized cluster is an intermediate result. Four single analysis
+times do not supply a controlled scaling comparison or R06 runtime estimate;
+setup, extraction, inference, storage, viewer transfer, inspection and repair
+need explicit boundaries if used. The final paper's distance-matrix notation
+and the earlier inspected package's method differences also require exact
+build evidence before attributing an output to the named algorithm. They do
+not erase the demonstrated structural overview or establish a Nu advantage.

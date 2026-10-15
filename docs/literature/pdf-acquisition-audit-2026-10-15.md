@@ -89,7 +89,34 @@ Transactions on Graphics 42(6) journal article**, correcting the initial
 conference-paper label. The original attachment identities, page counts,
 bytes and hashes in the table above remain the acquisition receipt.
 
-Primary-body gaps remain for S305's journal, S262's original paper, S221's
+### Later S262 VOR acquisition and accepted reading — 2026-10-15
+
+After the two zero-acquisition audits above, the already authorized integration
+acquired **one** additional exact PDF and attached **one** new child for S262.
+This is a separate dated event and does not revise either earlier audit's zero
+result. Parent `PKVMQLQ2` remained version 5688 with its bibliographic data and
+collection membership unchanged; only its child count increased. New imported
+attachment `LGLJ8WXT` version 7115 is the ACM version of record for
+*Phylogenix: Bringing phylogenetics to Unity*, SPLC 2024 Volume B, pp. 38–41,
+DOI `10.1145/3646548.3676604`: **1,978,099 bytes**, **4 pages**, SHA-256
+`2980ef35ccff890303c576838d258c86f213c37179181bb4a701e74af7e2154e`.
+Page 1 visibly confirms the title, five authors, venue, extent and DOI. The
+acquisition receipt is
+`.artifacts/s262-acquisition-20261015/acquisition-receipt.json`; the earlier
+children were preserved and no second same-hash PDF child was created.
+
+The body was subsequently accepted as one complete publication reading: all
+four pages, Figures 1–3, Table 1, footnotes, acknowledgments and all 32
+references were read and visually inspected. Its exact scope and the unresolved
+Figure 1 notation are recorded in [the S262 note](full-reading/S262-phylogenix-integration-partial.md)
+and `.artifacts/s262-reading-20261015/coverage-receipt.json`. Exact source/build
+correspondence, viewer bodies, video, project snapshots, hardware/timing
+protocol and reproduction remain open. The four Unity projects overlap the
+later S254 Phylogenix cases, so this is one publication-reading increment, not
+an independent-study increment. The current checkpoint is therefore
+**282 = 13 P + 3 A + 266 S**.
+
+Primary-body gaps remain for S305's journal, S221's
 original/revised-chapter remainder, S152's dissertation, S153's dissertation
 and S206's full publication. S305's previously listed report attachment has
 since been moved, with its lineage preserved, to the separate report parent

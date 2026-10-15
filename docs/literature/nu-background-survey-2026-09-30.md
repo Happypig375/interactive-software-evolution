@@ -1411,3 +1411,30 @@ method dependencies; it does not finish the broad survey, validate human
 steering, establish a Nu effect or turn ten publications into ten independent
 studies. The selected pause/lifecycle check remains the immediate application
 gap while exact raw/supplement/edition dependencies stay visible.
+
+### S262 final-edition continuation: structural analysis and useful work
+
+**Discovery and primary understanding:** the requested remote Zotero integration
+retrieved the exact four-page ACM [Phylogenix paper](full-reading/S262-phylogenix-integration-partial.md).
+All text, three figures, Table 1 and 32 references are now read. This closes
+its original-body/figure gap; it does not repeat or expand the earlier selected
+guide/package inspection. The final edition changes NeonHAT's count from
+1,319 to 1,318 and omits the manuscript's demonstration appendix. The four
+projects overlap S254's later study and are not independent replications.
+
+**Evidence disposition:** for B03/B05/B08, the paper supplies a useful
+configured-object overview and a displayed Canvas cluster. It measures no
+completed revision, retained instance variation or authoring savings. Its
+schematic distance matrix conflicts with the stated metric, and the previously
+inspected package differs from the paper's method description; the exact
+reported build remains unbound. For B06, four single analysis times of 1–25
+minutes lack matched work, hardware, repetition and phase accounting. They
+cannot estimate a runtime or maintenance advantage.
+
+**Next consequential action:** R12 should credit ordinary prefab relationship
+inspection when a selected task needs it, then compare actual edits, retained
+values/identity, behavior and repair. R06 keeps extraction, inference, file
+I/O, viewer handoff and inspection distinct if those operations enter its
+workload. Follow the remaining source/build, viewer, video or timing evidence
+only for a comparison that depends on it; the current recovery-cost case does
+not require another Phylogenix source crawl.
