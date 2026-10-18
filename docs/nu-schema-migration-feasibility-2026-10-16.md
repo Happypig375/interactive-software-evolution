@@ -324,9 +324,13 @@ Further R10 edits, controls, builds, sealing, candidate review and native
 execution are stopped. If explicitly resumed, first bind the exact returned
 draft and its provenance limits, then accept coherent controls, the current
 compiled probe and predecessor seal, and independent plus parent review before
-any of the six assigned processes. The accepted application derivation,
-contract, oracle, no-rescue policy and prior initializer-only result remain
-unchanged. The separate R02 return also remains in force.
+any of the six assigned processes. For resumed delegation, allow one objective
+or build attempt per dispatch, capture its exact inputs and output before
+another attempt, and have the parent record the unchanged-gate failure count.
+This prevents an internal correction loop from silently crossing the return.
+The accepted application derivation, contract, oracle, no-rescue policy and
+prior initializer-only result remain unchanged. The separate R02 return also
+remains in force.
 
 ## Execution and interpretation boundary
 
@@ -352,3 +356,19 @@ performance measurements. They exclude the much larger probe, runner, oracle,
 checker, review, failed construction and integration work. Any later practical
 comparison must account for that work according to its own production and
 measurement boundary.
+
+## Publication checks, October 18
+
+Publication `98d47d1e9bc9dc78cefa60426fae1ca76b8c21a9` passed
+[CI 39105756658](https://github.com/Happypig375/interactive-software-evolution/actions/runs/39105756658):
+routing checks took 7 seconds, full Linux validation 12 minutes 32 seconds and
+full Windows validation 13 minutes 22 seconds. The separate maintenance job
+and optional E2 baseline job were skipped; maintenance fixture checks ran
+inside both full validation jobs.
+
+Local publication checks passed staged whitespace, UTF-8, oracle JSON parsing,
+566 local Markdown target checks, exact staged bytes for the three published
+package files, and preservation of the 18 protected initializer-only package,
+record and lock files. The unfinished migration implementation was excluded
+from this publication. These checks do not compile or accept that returned
+draft and establish no native migration result.
