@@ -9908,3 +9908,183 @@ whole-file readings. No new literature search, publication reading, Zotero
 write or reading-count increment occurs. The next execution dependency is
 reliable storage and revalidated inputs; the local batch outcome, complete
 work and practical benefit remain unresolved.
+
+## 2026-10-18 R12 propagation practice and material intent
+
+**Decision:** determine whether primary Nu practice accounts ground or limit
+an authored shared-material revision with a local choice. This follows the
+[observed Terra Firma outcomes](../nu-terra-firma-revision-feasibility-2026-10-18.md)
+without changing their frozen requirement, oracle or dispositions. The
+[practice synthesis](../nu-practice-and-task-provenance-2026-10-11.md#2026-10-18-continuation-material-revision-rationale-and-observed-limits)
+credits maintainer rationale and keeps exact field granularity authored.
+
+An independent maintainer assistant used public GitHub REST API version
+`2022-11-28` and public discussion-search HTML on October 18; the parent
+inspected all selected retained threads and integrated the decisions.
+No issue, discussion or external message was posted. These sources are
+practice/design accounts, not publications, participant data or independent
+replications.
+
+**Issue retrieval:** each query below used the common frame
+`repo:bryanedds/Nu <term> in:title,body is:issue`, `sort=created`, `order=desc`,
+`per_page=100`, page 1. Each returned its reported total and
+`incomplete_results=false`; later pages were unnecessary for these exact
+queries. There were 49 retrieval positions and 34 distinct issue identities.
+
+| Query | Term | Reported total / returned |
+| --- | --- | ---: |
+| q01 | `propagation` | 7 / 7 |
+| q02 | `"entity structure"` | 1 / 1 |
+| q03 | `"entity propagation"` | 4 / 4 |
+| q04 | `prefab` | 4 / 4 |
+| q05 | `prototype` | 2 / 2 |
+| q06 | `override` | 13 / 13 |
+| q07 | `"material properties"` | 3 / 3 |
+| q08 | `propagated` | 1 / 1 |
+| q09 | `"propagation source"` | 2 / 2 |
+| q10 | `"structural propagation"` | 1 / 1 |
+| q11 | `propagateEntityStructure` | 0 / 0 |
+| q12 | `"propagation targets"` | 1 / 1 |
+| q13 | `"property propagation"` | 0 / 0 |
+| q14 | `MaterialProperties` | 3 / 3 |
+| q15 | `"local override"` | 0 / 0 |
+| q16 | `"property delta"` | 1 / 1 |
+| q17 | `propagation order` | 2 / 2 |
+| q18 | `propagation material` | 0 / 0 |
+| q19 | `PropagationSourceOpt` | 2 / 2 |
+| q20 | `PropagatedDescriptorOpt` | 2 / 2 |
+
+**Discussion retrieval:** each query used `repo:bryanedds/Nu <term>` on
+GitHub's public discussion search, default ordering (no explicit sort),
+page 1. Each returned its reported result count, with page count zero or one,
+no limited-results warning and no search errors. There were 17 retrieval
+positions and 11 distinct discussion identities.
+
+| Query | Term | Reported total / returned |
+| --- | --- | ---: |
+| d01 | `propagation` | 4 / 4 |
+| d02 | `prefab` | 0 / 0 |
+| d03 | `"entity structure"` | 0 / 0 |
+| d04 | `override` | 3 / 3 |
+| d05 | `material` | 6 / 6 |
+| d06 | `"propagation source"` | 2 / 2 |
+| d07 | `"entity propagation"` | 2 / 2 |
+| d08 | `"structural propagation"` | 0 / 0 |
+| d09 | `"MaterialProperties"` | 0 / 0 |
+| d10 | `"keyed materials"` | 0 / 0 |
+
+These are exhausted exact query ranges, not an exhaustive practice frame.
+Unqueried vocabulary, pull requests, commit messages, code/wiki histories,
+other communities, deleted/private content and support channels are outside
+this search. Current bodies may include later edits. The previous
+reload/undo/default-asset query frame was not rerun.
+
+**Reading and identity:** 13 current issue entries and all 38 declared
+comments were inspected; selected comment requests used `per_page=100`,
+page 1, with declared/returned counts equal. Two selected discussion bodies
+had no comments. Empty issue bodies remain empty, rather than being treated
+as missing detail supplied elsewhere. Discussion #1454 led to issue #1450,
+which was inspected and found unrelated to propagation. Thus the full
+considered set is **46 identities: 35 issues and 11 discussions**, including
+that one followed issue outside the 34 search results. It is not 46 complete
+readings or independent needs.
+
+Thirty-one of the 34 issue results were opened by the maintainer; three came
+from two other authors. All discussion results and all credited accounts
+are maintainer-authored. The inspected external physics question (#249)
+and external animation comment on #574 do not corroborate R12 demand.
+The selected material/delta accounts establish no documented requirement to
+update albedo while retaining roughness within one material record. Historical
+bug reports, checkboxes and release announcements do not prove fixes or
+current defects at the experimental pin; no such patch/tag lineage was
+reconstructed.
+
+**Considered decisions:** C credits the bounded claim in the practice note;
+D retains an uncompleted or nonselected dependency; N means not used for this
+R12 decision, not rejected from the whole survey. Six unchanged historical
+screens (#252, #779, #789, #900, #917, #1229) are carried forward without a new
+Scite decision. Their earlier credits/deferrals remain intact. #383 is newly
+deepened from title-only to its complete current thread. The remaining
+40 new or materially deepened decisions comprise 11 C and 29 not credited.
+
+| Identity | Actual coverage | Disposition | Decision reason |
+| --- | --- | --- | --- |
+| [Issue #7](https://github.com/bryanedds/Nu/issues/7) | Search record | N | Sample-game keyboard/controller question; matched `prototype`, not reuse. |
+| [Issue #186](https://github.com/bryanedds/Nu/issues/186) | Full, 6/6 comments | C | Prefab reuse and explicit persistent sub-entity delta map; historical local-override rationale. |
+| [Issue #234](https://github.com/bryanedds/Nu/issues/234) | Search record | N | Screen auto-selection; `override` refers to code/API context, not family overrides. |
+| [Issue #244](https://github.com/bryanedds/Nu/issues/244) | Full, 2/2 comments | N | Dispatcher/facet property-definition precedence. Adjacent terminology, but no shared family or instance revision. |
+| [Issue #249](https://github.com/bryanedds/Nu/issues/249) | Full, 3/3 comments | N | External user report about pushing entity positions to physics via `PropagatePhysics`; not ESP. It cannot supply independent R12 demand. |
+| [Issue #252](https://github.com/bryanedds/Nu/issues/252) | Search record | Prior disposition retained; no new report | Unchanged earlier screen for this question. Runtime-compiled script facets/dispatchers; matched method `override`. |
+| [Issue #255](https://github.com/bryanedds/Nu/issues/255) | Search record | D | Deferred broad vision; later specific material/delta threads address this decision. Eleven comments remain unread. |
+| [Issue #335](https://github.com/bryanedds/Nu/issues/335) | Full, 15/15 comments | C | Nested composition, explicit property-delta question, manual delta propagation, complexity/performance boundary. |
+| [Issue #338](https://github.com/bryanedds/Nu/issues/338) | Search record | N | General Nu/Elm change propagation, not ESP family revision. |
+| [Issue #345](https://github.com/bryanedds/Nu/issues/345) | Search record | N | Address structure and ownership, not source/target propagation or overrides. |
+| [Issue #383](https://github.com/bryanedds/Nu/issues/383) | Full, 3/3 comments | C | Dragging propagation sources/assets into Gaia viewport/hierarchy. No independent user report. |
+| [Issue #408](https://github.com/bryanedds/Nu/issues/408) | Search record | N | Moving Lens; `override` is unrelated. |
+| [Issue #492](https://github.com/bryanedds/Nu/issues/492) | Search record | N | Shader-parameter flattening performance, not reusable-entity material revision. |
+| [Issue #574](https://github.com/bryanedds/Nu/issues/574) | Full, 5/5 comments | C | Overlay workflow and synchronizing unchanged portions; incomplete/archived design is retained. |
+| [Issue #651](https://github.com/bryanedds/Nu/issues/651) | Search record | N | Model editor elision overrides, not entity family overrides. |
+| [Issue #656](https://github.com/bryanedds/Nu/issues/656) | Search record | N | Bullet/NaN physical propagation. |
+| [Issue #678](https://github.com/bryanedds/Nu/issues/678) | Search record | N | Affine transform propagation across physical entities, not ESP reuse. |
+| [Issue #693](https://github.com/bryanedds/Nu/issues/693) | Search record | N | Assimp hash-code report; matched `override`. |
+| [Issue #725](https://github.com/bryanedds/Nu/issues/725) | Full, 3/3 comments | C | Shared keyed-material proposal, cloning/local variation, serialization, and explicit judgment that ESP covers the need. |
+| [Issue #729](https://github.com/bryanedds/Nu/issues/729) | Full, 0 comments | C | Structural propagation checklist, history preservation, target clearing and copy controls. |
+| [Issue #739](https://github.com/bryanedds/Nu/issues/739) | Full, 0 comments | C | Dispatcher change was not propagated. |
+| [Issue #745](https://github.com/bryanedds/Nu/issues/745) | Full, 1/1 comment | C | Cut/paste propagation-source identity could be self, missing or wrong. |
+| [Issue #748](https://github.com/bryanedds/Nu/issues/748) | Full, 0 comments | C | Propagated histories disappeared on save without propagation. |
+| [Issue #779](https://github.com/bryanedds/Nu/issues/779) | Search record | Prior disposition retained; no new report | Unchanged earlier screen for this question. Compiled MMCC change propagation, different mechanism. |
+| [Issue #789](https://github.com/bryanedds/Nu/issues/789) | Search record | Prior disposition retained; no new report | Unchanged earlier screen for this question. Visual editing of model entries and method overloads. |
+| [Issue #894](https://github.com/bryanedds/Nu/issues/894) | Search record | N | ImNui processing optimization. |
+| [Issue #898](https://github.com/bryanedds/Nu/issues/898) | Search record | N | ImNui context restoration by `Process` overrides. |
+| [Issue #900](https://github.com/bryanedds/Nu/issues/900) | Search record | Prior disposition retained; no new report | Unchanged earlier screen for this question. Consolidating physics properties into a record. No family/source propagation. |
+| [Issue #917](https://github.com/bryanedds/Nu/issues/917) | Search record | Prior disposition retained; no new report | Unchanged earlier screen for this question. Model-conversion notification and tactics prompting; already part of the separate reload frame. |
+| [Issue #946](https://github.com/bryanedds/Nu/issues/946) | Full, 0 comments | C | Entity propagation could reorder children and lose user order. |
+| [Issue #983](https://github.com/bryanedds/Nu/issues/983) | Search record | N | Physics debug renderer override. |
+| [Issue #1229](https://github.com/bryanedds/Nu/issues/1229) | Search record | Prior disposition retained; no new report | Unchanged earlier screen for this question. Prototype ImSim-like ECS API. |
+| [Issue #1345](https://github.com/bryanedds/Nu/issues/1345) | Search record | N | Silk.NET dependency. |
+| [Issue #1450](https://github.com/bryanedds/Nu/issues/1450) | Full, 0 comments | N | Gaia evaluator exception output; inspected because #1454 linked “Fixed #1450,” but unrelated to propagated descriptors. |
+| [Issue #1456](https://github.com/bryanedds/Nu/issues/1456) | Search record | N | User rendering pipelines/shaders and material-property API, not family revision. |
+| [Discussion #993](https://github.com/bryanedds/Nu/discussions/993) | Full body, 0 comments | C | Release announcement says Gaia gained a Propagation Sources UI. Does not establish #383’s drag workflow or usability. |
+| [Discussion #1454](https://github.com/bryanedds/Nu/discussions/1454) | Full body, 0 comments | D | Deferred for a current-source or ordinary-access claim: the release body was fully read, but its propagated-descriptor maintenance statements have not been mapped to the R12 pin; the unrelated linked #1450 was inspected and excluded. No current defect or user benefit is inferred. |
+| [Discussion #1037](https://github.com/bryanedds/Nu/discussions/1037) | Search record | N | MMCC/Svelte change propagation, not ESP. Two comments uninspected. |
+| [Discussion #1179](https://github.com/bryanedds/Nu/discussions/1179) | Search record | N | Asset propagation scripts and particle gravity overrides; repeats the excluded asset frame. |
+| [Discussion #1029](https://github.com/bryanedds/Nu/discussions/1029) | Search record | N | Mutable-world/property semantics, separate from reusable entity family overrides. Eight comments uninspected. |
+| [Discussion #1270](https://github.com/bryanedds/Nu/discussions/1270) | Search record | N | Open-world streaming discussion; material word match is incidental. Ten comments uninspected. |
+| [Discussion #1418](https://github.com/bryanedds/Nu/discussions/1418) | Search record | N | Optional material-graph branch strategy, not shared entity-family property revision. Five comments uninspected. |
+| [Discussion #1419](https://github.com/bryanedds/Nu/discussions/1419) | Search record | N | Material-graph design. Fifteen comments uninspected. |
+| [Discussion #1446](https://github.com/bryanedds/Nu/discussions/1446) | Search record | N | Rendering-release roughness behavior, not entity reuse. |
+| [Discussion #1447](https://github.com/bryanedds/Nu/discussions/1447) | Search record | N | GLSL extension/material graph. One comment uninspected. |
+| [Discussion #1463](https://github.com/bryanedds/Nu/discussions/1463) | Search record | N | User-defined rendering/material API. |
+
+Comments on the nonselected discussion records #1037, #1029, #1270, #1418,
+#1419 and #1447 remain uninspected (reported counts 2, 8, 10, 5, 15 and 1).
+No lack-of-evidence or current-capability verdict is inferred from them.
+The release statements in #1454 remain deferred for any source-pin or
+ordinary-access claim; following its unrelated #1450 link supplies neither.
+
+Raw responses, current URLs, exact encoded endpoints and hashes remain
+private in `nu-propagation-practice-20261018/` under the C: recovery root.
+The source manifest's initial path derivation dropped two leading characters
+from each of 60 relative paths. Its preserved correction changes only path
+metadata: `source-bytes-manifest-02.json` verifies all 60 byte/size/hash entries
+(SHA-256 `f5e48a096cd85287a3931465a9727525cbfa473c2479e07c49417a996fc59d72`).
+The corrected full artifact manifest verifies 71 files
+(`fbe301cb9582f170f84ccf75bbadaf0959150328909074829da6e5632e274147`).
+The parent rechecked both manifests and selected comment counts. The metadata
+bug and correction are retained; they supply no evidence of C: storage damage.
+No copyrighted response bodies or extraction dumps enter Git.
+
+This segment adds no literature search through Scite, paper reading, Zotero
+write or publication-reading count. Its consequential change is a specific
+maintainer rationale with an explicit authored field policy, while preserving
+unknown demand and benefit. Reliable storage, the missing batch/local outcome,
+ordinary access and complete work remain the next practical dependencies.
+
+Scite accepted `nu_r12_propagation_practice_20261018` once: **11 cited,
+29 excluded/not credited, 0 skipped**. Its inspected report contains 40
+screened identities, `retrieved:null`, `truncated:false`, zero missing reasons
+and `retrieval_unlinked:false`. The 15 `full_text` entries are the complete
+current issue/discussion entries described above; the other 25 are search
+screens. The service classification does not turn these into papers, a demand
+sample or a systematic-review completeness certificate. The six unchanged
+historical decisions were not resubmitted.

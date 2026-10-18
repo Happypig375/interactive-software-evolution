@@ -1798,3 +1798,31 @@ count selection/helper construction, verification, failure, repair and history
 consequences. Visuals, native lifetime, ordinary editing access, demand and
 authoring/steering benefit remain separate questions. The R02/R10 returns,
 candidate/participant allocations and broad survey boundaries are unchanged.
+
+## 2026-10-18 continuation: practical rationale without a field-merge promise
+
+**Discovery and primary understanding, B05/B10/B12:** the
+[new propagation-practice check](../nu-practice-and-task-provenance-2026-10-11.md#2026-10-18-continuation-material-revision-rationale-and-observed-limits)
+examines a distinct issue/discussion vocabulary rather than repeating the
+earlier reload/undo/default-asset frame. The maintainer's shared-material
+proposal and local-delta discussions ground the selected family-maintenance
+question. Complete historical defect accounts preserve separate dispatcher,
+link, history and child-order obligations. The exact search ranges and
+uninspected continuations remain in the ledger; no new paper reading or
+independent empirical population is claimed.
+
+**Evidence disposition:** R12 is an authored task on a real artifact with a
+specific maintainer rationale. The sources do not promise field-wise merging
+inside a material record, and all credited accounts come from the maintainer.
+Thus the observed local-condition failure concerns the frozen authored
+requirement; it does not establish a violation of documented Nu semantics,
+external demand or measured benefit. The related historical child-order
+report does not diagnose the experiment's fresh timestamp-Order findings.
+
+**Next consequential action:** preserve shared versus local intent explicitly
+in any practical completion/repair comparison, including valid whole-material
+policies and the work of translating the requirement into supported edits.
+Reliable execution storage remains prerequisite to the missing batch/local
+condition. Ordinary editing access, complete work and broader beneficiary
+coverage remain separate dependencies; another broad issue search would not
+resolve them. Existing allocations and R02/R10 returns are unchanged.

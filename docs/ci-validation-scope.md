@@ -143,3 +143,16 @@ failed Windows job was retried once after the workflow finished; the initial
 timeout remains an unexplained failed check. No scientific trial was rerun.
 Original job logs, the local test receipt and both CI attempts are retained
 privately under `.artifacts/r10-schema-20261016/ci/`.
+
+## R12 Terra Firma revision publication, 2026-10-18
+
+The package and result publication
+`aaacd5703f710748e80e00936e6355cd1b029413` selected the full route.
+[Run 39130754669](https://github.com/Happypig375/interactive-software-evolution/actions/runs/39130754669)
+passed scope checks, Linux validation (9m02s), and Windows validation
+(15m15s), all on the first attempt. The separate maintenance job and optional
+E2 baseline were skipped under that route. The unchanged historical suite's
+success validates the repository checks at this head; it does not complete
+the [R12 local-condition comparison](nu-terra-firma-revision-feasibility-2026-10-18.md)
+or resolve the [workspace integrity return](workspace-integrity-return-2026-10-18.md).
+No native experiment ran from the temporary C: publication checkout.

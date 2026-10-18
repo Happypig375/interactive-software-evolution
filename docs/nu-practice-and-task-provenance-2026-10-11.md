@@ -106,3 +106,56 @@ whole-record comparison predicts a potentially adverse field-update case;
 it does not establish a runtime failure. These additions prepare local
 feasibility without allocating candidates or participants or resuming the
 returned R02/R10 gates.
+
+## 2026-10-18 continuation: material revision rationale and observed limits
+
+The [unchanged Terra Firma scene](nu-terra-firma-reopen-feasibility-2026-10-18.md)
+and [three revision/reopen pairs](nu-terra-firma-revision-feasibility-2026-10-18.md)
+now supply the native observations that were still missing in the preparation
+entry above. Both shared cases deliver the tint; propagation with the selected
+local roughness preserves that choice but misses the same palm's tint. The
+batch/local attempt fails input integrity before editing and has no material
+outcome. Preserve those separate dispositions and the
+[storage return](workspace-integrity-return-2026-10-18.md).
+
+A new bounded public-source check supplies a closer **maintainer rationale**
+for this task. It does not turn the particular tint/roughness requirement into
+an external request. The [search ledger](literature/nu-background-searches-2026-09-30.md#2026-10-18-r12-propagation-practice-and-material-intent)
+records exact retrieval ranges, reading depth and considered-source decisions.
+
+| Primary account and coverage | Consequence for R12 | Limit |
+| --- | --- | --- |
+| [#725](https://github.com/bryanedds/Nu/issues/725), body and three comments | A shared-material proposal would make one edit affect referring entities, while requiring cloning and serialization support. The maintainer later judged entity-structure propagation sufficient for that need. This directly grounds shared material revision as an intended use. | A maintainer's design judgment supplies neither observed user work nor a promise about preserving one field while changing another. |
+| [#186](https://github.com/bryanedds/Nu/issues/186), body and six comments | Persistent edits to prefab children were explicitly discussed as deltas applied after instantiation. | The design changed, and the maintainer also reported no personal need for that general feature. Retain this contrary account; do not infer demand from the initial proposal alone. |
+| [#335](https://github.com/bryanedds/Nu/issues/335), body and fifteen comments; [#574](https://github.com/bryanedds/Nu/issues/574), body and five comments | Nested composition retained a property-delta problem; manual delta updates and synchronizing unchanged portions were proposed. These accounts justify making shared versus local intent explicit. | These are historical alternatives, including incomplete/archived work and a later change of approach. Their complexity/performance expectations are not comparative measurements. The external comment on #574 concerns skeletal animation, not this need. |
+| [#729](https://github.com/bryanedds/Nu/issues/729), complete checklist, no comments | The intended propagation workflow includes retaining existing history on entity read, managing targets and distinguishing linked from unlinked duplication. | Checklist completion does not establish current source correspondence or behavior. |
+| [#739](https://github.com/bryanedds/Nu/issues/739), [#745](https://github.com/bryanedds/Nu/issues/745), [#748](https://github.com/bryanedds/Nu/issues/748), [#946](https://github.com/bryanedds/Nu/issues/946), complete current titles/bodies and #745's one comment | Historical reports concern missed dispatcher changes, incorrect propagation links, history loss on save and child reordering. Keep these obligations separate from successful material delivery. | No fixing-patch lineage was reconstructed. These reports do not show defects remaining at the R12 pin. #748 has an empty body; its title is the entire account. The child-order report is distinct from R12's fresh timestamp-Order correspondence findings. |
+| [#383](https://github.com/bryanedds/Nu/issues/383), title and three comments; [discussion #993](https://github.com/bryanedds/Nu/discussions/993), complete release body, no comments | A requested drag workflow and an announced Gaia Propagation Sources UI make authoring access and selection work explicit dependencies. | The release does not demonstrate the requested drag workflow or its usability. Public mechanism calls do not measure ordinary editor work. |
+
+**The exact field policy remains authored.** None of these accounts specifies
+that a local `RoughnessOpt` change inside `MaterialProperties` must permit a
+later shared `AlbedoOpt` change inside that same record. The experiment
+prospectively required that combination. Its missed tint is valid adverse
+delivery against that requirement, not proof that Nu violated a documented
+field-wise merge promise. Whole-material overrides are a plausible alternative
+policy; a practical comparison must expose the chosen intent and count any
+translation, selection and repair needed to deliver it. The later source
+search does not retroactively change the frozen requirement or oracle.
+
+All credited accounts are authored by the Nu maintainer. The search examined
+34 distinct issue results and 11 distinct discussion results, plus one linked
+issue; 13 complete issue threads (38 comments) and two complete discussion
+bodies were inspected. The parent checked the decision-critical retained
+texts. This narrows a provenance gap without establishing independent demand,
+prevalence, authoring savings or steering effectiveness. Current bodies can
+include later edits; unqueried vocabulary and other communities remain outside
+this frame. The general prefab maintenance accounts in the already-read S254
+remain separate evidence, not independent corroboration of this exact Nu task.
+
+**Next:** retain the material case as an authored task on an existing artifact
+with a specific maintainer rationale. After the storage prerequisite is met,
+the unobserved batch/local condition and any prospectively declared practical
+repair comparison can address delivery and total work. Creating more cosmetic
+variants or counting related issues will not resolve demand or benefit. The
+new evidence does not resume the R02/R10 returns, authorize candidates or
+participants, or certify broader propagation behavior.
