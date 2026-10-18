@@ -162,3 +162,27 @@ any additional execution. Creating more cosmetic variants or counting related
 issues will not resolve demand or benefit. The new evidence does not resume
 the R02/R10 returns, authorize candidates or participants, or certify broader
 propagation behavior.
+
+## 2026-10-19 development-history follow-through
+
+The [refined objective](nu-research-agenda-2026-10-08.md#2026-10-19-objective-improve-evolution-of-stateful-software)
+promotes relevant repository history as supplementary evidence for selecting
+an improvement and its baseline. For each consequential lineage, record:
+
+- The originating need, reporter/beneficiary, complete relevant discussion and
+  contrary or withdrawn accounts.
+- Introducing/changing/reverting commits, their exact parents and diffs,
+  linked pull requests/tests, and the affected release or research pin.
+- The behavior actually reproduced before and after, with unexecuted claims
+  marked as source inference; a commit title is not a behavior check.
+- Existing workaround and alternative workflows, their observed or still
+  missing costs, and whether the research task is historical or adapted.
+
+Prefer lineages that can change R12's revision/override requirement or R03/R10's
+recovery/evolution task. Existing maintainer-only accounts do not establish
+independent demand, and the already-present #1145 workaround remains an
+adaptation boundary. The later comparator must follow the practical decision;
+Unity, Unreal, Godot and non-game implementations are candidate contexts until
+relevant support and ordinary workflows are inspected. This addition records
+future evidence requirements, not a new history search, experiment or source
+reading. It does not resume the R02/R10 returns.

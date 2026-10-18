@@ -6,6 +6,13 @@
 
 Human-steered development is the intended eventual use context. Near-term claims concern inspected mechanisms, their behavior/costs, and specified agent tasks. Steering effectiveness is deferred as R21; human-only and agent-only extremes are optional reference cases when they answer a concrete question. This packet does not introduce equal human/agent/team arms or assume a 2027 market distribution.
 
+**2026-10-19 comparison objective:** apply the [updated agenda](nu-research-agenda-2026-10-08.md#2026-10-19-objective-improve-evolution-of-stateful-software)
+when turning these designs into a practical intervention study. Establish the
+relevant status quo and intended improvement; trace consequential development
+history alongside literature methods. Nu-specific feasibility, comparative
+benefit and transfer to non-game stateful systems remain separate claims.
+This update changes no frozen protocol, observation or resource allocation.
+
 ## Evidence and source basis
 
 The reused Nu source basis is **064f7ae92a8506689cd91aff5e6804a375d6ef3d**, as inspected in the [source ledger](nu-grounded-maintenance-sources-2026-09-14.md) and [methodology](nu-grounded-maintenance-methodology-2026-09-14.md). The original design pass reused those records. The [2026-10-11 source audit](nu-source-contracts-and-scenarios-2026-10-11.md) now directly traces selected pinned code and public maintenance history; it does not refresh current Nu HEAD, run code or add primary-paper readings. Its narrower contracts below supersede the earlier unresolved source leads.

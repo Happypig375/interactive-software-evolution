@@ -2,7 +2,7 @@
 
 **Assignment, 2026-10-08:** prepare the plausible research directions together, prioritize them by research value, and continue literature work when it can change a question, comparison or interpretation. This replaces the immediate requirement to choose only one direction before further preparation. It does not select a favorable answer or reopen experimental execution.
 
-The central question is **when Nu's combination of representations, coordination, history and development tools changes the cost and correctness of real software evolution**. The highest-value result would identify useful conditions of benefit and their costs, including conditions where a credible alternative works better. Whole-package value, the MMCC/ImSim choice and a source convention such as D1 answer different questions. They belong in one agenda with separate comparisons.
+The central question is **how to improve the correctness and total work of evolving stateful interactive software, starting from Nu's representations, coordination, history and development tools**. The intended result is an evaluated improvement with useful conditions of benefit and explicit costs, including conditions where a credible alternative works better. Whole-package value, the MMCC/ImSim choice and a source convention such as D1 answer different questions. They belong in one agenda with separate comparisons.
 
 This agenda covers **21 currently plausible directions**, including less mature extensions and the user-added R21 steering question. It is a revisable map, not a claim that every possible idea has been enumerated or a commitment to run 21 studies. [PLAN](../PLAN.md) owns authority. The [B01–B12 survey](literature/nu-background-survey-2026-09-30.md), [reading index](literature/full-reading/INDEX.md) and [search ledger](literature/nu-background-searches-2026-09-30.md) retain source coverage and gaps.
 
@@ -10,12 +10,99 @@ This agenda covers **21 currently plausible directions**, including less mature 
 
 **Current evidence and authority, 2026-10-15:** the user has authorized confident local construction and experiments, as recorded in [PLAN](../PLAN.md). The [current readiness table](#readiness-and-next-actions-for-all-directions) below now incorporates the completed bounded probes and owns the next actions. It supersedes earlier held/unverified wording in the direction cards for the linked executed cases and completed selected readings; exact residual edition/artifact gaps remain in the reading index. Those cards preserve the comparisons and their design rationale. Mechanism feasibility does not establish agent maintenance, human productivity or net adoption value; the priority ranking remains unchanged. Candidate/model experiments, recruitment, new accounts, OAuth staging and H execution remain unallocated.
 
+## 2026-10-19 objective: improve evolution of stateful software
+
+The user's refinement changes the intended endpoint: develop and evaluate a
+useful improvement over a credible existing workflow for evolving stateful
+interactive software. Nu supplies concrete mechanisms, artifacts and hypotheses.
+The eventual contribution may improve Nu, another implementation, or a portable
+method. Demonstrating features and documenting tradeoffs are foundations; the
+research programme should pursue a better capability, more reliable completed
+change, or lower total work under stated constraints.
+
+A positive effect is an objective to test, never an acceptance rule for data.
+Retain failed interventions, nulls, adverse findings and cases where an ordinary
+alternative wins. If a proposed improvement fails, use the result to revise or
+redirect the design without rewriting its original requirement or outcome.
+Novelty and useful effect need separate evidence; neither follows from a Nu
+implementation or from using a different application domain.
+
+### Establish the status quo for the decision
+
+There is no single status quo across all 21 directions. Identify the beneficiary,
+practical change, existing tools and relevant costs before selecting a comparator.
+
+| Comparison level | Candidate status quo | Evidence needed before selection |
+| --- | --- | --- |
+| Game-development workflow | Relevant Unity, Unreal, Godot or existing project workflow | Match the target task, assets, deployment needs, ordinary tools and allowed assistance. Credit idiomatic solutions and shipped facilities. These engines are candidates, not an established ranking or a requirement to build three ports. |
+| Mechanism within a workflow | A credible batch/helper, reconstruction, replay, undo or explicit migration policy | Require the same intended outcomes and count construction, integration, verification, failure and repair. Select the relevant ordinary alternative; do not manufacture a weaker baseline by removing useful tooling. |
+| Improved intervention | The supported existing workflow plus the proposed change, with a credible alternative where needed | Separate the contribution of the intervention from language, engine, tooling and familiarity differences. Use an ablation when necessary for a component claim; a package comparison estimates the package. |
+| Transfer beyond games | An ordinary implementation of the selected non-game stateful task | Verify its actual state, event, identity, scheduling and effect contracts. A framework name or the observation that games have states does not establish an equivalent baseline. |
+
+The [existing Godot audit](nu-comparator-and-convention-audit-2026-10-11.md)
+provides inspected facilities at its recorded pin, not universal status-quo
+selection. Unity/Unreal or non-game alternatives require their own relevant
+primary-source/tooling investigation when the task makes them consequential.
+
+### Use development history as supplementary evidence
+
+Extend the [practice and task record](nu-practice-and-task-provenance-2026-10-11.md)
+with linked issues, discussions, pull requests, parent/child commits, tests and
+release history. Trace the actual need and beneficiary, proposed alternatives,
+implementation decision, later repairs or reversals, and the behavior present
+at the research pin. A commit message or closed issue alone establishes neither
+successful behavior nor saved work. Maintainer rationale remains distinct from
+independent adopter demand. Preserve withdrawn reports and adverse designs.
+
+For a historical change, bind the relevant predecessor and successor before
+calling it a reconstructed task. If its workaround is already present, label
+the research task as an adaptation rather than replaying a supposed current
+defect. Keep any reference solution or fixing patch outside experimental
+candidate information when the later protocol requires that separation.
+
+### Generalize a mechanism through tested contracts
+
+The broader candidate problem is changing state representations, transitions
+or configuration while preserving intended ongoing behavior at acceptable cost.
+Possible transfer settings include a stateful UI, workflow tool or simulation;
+none is selected or claimed equivalent yet. Map the state, identities, queued
+work, scheduling and external effects explicitly. An abstract state machine can
+omit precisely the integration costs and irreversible effects that matter.
+
+First explain a mechanism and its conditions in the Nu case. Then formulate a
+portable intervention or prediction and test it on a consequential non-game
+case with its ordinary comparator. Report which assumptions transfer and which
+require application-specific work. A renamed game fixture or a second cosmetic
+variant is not evidence of generality.
+
+### Next consequential preparation
+
+1. Trace the issue/commit lineage behind one practical need among the current
+   R12 revision and R03/R10 recovery/evolution cases, including contrary accounts
+   and the state of the feature at the pin. Prioritize a gap that can change
+   the task or intervention, not another description of an understood branch.
+2. Select the beneficiary's decision and credible baseline; use literature to
+   specify correctness, total work, meaningful improvement and rival explanations.
+3. Design the proposed improvement and its falsifiers. Existing mechanisms,
+   an adaptation, a hybrid workflow or a new method are eligible; none is presumed
+   better. Preserve ordinary tool access and all assigned work in the comparison.
+4. Select a non-game transfer case only when the proposed mechanism has a
+   clear portable contract worth testing. Continue literature and development
+   history where they can change these choices.
+
+This refinement retains the 21 direction IDs and their evidence. It adds no
+candidate/model or participant allocation, new account or purchase. Confident
+local work retains PLAN's existing authority and prospective checks; the R02
+input and R10 migration returns remain stopped. Human steering stays a future
+measurement question. No new search, source-lineage reconstruction, baseline
+validation or experiment is claimed by this planning update.
+
 ## How the priorities are chosen
 
 Priority is an ordinal research judgment, not an estimated effect size or a computed score. It considers:
 
 - **Decision value:** who could make a consequential development, tooling or adoption decision from the answer?
-- **Connection to Nu:** does an inspected capability motivate the question, or would the study first require an unverified new capability?
+- **Mechanism grounding and transfer:** does an inspected Nu capability or credible alternative motivate the intervention, what new capability needs validation, and which assumptions could transfer beyond the initial application?
 - **Unresolved knowledge:** what would be learned beyond the closest existing method or comparison? A Nu port or a low publication count alone is insufficient.
 - **Discrimination:** can credible alternatives, meaningful outcomes and rival explanations be distinguished? Useful nulls, adverse findings and crossovers count as valuable answers.
 - **Evidence cost and transfer:** what preparation, source access, participants, engineering and replication would be needed, and how narrowly would the answer apply?

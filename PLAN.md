@@ -8,6 +8,18 @@
 
 Continue the user-authorized survey of **Nu's claimed innovations and the wider background of evolving interactive software**, including mechanisms, alternatives, empirical benefits/costs, practice, and evaluation methods. This assignment is broader than D1 and supersedes the earlier decision-specific literature completion. Neither an empty queue, a paper count, nor evidence sufficient for D1 completes it.
 
+**User refinement, 2026-10-19:** the intended research endpoint is a useful
+improvement over a credible status quo for evolving stateful interactive
+software, grounded in Nu but potentially transferable beyond game engines.
+The [updated objective and comparator rules](docs/nu-research-agenda-2026-10-08.md#2026-10-19-objective-improve-evolution-of-stateful-software)
+separate whole-engine workflows, mechanism alternatives and non-game transfer.
+Investigate relevant Nu issues, discussions and commit/PR/release history as
+supplementary task and design evidence. Select the practical decision and
+baseline before claiming improvement; literature supplies methods and prior
+results, while our comparison must establish the effect. A favorable Nu result
+is not required, and all adverse work remains. This changes research direction,
+not the R02/R10 returns or candidate/participant allocation.
+
 **User continuation, 2026-10-08:** prepare the plausible research directions together, prioritized by research value, and search/read literature as needed. The [ranked research agenda](docs/nu-research-agenda-2026-10-08.md) owns the direction cards, comparison/outcome boundaries, preparation order and conditions for changing priority. Do not require the user to choose a single direction before preparing the others. Priorities are revisable judgments; no favorable Nu result is presumed.
 
 **Implemented planning decision, 2026-10-08:** prioritize **mechanisms and costs plus bounded agent maintenance**. The [saved continuation plan](docs/nu-research-continuation-plan-2026-10-08.md) and [six study designs](docs/nu-research-study-designs-2026-10-08.md) specify this preparation. Human-steered development remains the intended practical context; steering effectiveness is a future R21 direction because its measurement and participant design are unresolved. Human-only/agent-only extremes are optional reference cases, not equally weighted mandatory arms. Address agent convergence as a task-coverage and interpretation risk; do not infer independent judgment from repeated AI outputs. Preparing these documents does not authorize their proposed experiments.

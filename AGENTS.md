@@ -8,6 +8,15 @@ Continue the **whole-background Nu/interactive-software-evolution literature sur
 
 The user's current request is to **prepare all plausible research directions, prioritized by research value, while continuing literature as needed**. The implemented [continuation plan](docs/nu-research-continuation-plan-2026-10-08.md) and [six study designs](docs/nu-research-study-designs-2026-10-08.md) prioritize mechanisms/costs plus bounded agent maintenance. Follow the [ranked agenda](docs/nu-research-agenda-2026-10-08.md) for all 21 directions. Human steering remains a future R21 question; human-only/agent-only conditions are optional boundary cases, not an equal-weight three-arm programme. Prepare the directions together and keep priority, empirical benefit, source access and execution authority separate.
 
+**2026-10-19 objective refinement:** pursue a demonstrated useful improvement
+over a credible existing workflow for stateful interactive software. Nu is the
+starting case; game-engine comparisons and transfer to non-game state machines
+need their own task, comparator and preservation contracts. Follow the
+[updated agenda](docs/nu-research-agenda-2026-10-08.md#2026-10-19-objective-improve-evolution-of-stateful-software),
+including issue/commit/PR/release lineage as supplementary evidence. Preserve
+adverse findings and independent-demand limits; do not predetermine a Nu win.
+The 21 IDs, R02/R10 returns and unallocated candidate/participant work remain.
+
 Read **as many consequential papers as necessary**. Lists and batches are starting points, not numerical ceilings or mandatory approval boundaries. Add/follow primary methods, alternatives, adverse evidence and supplements autonomously within the authorized local literature work. An empty promoted queue, a full search page or D1 sufficiency does not close the broad survey. Do not turn broad scope into irrelevant collection or call quota/context exhaustion scientific completion.
 
 **2026-10-15 user authorization:** “meanwhile, do constructions and experiments that you are confident in.” Follow PLAN's updated authority and the [R03 feasibility record](docs/nu-history-feasibility-2026-10-15.md), starting with isolated pinned functional Gaia/MMCC Breakout and the halted B0 recovery/reconstruction contract. Confident local construction and experiments are now authorized; the older blanket holds and calls for a separate construction decision below describe the earlier status. Define comparisons, observations and falsifiers before running, preserve all attempts, and distinguish feasibility from benefit. Do not ask again for already-authorized local work.

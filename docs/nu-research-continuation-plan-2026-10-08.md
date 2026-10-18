@@ -6,11 +6,22 @@
 
 ## Objective and evidence boundary
 
-Determine which inspected Nu mechanisms help preserve correct behavior, what they cost, and how they affect controlled agent maintenance. Human-steered development is the intended practical context. Its anticipated importance in 2027 is a planning assumption supplied by the user, not an observed prevalence or economic result.
+Develop and evaluate a useful improvement in the correctness or total work of evolving stateful interactive software, using Nu as the initial mechanism and application case. Human-steered development is the intended practical context. Its anticipated importance in 2027 is a planning assumption supplied by the user, not an observed prevalence or economic result.
 
 The near-term evidence has three distinct levels: a source-supported capability/contract; its measured correctness and resource behavior under specified conditions; and outcomes of bounded agent changes. None alone establishes human productivity or the economics of steering. Human-only and agent-only workflows remain useful bounded cases; they are not equally weighted primary populations or mandatory arms of every study.
 
 The user raised convergence in agent-generated hypotheses and solutions as a research risk, alongside the effort of human-only work. Address this through task provenance, contrasting requirements, alternatives and honest transfer limits. Do not claim that an instruction to be diverse resolves it or that repeated model outputs are independent scientific corroboration.
+
+**2026-10-19 direction:** the [revised agenda](nu-research-agenda-2026-10-08.md#2026-10-19-objective-improve-evolution-of-stateful-software)
+now makes practical improvement the intended endpoint. Mechanism demonstrations
+and adverse results guide intervention design. The status quo must be selected
+for a beneficiary and task: engine packages, within-tool alternatives and
+non-game state-machine implementations answer different questions. Use relevant
+issues and verified commit/PR/release lineages alongside publication methods;
+then test whether the proposed intervention improves a meaningful outcome with
+all setup, verification, failed work and repair counted. Generalization requires
+a portable contract and an actual transfer case. Existing study IDs, historical
+results, authority and the R02/R10 returns remain unchanged.
 
 ## Preparation sequence and deliverables
 
