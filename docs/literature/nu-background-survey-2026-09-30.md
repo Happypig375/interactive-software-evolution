@@ -1702,3 +1702,30 @@ unrelated configuration and actual reconstruction work. Keep incremental
 maintenance separate from full family construction, property outcomes from
 visual/physics behavior, and maintainer feasibility from R20/R21 human effects.
 The R02/R10 returns and experimental allocations are unchanged.
+
+## 2026-10-18 continuation: Terra Firma preservation prerequisite
+
+**Discovery and primary understanding:** the targeted pipeline, application
+loop/save and pinned Prime symbol-formatting checks support the
+[executed load/save/fresh-reopen record](../nu-terra-firma-reopen-feasibility-2026-10-18.md).
+They are source and maintainer-construction evidence, not a new publication
+reading, Zotero addition or independent study. The actual runtime supplies
+the previously missing baseline observation for the selected existing family.
+
+**Evidence disposition, B04/B05/B08/B10/B12:** one corrected native pair passes
+the declared 197-entity correspondence, all 166 links, 11 raw saved history
+structures and selected configuration of four Villas and 32 palms. L1 uses
+L0's actual save in a fresh process; 36 generated protected children remain
+separate from the 197 saved entities. The first process/save succeeded with an
+invalid observer representation and remains unscored. Its formatter correction,
+failed build/proof, rejected reviews and restart-interrupted work are retained.
+This distinction matters: process success and a save file did not by themselves
+establish the required observation or preservation.
+
+**Next consequential action:** accept the common tint/local-roughness revision
+and ordinary batch alternative using the observed baseline, preserving
+indirect reconstruction, unrelated configuration and complete work. The result
+does not execute propagation, measure visual/physics preservation, validate
+ordinary Gaia/agent access, establish practical demand or estimate authoring
+benefit. Existing literature and the deferred human steering question retain
+their separate scopes. R02/R10 and candidate/participant allocations are unchanged.

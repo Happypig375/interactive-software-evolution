@@ -1,0 +1,2 @@
+# Preserve the exact hashed bytes of the executed inputs and compact receipt.
+* -text whitespace=cr-at-eol

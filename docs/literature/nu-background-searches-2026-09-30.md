@@ -9771,3 +9771,54 @@ scripts, valid/invalid extraction outputs, source identities, assistant handoff
 and decision/report receipts are under `.artifacts/r12-propagation-20261018/`.
 No new paper, Zotero record/write, literature reading count, native trial,
 candidate/participant allocation or R02/R10 resumption is credited.
+
+### R12 Terra Firma load/save/reopen execution, 2026-10-18
+
+The [native preservation prerequisite](../nu-terra-firma-reopen-feasibility-2026-10-18.md)
+now has one corrected original-scene L0 / actual-save fresh-process L1 pair.
+All declared 197-entity correspondence, 166-link, 11-history and selected
+32-palm/four-Villa configuration checks pass. This does not test propagation,
+visible tint, native lifetime, ordinary Gaia editing access or comparative
+authoring benefit. The next consequential action is the shared-tint/local-
+roughness revision protocol with a credible ordinary batch alternative.
+
+Selected implementation evidence was extended at the same Nu pin
+`064f7ae92a8506689cd91aff5e6804a375d6ef3d`:
+
+| Source | Actual coverage and design consequence |
+| --- | --- |
+| [Nu.Pipe entry point](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu.Pipe/Program.fs) and [AssetGraph](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/AssetGraph/AssetGraph.fs) | Selected argument, graph-resolution, extension/refinement, copy, error and read-only branches; bind the original pipeline command and an independent 248-output closure check. Exit zero alone is insufficient. |
+| [TerraFirma](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/TerraFirma.fs) and [plugin](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/TerraFirmaPlugin.fs) | Game-state/selected-screen route and complete short plugin; unchanged real application units are retained, while the external state setter bypasses Play input. These previously unused locators now materially support the construction. |
+| [Original project](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/Terra%20Firma.fsproj), [asset graph](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/AssetGraph.nuag) and [App.config](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/App.config) | Source order, GC/TieredPGO, asset command/copies, complete 24-line graph and display scalar. Effective configuration is observed separately. The probe remains an assembly-reference adaptation, not the original project-graph build. |
+| [WorldGroup write methods](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldGroup.fs#L228-L256) | Newly inspected ordinary group writer/save body, beyond the earlier readGroup-only use; compare full saved-tree correspondence and saved/in-memory canonical descriptors. |
+| [Prime Symbol](https://github.com/bryanedds/Prime/blob/4026f3156865d536d0c4d36f1dc361485df8117a/Prime/Prime/Symbol.fs) | Selected cases, origin-insensitive equality, parser and payload-writer methods at Prime 11.5.1's SourceLink pin. Generic value conversion was the wrong observer representation; three calls now use the raw Symbol formatter. Four literal checks and the corrected native pair have separate scopes. |
+
+The asset pipeline passed once after a retained review correction. Application
+build 01 failed for the missing explicit reference to the already pinned
+FParsecCS assembly; builds 02 and 03 passed with 72 warnings and zero errors.
+The first native L0 completed its process/save but generated invalid Symbol
+observations; its oversized files remain unscored and no L1 followed it.
+After the formatter correction, focused independent review, compile/source
+seal and parent acceptance, corrected L0 and L1 passed their unchanged declared
+checks. The proof's first compile failure, prior source-review rejections,
+interrupted controls and missing review after restart remain in the record.
+Fresh synthetic controls passed all 17 cases. This is three application builds
+and three native processes, not three independent successful replications.
+
+The post-restart volume initially reported `Full Repair Needed`; the requested
+recheck reported `Healthy / OK` without an agent-performed repair. A separate
+hash-verified backup covers the 31 then-uncommitted Git files. Selected retained
+asset receipts and all 259 source-tree / 251 published-tree files were verified;
+this does not certify every private artifact. All surviving attempts and exact
+inputs remain under `.artifacts/r12-propagation-20261018/`.
+
+Scite accepted `nu_r12_terra_firma_reopen_20261018` once: **9 cited, 0 excluded,
+0 skipped**. The inspected report has nine source-file identities,
+`retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false`. Full-text stage means the selected source bodies
+above, not nine papers or complete file readings. Previously unchanged source
+decisions are not resubmitted; the materially changed locator/writer uses are
+explicit. This is no new paper search, publication reading, Zotero write or
+reading-count increment. The broad survey remains open, and neither the
+preservation result nor the source report resumes R02/R10 or allocates
+experimental candidates or participants.

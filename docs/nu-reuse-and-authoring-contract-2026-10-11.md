@@ -257,3 +257,28 @@ The parent checked the consequential loader, composition, property and ancestor
 branches. This pass parsed the whole descriptor structure and read selected
 source bodies; it is not a complete semantic reading of all scene properties,
 a new publication reading, or an additional runtime trial.
+
+#### 2026-10-18 executed load/save/reopen prerequisite
+
+The [native feasibility record](nu-terra-firma-reopen-feasibility-2026-10-18.md)
+now observes one corrected original-scene L0 and actual-save fresh-process L1
+under functional, accompanied, halted execution. All 197 original named
+entities, 166 explicit links, 11 source-bound saved histories and the declared
+configuration of four Villas/32 palms pass. The 36 generated declaratively
+protected children remain separate, and the saved tree contains the original
+197 names. L1 consumes L0's exact save; byte equality to the original file is
+not the tested property.
+
+The first native process completed but emitted invalid Symbol wrappers/origin
+metadata. It remains retained and unscored; only the reviewed three-call
+formatter correction and recompiled observer supply the passing pair. The
+failed build, rejected reviews, failed small proof and restart-interrupted
+work also remain. This is one corrected feasibility pair, not independent
+replication or a complete-work advantage.
+
+**Updated next action:** bind the common shared-tint/local-roughness revision
+and ordinary batch protocol against this observed baseline. Keep all other
+declared configuration, the indirect Villa reconstruction boundary, actual
+save/reopen, repair and complete work explicit. Source propagation under that
+change, visible appearance, practical demand and ordinary editing access remain
+unobserved; the preservation prerequisite does not establish them.

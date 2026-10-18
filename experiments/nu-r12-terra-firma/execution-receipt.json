@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-18",
+  "question": "Unchanged pinned Terra Firma scene load/save/fresh-process reopen feasibility",
+  "disposition": "passed_declared_checks",
+  "scope": "One corrected L0/L1 pair under the declared functional/accompanied/halted contract",
+  "nu_source_commit": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+  "original_scene_sha256": "1dff90c5679233f6b282e03bcb2f2fd7524a6e6e93a7df814a72f5260d3a421a",
+  "executed_source_hashes": {
+    "Program.fs": "a14b405d8dae1771fa2b81830e825bfe9b4859cd88e0382b1bb66c072b6e004b",
+    "PROTOCOL.md": "b98ed969051a6734ad91532c375db390befcf6b6d2c3e1db6a6d02a1be2ec9ed",
+    "run.py": "367e0ae4924e1a1d0b71fe408362423d4a4f1423795da67b11a68ca84e71201a",
+    "compare.py": "130d7ff863721e01b058494046a218c74ff04825e056e490ede1d722ac229e9b",
+    "R12TerraFirmaProbe.fsproj": "f53414f36deed176811039e8c1a012b915fe5f7616b6a0a88b4d34b6cf3ddac8"
+  },
+  "compiled_dll_sha256": "ade20c658a0f460e65cd08416a1b2bb1784078c1f3296df512fdae4c2fbc4207",
+  "compiled_pdb_sha256": "77248b84b02b2d05edd139ea325efd70d6c062b7f7171e782b6d40a8e5cb0236",
+  "source_seal_sha256": "694d792950a703e1de7c3ec898eb7f3ec27854a200e771745d2cff372a0877dd",
+  "source_seal_limit": "8 original units, 1 observer and 2 generated documents verified; 1 checksumless unknown document unverified. Assembly-reference adaptation with prior host/native provenance limits.",
+  "comparison_sha256": "aad2d988d2d57c7cf2028df4bf51606738942258a0d249080712cf3d02dbab60",
+  "comparison_counts": {
+    "invalid": 0,
+    "adverse": 0
+  },
+  "preserved_declared_correspondence": {
+    "original_entities": 197,
+    "roots": 19,
+    "explicit_links": 166,
+    "saved_source_histories": 11,
+    "selected_palms": 32,
+    "selected_villas": 4
+  },
+  "arms": [
+    {
+      "arm": "L0",
+      "private_attempt": "terra-L0-02",
+      "receipt_sha256": "6df5abbd977855b6a4696e968330e48a98df6b089e9d211621812ca74795e969",
+      "started_utc": "2026-10-18T11:11:03Z",
+      "process_elapsed_seconds": 34.28099999999995,
+      "exit_code": 0,
+      "timed_out": false,
+      "observations": [
+        {
+          "label": "A",
+          "callback": 2,
+          "live_entities": 233,
+          "original_entities": 197,
+          "generated_declaratively_protected_entities": 36,
+          "update_time": "0",
+          "window_size": "<1280, 720>",
+          "window_flags": "Some(SDL_WINDOW_OPENGL, SDL_WINDOW_HIDDEN, SDL_WINDOW_RESIZABLE)",
+          "loaded_application_assemblies_checked": 30
+        },
+        {
+          "label": "B",
+          "callback": 3,
+          "live_entities": 233,
+          "original_entities": 197,
+          "generated_declaratively_protected_entities": 36,
+          "update_time": "0",
+          "window_size": "<1280, 720>",
+          "window_flags": "Some(SDL_WINDOW_OPENGL, SDL_WINDOW_HIDDEN, SDL_WINDOW_RESIZABLE)",
+          "loaded_application_assemblies_checked": 30
+        }
+      ],
+      "runtime": ".NET 10.0.10",
+      "server_gc": true,
+      "display_scalar": 2,
+      "input_scene_sha256": "1dff90c5679233f6b282e03bcb2f2fd7524a6e6e93a7df814a72f5260d3a421a",
+      "saved_scene_sha256": "0bdb814db6fd8792031017f3a3a3a7ab3734741b9c5c7ca5d3e5492c11663771",
+      "saved_scene_bytes": 212673,
+      "save_matches_B": true,
+      "protected_application_files_unchanged": true,
+      "new_application_files": [
+        "Assets/Gameplay/Scene.nav",
+        "Assets/Gameplay/Scene.nbrd",
+        "Log.txt",
+        "imgui.ini"
+      ]
+    },
+    {
+      "arm": "L1",
+      "private_attempt": "terra-L1-01",
+      "receipt_sha256": "172a41c55bc482ca95a7759fd8844a3e0687ecb108104f05b32a2b6e0f2df504",
+      "started_utc": "2026-10-18T11:12:34Z",
+      "process_elapsed_seconds": 37.375,
+      "exit_code": 0,
+      "timed_out": false,
+      "observations": [
+        {
+          "label": "A",
+          "callback": 2,
+          "live_entities": 233,
+          "original_entities": 197,
+          "generated_declaratively_protected_entities": 36,
+          "update_time": "0",
+          "window_size": "<1280, 720>",
+          "window_flags": "Some(SDL_WINDOW_OPENGL, SDL_WINDOW_HIDDEN, SDL_WINDOW_RESIZABLE)",
+          "loaded_application_assemblies_checked": 30
+        },
+        {
+          "label": "B",
+          "callback": 3,
+          "live_entities": 233,
+          "original_entities": 197,
+          "generated_declaratively_protected_entities": 36,
+          "update_time": "0",
+          "window_size": "<1280, 720>",
+          "window_flags": "Some(SDL_WINDOW_OPENGL, SDL_WINDOW_HIDDEN, SDL_WINDOW_RESIZABLE)",
+          "loaded_application_assemblies_checked": 30
+        }
+      ],
+      "runtime": ".NET 10.0.10",
+      "server_gc": true,
+      "display_scalar": 2,
+      "input_scene_sha256": "0bdb814db6fd8792031017f3a3a3a7ab3734741b9c5c7ca5d3e5492c11663771",
+      "saved_scene_sha256": "0bdb814db6fd8792031017f3a3a3a7ab3734741b9c5c7ca5d3e5492c11663771",
+      "saved_scene_bytes": 212673,
+      "save_matches_B": true,
+      "protected_application_files_unchanged": true,
+      "new_application_files": [
+        "Assets/Gameplay/Scene.nav",
+        "Assets/Gameplay/Scene.nbrd",
+        "Log.txt",
+        "imgui.ini"
+      ]
+    }
+  ],
+  "controls": {
+    "synthetic_cases_passed": 17,
+    "receipt_sha256": "952c920669b11ff5256f2f431aebf5a469395522e5ffa43566da389a1ade6016",
+    "literal_formatter_cases_passed": 4,
+    "proof_output_sha256": "036a9a9296f10aa85d17c97afcc07b11f867c3d53eba9982ffa54de4cac06cad"
+  },
+  "all_application_build_attempts": [
+    {
+      "attempt": "terra-build-01",
+      "result": "failed_FS0074_missing_existing_FParsecCS_reference"
+    },
+    {
+      "attempt": "terra-build-02",
+      "result": "passed_and_sealed_before_first_invalid_observation"
+    },
+    {
+      "attempt": "terra-build-03",
+      "result": "passed_and_sealed_after_three_formatter_call_correction"
+    }
+  ],
+  "other_native_attempts": [
+    {
+      "attempt": "terra-L0-01",
+      "process_exit_code": 0,
+      "process_elapsed_seconds": 131.95299999999997,
+      "disposition": "invalid_observation_representation",
+      "L1_launched": false,
+      "retained_parent_disposition_sha256": "832e1dda7b636897518bdb10762fda42988486aee8f615f11bc9195c93e7e8af"
+    }
+  ],
+  "retained_other_failures": [
+    "PDB helper checksumless-document handling",
+    "PowerShell project generation",
+    "asset-stage source review rejection",
+    "full-harness source review rejection",
+    "interrupted controls02 and missing review02 after restart/filesystem issue",
+    "restart recovery helper parsing an unreadable result",
+    "literal formatter proof compile attempt01"
+  ],
+  "limits": [
+    "No propagation/revision/comparator execution",
+    "No rendering, input, physics-continuation or native-lifetime outcome",
+    "No Gaia editing or agent access result",
+    "No authoring/productivity/benefit or complete-work estimate",
+    "No candidate/participant allocation or resumption of stopped R02/R10 work",
+    "Process timings exclude preparation, copying, hashing, review, failed attempts and integration; not comparative costs"
+  ]
+}
