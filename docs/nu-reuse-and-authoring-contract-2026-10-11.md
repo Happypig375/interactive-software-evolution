@@ -282,3 +282,52 @@ declared configuration, the indirect Villa reconstruction boundary, actual
 save/reopen, repair and complete work explicit. Source propagation under that
 change, visible appearance, practical demand and ordinary editing access remain
 unobserved; the preservation prerequisite does not establish them.
+
+#### 2026-10-18 accepted revision comparison
+
+The [revision construction record](nu-terra-firma-revision-feasibility-2026-10-18.md)
+now binds the common shared-tint/local-roughness requirement and ordinary
+batch operation in an accepted prospective protocol. Each operation receives
+the same existing family metadata and must preserve all declared configuration
+on every original entity. Propagation and batch have different allowed saved
+history consequences; those are reported separately from the common required
+material outcome. Every eligible reopen consumes its own actual save,
+including an adverse one.
+
+The lifecycle recorder has a separate callback counter and contiguous
+ordinals, plus address/ID transition checks; final IDs alone cannot count
+intermediate repeated reconstruction. The predicted 163 original-entity
+occurrences are a falsifiable expectation, not a run-validity requirement.
+The construction record owns current review, compile and execution gates.
+No native revision outcome or complete-work advantage follows from the
+accepted protocol or synthetic controls.
+
+#### 2026-10-18 revision observations and integrity return
+
+The [execution record](nu-terra-firma-revision-feasibility-2026-10-18.md) now
+completes P-shared, B-shared and P-local revise/actual-save reopen pairs.
+Both shared cases deliver all 32 tints. P-local retains the selected palm's
+roughness but also its old albedo, so only 31 receive the tint; faithful
+reopening does not cure this authored requirement failure. Other declared
+configuration, links and raw-history preservation pass. Propagation's exact
+current-source/history check separately finds regenerated Order differences
+after fresh reopen. Batch retains its old histories, whose later maintenance
+consequences remain untested.
+
+Propagation records 160 original reconstruction pairs over 139 changed IDs,
+versus the frozen prediction of 163. Three same-name copied palms have one
+pair rather than two; pinned address/filter behavior explains that pattern
+without changing the prediction or claiming total native work. B-shared has
+no operator lifecycle events or original ID changes. The missed P-local target
+itself is rebuilt twice, keeping the field-intent failure separate from the
+three-address prediction divergence.
+
+B-local fails the original-scene integrity guard before any edit. Its three
+changed staged inputs make the attempt invalid/incomplete, and its reopen
+remains ineligible. The [storage return](workspace-integrity-return-2026-10-18.md)
+stops native work and preserves a verified C: recovery copy. Thus the local
+batch comparator remains unobserved. First resolve execution-storage integrity
+and revalidate inputs before a prospectively bound continuation; retain this
+failed attempt. Later practical comparisons must count helper construction,
+verification, failures, repair and history consequences. These observations
+do not establish a general reuse, authoring or steering advantage.

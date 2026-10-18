@@ -9822,3 +9822,89 @@ explicit. This is no new paper search, publication reading, Zotero write or
 reading-count increment. The broad survey remains open, and neither the
 preservation result nor the source report resumes R02/R10 or allocates
 experimental candidates or participants.
+
+### R12 Terra Firma revision contract and recorder boundary, 2026-10-18
+
+The [revision construction record](../nu-terra-firma-revision-feasibility-2026-10-18.md)
+and [accepted prospective protocol](../../experiments/nu-r12-terra-revision/PROTOCOL.md)
+bind a common shared tint/local roughness requirement, ordinary batch field
+updates, actual-save reopens, all-original configuration and indirect Villa
+reconstruction. No native revision outcome is established at this checkpoint.
+The corrected prerequisite's complete inventory confirms 32 effective all-None
+material records, 2,351 observed original explicit properties and the actual
+older nested histories; it is reused evidence, not another native trial.
+
+Four selected pinned source-body uses materially extend the previous screen:
+
+| Source | Coverage and consequence |
+| --- | --- |
+| [WorldModuleEntity](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModuleEntity.fs#L2147) | Registration/unregistration notification timing and `writeEntity` history controls. Read IDs while available; compare the two advancing histories against current source serialization, removing only top-level self-history. |
+| [WorldEvents](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldEvents.fs#L12) | Three lifecycle payload kinds and typed address. Count before classification and retain every delivered callback. |
+| [WorldGame](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldGame.fs#L54) | Public Game lifecycle address supplies an observer that survives target reconstruction. |
+| [Color](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu.Math/Color.cs#L104) | Float RGBA constructor binds the exactly representable authored tint components; no visual inference. |
+
+Selected source bytes match the retained Nu archive. Previously credited
+propagation, material and project methods are reused without a duplicate
+screen. Independent review rejected endpoint-only event validation because a
+lost balanced intermediate pair can preserve the endpoint map. The accepted
+counter/ordinal correction tests recorder loss while keeping the predicted
+163 reconstruction occurrences open to falsification. It cannot independently
+prove that all internal actions emitted or delivered an event.
+
+Scite accepted `nu_r12_terra_revision_contract_20261018` once: **4 cited,
+0 excluded, 0 skipped**. The inspected report has four source identities,
+`retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false`. The stage describes selected source bodies, not
+four paper or whole-file readings. No new literature search, Zotero write,
+publication reading or reading-count increment is credited. Source preparation,
+synthetic checker validation and eventual native execution remain separate.
+
+### R12 revision observations and source reconciliation, 2026-10-18
+
+The [executed record](../nu-terra-firma-revision-feasibility-2026-10-18.md)
+retains seven assigned native processes: three completed revise/reopen pairs
+followed by an invalid B-local startup. P-shared and B-shared tint all 32
+palms. P-local tints 31 while retaining the selected palm's roughness and old
+albedo; its actual-save reopen preserves that adverse state. Both propagation
+reopens preserve raw histories but fail strict current-source/history
+correspondence. These scoped outcomes are distinct from visual quality,
+authoring cost, ordinary editing access or comparative benefit.
+
+The frozen lifecycle prediction of 163 pairs is contradicted coherently:
+both propagation cases record 160, with the three same-name copied `Palm`
+targets reconstructed once rather than twice. B-shared records zero operator
+pairs. Independent callback/ordinal and identity-conservation checks pass in
+the six completed processes; this does not prove complete internal/native
+event emission. No oracle, count filter, desired-outcome retry or repair was
+introduced after observing the divergence.
+
+Five selected source uses reconcile these findings at the same Nu pin
+`064f7ae92a8506689cd91aff5e6804a375d6ef3d`. Each file was compared byte for byte
+with the retained original archive:
+
+| Source and selected range | Material consequence |
+| --- | --- |
+| [Address.relate, 391–414](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/Core/Address.fs#L391) | Matching components after a mismatched Villa still contribute to the relation; the three same-name targets produce `^/Palm`. |
+| [Propagation filter/ancestor route, 725–777](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModule2.fs#L725) | The direct route filters those three targets, while ancestor propagation still rebuilds their Villa trees. This is source-supported explanation of public callbacks, not branch instrumentation. |
+| [Group save/read, 228–285](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldGroup.fs#L228) | Current Orders are omitted/declined while historical descriptors are retained. |
+| [Entity write/read, 2422–2482](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldModuleEntity.fs#L2422) | The exact observer includes current Order; the group path does not preserve it as a fresh entity's Order. No after-the-fact exclusion changes the history oracle. |
+| [EntityState.make, 1348–1370](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldTypes.fs#L1348) | Fresh entities receive new timestamp Orders. Independent P-shared comparison finds Order alone differs: one Palm path and all 44 Villa-tree paths at each reopen capture. |
+
+B-local's original-scene hash guard fails before callbacks or an edit. Three
+staged inputs differ from the pre-launch manifest, and the scene is no longer
+valid UTF-8. The attempt is invalid/incomplete; its dependent reopen is
+ineligible. The [integrity return](../workspace-integrity-return-2026-10-18.md)
+records healthy status flags alongside contrary byte evidence, earlier NTFS
+errors, the verified C: backup, and the stopped native series. No B-local
+success/failure on the authored material requirement can be inferred.
+
+Scite accepted `nu_r12_terra_revision_results_20261018` once: **5 cited,
+0 excluded, 0 skipped**. The inspected report has five source identities,
+`retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false`. Newly inspected Address/EntityState bodies and
+materially extended filter/Order uses are explicit; unchanged earlier uses
+are not duplicated. These are selected source methods, not five papers or
+whole-file readings. No new literature search, publication reading, Zotero
+write or reading-count increment occurs. The next execution dependency is
+reliable storage and revalidated inputs; the local batch outcome, complete
+work and practical benefit remain unresolved.

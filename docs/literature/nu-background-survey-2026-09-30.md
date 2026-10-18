@@ -1729,3 +1729,72 @@ does not execute propagation, measure visual/physics preservation, validate
 ordinary Gaia/agent access, establish practical demand or estimate authoring
 benefit. Existing literature and the deferred human steering question retain
 their separate scopes. R02/R10 and candidate/participant allocations are unchanged.
+
+## 2026-10-18 continuation: field intent and reconstruction measurement
+
+**Discovery and primary understanding:** selected pinned lifecycle, entity
+serialization and RGBA constructor bodies support the
+[accepted Terra Firma revision protocol](../nu-terra-firma-revision-feasibility-2026-10-18.md).
+This extends the existing source/practice-grounded case without adding a paper
+reading or independent study. Both operators receive the existing family
+metadata; the ordinary batch reads each current material record and changes
+only the requested field.
+
+**Evidence disposition, B04/B05/B08/B10/B12:** the shared tint and local
+roughness condition now separates field-level intent from whole-property
+propagation. The predicted material conflict and indirect Villa reconstruction
+remain hypotheses for this artifact. A rejected recorder design showed why
+endpoint IDs alone cannot establish repeated reconstruction counts: a missing
+balanced intermediate pair can leave the same endpoint. The accepted protocol
+requires independent callback counts and ordinals, while retaining coherent
+count divergence as evidence. Callback integrity does not prove complete
+internal/native event emission or delivery.
+
+**Next consequential action:** complete source/checker/compile acceptance and
+observe the fixed four revision cases and eligible actual-save reopens. Retain
+adverse delivery, treatment-specific histories, all declared collateral
+configuration and maintainer preparation work. Faithful reopening of an adverse
+save is not successful delivery. Visuals, native lifetime, ordinary editing
+access, practical demand and authoring/steering benefit remain separate gaps.
+Neither construction nor this source synthesis changes the R02/R10 returns
+or experimental candidate/participant allocations.
+
+## 2026-10-18 continuation: observed field-intent limit and integrity return
+
+**Discovery and primary understanding:** the existing Terra Firma family now
+has [three completed revision/reopen pairs](../nu-terra-firma-revision-feasibility-2026-10-18.md).
+New selected address/filter and save/read Order bodies explain coherent
+prediction divergence and strict history correspondence findings. This is
+maintainer mechanism evidence on one artifact, not a new publication, an
+independent empirical population or a broader task-prevalence result.
+
+**Evidence disposition, B04/B05/B08/B10/B12:** both shared propagation and
+shared batch deliver the tint to all 32 palms. With an independent local
+roughness choice, propagation tints 31 and retains both the target's desired
+roughness and undesired old albedo. It faithfully saves/reopens that adverse
+state. This observes a whole-property/field-intent boundary without assuming
+every override should be overwritten. Other declared configuration, links
+and raw histories preserve. The two propagation histories separately fail
+exact fresh current-source correspondence because Order values regenerate;
+this is not established rendering damage or a future maintenance defect.
+
+Both propagation operators record 160 original reconstruction pairs instead
+of the frozen 163 prediction; exactly three same-name copied palms account
+for the difference. B-shared records zero operator pairs. Preserved callback
+counts, ordinals and address/ID transitions support the managed observations,
+subject to internal event-emission/delivery limits. The missed local target
+is rebuilt twice, so that failure is separate from the count divergence.
+Fixed order, unequal instrumentation and missing complete work prevent a
+speed or productivity conclusion.
+
+**Next consequential action:** B-local stops before editing after its staged
+input bytes change; it supplies no local batch outcome and no eligible reopen.
+The [storage-integrity return](../workspace-integrity-return-2026-10-18.md)
+preserves a verified C: recovery copy and stops native execution. Establish
+reliable execution storage and revalidate the exact inputs before any
+prospectively bound continuation. Preserve all seven processes and the
+original chronology. A subsequent practical repair/completion comparison must
+count selection/helper construction, verification, failure, repair and history
+consequences. Visuals, native lifetime, ordinary editing access, demand and
+authoring/steering benefit remain separate questions. The R02/R10 returns,
+candidate/participant allocations and broad survey boundaries are unchanged.
