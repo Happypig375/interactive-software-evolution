@@ -10088,3 +10088,65 @@ current issue/discussion entries described above; the other 25 are search
 screens. The service classification does not turn these into papers, a demand
 sample or a systematic-review completeness certificate. The six unchanged
 historical decisions were not resubmitted.
+
+## 2026-10-18 S305 supplied journal and DOI reconciliation
+
+**Decision:** resolve the existing journal edition and determine whether the
+1990 report-only interpretation survives the final body. Reuse registered
+journal `VFB2TP7A` and report `KJKJRYQA` in collection `PKLXQNEE`; no new work
+identifier, duplicate item or independent-study count is added.
+
+The user changed the journal DOI to `10.1080/07370024.1991.9667171` and attached
+PDF `54NZJ2S2` before reading. Native Zotero 10.0.6 API was available. Both DOI
+URL opens failed through the web tool. Exact web queries
+`"10.1080/07370024.1991.9667171"` and `"10.1207/s15327051hci0603"` returned 18
+positions: the matching publisher record and 17 incidental DOI-stem/reference
+or aggregation hits, excluded only from the exact identity screen. They were
+not opened as body readings or evaluated for research merit. No broad discovery
+or thematic saturation follows; no Scite search was called in this segment.
+
+Primary Crossref metadata for the legacy DOI gives the exact title, three
+authors, HCI volume 6, pp.319-355 and print date 1991-09-01, with issue3 and an
+empty relation object. The publisher identifier's Crossref endpoint returned
+404. The supplied PDF cover and [publisher page](https://www.tandfonline.com/doi/abs/10.1080/07370024.1991.9667171)
+give the 10.1080 identifier, same article identity, issue3-4 and online22June2011.
+Treat both metadata identities as the same journal article, preserving the
+missing formal registry alias, issue discrepancy and unavailable legacy-file
+byte comparison. The print year remains1991.
+
+**Actual coverage:** [complete journal and report reconciliation](full-reading/S305-problem-centered-design-journal-reading-2026-10-18.md),
+all39 PDF text/visual pages (two publisher leaves plus37 article pages319-355),
+all11 figures, full method, prototype check, limitations and references.
+2,159,372bytes; SHA256
+`fbd75ba736d0ddf629d3eba15802e54ea1b26ebed2b9da6658107691697ad511`;
+MD5 `99513a6d3c10bcc329f251dc0974930f`. The prior complete report/S304 notes
+were reused for the material comparison, rather than blindly rereading their
+PDFs. Parent verification checked the identity cover and printed pp.346-348,
+351-352 against the images. Native before-reading versions were journal7462,
+PDF7461, report6875 and report PDF6868.
+
+**Evidence disposition:** the final retains the30 analytical walkthroughs,
+favorable OpsTrains ranking and reserve-task/shallow-programming limits. It
+adds the same six-person prototype study reported fully in S304 and explicitly
+qualifies walkthrough prediction; it removes the report's full Bunsen appendix.
+Keep the report as the fuller materials edition and the journal for the final
+methodological account. No independent cohort, new S identifier or increase
+from the286-work checkpoint follows. CU-CS-480-90 remains unread.
+
+Guarded native writes corrected the URL, stale gap tags/Extra and managed note,
+while preserving keys, collections, dates/types, citation key and both PDFs.
+Final verified versions: `VFB2TP7A`7470, `CEE3V4N8`7472, `KJKJRYQA`7473;
+PDFs remain7461/6868. Strict tag-array order comparisons initially failed
+because Zotero reordered identical tag members; readback then verified every
+proposed and retained field using unordered tag membership. All earlier
+receipts and the final verification are retained privately. No JavaScript
+window, computer use, remote acquisition, purchase or additional item was used.
+
+Scite report `nu_s305_journal_reconciliation_20261018` records21 considered
+references:4 credited identity/edition/lineage sources and17 incidental
+nonmatching search hits excluded from this identity task. The report has zero
+skips or missing reasons, no truncation and no retrieval-linkage warning;
+answer-scoped retrieved count is null. These are source decisions, not21
+papers read or independent studies. Private raw metadata, API receipts,
+extraction/renders and citation report remain under the C: recovery directory
+`s305-reconciliation-20261018/`, outside Git.

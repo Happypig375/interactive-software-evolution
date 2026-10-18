@@ -3,12 +3,13 @@
 This continues the [executed preservation prerequisite](nu-terra-firma-reopen-feasibility-2026-10-18.md)
 and [existing-family contract](nu-reuse-and-authoring-contract-2026-10-11.md#2026-10-18-existing-terra-firma-family-and-next-revision-case).
 The common revision protocol and current observer/checker build are accepted.
-Three revision/reopen pairs are complete. P-shared and B-shared deliver the
-declared tint; P-local preserves the selected roughness but misses that palm's
-tint. B-local fails its original-input integrity guard before any edit, so
-its reopen is ineligible and the native series is stopped. The
-[storage-integrity return](workspace-integrity-return-2026-10-18.md) owns that
-environmental boundary. No comparative benefit is established here.
+Four revision/reopen pairs are now complete across nine native processes.
+P-shared and both batch cases deliver the declared tint; P-local preserves the
+selected roughness but misses that palm's tint. The original B-local startup
+failed input integrity before editing. After exact input revalidation, a
+[prospectively assigned continuation](nu-terra-firma-revision-continuation-2026-10-18.md)
+completes B-local and its own actual-save reopen. The failed attempt and its
+ineligible reopen remain in the record. No comparative benefit is established here.
 The user's confident local construction authorization applies; R02/R10 remain
 stopped and candidate/participant work remains unallocated.
 
@@ -109,18 +110,20 @@ construction README and ten compiled-package inputs retain their original
 pre-execution wording and bytes; [RESULTS](../experiments/nu-r12-terra-revision/RESULTS.md)
 provides the subsequent status without changing the executed package.
 
-## Observed cases and interrupted series
+## Observed cases, interruption and continuation
 
 | Case | Tint and local choice | Declared configuration and histories | Original operator register/unregister pairs | Revise / reopen process seconds |
 | --- | --- | --- | ---: | ---: |
 | P-shared | 32/32 receive tint. | Other configuration, links and raw histories preserve; fresh current-source/history correspondence has four Order-only findings. | 160, versus predicted 163 | 91.484 / 71.437 |
 | B-shared | 32/32 receive tint. | All declared checks pass; all eleven old histories preserve through reopen. | 0, as predicted | 82.047 / 60.438 |
 | P-local | 31/32 receive tint; the selected target retains roughness 0.75 and its old untinted albedo. | No other declared configuration/link/raw-history violation; the same four strict reopen history findings occur. | 160, versus predicted 163 | 45.406 / 51.234 |
-| B-local | Unobserved: input-integrity failure before setup or operator. | Invalid/incomplete; no usable save or eligible reopen. | Unestablished | 3.468 / unrun |
+| B-local L0-01, series process 7 | Unobserved: input-integrity failure before setup or operator. | Invalid/incomplete; no usable save or eligible reopen. | Unestablished | 3.468 / unrun |
+| B-local L0-02 / L1-01, series processes 8-9 | 32/32 receive tint; the selected target retains roughness 0.75. | All declared checks pass; all eleven old histories preserve through own actual-save reopen. | 0, as predicted | 60.718 / 64.078 |
 
-These are seven assigned processes in the fixed order, with three completed
-pairs and one invalid startup. There is no replacement run or repaired
-predecessor. Every native process used the same accepted build and unchanged
+The first seven assigned processes produced three completed pairs and one
+invalid startup. The separate continuation adds exactly two processes after
+revalidation; it does not erase the failure or reopen its unusable predecessor.
+Every native process used the same accepted build and unchanged
 180-second/120-callback limits. Durations include instrumentation and fixed
 order; they are not comparative speed or complete-work measurements.
 
@@ -178,37 +181,76 @@ B-shared records 32 operator property writes, no propagation call, no
 operator lifecycle callbacks and no changed original IDs. Both material
 conditions received existing links/history as supplied setup; B-shared's
 preserved old histories are a different outcome from P's advanced histories.
-Their later maintenance consequences have not been tested. B-local supplies
-no evidence that the batch would deliver the local-override requirement.
+Their later maintenance consequences have not been tested. The original
+B-local attempt supplies no material outcome; its later continuation now
+delivers the local requirement under the batch's unchanged history obligation.
 
-The lifecycle count/ordinal and identity-conservation checks pass in all six
+The lifecycle count/ordinal and identity-conservation checks pass in all eight
 completed processes. They establish retained public callback traces, subject
 to the emission/delivery boundary above. Thirty-six generated protected
 children remain separate from the 197 originals at each completed capture.
 
-## Integrity return and next consequential action
+## Original integrity return
 
 B-local's pre-launch manifest records the correct original scene. At startup,
 its fixed scene hash guard fails; no callback, setup write, operator write or
 propagation call occurs. The runner's after-manifest detects changed bytes in
 the staged original scene and two GUI assets, and the checker cannot decode
 the damaged original. This is an invalid input/observation attempt, not an
-adverse batch result. A fresh reopen is ineligible. The series stops on this
+adverse batch result. Its fresh reopen is ineligible. The original series stopped on this
 safety/integrity boundary without waiting for five failures or increasing an
 allowance.
 
 The recovery check verifies all seven receipts against their previously
 observed hashes, every retained observation against its receipt-bound manifest,
 and all ten package snapshots per attempt. It does not recertify every staged
-application, all historical artifacts or the A: volume. No native replacement
-is assigned by this publication. First establish a reliable execution storage
-location and revalidate the exact source, assets, host, compiled package and
-retained evidence; then prospectively bind any resumed or replacement case,
+application, all historical artifacts or the A: volume. At that checkpoint no
+native replacement was assigned. The return required reliable execution storage
+and revalidation of the exact source, assets, host, compiled package and
+retained evidence before prospectively binding any resumed case,
 preserving this failed attempt and the original sequence.
+
+## Revalidated continuation and next consequential action
+
+The later clean CHKDSK snapshots and the user's continuation are recorded in
+the [integrity update](workspace-integrity-return-2026-10-18.md#clean-checks-and-bounded-continuation).
+All 5,029 files in the two recovery manifests match both A: and the C: copies,
+including the preserved damaged files at their known damaged hashes. Separate
+input verification matches the pinned archive, 259 original source files,
+251 published assets, 189 host files, 195 compiled outputs, ten frozen package
+files and the unchanged launcher. This checks recorded file identity; it does
+not certify hardware or the whole volume.
+
+Independent AI review and parent acceptance bound the exact continuation before
+execution. L0-02 and its eligible L1-01 use the original build 03, operator,
+checker, controls and limits. Their recorded pre-launch inventories each match
+the accepted 447-file composition; L1 differs only at the gameplay scene, which
+matches its own predecessor's saved bytes. The original-scene copy remains
+unchanged. Protected post-run checks also pass. These supplementary checks
+assess captured pre-launch state after each process; the unchanged runner has
+no interposed pre-launch comparison hook.
+
+B-local now delivers all 32 tints and preserves the selected roughness 0.75
+at Applied, Settled, ReopenA and ReopenB. All other declared configuration,
+197 original entities, 19 roots, 166 links and eleven old raw histories pass
+the existing checks. L0 records one setup write, 32 operator writes, no
+propagation call, no operator lifecycle callbacks and no changed original IDs.
+Its complete lifecycle stream contains 241 callbacks. The pair has zero
+invalid, adverse or lifecycle-conformance findings. Thirty-six generated
+protected children remain separate from the originals at each capture.
+
+The two new processes take 60.718 and 64.078 seconds. All nine native process
+durations sum to 530.310 seconds, including the failed startup; this excludes
+construction, reviews, staging, recovery, reading and verification. The
+storage interruption, fixed order and unequal instrumentation prevent a speed
+or productivity interpretation. All 116 new evidence files outside the native
+application trees were copied to C: with matching hashes (19,004,144 bytes).
+The [continuation receipt](../experiments/nu-r12-terra-revision/continuation-receipt.json)
+binds acceptance, both outcomes, the supplementary checks and evidence coverage.
 
 For the scientific question, these observations support a bounded distinction
 between whole-property propagation and field-level maintenance intent on an
-existing family. The immediate local-condition comparator remains unobserved.
+existing family. The local batch comparator is now observed.
 Any subsequent repair/completion comparison must include selection/helper
 construction, verification, failed work, repair and history consequences. A
 new passing cosmetic variant would not establish practical demand or benefit.

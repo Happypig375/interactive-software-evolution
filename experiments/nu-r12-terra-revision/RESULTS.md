@@ -33,3 +33,25 @@ directory on C: is recovery evidence, not a path-remapped re-execution or a new
 compiled acceptance. Preserve its original absolute-path evidence. Establish
 reliable execution storage, revalidate inputs, and bind any continuation before
 another native process. The original failed attempt remains in all accounting.
+
+## Revalidated continuation
+
+The statements above describe the initial interrupted series. The
+[prospective continuation](../../docs/nu-terra-firma-revision-continuation-2026-10-18.md)
+and [separate receipt](continuation-receipt.json) add exactly two processes
+after clean CHKDSK reports, exact input revalidation, independent review and
+parent acceptance. No frozen package file, checker, build, limit or initial
+assignment was rewritten.
+
+B-local L0-02 now tints all 32 palms while retaining the independent local
+roughness of 0.75. L1-01 reopens its actual save. The pair passes all declared
+configuration, links, old-history and lifecycle checks, with zero batch
+operator reconstruction pairs. Both 447-file input-composition checks and
+protected post-run checks pass. Their process durations are 60.718 and
+64.078 seconds, without a comparative speed interpretation.
+
+The overall record contains nine native processes: four complete pairs and
+the original invalid startup. Its failed bytes and ineligible reopen remain.
+The missing local batch outcome is resolved; complete authoring work, later
+history consequences, ordinary editing access and practical benefit remain
+unmeasured. The R02/R10 returned gates remain stopped.

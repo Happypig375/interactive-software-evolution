@@ -2,8 +2,10 @@
 
 The requested re-check initially found A: `Healthy / OK`. A later native
 staging attempt demonstrated changed input bytes despite that status. Local
-native execution and writes to the A: workspace have stopped. This is a
-storage/input-integrity return; its physical cause is not established.
+native execution and A: writes stopped at that checkpoint. The
+[later revalidation and bounded continuation](#clean-checks-and-bounded-continuation)
+resolve that return for the exact R12 inputs; the failed bytes remain preserved.
+The physical cause of their change is not established.
 
 ## Observed failure
 
@@ -77,9 +79,51 @@ changes and this return are integrated there for ordinary checks and direct
 push. The A: working tree and its unrelated edits are preserved; it is not
 silently synchronized or repaired by that publication.
 
-Before native continuation, establish reliable execution storage and revalidate
+The original resumption condition was to establish reliable execution storage and revalidate
 the exact source, prepared assets, host, compiled observer/checker and retained
 evidence. Bind any resumed/replacement assignment prospectively, retaining the
 failed B-local attempt and the original chronology. A status flag, successful
 copy or repository CI cannot supply the missing runtime result. The R02 and
 R10 five-failure returns remain separate and unchanged.
+
+## Clean checks and bounded continuation
+
+The later Application-log check recovers a more complete CHKDSK chronology,
+in HKT on October 18: the 18:40:40 scan found problems, the 18:42:54 read/write
+repair completed, and read-only snapshot checks at 21:35:31 and 22:10:13 each
+reported no filesystem problems and no further action required. A: also
+reports Healthy/OK. These completed clean scans do not indicate another
+filesystem repair is needed. No additional CHKDSK, repair or dismount was
+performed by the agent. They do not explain the earlier changed bytes or
+certify hardware health.
+
+After the user's clarification and continuation, all 36 worktree and 4,993
+private-evidence manifest entries were checked against their original A: paths
+and C: backups. All 5,029 files match sizes and SHA-256 hashes, with no missing
+files, mismatches or read errors. This includes the three deliberately
+preserved damaged files matching their damaged after-hashes; they were not
+repaired or declared valid inputs.
+
+The additional parent audit verifies the pinned source archive, reconstructs
+all 259 selected source hashes from it, and checks 251 published assets,
+189 original runtime-host files, 195 build outputs, eight sealed original
+compilation units, the ten frozen package files and the launcher. Four original
+L0 pre-launch manifests agree on the same 447-file application composition.
+The independent continuation review and parent acceptance then bind the
+[unchanged two-process assignment](nu-terra-firma-revision-continuation-2026-10-18.md)
+before either process starts.
+
+B-local L0-02 and its own actual-save L1-01 now complete under the original
+limits. Both recorded pre-launch composition checks and protected post-run
+checks pass; the [result](nu-terra-firma-revision-feasibility-2026-10-18.md#revalidated-continuation-and-next-consequential-action)
+retains the original failed process and all adverse propagation observations.
+New output directories keep the failed files untouched. The new evidence copy
+preserves 116 files / 19,004,144 bytes with matching source/copy hashes,
+excluding the native application trees while retaining their before/after
+manifests and the saved scene and observations.
+
+Publication still uses the C: checkout. The original A: working tree remains
+at its prior Git revision with unrelated drafts preserved; it has not been
+reset, pulled or bulk synchronized. The R02/R10 returns and allocation limits
+remain unchanged. This is exact-input recovery and bounded execution, not a
+whole-volume or general runtime certification.

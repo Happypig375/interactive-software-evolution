@@ -6,7 +6,7 @@
 
 **Source continuation, 2026-10-11:** the [ownership/history and scenario audit](../nu-source-contracts-and-scenarios-2026-10-11.md) inspects pinned Nu implementation and public maintenance history directly. It establishes a transition/pause issue-to-patch lineage and functional-mode represented-gameplay undo with native reconstruction. The subsequent [comparator/convention audit](../nu-comparator-and-convention-audit-2026-10-11.md) adds ordinary Godot facilities and D1's existing match/warning-policy sheet. Task eligibility, application-specific snapshot safety, agent access and measured benefit remain separate. The dated coverage refinements add source/practice understanding, not publication-reading credit or experimental results.
 
-**2026-10-15 continuation:** existing attachments now close the selected practice, generation, scene-merge and walkthrough reading gaps at the editions in the [index](full-reading/INDEX.md). S305 is complete at its 1990 report only; the 1991 journal remains at publisher Get Access. The [PDF audit](pdf-acquisition-audit-2026-10-15.md) corrects the false human-verification classification. Confident local experiments are authorized; the dated continuation below integrates bounded probes without claiming comparative benefit. Historical hold/access statements below retain their checkpoint scope.
+**2026-10-15 continuation:** existing attachments now close the selected practice, generation, scene-merge and walkthrough reading gaps at the editions in the [index](full-reading/INDEX.md). At that checkpoint S305 was complete at its 1990 report only. The [October 18 journal reconciliation](full-reading/S305-problem-centered-design-journal-reading-2026-10-18.md) now closes the final-edition gap and distinguishes the added, overlapping six-person prototype check. The [PDF audit](pdf-acquisition-audit-2026-10-15.md) corrects the false human-verification classification. Confident local experiments are authorized; the dated continuation below integrates bounded probes without claiming comparative benefit. Historical hold/access statements below retain their checkpoint scope.
 
 ## Question and scope
 
@@ -1826,3 +1826,57 @@ Reliable execution storage remains prerequisite to the missing batch/local
 condition. Ordinary editing access, complete work and broader beneficiary
 coverage remain separate dependencies; another broad issue search would not
 resolve them. Existing allocations and R02/R10 returns are unchanged.
+
+## 2026-10-18 continuation: batch/local result after exact input recovery
+
+**Discovery and primary understanding, B04/B05/B08/B10/B12:** the
+[revalidated Terra Firma continuation](../nu-terra-firma-revision-feasibility-2026-10-18.md#revalidated-continuation-and-next-consequential-action)
+resolves the previously missing local batch outcome. This is two more processes
+on the same artifact under the original build and oracle, not an independent
+study or a new prevalence source. The original integrity failure remains.
+
+**Evidence disposition:** batch now delivers all 32 tints while preserving the
+local roughness, other declared configuration, links and eleven old histories;
+its actual save reopens with those values. Zero operator lifecycle callbacks
+and unchanged original IDs contrast with propagation's 160 reconstruction
+pairs. The recorded 447-file pre-launch composition and protected post-run
+checks pass for both processes. This supports the authored field-intent
+comparison, while propagation's adverse local result and fresh Order/history
+findings remain unchanged. Different history obligations and the interruption
+prevent treating the pair as an equal-future-state or speed comparison.
+
+**Next consequential action:** specify practical completion/repair and later
+history obligations before another execution assignment, counting selection,
+helper construction, verification, failed work and recovery. The current series
+contains four complete pairs and one invalid startup across nine processes.
+Ordinary editing access, native lifetime, demand, complete authoring cost and
+steering benefit remain separate; the broad survey and R02/R10 returns retain
+their existing boundaries.
+
+## 2026-10-18 continuation: S305 journal edition reconciled
+
+**Discovery and primary reading, B01/B10/B12:** the user supplied the final
+journal PDF and updated its existing Zotero DOI. The [complete journal reading](full-reading/S305-problem-centered-design-journal-reading-2026-10-18.md)
+covers all 39 PDF pages, printed pp.319-355, all 11 figures and the full method,
+results, limitations and reference tail. Publisher/PDF and legacy Crossref
+metadata support the same article identity under the two DOI forms; a formal
+registry alias and unavailable legacy-file byte identity are not established.
+The report and journal remain separate editions of one credited S305 work.
+
+**Evidence disposition:** the final retains three designs, six development and
+four reserve problems, 30 analytical walkthroughs and the favorable OpsTrains
+ranking. It adds one minimal prototype and the same six-person assisted
+Bunsen check reported in S304. Users' omitted basic assumptions, compelling
+alternative interpretations and need to understand action effects qualify the
+analytic prediction. The journal explicitly treats walkthroughs as fallible
+preparation for, or partial substitutes for, empirical evaluation; it supplies
+no calibrated readiness/accuracy score or three-design user comparison. The
+report's full Bunsen appendix is absent from the journal and remains useful.
+
+**Next consequential action:** use this final-edition account in R07/R20's
+knowledge/assistance inventory, preserving chosen representation, operation,
+understanding of effects and independently verified outcome as separate
+observations. Select the practical task before human validation. Follow
+CU-CS-480-90 or underlying protocols only when a selected claim requires them;
+the journal body is no longer an access gap. The 286-work checkpoint is
+unchanged, and shared ChemTrains reports are not independent replications.
