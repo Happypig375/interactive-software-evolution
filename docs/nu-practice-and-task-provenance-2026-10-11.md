@@ -80,3 +80,29 @@ The near-term population is explicitly **these selected F# interactive-applicati
 Missing perspectives include independent Nu adopters and abandoners, less experienced F# users, artists/designers working without a specialist beside them, production QA/release and asset maintainers, very small/cancelled projects, and teams targeting different hardware or longer-lived commercial services. Existing professional studies illuminate some of this work under their own sampling limits; the current Nu issue frame does not fill it. Document this omission instead of compensating with issue counts or assuming every role wants the same mechanism.
 
 **Next:** use this provenance/eligibility record when choosing the practical decision behind a separately reviewable feasibility case. R03/R10 especially need a stated beneficiary and avoided reconstruction burden; an asset-upgrade case is worth promoting only if its total-work question changes the adoption assessment. Broader adoption/population claims need an expanded independent source frame and, where necessary, later authorized participant work. Continue a named accessible primary/source gap when it can change that decision; repeating these narrow searches or creating more cosmetic tasks would not resolve it. No construction, recruitment, adapter, extra worker, model probe or candidate execution follows; new allocation remains zero.
+
+## 2026-10-18 R12 artifact-backed revision preparation
+
+The [Terra Firma family continuation](nu-reuse-and-authoring-contract-2026-10-11.md#2026-10-18-existing-terra-firma-family-and-next-revision-case)
+now supplies an existing project artifact behind a concrete R12 candidate:
+32 linked palms with placement/scale variation across four Villa trees. The
+game's source loads this scene; a new successful load has not been observed.
+This closes an artifact-provenance gap left by the initially authored GUI
+family, without establishing a designer request, prevalence or savings.
+
+A shared foliage tint revision, with a separately authored local roughness
+condition, remains an **authored task on an existing artifact**. The relevant
+beneficiary is a level author maintaining placed props. S254's already-read
+accounts support the general configuration/maintenance concern, not this
+specific requirement or its expected effect. Preserve the difference between
+supplied existing links/history and the cost of constructing a new reusable
+family. Ordinary batch field updates and parameterized composition are valid
+alternatives with different setup/integration burdens.
+
+Eligibility next depends on actual unchanged-scene loading/save/reopen,
+equivalent starting information, the exact override policy and observations
+of all affected configuration, including ancestor reconstruction. Source
+whole-record comparison predicts a potentially adverse field-update case;
+it does not establish a runtime failure. These additions prepare local
+feasibility without allocating candidates or participants or resuming the
+returned R02/R10 gates.

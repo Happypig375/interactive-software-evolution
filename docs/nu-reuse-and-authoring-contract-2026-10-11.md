@@ -119,3 +119,141 @@ family revision and a credible helper/composition comparator with the same
 required override/deletion behavior, counting all construction, configuration,
 revision and verification work. Preserve differing user-intent requirements
 rather than treating equal values as proof of an intended override policy.
+
+### 2026-10-18 existing Terra Firma family and next revision case
+
+The next R12 case is grounded in the pinned Terra Firma gameplay scene, rather
+than another newly invented family. This establishes an existing reusable
+artifact; the proposed revision below remains **authored**, without an observed
+designer request, task frequency or measured benefit. It does not change the
+earlier finding that the sampled external overlay files are empty: entity
+propagation and external overlays are different facilities.
+
+#### Existing artifact and loading boundary
+
+The [actual scene](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/Assets/Gameplay/Scene.nugroup)
+has 19 top-level entity descriptors and 197 including descendants, with 166
+explicit propagation links to 11 source addresses. All link addresses resolve
+within that serialized tree. These are structural extraction results, not
+runtime-created entity counts or independent empirical cases. The traversal
+follows each descriptor's children; it does **not** count the descriptors
+nested inside `PropagatedDescriptorOpt` as additional live instances.
+
+| Existing source, relative to `Game/Gameplay/Scene` | Direct linked targets | Interpretation |
+| --- | ---: | --- |
+| `Villa` | 3 | Four Villa trees including the source; each has 43 direct children. |
+| `Villa/Palm` | 31 | Eight palms in each Villa, 32 including the source. |
+| `Villa/Barrel`, `Villa/Barrier`, `Villa/Crate`, `Villa/Generator` | 19, 35, 27, 11 | Repeated static props, with links spanning the Villa trees. |
+| `Villa/House`, `Villa/House2`, `Villa/Tires`, `Villa/Well` | 7 each | Additional prop families within the same scene. |
+| `Enemy-0001` | 12 | A separate character family; exclude its active behavior from the first static-authoring case. |
+
+Terra Firma's [selected gameplay path](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/Gameplay.fs#L34)
+loads `Assets/Gameplay/Scene.nugroup` using `World.beginGroupFromFile` at line
+49, under the [declared scene handle](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/Simulants.fs#L20).
+The [loader](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldImSim.fs#L259)
+reads and parses the file only on group creation without an existing journal;
+changing its path or contents does not reload an existing group on the next
+Process pass. [Group reconstruction](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldGroup.fs#L258)
+then reads the entity descriptors. This is a source-supported game-loading
+route, not a new successful Terra Firma launch, asset publication or rendering
+observation. Prefer a fresh process for the initial unchanged-scene check;
+explicit recreation would also need its journal/lifecycle boundary verified.
+
+The [source palm and its seven siblings](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/Assets/Gameplay/Scene.nugroup#L2381)
+use `RigidModelDispatcher`, `Gameplay/PalmTree`, a static concave surface
+shape, clipping and mounting. The four Villa instances preserve different
+local placements; explicit scale variations include 1.2 and approximately
+1.1, as well as near-unit values. Missing scale symbols are not measured
+runtime defaults. All 32 palm descriptors omit `MaterialProperties` in the
+current saved scene. Their asset, placement and shape values supply actual
+variation to preserve, not demonstrated intent about a future color change.
+
+The file also preserves older source layouts. For example, the [Barrel's
+current material record](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Terra%20Firma/Assets/Gameplay/Scene.nugroup#L1653)
+contains fields absent from its saved propagation descriptor at lines
+1681–1709. Do not silently regenerate that history and call the result an
+unchanged source artifact. Its effective loading and save/reopen correspondence
+remain an observation obligation. This is distinct from the stopped R10 live
+application-schema construction and does not resume that gate.
+
+#### A consequential, falsifiable comparison to prepare
+
+Use a quiescent **shared foliage tint revision**: apply one declared new
+`AlbedoOpt` value to the 32 existing palms while preserving their placements,
+scales, shape/asset choices and unrelated scene configuration. The beneficiary
+is a level author maintaining a placed prop family. This is a plausible task
+derived from an existing artifact and the completed S254 practice reading,
+not a mined outstanding issue or evidence of its prevalence.
+
+Prepare two requirement conditions before execution. First, all palms should
+follow the shared tint. Second, introduce one explicitly authored local
+roughness override on a named target and require the same shared tint change
+while retaining that independent roughness choice. Both conditions must retain
+the other 165 serialized entities' declared configuration, including objects
+reconstructed indirectly. Fix the exact target, values, property/transform
+tolerances, initial history, observation phases and controls in a later
+reviewable execution protocol; none is an executed result here.
+
+This second condition can distinguish an intended **field-level** update from
+the engine's existing **whole-property** rule. `MaterialProperties` is one
+[record-valued entity property](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/Render/Renderer3d.fs#L77)
+containing albedo and roughness among other fields. Its ordinary
+[getter/setter and static-model default](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldFacets.fs#L2778)
+operate on that record; `StaticModelFacet` uses `MaterialProperties.empty`
+at line 3212, and the [actual palm dispatcher includes that facet](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu/World/WorldDispatchers.fs#L588).
+The propagation loop compares entire property symbols at
+`WorldModule2.fs:614–651`, with separate missing/default branches. It does not
+recursively merge record fields. Thus a differing roughness record **may also
+retain its old albedo** under the inspected branch. That is a source-derived
+prediction to test with actual serialized/effective values, not a material
+result from the earlier Button/Text fixture. If a plain push fails the authored
+requirement, retain that mechanism result and count any explicit reconciliation
+needed to deliver the revision.
+
+The existing graph adds a second cost boundary. After updating direct targets,
+the public wrapper examines their ancestors and propagates those with their
+own targets (`WorldModule2.fs:752–777`). Seven palm targets sit under the source
+Villa, which itself has three targets with 43 children each. The inspected
+route can therefore rebuild whole Villa trees as well as individual palms.
+This is a prediction from the saved graph and implementation, not an observed
+reconstruction count, elapsed time or native-effect result. Observe the actual
+affected set and total reconstruction work; do not charge only 31 leaf updates.
+
+For this existing-scene revision, permit an ordinary batch helper that reads
+each declared target's material record, changes only the required field and
+writes it back, followed by the same save/reopen and outcome checks. An explicit
+roster, ordinary selection or parameter table is valid if its construction and
+maintenance are counted. Do not handicap this alternative to manual editing
+of every copy, or give it the target roster and resolved defaults for free.
+Likewise, existing propagation links/history are supplied setup in the Nu
+condition; an incremental edit comparison does not measure their creation cost.
+
+For the broader construct-and-revise question, the ordinary F# precedent is
+[Twenty 48's tile comprehension](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Projects/Twenty%2048/GameplayDispatcher.fs#L84):
+stable instance names, shared properties and instance-dependent placement,
+text and images. `Content.composite` supplies named child composition. A
+parameterized family with explicit overrides is therefore a credible proposed
+alternative, but the existing precedent is MMCC while Terra Firma loads the
+scene through ImSim. Translation, integration, correct initializer/update
+policy and behavioral equivalence are real work, not an established drop-in
+substitution. Keep that total-work comparison separate from a single batch edit.
+
+**Next:** first observe the unchanged scene's actual loaded tree, effective
+properties, links/history and save/reopen correspondence under a pinned host.
+Then accept the common revision protocol and ordinary batch route before
+comparing delivery, failure/repair and complete work. A failure to load or
+preserve the required starting artifact is a feasibility result, not a reason
+to silently replace it with a cleaner successful fixture. Visual tint, physics,
+Gaia/agent access and human authoring effort each need their actual observations;
+property equality alone proves none of them. Candidate/participant allocations
+and the R02/R10 returns remain unchanged.
+
+The scene is 218,933 bytes and 6,261 lines, SHA-256
+`1dff90c5679233f6b282e03bcb2f2fd7524a6e6e93a7df814a72f5260d3a421a`.
+It matches the retained original Nu archive byte for byte. Private structural
+extraction, selected source spans, identities and the bounded assistant's
+loading/composition handoff are under `.artifacts/r12-propagation-20261018/`.
+The parent checked the consequential loader, composition, property and ancestor
+branches. This pass parsed the whole descriptor structure and read selected
+source bodies; it is not a complete semantic reading of all scene properties,
+a new publication reading, or an additional runtime trial.

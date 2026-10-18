@@ -1672,3 +1672,33 @@ construction/configuration/revision/verification work. Gaia menu/undo,
 save/reopen, interaction and runtime lifetime remain separate. Another passing
 supported variant does not by itself establish the benefit needed to promote
 R12 or validate R20/R21 human outcomes.
+
+## 2026-10-18 continuation: an existing propagated family
+
+**Discovery and primary understanding:** a targeted pinned-project source
+search finds Terra Firma's saved scene as an actual use of entity propagation.
+The [R12 case preparation](../nu-reuse-and-authoring-contract-2026-10-11.md#2026-10-18-existing-terra-firma-family-and-next-revision-case)
+distinguishes its 197 actual serialized descriptors and 166 links from nested
+historical descriptors. The selected family has 32 placed palms across four
+Villa trees. This expands the earlier bounded empty-overlay sample with a
+different existing facility; it is one project artifact, not independent
+beneficiary evidence or a new publication reading.
+
+**Evidence disposition, B04/B05/B08/B10/B12:** source inspection binds the
+gameplay load route, its first-creation boundary and an ordinary F# composition
+precedent. The proposed shared tint/local roughness contrast exposes a possible
+whole-property versus field-level requirement mismatch. Nested propagation
+also reaches a Villa ancestor with three complete tree targets. These are
+consequential source-derived predictions, not new observed failures, rendering
+results or measured work. A batch field update is a valid incremental-edit
+alternative; a constructed parameterized family has separate setup and
+integration costs. Existing practice readings motivate those costs without
+establishing demand for this authored change or a Nu advantage.
+
+**Next consequential action:** observe the unchanged scene's loaded values,
+links/history and save/reopen correspondence before accepting the common
+revision protocol and comparator. Retain older saved descriptor layouts,
+unrelated configuration and actual reconstruction work. Keep incremental
+maintenance separate from full family construction, property outcomes from
+visual/physics behavior, and maintainer feasibility from R20/R21 human effects.
+The R02/R10 returns and experimental allocations are unchanged.

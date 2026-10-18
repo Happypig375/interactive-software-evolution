@@ -9708,3 +9708,66 @@ process output and parent verification are private under
 protocol, reproduction commands and compact identity/result receipt. No
 candidate or participant run, Gaia/input study, R02/R10 resumption or new
 Zotero record follows from this source-level and executed mechanism work.
+
+### R12 existing scene and comparator preparation, 2026-10-18
+
+**Decision:** ground the next family revision in actual pinned project use,
+identify an ordinary alternative and make potential preservation/reconstruction
+costs falsifiable. The [R12 continuation](../nu-reuse-and-authoring-contract-2026-10-11.md#2026-10-18-existing-terra-firma-family-and-next-revision-case)
+selects Terra Firma's static palm family for preparation, with an authored
+shared tint requirement and a separate local-roughness condition. It does not
+promote the case to observed demand or Nu authoring benefit.
+
+A narrow local `rg -l` search for `PropagationSourceOpt`,
+`PropagatedDescriptorOpt` or `propagateEntityStructure` in pinned `Projects/`
+files with `.fs`, `.nugroup`, `.nuentity`, `.nuscreen` or `.nugame` extensions
+returned one file: Terra Firma `Assets/Gameplay/Scene.nugroup`. The initial
+command also named a nonexistent source-root `Assets/` directory; the corrected
+Projects-only search succeeded. This covers those saved-file extensions at
+Nu `064f7ae92a8506689cd91aff5e6804a375d6ef3d`, not historical branches, generated
+assets or outside projects. A raw occurrence search was truncated and is not
+credited as a full property reading.
+
+The complete bracket structure was parsed by a read-only local extractor,
+following only actual child lists. It finds 19 root entities, 197 including
+descendants, 166 explicit links and 11 source addresses; every link resolves
+inside the saved tree. Embedded historical descriptors are excluded from
+these counts. An initial address extraction incorrectly joined characters
+of an already atomic address; its invalid output is retained, and the
+corrected extraction verifies all resolved addresses. This is structural
+analysis, not Nu's deserialization/default conversion or native execution.
+
+Selected source ranges were inspected: scene roots/loading context, the
+source Villa's palms (2381–2541), all 32 palms' extracted placements/scales,
+Barrel current/history records (1653–1713), and the Enemy source (6010–6047).
+The bounded assistant checked the loading and ordinary-composition routes;
+the parent verified selected Gameplay, Simulants, `beginGroupFromFile`,
+`readGroup`, Twenty 48 Content, material/default, dispatcher and propagation
+bodies. Eleven consequential files were matched byte for byte to the original
+archive, whose SHA-256 was rechecked by streaming. Scene identity is
+218,933 bytes / 6,261 lines / SHA-256
+`1dff90c5679233f6b282e03bcb2f2fd7524a6e6e93a7df814a72f5260d3a421a`.
+
+**Consequences:** the scene is used on the game's selected-screen loading path,
+but file changes do not reload an existing group. Thirty-two palms have actual
+placement/scale variation across four Villa trees. Whole-record material
+comparison can conflict with a requested field-wise revision; ancestor
+propagation can rebuild complete Villa instances. Both remain source-derived
+predictions for this artifact. An ordinary batch read/modify/write alternative
+is permitted for an incremental edit; a parameterized composition alternative
+must count its construction and MMCC/ImSim integration. First establish the
+unchanged artifact's loaded values and save/reopen correspondence. Preserve
+its old descriptor layouts and failures rather than silently normalizing them.
+
+Scite accepted `nu_r12_terra_firma_case_20261018` once: **9 cited, 5 excluded,
+0 skipped**. The inspected report has 14 screened source-file identities,
+`retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false`; all provenance is the pinned local source archive.
+The full-text stage records selected source bodies/structural parsing, not
+14 complete paper or file readings. The five unused startup/publication
+locators are not merit rejections. Previously credited WorldModule2,
+WorldContent and S254 decisions are reused without a new screen. Private
+scripts, valid/invalid extraction outputs, source identities, assistant handoff
+and decision/report receipts are under `.artifacts/r12-propagation-20261018/`.
+No new paper, Zotero record/write, literature reading count, native trial,
+candidate/participant allocation or R02/R10 resumption is credited.
