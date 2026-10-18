@@ -110,13 +110,15 @@ returned R02/R10 gates.
 ## 2026-10-18 continuation: material revision rationale and observed limits
 
 The [unchanged Terra Firma scene](nu-terra-firma-reopen-feasibility-2026-10-18.md)
-and [three revision/reopen pairs](nu-terra-firma-revision-feasibility-2026-10-18.md)
+and [four revision/reopen pairs](nu-terra-firma-revision-feasibility-2026-10-18.md)
 now supply the native observations that were still missing in the preparation
 entry above. Both shared cases deliver the tint; propagation with the selected
 local roughness preserves that choice but misses the same palm's tint. The
-batch/local attempt fails input integrity before editing and has no material
-outcome. Preserve those separate dispositions and the
-[storage return](workspace-integrity-return-2026-10-18.md).
+first batch/local attempt fails input integrity before editing and has no
+material outcome. Its later revalidated continuation delivers all 32 tints and
+preserves local roughness, declared configuration, links and old histories.
+Preserve the invalid startup and its ineligible reopen alongside the separate
+accepted continuation in the [integrity record](workspace-integrity-return-2026-10-18.md).
 
 A new bounded public-source check supplies a closer **maintainer rationale**
 for this task. It does not turn the particular tint/roughness requirement into
@@ -153,9 +155,10 @@ this frame. The general prefab maintenance accounts in the already-read S254
 remain separate evidence, not independent corroboration of this exact Nu task.
 
 **Next:** retain the material case as an authored task on an existing artifact
-with a specific maintainer rationale. After the storage prerequisite is met,
-the unobserved batch/local condition and any prospectively declared practical
-repair comparison can address delivery and total work. Creating more cosmetic
-variants or counting related issues will not resolve demand or benefit. The
-new evidence does not resume the R02/R10 returns, authorize candidates or
-participants, or certify broader propagation behavior.
+with a specific maintainer rationale. The bounded storage prerequisite and
+batch/local delivery question are now resolved. Bind a practical repair or
+completion comparison with complete work and later history obligations before
+any additional execution. Creating more cosmetic variants or counting related
+issues will not resolve demand or benefit. The new evidence does not resume
+the R02/R10 returns, authorize candidates or participants, or certify broader
+propagation behavior.

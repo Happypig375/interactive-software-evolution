@@ -156,3 +156,20 @@ success validates the repository checks at this head; it does not complete
 the [R12 local-condition comparison](nu-terra-firma-revision-feasibility-2026-10-18.md)
 or resolve the [workspace integrity return](workspace-integrity-return-2026-10-18.md).
 No native experiment ran from the temporary C: publication checkout.
+
+## Revalidated R12 continuation and S305 reconciliation, 2026-10-18
+
+The combined publication `3f1d95b00e887c2305662b853b9828570325aff8`
+selected the full route because its changes include experiment results and
+the continuation receipt. [Run 39140422091](https://github.com/Happypig375/interactive-software-evolution/actions/runs/39140422091)
+passed scope checks, full Linux validation (14m37s) and full Windows validation
+(16m30s), all on the first attempt. The separate maintenance job and optional
+E2 baseline were skipped under that route.
+
+This validates repository checks at that commit. The
+[R12 execution record](nu-terra-firma-revision-feasibility-2026-10-18.md) and
+[continuation receipt](../experiments/nu-r12-terra-revision/continuation-receipt.json)
+own the separate native evidence, including the retained invalid startup.
+The [S305 journal reconstruction](literature/full-reading/S305-problem-centered-design-journal-reading-2026-10-18.md)
+owns reading coverage and edition limits. CI neither establishes scientific
+benefit nor resumes the R02/R10 returns.

@@ -1880,3 +1880,27 @@ observations. Select the practical task before human validation. Follow
 CU-CS-480-90 or underlying protocols only when a selected claim requires them;
 the journal body is no longer an access gap. The 286-work checkpoint is
 unchanged, and shared ChemTrains reports are not independent replications.
+
+## 2026-10-18 continuation: R12 history consequences and comparator policy
+
+**Discovery and understanding:** no new search or publication reading was
+needed for this source-level question. The [retained-history audit](../nu-reuse-and-authoring-contract-2026-10-11.md#2026-10-18-retained-history-audit-a-conditional-switching-prediction)
+now binds all four actual saved endpoints to the pinned whole-property and
+default-comparison branches, including nested Villa propagation.
+
+**Evidence disposition:** both completed batch cases deliver the specified
+tint and retain their old histories. A later switch to source propagation is
+predicted to change only the edited source palm: the other batch-tinted
+records differ from the default used when old history lacks that property.
+The corresponding propagation-predecessor predictions are 32/32 for shared
+and 31/32 for local, preserving its whole-material override. These are
+conditional source predictions, not later native observations. The original
+invalid startup, local tint failure and Order-history findings are unchanged.
+
+**Next consequential action:** distinguish continued batch use from switching
+to propagation, and declare repair/history conversion as explicit work. A
+second batch update need not depend on propagation history. Bind intermediate
+delivery, actual inherited state and cumulative construction/verification/
+repair costs for the practical comparison. The source result narrows that
+design; it does not establish authoring savings, independent demand, a general
+reuse advantage or whole-background survey completion.

@@ -10150,3 +10150,35 @@ answer-scoped retrieved count is null. These are source decisions, not21
 papers read or independent studies. Private raw metadata, API receipts,
 extraction/renders and citation report remain under the C: recovery directory
 `s305-reconciliation-20261018/`, outside Git.
+
+## 2026-10-18 R12 retained-history follow-up
+
+This segment reuses the already credited Nu pin, completed S254 reading and
+R09 sequence methods for a consequential later-revision question. There was
+no external search, new source identity, publication reading, PDF acquisition
+or Zotero change. No unchanged historical screen was resubmitted to Scite.
+
+A bounded assistant parsed all four actual saved L0 endpoints and their
+Settled/Ready observations, binding receipts, descriptors and saved bytes.
+Selected pinned property/default, child and ancestor propagation branches,
+RigidModel facet/default definitions and the prior address audit determine
+which material comparison would apply. The parent verified the decisive
+source branches and identities and compared five critical properties on all
+32 palms plus Villa between each actual save and its Settled descriptor.
+This is desk inference, not a second revision or a complete reading of Nu.
+
+The [integrated history audit](../nu-reuse-and-authoring-contract-2026-10-11.md#2026-10-18-retained-history-audit-a-conditional-switching-prediction)
+predicts that a later distinct public-propagation tint would reach 32/32 palms
+from P-shared, 31/32 from P-local, and only the source (1/32) from either batch
+endpoint. Batch's missing old material entries invoke comparison with the
+all-unset default, so its existing tint is retained as a whole-property local
+change. Nested Villa routes do not remove that distinction. The completed
+batch cases remain passing; continued batch use is a different policy from
+switching to propagation.
+
+Private source/endpoint derivation, exact bindings, parent acceptance and
+three parser-only failed attempts are retained under the C: recovery root's
+`r12-history-followup-20261018/`. No frozen input, checker or native artifact
+changed. Next choose continued-use, repair and switching policies explicitly
+and account for construction/conversion work before any additional execution;
+this result supplies neither a workload prevalence estimate nor benefit.
