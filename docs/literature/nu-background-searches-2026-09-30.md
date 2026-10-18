@@ -9535,3 +9535,109 @@ unretained occurrences are not invented. The exact 113-source record covers
 the identifiable considered set, not a certified census of all earlier
 retrievals. Arguments, decisions and inspected report are preserved in
 `.artifacts/s308-engine-api-20261015/`.
+
+### S308/S310: complete engine-API methods and diagnosis endpoints, 2026-10-18
+
+**Decision.** Resolve S308's actual selection, operational measures and
+validation; determine what a favorable history/debugger study counts as
+success before defining an R03 practical task. R02 and R10 construction remain
+stopped. This continuation adds no candidate, participant or native experiment.
+
+The exact Scite lookup requested `limit:20`, `offset:0` for
+`10.1145/1518701.1518942`, `10.1145/3586183.3606781`,
+`10.1145/2695664.2695735` and `10.1109/QRS54544.2021.00074`.
+It returned `total:4`, `count:4`; the exact set is exhausted at that response,
+not the debugging literature. An earlier request failed connector validation
+because its intent string exceeded the allowed length; it produced no results.
+The successful lookup supplies metadata/truncated abstracts and selected
+outgoing citation records. Their direction is the listed work citing its
+target; no graph traversal or target-body reading is credited.
+
+Web locator queries were `"Finding causes of program output" Java Whyline pdf`
+and `"Hypothesizer" "Alaboudi" pdf`. The primary
+[Whyline project page](https://www.cs.cmu.edu/~NatProg/whyline-java.html)
+linked the [selected author PDF](https://faculty.washington.edu/ajko/papers/Ko2009JavaWhylineUI.pdf).
+The Scite Figshare route and an initially guessed author filename did not
+yield the selected bytes. Bibliographic, mirror, author-list and teaching
+routes add no independent study. Hypothesizer's author PDF opening was exposed,
+but no full reading began; it, Omission Finder and time-travel queries remain
+conditional leads. The later Whyline journal, thesis, algorithm and tool source
+retain separate edition/method/reproduction requirements.
+
+| Source | Native identity before selected reading | Actual completed coverage |
+| --- | --- | --- |
+| S308 | Existing `GUADYRFC` v7245, `journalArticle`, `PKLXQNEE`; new PDF `EKKWNFZM` v7352 | All 17 publisher pages, 11 figures, four tables, formulas and 42 references; all page images plus rotated Table 4. Source/stored bytes match: 2,170,380 bytes, SHA-256 `74dffb1e1685b4e69bed4c6b85090f9dbbc264cb33d4aa29c6334833845a5492`. |
+| S310 | New `PP6XMGPZ` v7348, `conferencePaper`, `PKLXQNEE`; PDF `62DML9NB` v7350 | All ten author-edition pages, fourteen figures, Table 1 and 22 references, with all page images. Source/stored bytes match: 1,581,821 bytes, SHA-256 `de20a86cf9cbb50adb49d6f5ed23c1cd70bd9a52e2b87ae4e29a3f9a1a6e96b5`. |
+
+The S308 acquisition assistant used the existing requested
+`A:/research-workflow-evaluation/integrations/remote-zotero-pdfs` integration.
+LibKey reached ePDF without attributable bytes. Direct publisher task
+`20261018T151817-5cf2b2df` bound its tab and observed a browser check; that check
+was left untouched, subsequently cleared without agent interaction, and the
+same task resumed successfully. An OpenAlex OA lookup found no repository
+copy; a Semantic Scholar 429 supplies no access conclusion. There is no
+pending user verification. The parent independently checked edition, native
+parentage, versions and both physical hashes before the substantive reading.
+The worker performed acquisition/identity checks, not the full reading or an
+independent scientific review.
+
+S310's initial acquisition response exposed opening text before registration;
+the selected full reading began after native registration, and the opening
+was reread. The author PDF is marked 2021-06-22 in conference layout; original
+publisher byte correspondence is unverified. The published bibliographic
+record therefore remains `conferencePaper`, not `preprint`. S308 remains a
+published journal article. No source dataset, metric calculator, participant
+record or debugging implementation was reproduced.
+
+**Consequences.** [S308](full-reading/S308-engine-api-metrics-access.md) now
+resolves the May 2020 selection, `.cpp` file averaging, chosen thresholds and
+score-range labels, and verifies the paper-to-companion link. The changed
+exception metric and remaining calculator/missing-case/aggregate questions
+prevent equivalence by metric name; no developer task validation is reported.
+[S310](full-reading/S310-java-whyline-diagnosis.md) preserves positive,
+task-dependent diagnosis/recommendation results in a custom UI without edits.
+R03 must bind a practical symptom to accessible historical evidence and an
+ordinary tool, separating state reach, localization, proposed correction,
+verified repair and continuation. Neither conclusion imports a Nu benefit.
+
+The index moves **284→286 = 13 P + 3 A + 270 S**. These are two completed
+publication readings, not two independent validated developer studies or
+closure of the broad survey. S309's retained complete reading was consulted
+for the definition comparison and its transfer paragraph was updated; it is
+not counted as a new reading.
+
+#### Native notes, coverage and considered-source record
+
+Guarded native maintenance updated S308 note `QN6Q654I` to v7353 and S309 note
+`IP54VNGS` to v7354, and created S310 note `IMZXV6QF` v7355. Decoded note text
+exactly matches the accepted working-copy Markdown bytes, respectively
+`bfadc048af668d1bef392bb52d74ea4de9f6ee110f6265d2ab1f351c7c951517`,
+`f34363d00f5ba1353aafa3393e16cfc6392840dd1477cd380d5160d5b68a7ae2` and
+`010353f92caf56a3a4ed8c9940eca29363e24485ad93527fbe629d05b2213642`.
+Parents, keys, memberships and existing attachment objects remained exact;
+the S308/S310 physical PDF hashes were rechecked. The first synchronization
+applied S308's update but then failed serializing its empty response into a
+receipt. That attempt and before snapshot remain; continuation verified the
+already-applied update read-only before performing the remaining writes.
+
+Scite accepted `nu_s308_s310_methods_20261018` once: **3 cited, 22 excluded,
+0 skipped**. The inspected report has 25 screened identities,
+`retrieved:null`, `truncated:false`, zero missing reasons and
+`retrieval_unlinked:false`; two are full-text-stage papers and one included
+source is only the project-page locator. Provenance is ten Scite, thirteen web
+and two other identities. “Excluded” includes deferred methods and unused
+locators, not 22 merit rejections. Work mirrors are consolidated. Five retained
+search-result descriptions lack their exact occurrence URLs and are reported
+as descriptions rather than invented links; this is not an exact search-engine
+result census. Unchanged S42/S66/S309 and prior artifact screens are not
+resubmitted. Private query, acquisition, coverage, note and report receipts are
+under `.artifacts/r03-debugging-methods-20261018/` and
+`.artifacts/s308-engine-api-20261018/`; copyrighted bodies and extracted text
+remain excluded from Git.
+
+Pre-publication checks passed for the nine changed research Markdown files:
+strict UTF-8, 36 added/changed local link targets and fragments, reading-count
+arithmetic, exact native-note source hashes and Git whitespace. All eleven
+existing CI-routing tests passed; these paths select the documentation route.
+No runtime or experimental-result validation is claimed. Unrelated local R02,
+R10, lockfile and attributes work is preserved outside this publication.

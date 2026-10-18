@@ -1,9 +1,10 @@
-# S308 — game-engine API metrics: access and artifact boundary
+# S308 — game-engine API metrics: methods and artifact boundary
 
-**Status, 2026-10-15:** the journal body remains unread. Publisher metadata,
-the complete returned abstract, selected outgoing citation contexts and a
-bounded author-artifact inspection are covered. None supplies full-paper
-credit or a measured Nu usability effect.
+**Complete primary reading, 2026-10-18:** all 17 journal pages, eleven figures,
+four tables, formulas and 42 references are covered. The earlier access and
+artifact checks below remain historical evidence. This reading closes the
+corpus/method gap; it does not establish developer-outcome validation or a
+measured Nu usability effect.
 
 Venigalla and Chimalakonda, *On the comprehension of application programming
 interface usability in game engines*, Software: Practice and Experience
@@ -11,10 +12,68 @@ interface usability in game engines*, Software: Practice and Experience
 First online 13 May 2021; issue August 2021. Before selected reading, native
 Zotero parent `GUADYRFC` v7245 was registered as `journalArticle` in
 `PKLXQNEE`, citation key `Venigalla2021GameEngineAPIUsability`. The acquisition
-check left that object unchanged with no PDF children. This published record
+October 15 check left that object unchanged with no PDF children. This published record
 is not a preprint.
 
-## Decision and actual understanding
+## Completed method and decision consequence, 2026-10-18
+
+The paper selects the highest-star 100 primarily C++ repositories found by
+the GitHub keyword `game engine`, manually checks descriptions and removes
+five forks. All repositories were downloaded on May 10, 2020 (§§2.2, 4).
+This is a purposive historical corpus, not a representative sample of current
+engines or their users. No exact per-engine revision manifest is supplied.
+
+Separate Python calculators operate on `.cpp` files, then average each
+metric over files in a repository (§§2.3–2.4). That is not a verified public
+API/header extraction boundary. The chosen documentation threshold is 50
+words, the preferred maximum parameter count is four, and significant name
+fragments occur more than twice. Six score ranges receive usability labels
+after inspection of the results (§2.5, Table 3). The authors call these
+Likert ratings, but they are assigned metric categories, not participant
+responses. The aggregate is described as an equally weighted mean of eight
+metrics (§§2.5, 3, 7).
+
+Reported structural results favor method-name distinctness, parameter-list
+consistency and parameter complexity; grouping and thread-status documentation
+score poorly. Table 3 assigns 69/95 repositories to aggregate 0.5–0.7,
+23 to 0.3–0.5, two to 0.1–0.3 and one to 0.7–0.9. The text's approximately
+3% “better” characterization is not the exact one-of-95 table count. These
+are score distributions, not observed task success or developer difficulty.
+Selected stars/forks comparisons do not establish a consistent association;
+the authors leave that analysis, developer-calibrated thresholds and weights
+to future work (§§3–4, 7). No developer task or outcome validation is reported.
+
+### The metric names do not guarantee the same construct
+
+Comparison with the completed [S309 derivation](S309-structural-api-usability.md)
+exposes consequential operational changes, not merely another language sample:
+
+| Boundary | S309 | S308's published specification |
+| --- | --- | --- |
+| Unit and aggregation | Public declarations, per-class API and system class mean | `.cpp` files and repository file mean; public-only filtering not established |
+| AESI | Depth/height of declared exception classes; no-exception methods excluded using a sentinel | Method length and line distance from throw to catch (§2.1); 46 repositories return no exception blocks (§3) |
+| ADI | Documentation word threshold 10 | Threshold 50; comments inside a method and between preceding/current methods assigned to the current one, without semantic interpretation |
+| AMGI | Mean over significant keyword scores; alphabetically ordered declarations in its evaluation | Table 2 divides the keyword-score sum by the number of methods; calculator describes runs of method declarations |
+
+There are also internal specification gaps. ATSI's set definition requires
+both `thread` and `safe`, while the calculator description says either
+substring (§§2.1, 2.3). Table 2 prints APLCI as an unnormalized sum despite
+the stated 0–1 range. The 46 no-exception reports are not accompanied by an
+explicit missing-case aggregation rule, although Table 3 classifies all 95
+repositories for AESI. Without the executed calculators, these are unresolved
+definition/implementation correspondences; they do not identify which exact
+calculation produced the results. The earlier workbook sum/mean mismatch
+also remains unresolved.
+
+R01/R07/R20 should therefore specify the interface a task actually exposes
+before adopting any metric. Neither a C++ implementation-file score nor its
+Java predecessor validates an F#/GDScript usability scale. Retain the useful
+structural hypotheses about naming, parameters and documentation, but measure
+correct completed work, learning, assistance and total cost independently.
+An adoption or readiness conclusion needs relevant outcome evidence, not an
+engine ranking with inherited metric names.
+
+## Earlier decision and abstract coverage, 2026-10-15
 
 R01/R07/R20 need to distinguish source-level API observations from correct
 completed work, learning and adoption cost. The primary abstract describes
@@ -34,7 +93,7 @@ do not establish validity. S309 is therefore the consequential accessible
 primary-method dependency; its edition and reading coverage are recorded
 separately.
 
-## Acquisition and coverage
+## Earlier acquisition and coverage, 2026-10-15
 
 The requested `remote-zotero-pdfs` integration followed the supplied
 institutional LibKey route to Wiley's ePDF URL but returned an unknown state
@@ -55,7 +114,7 @@ figure, table, equation or supplement is credited as read. Private route,
 native-object and tool receipts remain under
 `.artifacts/s308-engine-api-20261015/`.
 
-## Bounded companion-results inspection
+## Bounded companion-results inspection, 2026-10-15
 
 The author's [profile](https://akhilasrimanasa.github.io/) lists the exact
 paper, and the same account owns
@@ -63,8 +122,9 @@ paper, and the same account owns
 The topic, 95 rows and all eight metric labels support a strong companion
 attribution. The accessible publisher, institution and author pages do not
 provide an explicit paper-to-repository citation; that link remains an
-inference pending the body. Do not present the repository as a verified
-complete publication package.
+inference pending the body at that checkpoint. **Resolved October 18:** the
+paper's footnote on p.1734 and conclusion explicitly link this repository.
+The attribution is now verified; completeness of the release does not follow.
 
 At revision `797f55baed26a0844f4ae2476e0833790aa5bb2b`, the whole tree has
 three files: a README, a results workbook and a plots PDF. The README and
@@ -75,8 +135,9 @@ Its results sheet has one header and 95 unique engine-name rows, eight
 metric columns and a score column. J2:J96 uses the shared formula
 `SUM(B2:I2)`, whereas the README calls the aggregate an average. The GitHub
 About field says 100 repositories; the name, README and workbook say 95.
-These are artifact inconsistencies; the unread paper may explain its own
-aggregation and population.
+The subsequently read paper explains 100 selected versus 95 retained engines
+by fork exclusion, but repeatedly describes a mean rather than this workbook
+sum. No recomputation or ranking reproduction is claimed.
 
 No owner/repository URLs, exact engine revisions, extraction implementation,
 tests or build instructions occur in that three-file tree. The workbook
@@ -93,7 +154,29 @@ removes terminal `-master`/`-develop` and ignores case. Renames and other
 transformations remain unexamined. Neither those partial matches nor shared
 authors establish that GE526 is the exact S308 corpus.
 
-## Consequence and executable next step
+## Completed acquisition and coverage, 2026-10-18
+
+The requested `A:/research-workflow-evaluation/integrations/remote-zotero-pdfs`
+first reached an unresolved LibKey ePDF route, then bound direct publisher
+task `20261018T151817-5cf2b2df`. Its visible browser check was left untouched;
+subsequent observation showed the same tab cleared without agent interaction.
+The integration then acquired the exact 17-page publisher PDF and attached
+it as `EKKWNFZM` v7352 to unchanged parent `GUADYRFC` v7245. The parent,
+membership, edition and stored/downloaded byte correspondence were independently
+rechecked before selected reading. There is no pending user verification.
+
+The PDF has 2,170,380 bytes, SHA-256
+`74dffb1e1685b4e69bed4c6b85090f9dbbc264cb33d4aa29c6334833845a5492`.
+All 17 text pages and all 17 MuPDF page renders were read, with Table 4
+additionally viewed rotated. Native-order extraction avoided whitespace from
+the publisher margin watermark; MuPDF images resolved the Poppler Symbol-font
+warning. Coverage includes every displayed formula, Figures 1–11, Tables 1–4,
+threats, conclusion and all references. The previously inventoried companion
+plots PDF was not separately read. No calculator, source dataset, developer
+study or empirical result was reproduced. Private acquisition, native identity,
+text and visual evidence is under `.artifacts/s308-engine-api-20261018/`.
+
+## Remaining consequential dependencies
 
 Retain structural scores as hypotheses about particular interface demands
 until the relevant validation, task and language boundary is established.
@@ -101,11 +184,10 @@ C++ engine-core declarations need not be the F#/GDScript interface a Nu or
 Godot user actually edits. A score, a reproducible score and a validated
 developer outcome are separate claims.
 
-Use S309's primary derivation to resolve what these measures actually
-quantify. To close S308, acquire its exact journal body through a working
-authorized publisher/author route, then inspect corpus selection, thresholds,
-missingness, aggregation, implementation and validation, including any
-artifact footnote. Do not infer those answers from the companion workbook
-or substitute GE526's population. This access gap does not require stopping
-independent consequential literature or justify running an API-ranking,
-participant or candidate experiment.
+The selected body and its metric origin are now read. If a proposed Nu
+comparison needs one of these scores, first resolve that score's actual
+calculator, exact source scope, missingness and outcome validation; the
+three-file companion tree and GE526 comparison do not supply them. Otherwise
+proceed with the prepared task/behavior/work outcomes rather than expanding
+an API-ranking exercise. No participant or experimental candidate allocation
+changes, and the broader survey remains open at its declared scope.

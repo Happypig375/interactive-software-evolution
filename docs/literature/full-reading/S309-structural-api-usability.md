@@ -93,7 +93,7 @@ The claim that hundreds or thousands of classes lend “statistical validity” 
 
 ## Transfer to C++, F# and GDScript
 
-S309 itself evaluates only Java. It supplies no evidence for C++, F# or GDScript and cannot establish the method of unread S308 merely because S308 reportedly applies API metrics to game engines.
+S309 itself evaluates only Java. It supplies no evidence for C++, F# or GDScript. The subsequent [complete S308 reading, October 18](S308-engine-api-metrics-access.md#completed-method-and-decision-consequence-2026-10-18), independently resolves that paper's C++ method: file-level extraction/aggregation, a changed AESI construct and documentation threshold, and unresolved formula/calculator correspondences. Shared metric names do not establish an unchanged implementation or cross-language validation.
 
 Some syntactic quantities could be reimplemented for a specified C++ or F# public API, but their meaning depends on the target's overload rules, generic/type system, currying or tuple/record conventions, optional/named arguments, documentation generator and declaration ordering. AMGI especially changes when display order changes; AESI requires an analogous declared exception hierarchy; ATSI and ADI depend on documentation conventions. For a language/toolchain without Java-like overloads, exact static parameter types or declared exception classes, the corresponding scores can become degenerate or require a new construct. That applies directly to any proposed GDScript adaptation unless its API representation and call/documentation semantics are specified first.
 

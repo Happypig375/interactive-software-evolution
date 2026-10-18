@@ -1581,3 +1581,44 @@ comparisons remain future work under their existing allocation boundaries.
 **Evidence disposition for B02/B04/B08:** the [R10 initializer-only live/fresh case](../nu-schema-reload-feasibility-2026-10-16.md) now preserves the old seven-field checkpoint and selected projection while actual FSI conversion gives the added reward field zero despite its initializer of 200. The declared next hit yields score 100; the fresh application observes initial reward 200 and its explicit required-state reconstruction yields 300. Both complete reward-specific continuation oracles pass. This is a valid failed live mapping, not a matched successful preservation pair or a general schema result. The frozen contract, complete selected observations, full attempt ledger, build/runner identities and narrow Nu.Spine exact-path timing limit are retained.
 
 **Next consequential action for B08/B11/B12:** the separate [explicit-migration treatment](../nu-schema-migration-feasibility-2026-10-16.md) now freezes first installation, legitimate zero/nondefault retained configuration, repeated reload and failed-compilation observations. Its application compiles, but four harness/conformance failures remain unresolved. Subsequent objective attempts 11–18 failed consecutively, crossing the five-failure return at 15; passing controls 19/20 do not authorize that overrun. Construction is stopped with the current draft uncompiled and unaccepted. Preserve the return and exact draft; ordinary continuation does not resume this gate. No native migration process ran and no migration success follows from these construction checks. Preserve intermediate content/effects and account for all mapping, verification and reconstruction work. The unchanged-schema success remains valid at its narrower boundary; this adverse schema result neither erases it nor establishes a net benefit. Ordinary agent access, native/external effects and human steering remain separate questions. R02 input construction remains stopped under PLAN's return.
+
+## 2026-10-18 continuation: structural metrics and diagnosis endpoints
+
+**Discovery coverage:** an exact four-DOI lookup follows known S66 method leads,
+requesting Scite `limit:20` and receiving all four matches. Selected author
+routes resolve Java Whyline as S310. The existing remote Zotero integration
+also acquires S308's exact publisher PDF. The [ledger](nu-background-searches-2026-09-30.md)
+records the routes and actual source decisions; this is a targeted continuation,
+not a new field-wide search or a completeness claim.
+
+**Primary understanding:** [S308](full-reading/S308-engine-api-metrics-access.md)
+now has complete 17-page text/visual coverage. It selects 95 C++ repositories
+from a top-starred May 2020 collection, averages `.cpp` file scores, and assigns
+usability labels to metric ranges. Its explicit companion link resolves the
+earlier attribution uncertainty. Its AESI construct and documentation threshold
+differ from S309; calculator/source provenance, missing-case treatment and the
+workbook sum versus paper mean remain unresolved. It reports no developer task
+validation. [S310](full-reading/S310-java-whyline-diagnosis.md) has complete
+ten-page author-edition coverage. Its favorable, task-dependent diagnosis and
+change-recommendation comparison uses a custom interface without code edits;
+the later author-file date and shared Whyline publication lineage are retained.
+
+**Evidence disposition, B01/B04/B08/B10/B12:** structural descriptions,
+recovery access, diagnosis and verified maintenance are different outcomes.
+S308's distributions retain their descriptive value but do not validate Nu
+usability. S310's positive recommendations do not establish executed repair,
+and its output-to-source dependency interface cannot be inferred from Nu's
+history roots. These results refine R01/R03/R07/R20 without importing an
+effect size, treating publications as independent replications, or erasing
+the completed R03/R06 feasibility/cost results.
+
+**Next consequential action:** R03 should bind a practical symptom/question to
+actual retained evidence and an ordinary supported tool before constructing a
+debugging-benefit comparison. Separate reaching a state, locating the fault,
+proposing a correction and delivering a verified repair/continuation; identify
+supplied causal information and count added instrumentation. R01/R07/R20
+should select the actual task-facing interface and outcome before seeking
+predictive validation of a structural score. The selected body gap is now
+closed; exact calculators and developer validation remain conditional
+dependencies, not evidence of absence. R02/R10 remain stopped and experimental
+candidate, participant and human-steering allocations remain unchanged.

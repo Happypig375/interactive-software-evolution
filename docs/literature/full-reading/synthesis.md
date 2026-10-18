@@ -1293,7 +1293,7 @@ maintenance effect, agent performance or Nu value.
 ### S308/S309: structural API scores and observed developer outcomes
 
 The complete [S309 primary derivation](S309-structural-api-usability.md)
-reconstructs the eight metrics later used by the engine-API study. Its seven
+reconstructs the eight metrics later adapted by the engine-API study. Its seven
 Java systems demonstrate calculations, same-property counts and selected
 manual examples, with some community-belief and version comparisons. These
 are useful structural checks. The authors explicitly leave the relation to
@@ -1310,10 +1310,40 @@ Keep independently checked behavior, all assigned outcomes, assistance and
 total work as outcomes; assess a structural metric's predictive value separately
 if a practical question makes it consequential.
 
-[S308](S308-engine-api-metrics-access.md) remains a close access-limited source.
-Its abstract reports 95 C++ repositories; the likely author results workbook
-has those rows but no engine revisions or extraction code. Its aggregate is a
-sum where the README says average. Those facts do not resolve the unread
-paper's corpus, implementation, thresholds or validation, and the related
-GE526 corpus is not an established replacement. S309's complete reading does
-not supply S308's methods or close the broad survey.
+[S308](S308-engine-api-metrics-access.md) is now fully read in its 17-page
+publisher edition. Its top-starred, manually filtered 95-repository C++ corpus
+was downloaded in May 2020; `.cpp` scores are averaged over files. The six
+usability labels classify metric ranges, not developer observations. The
+paper explicitly links the previously inspected companion, resolving that
+attribution, but no exact engine revisions or calculator code occur in its
+pinned three-file tree. The paper's mean and workbook's sum still differ.
+The related GE526 corpus is not an established replacement.
+
+S308 also changes operational definitions: exception specificity becomes
+throw-to-catch line distance rather than S309's exception-type hierarchy,
+and documentation uses a different threshold and comment assignment. Formula,
+missing-case and calculator correspondences remain qualified. Shared names
+therefore do not establish cross-language measurement equivalence. This is
+useful structural background with an unresolved validation question, rather
+than evidence of Nu learning, adoption or productivity. The primary-reading
+gap is closed; the empirical benefit question and broad survey are not.
+
+### S310: a useful diagnosis result is not an executed repair
+
+[Java Whyline](S310-java-whyline-diagnosis.md) supplies favorable, task-dependent
+results for diagnosing two ArgoUML faults and recommending changes. Its custom
+comparison does not permit edits, so the outcome cannot be relabelled as a
+delivered, behaviorally verified repair. Its dependency questions and temporal
+output selection also expose information beyond a saved state. Together with
+S42's information-dependent reversal and S66's rerun/diagnosis distinction,
+this makes the task's initial knowledge and accessible evidence consequential
+parts of R03's comparison.
+
+The next R03 preparation is a concrete symptom/question → historical evidence
+→ supported tool → expected answer map. Keep state reach, fault location,
+proposed correction, executed repair and continuation as separate observations.
+The completed B0/B1 and R06 work does not establish that map or ordinary agent
+access. Added causal instrumentation must be counted and identified as a
+treatment change. A further identical recovery witness would not resolve
+practical debugging value; R02/R10 returns and candidate/participant allocations
+remain unchanged.
