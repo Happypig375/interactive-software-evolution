@@ -1,6 +1,6 @@
 # S304-S306 - Walkthrough originals and final-edition coverage
 
-**Original access check, 2026-10-11; updated 2026-10-15.** These records were registered in Zotero collection `PKLXQNEE` before selected body reading. The October 11 routes below remain the historical access record. Existing native PDFs subsequently supplied complete selected-edition readings for S304 and S306, and a complete 1990 technical-report predecessor for S305. The 1991 S305 journal body remains unread. [S307](S307-programming-walkthrough-draft.md) remains a separate, explicitly marked archived draft. These publications and editions overlap in method and ChemTrains evidence; they do not establish four independent datasets.
+**Original access check, 2026-10-11; reading update 2026-10-15; S305 route correction 2026-10-18.** These records were registered in Zotero collection `PKLXQNEE` before selected body reading. The October 11 routes below remain the historical access record. Existing native PDFs subsequently supplied complete selected-edition readings for S304 and S306, and a complete 1990 technical-report predecessor for S305. The 1991 S305 journal body remains unread. [S307](S307-programming-walkthrough-draft.md) remains a separate, explicitly marked archived draft. These publications and editions overlap in method and ChemTrains evidence; they do not establish four independent datasets.
 
 | ID and bibliographic edition | Native identity | Current coverage and remaining gap |
 | --- | --- | --- |
@@ -13,6 +13,23 @@
 On October 11, standard HTTPS to current and legacy ACM routes for S304 returned 403, and web opens of the PDF and article failed. Scite/DBLP metadata, abstract/context screens and S307's account were the only coverage then. Scite's shortened title and January date did not override the verified subtitle/year. The complete October 15 reading uses the existing publisher attachment retrieved through the HKUST workspace on October 12; it does not relabel the failed routes as successful.
 
 For S305, primary Crossref metadata and the publisher abstract/issue identity were available. The old DOI redirected to the publisher homepage, and the same-title/authors/pages publisher entry at [10.1080/07370024.1991.9667171](https://www.tandfonline.com/doi/abs/10.1080/07370024.1991.9667171) gave issue 3-4 and a 2011 online date. Its PDF route returned 403. A Scite-supplied institutional resolver returned HTTP 200 with a 4,784-byte Primo JavaScript application shell, not article text or a PDF. The bounded October 15 publisher recheck reached a Get Access surface and produced no candidate file. The separate 1990 report attachment now closes the selected method/body gap at that report edition only. The 1991 journal correspondence remains unresolved.
+
+**S305 correction, October 18:** the user's remote screenshot shows DOI.org
+returning `DOI NOT FOUND` for the publisher alias above. The earlier request
+to complete human verification on that page was incorrect. The existing
+remote Zotero integration subsequently opened the direct publisher article
+and one exact ePDF route. Both acquisition probes returned `unknown`, with no
+attributable PDF bytes; this is not a demonstrated access denial. A final
+supported Poll selected the existing direct-article tab at the publisher URL
+above and detected no challenge. No human verification is pending.
+
+The journal parent `VFB2TP7A` remains v6495, with its canonical DOI unchanged
+and only note `CEE3V4N8` v6897; no PDF child or native write was created.
+The report remains a separate edition. Continue collection/identity review
+only when an authenticated institutional state or a lawful supplied file
+provides the exact journal PDF; repeating these unchanged routes does not
+resolve correspondence. Private task, visibility and native receipts are in
+`.artifacts/s305-journal-20261018/`.
 
 For S306, Scite metadata and a primary first-page bibliographic/abstract extract were available. The CiteSeer locator failed local DNS resolution and web retrieval, and the official DOI route returned 403. The completed October 15 reading uses the existing publisher attachment supplied through RVLSession Downloads.
 

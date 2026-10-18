@@ -9641,3 +9641,30 @@ arithmetic, exact native-note source hashes and Git whitespace. All eleven
 existing CI-routing tests passed; these paths select the documentation route.
 No runtime or experimental-result validation is claimed. Unrelated local R02,
 R10, lockfile and attributes work is preserved outside this publication.
+
+### S305 resolver correction and direct-page recheck, 2026-10-18
+
+The user-supplied remote screenshot displays DOI.org `DOI NOT FOUND` for
+`10.1080/07370024.1991.9667171`. It does not show human verification; the
+earlier request to complete verification there was incorrect. Through the
+existing remote Zotero integration, task `20261018T154426-7449008e` opened the
+[direct publisher article](https://www.tandfonline.com/doi/abs/10.1080/07370024.1991.9667171).
+One exact [ePDF follow-up](https://www.tandfonline.com/doi/epdf/10.1080/07370024.1991.9667171),
+task `20261018T154519-cccbba7f`, likewise returned `unknown` without attributable
+PDF bytes. This is an acquisition/observation limit, not confirmed denial.
+
+A final supported read-only Poll selected the original direct-article task
+tab and reported its publisher URL with no challenge detected. No further
+navigation, route retry or user verification was required. Native final
+verification leaves journal parent `VFB2TP7A` v6495 and its sole note child
+`CEE3V4N8` v6897 unchanged, with no PDF or write. The canonical journal DOI
+`10.1207/s15327051hci0603&4_5`, publisher-alias/body uncertainty and separate
+fully read report remain as recorded in the [edition note](full-reading/S304-S306-walkthrough-edition-access.md).
+
+No new paper search, full reading, independent study or count increment is
+credited. The existing publisher/source decisions are unchanged and are not
+resubmitted as new Scite screens. The next executable step is collection,
+edition/byte review and guarded attachment if an authenticated institutional
+state or lawful supplied file yields the exact journal PDF. Per-attempt state,
+events, final tab selection and native evidence are preserved under
+`.artifacts/s305-journal-20261018/`; the user's screenshot remains private.
