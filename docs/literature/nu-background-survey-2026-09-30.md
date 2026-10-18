@@ -1622,3 +1622,53 @@ predictive validation of a structural score. The selected body gap is now
 closed; exact calculators and developer validation remain conditional
 dependencies, not evidence of absence. R02/R10 remain stopped and experimental
 candidate, participant and human-steering allocations remain unchanged.
+
+## 2026-10-18 continuation: a debugging symptom and inspection's effects
+
+**Discovery and primary understanding:** the [R03 question/access map](../nu-history-question-access-2026-10-18.md)
+reuses S310 and the retained R04 reconstruction failure, with no new paper
+search or reading credit. Exact retained hashes and selected original source
+bodies were rechecked. The actual symptom is a model/entity position mismatch;
+the missing original fresh scene names still prevent confirming the proposed
+name-collision explanation.
+
+**Evidence disposition, B04/B08/B12:** a stored state, a causal trace, an
+available inspection interface and a verified repair remain different things.
+Pinned Gaia Interactive evaluation snapshots even a getter and clears redo
+history. This source-derived observation changes the tool/cost policy of a
+future comparison; it does not establish a GUI run or show that every way of
+inspecting Nu state has the same effect. The R04 maintainer's successful
+reconstruction amendment remains a scoped setup correction, not independent
+task-solving or evidence of diagnostic benefit.
+
+**Next consequential action:** validate the selected ordinary inspection route
+and its branch/halt boundary for a practical case with its actual predecessor
+evidence. Preserve the original episode as an incomplete causal record; a new
+deterministic mechanism case would be authored and would not fill that history.
+Continue independent authorized mechanisms while candidate execution, human
+steering and the R02/R10 returned gates remain unchanged.
+
+## 2026-10-18 continuation: R12 public propagation
+
+**Discovery and primary understanding:** no new paper search, full reading or
+independent study is credited. Targeted original source checks resolve a
+public `World.propagateEntityStructure` route through an actual stub world,
+rather than a copied or reflection-invoked descriptor algorithm. Existing
+R12 reuse, Cognitive Dimensions and generation readings retain their scopes.
+
+**Evidence disposition, B04/B05/B08/B10/B12:** the
+[executed fixture](../nu-propagation-feasibility-2026-10-18.md) passes one frozen
+Button/Text family revision. It preserves divergent target values and local
+deletions, updates matching values, introduces new source children and retains
+target-only children. Source deletion removes a locally edited child; an
+equal-valued return follows the source. The recreated target has a new root
+ID. These are useful policy observations, including limits, not an authoring
+or productivity advantage. One source-review rejection, the accepted first
+build and one runtime attempt are preserved with complete identities.
+
+**Next consequential action:** choose a practical family revision with explicit
+override/deletion intent, an ordinary helper/composition comparator and total
+construction/configuration/revision/verification work. Gaia menu/undo,
+save/reopen, interaction and runtime lifetime remain separate. Another passing
+supported variant does not by itself establish the benefit needed to promote
+R12 or validate R20/R21 human outcomes.

@@ -1,0 +1,162 @@
+{
+  "schema": "nu-r12-public-propagation-v1",
+  "disposition": "completed_pass",
+  "scope": "One authored button/text family, one public propagation call in a functional accompanied halted stub world; no comparative benefit or ordinary agent workflow result.",
+  "nu_commit": "064f7ae92a8506689cd91aff5e6804a375d6ef3d",
+  "protocol": {
+    "path": "experiments/nu-r12-propagation/PROTOCOL.md",
+    "sha256": "44edbb4155ad49e32dc883486693570f9912a38baca85352227d8d8814c225f2",
+    "bytes": 7248
+  },
+  "sources": {
+    "Program.fs": {
+      "path": "experiments/nu-r12-propagation/Program.fs",
+      "sha256": "3080dd3329bcaa034349506c9ffd08b9cdfaaa7c29f51acee485ec1658e7fb43",
+      "bytes": 21032
+    },
+    "R12PropagationProbe.fsproj": {
+      "path": "experiments/nu-r12-propagation/R12PropagationProbe.fsproj",
+      "sha256": "145cee8d3590880d3ab2074749e4cae744c5bfe7c8a7ef82d674491bc9eae568",
+      "bytes": 3140
+    },
+    "global.json": {
+      "path": "experiments/nu-r12-propagation/global.json",
+      "sha256": "1e23a26d555754d3c37fcf4fc27e0633e0e7b2c24e041f30c3d053227936a5cc",
+      "bytes": 75
+    },
+    "run_probe.py": {
+      "path": "experiments/nu-r12-propagation/run_probe.py",
+      "sha256": "9c81ef9df1ae04c96c2c28b9a6ecac1dcd094825575cbf63a5eb045f97b4fa46",
+      "bytes": 7528
+    }
+  },
+  "assembly": {
+    "Nu.dll": {
+      "path": ".artifacts/r12-propagation-20261018/build-01/bin/Release/net10.0/Nu.dll",
+      "sha256": "e96cd61d188c689f7e39e2670b4d8582e26b9ea2dc95e1a15056891b7c99cd68",
+      "bytes": 4948992
+    },
+    "Nu.pdb": {
+      "path": ".artifacts/r12-propagation-20261018/build-01/bin/Release/net10.0/Nu.pdb",
+      "sha256": "8ab99470a5f7ede95465acb73aee410ea8d2900c8f7738b83b3a401b326ecc03",
+      "bytes": 1982996
+    },
+    "R12PropagationProbe.dll": {
+      "path": ".artifacts/r12-propagation-20261018/build-01/bin/Release/net10.0/R12PropagationProbe.dll",
+      "sha256": "ac247d3141fb8e7116a62955272f881eb102a040efab20b8fc0fb98729d7f999",
+      "bytes": 78848
+    },
+    "R12PropagationProbe.pdb": {
+      "path": ".artifacts/r12-propagation-20261018/build-01/bin/Release/net10.0/R12PropagationProbe.pdb",
+      "sha256": "fd1ba46fc86390db75ed9e88743a9e3842cad3158b9c27874b87d8ad7e25f942",
+      "bytes": 16612
+    },
+    "R05EventProbe.deps.json": {
+      "path": ".artifacts/r12-propagation-20261018/build-01/bin/Release/net10.0/R05EventProbe.deps.json",
+      "sha256": "abf4af55895c3c47aeff89ac3eb7d116d5f6d4d3a4701805be703ef55cc04d27",
+      "bytes": 47978
+    },
+    "R05EventProbe.runtimeconfig.json": {
+      "path": ".artifacts/r12-propagation-20261018/build-01/bin/Release/net10.0/R05EventProbe.runtimeconfig.json",
+      "sha256": "c230a317a54dd960bcbeb5f347f52e18dc665a26f7efda2159fced9a5ac7e097",
+      "bytes": 342
+    }
+  },
+  "host": {
+    "files": 189,
+    "bytes": 621372362,
+    "source_unchanged": true,
+    "copied_exactly": true,
+    "sealed_files_unchanged_after_run": true
+  },
+  "build": {
+    "attempt": 1,
+    "exit_code": 0,
+    "warnings": 60,
+    "errors": 0,
+    "warning_codes": [
+      "NU1901",
+      "NU1902"
+    ],
+    "receipt": {
+      "path": ".artifacts/r12-propagation-20261018/build-01/receipt.json",
+      "sha256": "74e2972f8cb2e4562fdf48c3d2c39b1deca789fd30d318c7676d449f460105e0",
+      "bytes": 2248
+    }
+  },
+  "runtime": {
+    "attempt": 1,
+    "exit_code": 0,
+    "deadline_seconds": 120,
+    "timed_out": false,
+    "runtime": "10.0.10",
+    "wrapper_calls": 1,
+    "cleanup_passed": true,
+    "receipt": {
+      "path": ".artifacts/r12-propagation-20261018/runtime-01/receipt.json",
+      "sha256": "f787344d5aa8f5d44e60a02e8c4dd5343c465cb543f8a96bca8a5b12867749a9",
+      "bytes": 1856
+    },
+    "stdout": {
+      "path": ".artifacts/r12-propagation-20261018/runtime-01/stdout.log",
+      "sha256": "74f884c10c31ff558d4c25fbbb60d53f2deacc47892f44cd781e503fa7bf2180",
+      "bytes": 35510
+    },
+    "stderr": {
+      "path": ".artifacts/r12-propagation-20261018/runtime-01/stderr.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  },
+  "observations": {
+    "mode": {
+      "accompanied": true,
+      "functional": true,
+      "halted": true
+    },
+    "target_root_text": "Target override",
+    "target_children": {
+      "Added": "Added v1",
+      "EqualValue": "Equal v1",
+      "Shared": "Shared v1",
+      "TargetOnly": "Target only"
+    },
+    "source_children": {
+      "Added": "Added v1",
+      "EqualValue": "Equal v1",
+      "LocalDeleted": "Local v0",
+      "Shared": "Shared v1"
+    },
+    "target_root_id_before": "119",
+    "target_root_id_after": "324",
+    "root_id_interpretation": "Descriptive recreation evidence; no lifetime, pending work or external-effect preservation claim.",
+    "bootstrap_checks": 13,
+    "pre_wrapper_checks": 26,
+    "post_wrapper_checks": 14,
+    "checks_are_not_independent_cases": true
+  },
+  "preparation_history": [
+    "Source review 01 rejected absent-entity classification and missing effective-mode checks; corrected before any build.",
+    "Source review 02 accepted the corrected observer and unchanged scientific fixture.",
+    "First build passed; parent accepted source correspondence, complete host copy and compiled probe seal.",
+    "One assigned runtime attempt passed all declared observations; no corrective runtime or replacement fixture."
+  ],
+  "rejected_source_snapshots": [
+    {
+      "path": ".artifacts/r12-propagation-20261018/review-01/Program.rejected.exact.fs",
+      "sha256": "3872ac29e661f0c06042778db49c0675ca16666b58e3c1ab8ab555549a0a73b4",
+      "bytes": 19138
+    },
+    {
+      "path": ".artifacts/r12-propagation-20261018/review-01/R12PropagationProbe.rejected.fsproj",
+      "sha256": "d34df6601d6cc4ff51ae73be6dc29ea403dd0ed90101607339008e461f233579",
+      "bytes": 3175
+    }
+  ],
+  "parent_acceptance": {
+    "path": ".artifacts/r12-propagation-20261018/parent-runtime-acceptance-01.json",
+    "sha256": "7865869b9a5e8ea8d4aa03be56d386005555540a5d0ddcb15e95f96d6aaf89b0",
+    "bytes": 740
+  },
+  "parent_verification": "Exact retained JSON observations checked against the frozen named fixture; no new native run."
+}

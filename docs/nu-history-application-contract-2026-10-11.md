@@ -74,3 +74,15 @@ The [execution record](nu-history-feasibility-2026-10-15.md) now establishes one
 ## 2026-10-15 bounded B1 result
 
 The [B1 record](nu-history-continuation-2026-10-15.md) subsequently passes one fixed twenty-step represented-state continuation, with exact local event order and complete model/selected-projection agreement. It reconstructs B0’s recorded values into new processes and retains a new history root; it does not resume the old process. A step-five managed wall bounce is observed without new application randomness. Native contact state, audio, framebuffer and replayed input remain untested. The next R03 gap is a practical recovery/repair comparison with complete work accounting and verified workflow access, rather than another generic snapshot inventory.
+
+## 2026-10-18 concrete question and inspection policy
+
+The [symptom/evidence/tool map](nu-history-question-access-2026-10-18.md) now
+uses the retained R04 stale-position episode to distinguish current-state
+inspection from predecessor evidence and confirmed causal diagnosis. Original
+fresh scene names are missing, so the inferred key collision is not a scored
+ground truth. Pinned Gaia Interactive evaluation takes a snapshot and clears
+redo history even for a getter expression. The next workflow check must bind
+the chosen inspection route, branch and halt policy, and actual predecessor
+information. This source/retained-record result adds no GUI run or ordinary
+agent access and leaves the B0/B1 observations at their original scopes.

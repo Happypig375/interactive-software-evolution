@@ -9668,3 +9668,43 @@ edition/byte review and guarded attachment if an authenticated institutional
 state or lawful supplied file yields the exact journal PDF. Per-attempt state,
 events, final tab selection and native evidence are preserved under
 `.artifacts/s305-journal-20261018/`; the user's screenshot remains private.
+
+### R03 symptom and inspection continuation, 2026-10-18
+
+Following S310's completed reading, a [concrete question/access map](../nu-history-question-access-2026-10-18.md)
+checks the retained R04 stale-position episode against its published trace
+and process hashes. The two model/entity position discrepancies are verified;
+the original fresh scene names remain missing, so a generated-name collision
+is not confirmed ground truth for an unknown-cause task. The original Nu
+archive was rehashed and selected original Gaia, WorldContent, Gameplay and
+WorldEntity files were inspected at the symptom and access boundaries.
+
+Gaia's source shows that Interactive evaluation calls `snapshot` before FSI,
+including for a getter, and `snapshot` clears the redo list. The proposed R03
+workflow must therefore account for inspection's history operations and test
+the selected ordinary access route. This is a source-derived policy result,
+not a new GUI observation. Complete private identities, the read-only check
+script and decoded retained observations are under
+`.artifacts/r03-question-access-20261018/`. No new paper, search, reading count,
+native run, Zotero change or repeated Scite screen is credited; these are
+material rechecks of already selected sources, not fresh discovery.
+
+### R12 public-wrapper construction, 2026-10-18
+
+A bounded maintainer assistant identified the public engine route and checked
+the relevant core source files against the original Nu archive; the parent
+verified the consequential wrapper, link/index and stub-world source bodies.
+No new literature search, paper reading or unchanged citation screen is
+credited. The [frozen protocol and execution](../nu-propagation-feasibility-2026-10-18.md)
+exercise one real Button/Text source/target revision through public APIs.
+
+After a retained source-review correction, the first build and one runtime
+attempt passed the declared mechanism observations. The engine host was
+copied exactly and remained unchanged. The expected equal-value and
+source-deletion limits, target recreation and unmeasured authoring benefit
+remain explicit. Exact rejected/corrected sources, manifests, commands,
+process output and parent verification are private under
+`.artifacts/r12-propagation-20261018/`; the tracked package contains the probe,
+protocol, reproduction commands and compact identity/result receipt. No
+candidate or participant run, Gaia/input study, R02/R10 resumption or new
+Zotero record follows from this source-level and executed mechanism work.

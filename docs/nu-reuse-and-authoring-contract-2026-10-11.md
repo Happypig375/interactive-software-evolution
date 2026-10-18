@@ -100,3 +100,22 @@ project sizes and no hardware/repetition protocol do not supply a cost model
 for this comparison. Further viewer or algorithm reconstruction is conditional
 on selecting that operation, rather than a prerequisite for the prepared Nu
 button-family question.
+
+### 2026-10-18 public propagation observation
+
+The [first public-wrapper exercise](nu-propagation-feasibility-2026-10-18.md)
+now passes one frozen Button/Text revision in a real functional, accompanied,
+halted stub world. It uses ordinary creation, serialization, duplication and
+linking, then calls `World.propagateEntityStructure` once. Matching values
+follow the source; differing local values and local deletions survive; source
+deletion removes even a locally edited child; target-only children survive.
+A target value changed and then returned to the previous source value follows
+the later source revision. The target's root ID changes on reconstruction.
+
+This resolves the public API execution route for that mechanism fixture,
+including its declared limits. It does not establish Gaia access, save/reopen,
+interaction, runtime lifetime or authoring benefit. Next select a consequential
+family revision and a credible helper/composition comparator with the same
+required override/deletion behavior, counting all construction, configuration,
+revision and verification work. Preserve differing user-intent requirements
+rather than treating equal values as proof of an intended override policy.
