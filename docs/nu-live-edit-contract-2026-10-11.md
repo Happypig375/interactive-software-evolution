@@ -252,3 +252,11 @@ and fresh reconstruction must remain separately accounted. The private
 installation, storage and capture-order notes and parent source checks are retained
 under `.artifacts/r10-schema-20261016/next-migration/`; this preparation does not
 reopen or repair the published initializer-only observation.
+
+The subsequent [explicit-migration preparation](nu-schema-migration-feasibility-2026-10-16.md)
+now freezes that separate treatment and oracle before construction. It assigns
+absence, deliberate-zero and nondefault-75 cases, actual-state repeats,
+failed-compilation handler controls and fresh references. Raw message/generation
+identity and exact reset delivery are observation obligations; fully observed
+wrong behavior remains a mechanism failure. The protocol and oracle reviews
+accept those specifications, not an implementation or native result.
