@@ -1904,3 +1904,47 @@ delivery, actual inherited state and cumulative construction/verification/
 repair costs for the practical comparison. The source result narrows that
 design; it does not establish authoring savings, independent demand, a general
 reuse advantage or whole-background survey completion.
+
+## 2026-10-23 continuation: development history and credible status quo
+
+**Discovery and primary understanding, B02/B04/B05/B08/B10/B12:** ten bounded
+maintainer assistants traced Nu's propagation, history-access and live-model
+lineages; inspected ordinary Godot, Unity and Unreal material workflows; bound
+Redux and stable/alpha XState mechanisms; and recalled structured-merge and
+correspondence literature. The [search ledger](nu-background-searches-2026-09-30.md#2026-10-23-development-history-comparators-and-merge-methods)
+separates exact source editions, selected reading, noisy discovery, failed
+routes and decisions. Seven completed primary reconstructions were reused;
+no new paper body, PDF reading or native application run is credited.
+
+**Evidence disposition:** the [development-history audit](../nu-development-history-audit-2026-10-23.md)
+shows that Nu's public override policy operates at its property boundary. The
+authored material-field requirement is stronger; its missed tint remains
+adverse to that requirement. Relevant historical repairs are present at the
+pin, with an abandoned sibling and unverified issue/commit associations
+kept distinct. Group save, entity export, raw Order/history and effective child
+sequence are different obligations. Ordinary property-panel inspection is
+source-supported without Interactive's unconditional snapshot; UI precision,
+branch behavior and agent transport remain unobserved. Live-model evolution
+has practical maintainer rationale, while successful type-default conversion
+does not promise an application's new-field initializer.
+
+The [status-quo audit](../nu-status-quo-and-transfer-audit-2026-10-23.md) credits
+Unity/Unreal selective material inheritance and Godot's ordinary copied-material
+and parameterized-shader alternatives. The known merge/correspondence methods
+are predecessors, not grounds for a new-algorithm claim. Redux's retained-action
+recomputation and XState's application-owned snapshot transformation are
+existing non-game mechanisms with separate history, pending-work and effect
+boundaries. Their documented/source-supported capability is not executed
+save/reopen, semantic migration, developer benefit or independent demand.
+
+**Next consequential action:** prepare the bounded R12 explicit material-field
+policy and complete-work comparison against the accepted helper and public
+propagation plus declared repair. Freeze intent/reset/conflict meaning,
+actual saved predecessors and useful continuation before construction; the
+same values alone cannot distinguish inherited from deliberately pinned
+equal-value choices. Count metadata, setup, verification, failure and repair.
+For non-game transfer, bind a real application and practical failure before
+promoting the authored ticket/approval shapes. Follow the deferred merge/lens
+originals if a stronger general resolution or correspondence-law claim makes
+them consequential. The broad survey stays open and the R02/R10 returns stay
+stopped; these findings do not allocate candidates or participants.

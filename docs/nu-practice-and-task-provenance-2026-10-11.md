@@ -131,7 +131,7 @@ records exact retrieval ranges, reading depth and considered-source decisions.
 | [#186](https://github.com/bryanedds/Nu/issues/186), body and six comments | Persistent edits to prefab children were explicitly discussed as deltas applied after instantiation. | The design changed, and the maintainer also reported no personal need for that general feature. Retain this contrary account; do not infer demand from the initial proposal alone. |
 | [#335](https://github.com/bryanedds/Nu/issues/335), body and fifteen comments; [#574](https://github.com/bryanedds/Nu/issues/574), body and five comments | Nested composition retained a property-delta problem; manual delta updates and synchronizing unchanged portions were proposed. These accounts justify making shared versus local intent explicit. | These are historical alternatives, including incomplete/archived work and a later change of approach. Their complexity/performance expectations are not comparative measurements. The external comment on #574 concerns skeletal animation, not this need. |
 | [#729](https://github.com/bryanedds/Nu/issues/729), complete checklist, no comments | The intended propagation workflow includes retaining existing history on entity read, managing targets and distinguishing linked from unlinked duplication. | Checklist completion does not establish current source correspondence or behavior. |
-| [#739](https://github.com/bryanedds/Nu/issues/739), [#745](https://github.com/bryanedds/Nu/issues/745), [#748](https://github.com/bryanedds/Nu/issues/748), [#946](https://github.com/bryanedds/Nu/issues/946), complete current titles/bodies and #745's one comment | Historical reports concern missed dispatcher changes, incorrect propagation links, history loss on save and child reordering. Keep these obligations separate from successful material delivery. | No fixing-patch lineage was reconstructed. These reports do not show defects remaining at the R12 pin. #748 has an empty body; its title is the entire account. The child-order report is distinct from R12's fresh timestamp-Order correspondence findings. |
+| [#739](https://github.com/bryanedds/Nu/issues/739), [#745](https://github.com/bryanedds/Nu/issues/745), [#748](https://github.com/bryanedds/Nu/issues/748), [#946](https://github.com/bryanedds/Nu/issues/946), complete current titles/bodies and #745's one comment | Historical reports concern missed dispatcher changes, incorrect propagation links, history loss on save and child reordering. Keep these obligations separate from successful material delivery. | At the October 18 checkpoint, fixing-patch lineage was untraced. The [October 23 audit](nu-development-history-audit-2026-10-23.md#r12-repairs-at-the-pin-and-persistence-routes) now binds the repairs/follow-ups and distinguishes an abandoned #946 sibling; #748 retains only temporal/source linkage. The reports do not show defects remaining at the pin. Original strict Order/history failures remain, while observed child order requires a separate sequence observation. |
 | [#383](https://github.com/bryanedds/Nu/issues/383), title and three comments; [discussion #993](https://github.com/bryanedds/Nu/discussions/993), complete release body, no comments | A requested drag workflow and an announced Gaia Propagation Sources UI make authoring access and selection work explicit dependencies. | The release does not demonstrate the requested drag workflow or its usability. Public mechanism calls do not measure ordinary editor work. |
 
 **The exact field policy remains authored.** None of these accounts specifies
@@ -186,3 +186,30 @@ Unity, Unreal, Godot and non-game implementations are candidate contexts until
 relevant support and ordinary workflows are inspected. This addition records
 future evidence requirements, not a new history search, experiment or source
 reading. It does not resume the R02/R10 returns.
+
+## 2026-10-23 source-history consequences
+
+The [completed bounded history audit](nu-development-history-audit-2026-10-23.md)
+now follows those selected lineages. #725 and the first ESP implementation/wiki
+support shared editing and whole-Nu-property override preservation, without a
+promise of independent nested material fields. #739/#745/#946 have repairs at
+the pin; #748's history change remains a source/temporal association. Group
+saves retain propagation history, while standalone entity exports omit it.
+These routes and actual child sequence now constrain any prospective task;
+they do not erase the original strict Order/history result.
+
+#385/#917 support live-model evolution and developer conversion assistance.
+Successful type-default conversion, fallback reset and explicit reconstruction
+remain separate ordinary outcomes. No located public requirement specifies
+the authored reward-200 mapping. R03's property panel supplies a narrower
+ordinary inspection candidate than Interactive, with runtime/agent access still
+unobserved. These remain maintainer/project accounts, not independent adopters
+or prevalence estimates.
+
+The [comparator audit](nu-status-quo-and-transfer-audit-2026-10-23.md) makes the
+next decision concrete: can a bounded material-field policy improve required
+delivery or complete work beyond an ordinary helper and existing inheritance
+facilities? Bind actual baseline capability, intent information, repair and
+saved-state continuation. A later non-game task also needs an existing artifact
+and practical failure; the Redux ticket and XState approval shapes are authored
+until that evidence is supplied. No runtime or participant result is added.

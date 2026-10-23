@@ -97,6 +97,37 @@ input and R10 migration returns remain stopped. Human steering stays a future
 measurement question. No new search, source-lineage reconstruction, baseline
 validation or experiment is claimed by this planning update.
 
+## 2026-10-23 evidence-led continuation
+
+The [development-history audit](nu-development-history-audit-2026-10-23.md)
+resolves the selected R12/R03/R10 source questions. Nu's whole-property
+override is a documented abstraction; the specific record-field requirement
+remains authored. Historical repairs already present at the pin are not new
+unfixed tasks. Ordinary property inspection has a source-supported path that
+avoids Interactive's snapshot, while actual UI/access still needs validation.
+Live-model evolution is an intended use, but the reward-200 mapping is not a
+public initializer guarantee.
+
+The [ordinary-workflow audit](nu-status-quo-and-transfer-audit-2026-10-23.md)
+changes the comparison. Unity and Unreal already express selective material
+inheritance; Godot supports both a shared-plus-unique workflow and a shared
+shader with per-instance values. Known merge literature supplies relevant
+methods. Prioritize a bounded R12 explicit material-field revision policy as
+the next construction candidate, comparing complete delivery and work with
+the accepted batch helper and public propagation plus declared repair. Charge
+representation, metadata, verification, failed work and conversion, and include
+explicit equal-value intent and actual saved-state continuation where relevant.
+This does not rank R12 above every Band A question or establish a new algorithm.
+
+Redux and XState supply two concrete non-game mechanism references, with
+different reconstruction/effect boundaries. Ordinary XState snapshot
+transformation must be credited before testing any additional migration
+checks; event sourcing is an alternative when usable history exists. The
+proposed ticket/approval scenarios are authored shapes until an existing
+application and practical issue are bound. These are preparation results,
+not transfer experiments or reopened R10 construction. Human steering remains
+future work; all 21 direction IDs and the existing allocations/returns remain.
+
 ## How the priorities are chosen
 
 Priority is an ordinal research judgment, not an estimated effect size or a computed score. It considers:

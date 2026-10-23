@@ -449,3 +449,37 @@ refresh, changed overlay or a target returned to the all-unset default is a
 different case. Any practical execution must now choose its policy and charge
 conversion/repair work explicitly; the source prediction alone does not
 justify adding more cosmetic revisions.
+
+### 2026-10-23 next construction: explicit field policy and credible rivals
+
+The [development-history audit](nu-development-history-audit-2026-10-23.md)
+establishes whole-Nu-property override preservation as the public abstraction.
+Material-field independence is our authored requirement. It also separates
+the accepted #946 repair from an abandoned sibling and distinguishes group
+save/reopen from standalone export. Preserve the original strict Order/history
+findings; a future contract should observe effective child sequence and raw
+provenance separately, with no retrospective oracle relaxation.
+
+The [status-quo audit](nu-status-quo-and-transfer-audit-2026-10-23.md)
+credits ordinary Unity/Unreal selective inheritance and Godot's two valid
+material workflows. Existing merge and correspondence literature supplies
+relevant methods. The next local construction candidate is the least invasive
+explicit material-field policy that can retain declared local choices across
+family revisions. Compare it with the already-successful field-update helper
+and unchanged public propagation with a declared repair policy. This is an
+integration/value question, not a claim that three-way merging is new.
+
+Before construction, bind initial family/target state, the selected field
+meanings, same-field and equal-to-base local intent, reset/absence semantics,
+eligible coupled-field constraints, conflict/rejection policy and actual saved
+predecessors. State whether provenance advances after success, partial delivery
+or rejection. Count setup, representation and metadata, selection/editing,
+validation, unsuccessful work, repair, save/reopen and later conversion. The
+information boundary and falsifiers are in the audit; they are prospective
+discriminators, not a compulsory new matrix or completed protocol.
+
+The initial P-local missed tint, valid batch outcomes and later-switch source
+prediction remain unchanged. Any new comparison must show a useful outcome
+beyond merely reproducing the successful batch and must accept equal/better
+ordinary alternatives. No new native process, helper, shader, engine port or
+candidate run is added by this continuation.

@@ -10182,3 +10182,133 @@ three parser-only failed attempts are retained under the C: recovery root's
 changed. Next choose continued-use, repair and switching policies explicitly
 and account for construction/conversion work before any additional execution;
 this result supplies neither a workload prevalence estimate nor benefit.
+
+## 2026-10-23 development history comparators and merge methods
+
+### Decision, source scope and actual coverage
+
+This segment asks which practical improvement is worth constructing after the
+R12 delivery results, what credible ordinary alternatives already provide, and
+which state/history questions transfer beyond games. It implements the user's
+request for many parallel assistants: ten bounded maintainer scopes, with
+parent integration and critical-source checks. They are not experimental
+candidates, independent adopters, participant evidence or replications.
+
+The [development-history audit](../nu-development-history-audit-2026-10-23.md)
+and [status-quo/transfer audit](../nu-status-quo-and-transfer-audit-2026-10-23.md)
+own the consequential claims and exact source links. Private source snapshots,
+selected ranges, query records, retrieval failures and hashes are retained at
+`C:/Users/hadri/nu-value-recovery/20261018-205753-integrity-stop/source-comparisons-20261023/`.
+The working A: checkout was read-only; no runtime, build, shader, actor process,
+browser application or model/participant experiment ran.
+
+| Scope | Discovery and selected understanding | Disposition / remaining limit |
+| --- | --- | --- |
+| Nu propagation origin | Public Nu history and first wiki Git edition; introducing `e6488bfd`, override correction `84bcc229`, first wiki `f3f7ad98`, #725/#729 and selected earlier rationale; exact pin property/descriptor branches. | Whole-property override is documented. Independent record-field inheritance is authored; no located record establishes an explicit debate/rejection of nested merging. Bounded test-path/term search does not establish absence of all tests. |
+| Nu propagation repair | Complete four selected issue/timeline records (#739/#745/#748/#946), exact patches/parents, former-commit mappings, sibling comparison, first containing releases and pin save/read paths. #748 commit search `repo:bryanedds/Nu #748` and local history grep returned zero. | Accepted repairs are at the pin. #748 remains temporal/source correspondence; #946's linked sibling is not an ancestor. Source lineage is not runtime correctness or a new unfixed task. |
+| Nu ordinary history access | GitHub issue searches `repo:bryanedds/Nu TERM in:title,body is:issue`, `per_page=100`, for `undo`, `redo`, `history`, `snapshot`, `timeline`, `interactive`, `inspect`, `evaluation`, `restore point`: 17, 13, 2, 5, 0, 9, 4, 0, 0 returned positions, no pagination. Selected bodies/comments/timelines and source lineage were read, not all result bodies. | Passive property inspection has a source-supported route. Three discussion web searches used `undo|redo|snapshot`, `Interactive|inspect|evaluation`, `history|timeline`; #1029 direct public statements were considered, its embedded copied Discord transcript excluded. No independent demand or runtime/agent-access result. |
+| Nu/Prime live-model evolution | `gh search issues "reload" --repo bryanedds/Nu --include-prs --limit 100`, selected complete issues including #385/#917/#953/#1222 and adverse cases. The original returned count/total/page metadata was not retained, so coverage beyond those selected bodies is unknown. Exact queries for `"default model"`, `"model conversion"`, `"initial model" reload`, `"soft-convert"`, `state reload code` supplied no extra issue; Prime `missing default record conversion` returned none. A discussion keyword scan and selected release/source readings were performed; repository `totalCount=66` is known, but returned nodes/page coverage is unrecorded, so all-66 screening is not claimed. | Intended state retention is supported, reward 200 is authored. Successful defaulting, fallback reset and restart/reconstruction differ. Pin Prime 11.5.1 remains package-bound; 11.5.5 was checked at its repository release parent without a new package/PDB binding. Unsupported CLI flags/fields and an empty OR query were corrected and retained. The later query clarification supersedes the older coverage implication without rerunning the original search. |
+| Godot ordinary material workflows | Engine 4.7.2 tag `ed1daf0b`, separate 4.7 docs `9adca4c1`; complete non-truncated path/blob inventories and selected resource duplication, scene instancing, shader and per-instance parameter bodies. Retained source hashes match Git blobs. | Shared-plus-unique materials require continued two-point tint updates; a shared shader with per-instance roughness is a credible alternative with translation/equivalence work. Neither was rendered or reopened. |
+| Unity ordinary variants | English 6.0 API/prefab/save pages, official Chinese 6000.0.65f1 Material Variant pages and matching managed source `9674e068`; older English 2022.1 context remains separately dated. | Per-property inheritance is an ordinary comparator. English 6.0 manual failures were not filled with an invented edition. Native serialization/rendering is outside the managed-source evidence. Retried locked downloads remain acquisition history. |
+| Unreal ordinary material instances | Eleven recorded official-domain web queries, nine selected UE 5.6 documentation pages and six historical/current issue accounts. Selected nested Material Instance Constant and override/save routes; Blueprint and Dynamic Material Instance boundaries separate. | Selective parameter inheritance is ordinary. UE-88414 is historical equal-value delta-serialization context, not current material failure. Issue HTML downloads are application shells; readable issue-extractor facts are retained separately. No entitlement/account/install was used. |
+| Redux history/replay | Extension 3.2.12 `a857d4a4`, core 5.0.1 `50b01021`; selected instrument/monitor/reducer/dispatch bodies, relevant maintainer tests and official docs. | Inspector selection preserves application history but still notifies subscribers. Changed-code replay does not restore complete browser/external state. Ticket scenario remains authored, with no selected existing application or runtime result. |
+| XState persistence/migration | Stable 5.33.3 `6a85c405`, separate 6.0.0-alpha.70 `c628b91f`, npm release identity, selected persisted/restore/version/child/timer source and tests, complete alpha persistence/backend guides and schema, current official persistence page, #5331 and all three comments. | Stable application-owned snapshot transformation is the first ordinary comparator; event sourcing depends on available history. Alpha migration/timer facilities are future references. Whole-envelope semantic correspondence, accepted events and effects still need independent observations. |
+
+The source-specific notes give exact inspected ranges rather than claiming
+complete engine/repository understanding. The parent checked the decisive Nu
+whole-symbol, property getter/setter, group history and conversion/default
+branches; accepted versus abandoned #946 ancestry; official variant/instance
+documentation; and selected Redux/XState replay/restore paths. These checks
+support desk conclusions only. Test searches and inspected maintainer tests
+were not executed experiments.
+
+### Merge and correspondence recall
+
+The literature assistant reused completed reconstructions S284 LevelMerge,
+S285 SceneGit, S286 NodeGit, S87 Denicek, S102 Cambria, S103 BiDEL and S108
+blended-model versioning. Their existing edition/visual/artifact limits remain;
+this is no additional body-reading credit.
+
+The installed paper-search script used years **1990–2026**, `max_papers=10` per
+source/query, and these exact queries:
+
+1. `three-way merge structured configuration local override common ancestor`
+2. `model merge atomic coupled properties conflict`
+3. `prefab inheritance base revision instance override`
+
+The retained export contains 50 source occurrences: 20 arXiv and 30 Crossref.
+Three exact normalized-title merges produce 47 discovery groups. All groups
+received an available-level decision: 27 had supplied abstracts read in full,
+20 initially had title/metadata only. Later exact lookups supplied abstracts
+for XML merge and process inheritance, yielding 29 abstract-screened groups
+and 18 title/metadata-only groups. This is neither 47 bodies read nor 47
+independent works. Differently titled process-inheritance records and the
+domain-merge journal/SSRN editions retain explicit lineage limits.
+
+Failures constrain recall: arXiv returned partial results alongside 429/503
+retry exhaustion; DBLP failed JSON parsing, OpenAlex returned 401, Semantic
+Scholar returned 403, and OpenReview lacked its optional client. The CLI's
+Windows output encoding failed after its JSON export completed. The exported
+records, including remaining entries and abstracts, were then screened. These
+route failures establish no absence of relevant literature.
+
+One exact Scite call requested **`limit:20`, `offset:0`**, for five DOIs and
+returned `count=total=5`; no further page existed for that exact set:
+
+| Source identity | Actual coverage | Decision |
+| --- | --- | --- |
+| Lindholm, *A three-way merge for XML documents*, `10.1145/1030397.1030399` | Crossref/Scite metadata and abstract, official ACM abstract; no body | Credited as an ordered-tree merge predecessor at abstract level. Completed scene-merge methods are closer to the immediate Nu integration decision. |
+| Hofmann, Pierce and Wagner, *Edit lenses*, `10.1145/2103656.2103715` | Exact metadata/editorial check and web abstract; no body | Deferred unless a formal edit/correspondence-law claim becomes consequential. Scite's new-edition notice points to `10.1145/2103621.2103715`; do not count both as studies. |
+| Yang, *Process inheritance and instance modification*, `10.1145/958160.958196` | Exact abstract/metadata; no body | Not credited for R12 record-field inheritance. Related proceedings/abstract identifiers are one process-reuse lineage. |
+| Zadahmad and Syriani, *Domain-specific conflict resolution and model merge*, `10.1016/j.jss.2025.112694` | Metadata only; no abstract/body credited | Deferred for a possible general domain-specific resolution claim; related SSRN `10.2139/ssrn.5236127` is not independent evidence. |
+| Kegel et al., *A Delta-Oracle for Fast Model Merge Conflict Estimation using Sketch-Based Critical Pair Analysis*, `10.1145/3652620.3688341` | Metadata/access only; no body | Deferred: larger-scale conflict estimation does not supply this case's completed-delivery semantics. |
+
+No retraction, correction or concern was reported for this exact set; the
+edition notice is retained. Of the 47 broad groups, one was credited at abstract
+level, two were deferred and 44 were not credited. The row-level ledger records
+every occurrence alias, stage and reason, including scope mismatch and
+duplicates. No new paper body was selected. Native Zotero 10.0.6/schema 44 was
+probed read-only and exact DOI/title queries checked records; no library write,
+PDF acquisition or reading-index increment occurred. Registration before any
+later selected reading remains required.
+
+### Audit and design consequence
+
+The original literature audit `r12_merge_literature_20261023` accepted 12
+decisions (8 credited, 4 excluded). Parent review found that its original
+summary omitted broad-discovery decisions. The nonduplicating supplement
+`r12_merge_discovery_supplement_20261023` accepted the remaining 43 exclusions
+(39 off-topic, 3 out-of-scope, 1 duplicate). Both inspected reports show zero
+skipped/missing-reason decisions, no truncation and no unlinked warning. Their
+combined 55 records comprise seven reused readings, 47 discovery groups and
+one additional Edit Lenses screen; they are not 55 newly read papers.
+
+The separate software/history audit `r12_software_history_sources_20261023`
+accepted 69 decisions (66 credited, 3 superseded Unity-edition exclusions).
+Parent review identified 14 omitted, actually read issue-body exclusions;
+`r12_software_history_exclusions_supplement_20261023` recorded these once
+(5 history-access and 9 reload-history scope exclusions), without resubmitting
+the 69 or the literature records. The combined software trail is **83 unique
+decisions: 66 credited and 17 excluded**. Both inspected reports have zero
+skipped/missing-reason entries, no truncation and no linkage warning;
+answer-scoped retrieval counts are null. Source-body stages preserve selected
+ranges and do not mean complete repository readings. Pinned implementation
+lineages group connected files/commits; title-only inventory hits without a
+substantive decision remain unexamined, not implied exclusions. #629 and #748
+retain unestablished exact issue-to-fix links.
+
+Private `merge-literature/software-source-decisions.json` and the supplement
+bind every decision, provenance and coverage. The later
+`reload-history/queries.md` clarification has SHA-256
+`645fc59447bfb0d90a0145e6cc7406ae630814b1428a8df4e10ecda7963407cf`;
+it supersedes the earlier note's embedded query-ledger hash and all-66 scan
+implication. No repeated unchanged historical screen is claimed as new discovery.
+
+Prepare the [bounded R12 field-policy comparison](../nu-status-quo-and-transfer-audit-2026-10-23.md#the-intervention-to-prepare-next)
+against the working batch helper and public propagation with explicit repair.
+Existing engines and merge methods preclude a capability/novelty claim based
+only on combining independent property edits. Require declared intent,
+meaningful constraints, actual saved predecessors and complete work. Redux
+and XState add portable contract questions, not executed transfer. Continue
+consequential literature if a stronger claim or selected application needs it;
+this segment neither closes the broad survey nor resumes the R02/R10 returns.

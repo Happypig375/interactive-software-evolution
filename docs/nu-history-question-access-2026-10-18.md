@@ -131,3 +131,29 @@ Both match the [published R04 receipt](../experiments/nu-r04-pause-runtime/resul
 The read-only extraction/check script, exact source identities and decoded
 observations are private under `.artifacts/r03-question-access-20261018/`.
 No new source retrieval or unchanged Scite screening is credited.
+
+## 2026-10-23 ordinary inspection and history lineage
+
+The [development-history audit](nu-development-history-audit-2026-10-23.md#r03-ordinary-inspection-can-preserve-the-history-branch)
+now checks the pinned property panel directly. It reads a selected entity's
+property and invokes the snapshotting setter only when the widget reports a
+promotion or edit. Plain hierarchy selection likewise has no snapshot in the
+inspected path. Passive inspection of a halted functional world is therefore
+source-supported as an ordinary alternative to Interactive evaluation.
+Position remains an editable widget; accidental editing, displayed precision,
+runtime branch preservation and ordinary agent transport are not validated.
+
+The #629 report and contemporaneous same-topic snapshot corrections, #592
+selection repair and #639 Interactive introduction clarify this distinction.
+An exact #629 issue-to-commit link remains unestablished. They are maintainer
+accounts and source lineage, not independent demand or a new native result.
+The Timeline still exposes labels, and the original episode's missing
+predecessor/root remains missing.
+
+If this route is selected for later feasibility, bind a real two-root halted
+state and verify property reading, selection, undo/redo and no-edit controls
+before assigning a debugging task. Treat Interactive getter evaluation as a
+separate history-affecting control. The [Redux reference](nu-status-quo-and-transfer-audit-2026-10-23.md#redux-changed-code-replay-and-ordinary-inspection)
+similarly separates monitor selection from history changes while retaining
+subscriber/effect limits. Allow each workflow its ordinary sufficient route;
+a forced query adapter or arbitrary expression would change the comparison.
