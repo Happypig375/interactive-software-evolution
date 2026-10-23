@@ -245,3 +245,44 @@ eligibility limits are 4/1 MiB and retained process evidence is limited to
 process creation. Five unresolved construction failures trigger immediate
 return; partial success does not reset the gate. Construction has been assigned;
 no new native launch or native acceptance is established by this checkpoint.
+
+## Native construction review: passing controls did not establish readiness
+
+The first implementation compiled with the exact offline package graph and
+matched all ten authored source documents to its PDB. Its managed and Python
+controls reported 44 passing assertions across C01–C18. Independent Sol review
+of the complete adapter, runner, oracle, controls and build records nevertheless
+rejected readiness at Gate 007. No native process has run.
+
+The rejection identifies five enforcement and evidence gaps: release checks
+did not revalidate the actual package/output bits; the runner lacked durable
+one-launch accounting and a final output-size scan; mandatory observation
+defects could advance a valid byte pair; the scorer omitted parts of original,
+save and fresh-load preservation; and the live load map and persisted intent
+modes were not checked end to end. Several controls tested detached helpers
+without exercising the actual advancement or sequence-scoring path. The
+passing assertions establish their narrower claims and do not resolve those
+gaps.
+
+The review also verified the adapter's direct conversions, preservation of the
+fourteen unmanaged material fields when constructing a requested update,
+five-stage operations, actual-byte save binding and read-only final reopen
+path. These are source/build findings, not runtime observations.
+
+Three earlier construction failures remain: the first compile, a managed
+control launch with the wrong dependency file, and a Python control run stopped
+by a missing import. Gate 007 is one rejected submission, bringing the combined
+unresolved count to four of five; its five findings are not five attempts.
+The unchanged protocol permits correction, but the next failed build, control
+set or readiness submission requires immediate return. Partial passing checks
+do not reset that combined gate. All snapshots, failed work and placement
+corrections remain retained, and R02/R10 remain stopped.
+
+Private evidence under `A:/nu-value-execution/20261023-material-intent/`
+includes `construction/readiness-review-007/review.md`, SHA-256
+`d6149d7d6d0a12a21f73cee7de789a00fa66d6acc63c2fd775cd2764c0dddf66`,
+and the parent disposition `construction/gate-007-disposition.json`, SHA-256
+`7c3c16129f158018d8ec6899436be93fdee518449e1e584b94f949f85c801b21`.
+The local native implementation remains unaccepted and unpublished. The
+[published protocol's successful CI](ci-validation-scope.md#r12-native-protocol-publication-2026-10-23)
+does not validate it.

@@ -190,3 +190,18 @@ retains two failed builds, the failed fixture, the accepted 54 positive and
 27 expected-rejection checks, and independent review. No Nu engine process,
 participant, task-solving model candidate or native persistence experiment is
 validated by these repository checks. R02/R10 remain stopped.
+
+## R12 native protocol publication, 2026-10-23
+
+The four-path protocol and agenda publication
+`0ecf2414d005b2df6e67f5ccd0ca7c4f8ea611a1` selected full validation because
+the [frozen protocol](../experiments/nu-r12-material-intent-native/PROTOCOL.md)
+is under `experiments/`. [Run 39925993293](https://github.com/Happypig375/interactive-software-evolution/actions/runs/39925993293)
+passed scope, Linux (15m06s) and Windows (16m50s) on its first attempt.
+The separate maintenance job and optional E2 baseline were skipped.
+Local strict UTF-8, whitespace and all 17 introduced local links/anchors passed.
+
+The native implementation was not in this commit. Its local build, control
+results, independent readiness review and any later Nu execution require their
+own evidence. Full repository CI does not accept that package or establish
+persistence, comparative benefit or survey completion.
