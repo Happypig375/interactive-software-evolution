@@ -1,5 +1,11 @@
 # Research plan
 
+**User-requested pause, 2026-10-23:** all subagents have completed. The
+[current handoff](docs/handoff-2026-10-23-paused.md) records completed private
+source reviews and S312 reading, with parent integration still pending.
+Do not automatically continue; resume only on a new user instruction.
+The broad research is incomplete and the R02/R10/R12 returns remain in force.
+
 **Supervisory revision: 2026-09-30, based on `f00d98d2e6f8bbe1eda96ffc72d8d3999084f959`.** This is the current work assignment and authority map. The [review](docs/supervisor-review-2026-09-30.md) records findings, evidence, and limits. Earlier versions remain in Git; this revision does not overwrite reading records, experimental results, or permissions.
 
 **Local workspace migration, 2026-10-08:** continue from `A:/nu-value-research`. The [migration record](docs/workspace-migration-2026-10-08.md) identifies the separate archive, preserved local evidence and sparse-checkout restoration. Older engineering files omitted from this local view remain in Git; their absence is not a deletion or a change of authority. The current survey assignment and the survey continuation below remain in force.

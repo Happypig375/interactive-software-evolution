@@ -1,5 +1,11 @@
 # Maintainer entry point
 
+**User-requested pause, 2026-10-23:** all subagents have completed. The
+[current handoff](docs/handoff-2026-10-23-paused.md) records completed private
+source reviews and S312 reading, with parent integration still pending.
+Do not automatically continue; resume only on a new user instruction.
+The broad research is incomplete and the R02/R10/R12 returns remain in force.
+
 Read [PLAN.md](PLAN.md) first. It owns authority and the current assignment. The [2026-09-30 supervisor review](docs/supervisor-review-2026-09-30.md) explains the latest corrections. Historical proposals do not override these routes.
 
 ## Active work and holds
