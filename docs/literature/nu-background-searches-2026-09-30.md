@@ -10446,3 +10446,71 @@ misses; retained exact Git blobs supplied those bodies. No application/test ran,
 new paper/PDF was read, or Zotero operation occurred. A later comparison needs
 a concrete retention obligation; additional search is justified when a lead
 can supply it, not merely to enlarge this bounded list.
+
+## 2026-10-23 selective-material practical-demand check
+
+**Decision:** determine whether the inspected Nu lineage supplies an actual
+beneficiary, consequential selective-material workflow choice and real
+incremental family-revision history. This supports the conditional R01/R12
+comparison; it does not retest the elementary material policy or count a
+maintainer proposal as an observed adopter episode.
+
+GitHub REST issue searches used API version `2022-11-28`, the query pattern
+`repo:bryanedds/Nu is:issue <term> in:title,body`, creation-date descending,
+`per_page=100`, page 1. The exact substituted terms and coverage were:
+
+| Term | Reported / returned |
+| --- | ---: |
+| `material` | 17 / 17 |
+| `albedo` | 2 / 2 |
+| `roughness` | 6 / 6 |
+| `shared material` | 1 / 1 |
+| `keyed materials` | 1 / 1 |
+| `MaterialProperties` | 3 / 3 |
+| `material propagation` | 0 / 0 |
+| `material override` | 0 / 0 |
+| `material inheritance` | 0 / 0 |
+| `material revision` | 0 / 0 |
+
+All responses set `incomplete_results=false` and fit on their first page.
+Thirty result positions represent twenty-two distinct issues, all opened by
+`bryanedds`. Titles and current bodies were screened; selected complete
+body/comment follow-ups cover #186, #383, #548, #574, #699, #725 and #729,
+with the retained timelines and #383's linked commit/discussion #993 checked
+as relevant. Other result comments were not all read. The engine/wikiedition
+lineage reuses its earlier exact-source audit and is not newly credited here.
+
+[#725](https://github.com/bryanedds/Nu/issues/725) supports shared material
+revision as a maintainer design concern and the later judgment that ESP
+covered it. No inspected thread supplies the required field-selective intent
+and beneficiary revision sequence. [#186](https://github.com/bryanedds/Nu/issues/186)
+and [#548](https://github.com/bryanedds/Nu/issues/548) retain contrary or
+conditional motivation; an unrelated outside skeletal-animation comment in
+#574 is not independent demand for this task. The
+[practice synthesis](../nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-practical-task-eligibility-checks)
+keeps Terra Firma authored and requires a distinct practical comparison.
+No absence claim extends beyond these lexical issue searches and selected
+follow-ups; private/deleted support, other communities, unqueried terms and
+unread comments remain outside coverage.
+
+Evidence is under
+`A:/nu-value-execution/20261023-material-intent/value-preparation/material-demand/`.
+The source note SHA-256 is
+`418289248a82d490d294516e99a36e76d4141640ad31d312585ad1de49ef3f09`;
+the thirty-one-snapshot manifest SHA-256 is
+`7b213d542453d1a065de5edeb905882c8b2c3ec78bf893ae01095f73fa311037`.
+Parent checked all ten response counts, deduplicated identities/authors and
+the decisive #725/#548 bodies/comments. No new paper/PDF, Zotero action,
+native execution, contact or participant/candidate allocation occurred.
+
+The once-only `nu_r12_material_demand_20261023` audit records eighteen new
+decisions: two credited (#548/#699), sixteen excluded, zero skipped. Four
+unchanged prior decisions among the twenty-two issue identities were not
+resubmitted (#492/#725/#900/#1456). Seventeen new records have current issue
+bodies; #1175 has an empty body and remains title-only coverage. The seven
+selected contextual thread reads and reused commit/wiki/discussion evidence
+are separately accounted, not added to the new-decision denominator.
+`citation_report` returns eighteen screened, `retrieved=null`,
+`truncated=false`, no missing reasons and no linkage warning. The report
+manifest SHA-256 is
+`a2b2c36ffc3a7708793ff15625bf08845b28d9ce56ce0ebec69935c85b811180`.

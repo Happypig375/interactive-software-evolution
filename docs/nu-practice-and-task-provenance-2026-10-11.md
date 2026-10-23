@@ -213,3 +213,60 @@ facilities? Bind actual baseline capability, intent information, repair and
 saved-state continuation. A later non-game task also needs an existing artifact
 and practical failure; the Redux ticket and XState approval shapes are authored
 until that evidence is supplied. No runtime or participant result is added.
+
+## 2026-10-23 practical-task eligibility checks
+
+The retained R04 tasks do not yet supply an authentic successor request at an
+eligible explicit-case/catch-all site. Breakout `Paused` and `ReadyToServe`,
+and Blaze Vector projectile renewal, remain authored successors at real source
+sites. [Nu #1145](https://github.com/bryanedds/Nu/issues/1145) is a real
+quit/pause report, but its inspected Breakout change is an ImSim unpause-on-quit
+guard, already present at the research pin. Adding an MMCC `Paused` case would
+change that historical task. The authentic platform/jumping requests likewise
+do not naturally reach either retained R04 match. This is a bounded finding
+about the inspected tasks, not absence of eligible Nu work.
+
+R04 can advance with a request whose representation naturally reaches such a
+site, or an explicitly selected authored case for a local convention decision.
+The latter retains its narrower provenance. Both arms need the same ordinary
+source navigation, compiler, development tests and permitted observations;
+final scoring and successor solutions remain separate. Another FS0025 probe
+would not resolve this task gap, and no candidate execution is allocated.
+
+A fresh material-specific GitHub issue screen examined thirty result positions
+across twenty-two unique issues, all opened by the repository owner. The ten
+queries covered material, albedo, roughness, shared/keyed materials,
+`MaterialProperties`, and material propagation/override/inheritance/revision.
+Each reported complete results fitting on its first 100-result page. Complete
+selected threads were followed for #186, #383, #548, #574, #699, #725 and #729;
+comments on every other result were not read. The search ledger records this
+frame separately from earlier propagation searches.
+
+[#725](https://github.com/bryanedds/Nu/issues/725) remains the strongest
+material-demand lead: the owner proposed shared keyed materials, reconsidered
+the feature after ESP, and closed it because ESP was sufficient for that need.
+It supports shared-edit design motivation. It does not bind a user's project,
+field-selective intent or actual incremental revision sequence. Earlier
+[#186](https://github.com/bryanedds/Nu/issues/186) records the owner's lack of a
+personal use for the broad prefab proposal; [#548](https://github.com/bryanedds/Nu/issues/548)
+explicitly ties worthwhile material-editor work to an actual game. These
+qualify broad demand claims without negating #725's later, narrower rationale.
+
+Terra Firma therefore remains an authored conformance task on an existing
+artifact, motivated by maintainer design evidence. Its saved propagation
+history, the engine's commit history and a beneficiary's revision history are
+different evidence. The new screen does not supply the last of these. The
+ordinary helper remains a credible comparator for any distinct Nu integration;
+another equivalent helper, more fields or three engine ports would not fill
+the practical-workload gap. Continued comparison must count intent/selection
+setup, save/reopen, verification, failed delivery, repair and later revision.
+
+Private audit notes under
+`A:/nu-value-execution/20261023-material-intent/value-preparation/` have
+SHA-256 `8c49ccdb3970808873593b7fe91edd23c0962382a6310512aa7f71a7f0558d96`
+(R04) and `418289248a82d490d294516e99a36e76d4141640ad31d312585ad1de49ef3f09`
+(material demand). The latter's thirty-one archived source snapshots are bound
+by manifest SHA-256
+`7b213d542453d1a065de5edeb905882c8b2c3ec78bf893ae01095f73fa311037`.
+No new scholarly reading, independent adopter sample, contact, native result
+or participant/candidate allocation is established.

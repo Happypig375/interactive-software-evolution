@@ -157,3 +157,54 @@ separate history-affecting control. The [Redux reference](nu-status-quo-and-tran
 similarly separates monitor selection from history changes while retaining
 subscriber/effect limits. Allow each workflow its ordinary sufficient route;
 a forced query adapter or arbitrary expression would change the comparison.
+
+## 2026-10-23 predecessor audit and passive-access preparation
+
+A further audit of twenty exact retained files/ranges confirms that the
+inspected evidence cannot supply this episode's same-process predecessor.
+The first failed trace contains no model/projection roster. The diagnostic
+calls `SetGameplay` before its first state capture, so its `@450`–`@478`
+roster describes the installed state. A separate R03 `history-04` run records
+fresh names `@449`–`@478`, but uses another process and application binary;
+its last two positions already match B0. Those observations cannot substitute
+for the missing R04 predecessor. The collision explanation remains an
+inference, and another known-good run cannot make it diagnosis ground truth.
+
+If an authored version is selected, capture the actual halted pre-install and
+post-install roots in one process, including complete addresses, dispatchers,
+positions and relevant dynamic properties. Bind the B0 input, application and
+observation phase before the operation. Deliberate name reuse would be a new
+authored fact, not recovery of the old run's missing evidence.
+
+The ordinary-access proposal now has a minimal four-boundary sequence. Bind
+functional Gaia, immediate past K and current F, both halted, no future at F,
+and an unmounted entity E at the same full address/group in both roots. Give
+E distinct, exactly displayable positions at K and F. A mounted entity exposes
+`PositionLocal` and is a different case. The source basis is the pinned
+[selection and undo/redo code](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu.Gaia/Gaia.fs#L579-L667)
+and [property enumeration](https://github.com/bryanedds/Nu/blob/064f7ae92a8506689cd91aff5e6804a375d6ef3d/Nu/Nu.Gaia/Gaia.fs#L2131-L2164).
+
+| Boundary | Ordinary action and required observation |
+| --- | --- |
+| C0 | At F before selection, record the halt indicator, selected screen/group, E's full hierarchy path and visible Timeline. |
+| C1 | Select E through the hierarchy and passively view its position; Timeline must remain unchanged. |
+| C2 | Use Game > Undo once; record K's position and the expected future. Reselect E only if selection reconciliation clears it, counting that action and checking history again. |
+| C3 | Use Game > Redo once; record F's restored position, consumed future, unchanged halt state and Timeline matching C1. |
+
+Keep pointers/focus outside editable properties during observations. Runtime
+IDs are recorded; address identity defines E across roots. An accidental edit,
+unreadable position or observed branch loss is retained as adverse access
+evidence when the fixture and observations are intact. Wrong mode/root,
+Interactive evaluation, undeclared advance/step/edit actions or missing
+captures do not establish passive branch preservation. Gaia's outer exception
+handler can itself undo and clear futures, so exception-caused branch loss
+must not be attributed to passive display.
+
+This prepares one ordinary-access check; no UI or native process was run and
+no package is yet accepted for it. Even a pass would establish only the
+declared position/history observations in this authored case, not complete
+world equivalence, diagnosis benefit or ordinary agent transport. The private
+episode and access notes are under
+`A:/nu-value-execution/20261023-material-intent/value-preparation/`, with
+SHA-256 `9961625053c53248624011bf11b7098fc1fc81be085434196246ce8a27d2113b`
+and `378056531584e7ef9f003a7b341a2e46b97560a2d2263b0e8bc2ffb3ff9469b1`.
