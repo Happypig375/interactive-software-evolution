@@ -10386,3 +10386,63 @@ search was repeated for an already-resolved elementary method; future searches
 still request `limit:20` and follow a consequential missing claim. Neither the
 source audit nor a later passing component closes the broad survey or proves
 practical benefit.
+
+## 2026-10-23 non-game evolution and compatibility-cutoff screen
+
+**Decision:** find a public non-game application with an actual machine/context
+or stored-schema change and a demonstrated requirement to retain pre-change
+progress. This follows the conditional Showtime case; it does not repeat its
+source audit or count previously read Aipictors material again.
+
+The assistant ran these exact web queries in two combined screens:
+
+| Batch | Exact query |
+| --- | --- |
+| 1 | `site:github.com/issues xstate persisted state migration old snapshots application` |
+| 1 | `site:github.com/issues "getPersistedSnapshot" migration schema` |
+| 1 | `site:github.com/issues xstate "context" "migration" persisted` |
+| 1 | `site:github.com/issues xstate localStorage schema version migration` |
+| 2 | `site:github.com/issues xstate "existing" "persisted state" migration progress` |
+| 2 | `site:github.com xstate "getPersistedSnapshot" "migrate" application` |
+
+Batch one returned 15 indexed positions and batch two returned 12; all 27 were
+screened, representing 26 distinct URLs because one gist repeated. The retained
+`coverage-note.md` binds every position and disposition. The interface exposed
+neither per-query totals/allocations nor further pages. These are two bounded
+screens, not complete query populations or a GitHub census. Many entries were
+generic mechanisms or unrelated migration reports, so the result does not
+establish lack of demand. Exact linked issue, comment, commit and code follow-ups
+are listed in the private ledger; selected ranges are not full-repository reading.
+
+[Harny](../nu-xstate-practice-case-2026-10-23.md#actual-runtime-evolution-with-an-explicit-compatibility-cutoff)
+is the strongest actual evolution case: XState/schema v2 changes to a
+declarative v3/v4 runtime with human pause/resume, but production pre-change
+resume was unimplemented and old schemas are deliberately non-resumable. It is
+credited for that policy and excluded from a *required preservation* task.
+XState #3092 accepts detection/reset after a state rename; #5178 is a
+same-machine history-restoration reproduction. StateAlchemist provides a
+library mechanism rather than application demand; the pecking-order prototype
+reports restoration loss but is a game case without an inspected evolution
+lineage. No eligible application was found in this screen.
+
+The one-time `xstate-evolution-20261023` audit accepted 21 credited and 26
+excluded source records, zero skipped. The report has 47 screened,
+`retrieved=null`, `truncated=false`, no missing reasons and no retrieval-link
+warning; 23 records describe selected issue/code content and 24 only indexed
+screening. Sources credited for adverse/context evidence are still ineligible
+as the proposed migration task. These source records are neither 47 papers nor
+47 independent cases. The converted #3091 mirror and the rediscovered #941
+entry are explicitly duplicate routes; unchanged historical Aipictors decisions
+were omitted.
+
+Evidence is under
+`A:/nu-value-execution/20261023-material-intent/xstate-evolution/`.
+The source note hashes to
+`9cb511a948172e4da802efd5749c98602200ed2f6bb8a4b18592f527d5a7e583`;
+its 35 retained source-file hashes all verify. Parent inspected four decisive
+reader/runner/ADR/test bodies and checked their exact Git commit contents, plus
+Harny #20's primary issue. Browser opens of the two code pages returned cache
+misses; retained exact Git blobs supplied those bodies. No application/test ran,
+new paper/PDF was read, or Zotero operation occurred. A later comparison needs
+a concrete retention obligation; additional search is justified when a lead
+can supply it, not merely to enlarge this bounded list.

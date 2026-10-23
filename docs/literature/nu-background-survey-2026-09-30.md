@@ -1952,3 +1952,24 @@ cosmetic machine change solely to fit a preferred task label. Follow the deferre
 originals if a stronger general resolution or correspondence-law claim makes
 them consequential. The broad survey stays open and the R02/R10 returns stay
 stopped; these findings do not allocate candidates or participants.
+
+## 2026-10-23 follow-up: a stronger ordinary baseline and valid reset policies
+
+The [material-intent component](../nu-material-intent-baseline-2026-10-23.md)
+now has an accepted pure implementation and Linux/Windows control results.
+The saved Nu sequence is prepared at the architecture level, with actual-state
+continuation, relative-order observations and all work retained; no new native
+result is established. A passing supplied-map component is neither actual
+material persistence nor comparative benefit. Once the ordinary native baseline
+is accepted, further repetitions need a practical comparison that can change a
+decision.
+
+The [Harny follow-up](../nu-xstate-practice-case-2026-10-23.md#actual-runtime-evolution-with-an-explicit-compatibility-cutoff)
+binds real XState-to-declarative runtime evolution and same-version pause/resume
+demand, while its source deliberately excludes old-schema resume. Together
+with Showtime's reset policy, this narrows the proposed transfer task: find an
+actual retention requirement rather than declaring rejection a defect. Six
+focused queries and their selected primary sources leave that application
+selection unresolved; no new paper body was read and no field-completeness or
+lack-of-demand inference follows. Mechanism findings, practical demand and
+empirical advantage remain separate.

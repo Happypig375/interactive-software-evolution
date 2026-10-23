@@ -127,3 +127,39 @@ at its prior Git revision with unrelated drafts preserved; it has not been
 reset, pulled or bulk synchronized. The R02/R10 returns and allocation limits
 remain unchanged. This is exact-input recovery and bounded execution, not a
 whole-volume or general runtime certification.
+
+## 2026-10-23 separate A execution and publication location
+
+New work now uses `A:/nu-value-execution/20261023-material-intent/`, separate
+from the preserved `A:/nu-value-research` workspace. Its `publication/` checkout
+was cloned from the already-pushed `ac828becb971d6be75bf148adff6613065b6aadf`,
+with a clean worktree and matching local, origin and remote main identities.
+The C: publication checkout and all older recovery/evidence remain. No old
+workspace was reset, synchronized, deleted or moved.
+
+C: initially reported 277,020,672 free bytes; the transfer receipt later
+recorded zero available, while a separate volume query reported 1,120,100,352.
+These are distinct observations, not an established cause or hardware diagnosis.
+They are insufficient capacity for six retained native application copies.
+The prospective package uses an 8 GiB available-space gate on A: before build
+and before each process; its known staging, build and six application copies
+alone require about 6.02 GiB before logs, intermediates or failed attempts.
+
+The new `staging/input/` copy contains the exact 449 accepted inputs:
+251 published assets, nine original source/config files and 189 host files,
+834,255,126 bytes total. All source hashes were checked before copying into an
+absent destination, then all destination paths, sizes and hashes were checked.
+Both checks found zero missing, extra or mismatched files. No overwrite,
+delete, move, build or native process occurred. A: available capacity changed
+from 748,651,524,096 to 747,815,612,416 bytes at the recorded transfer times.
+
+The manifest is SHA-256
+`459f3e2f512e06e4b7e6bd52c921a53125427e4c81256e793587eb7d5fa18b5f`;
+the passing receipt is
+`be71a687251f297d3cb9131941106bca58dfd6651a0be0940a66e4a31524ec9a`.
+Parent inspection verified these artifacts, the declared totals and key
+original-scene/Nu.dll hashes; the complete transfer rehash is retained in the
+assistant's receipt. `parent-preparation-verification-01.json` records that
+check and the clean publication identity. No new CHKDSK, filesystem repair or
+hardware-health certification occurred. Exact pre/post-run composition checks
+and a new source/PDB/DLL seal remain necessary before native execution.

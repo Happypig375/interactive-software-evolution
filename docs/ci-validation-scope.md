@@ -173,3 +173,20 @@ own the separate native evidence, including the retained invalid startup.
 The [S305 journal reconstruction](literature/full-reading/S305-problem-centered-design-journal-reading-2026-10-18.md)
 owns reading coverage and edition limits. CI neither establishes scientific
 benefit nor resumes the R02/R10 returns.
+
+## R12 material-intent component publication, 2026-10-23
+
+The component and source-evidence publication
+`ac828becb971d6be75bf148adff6613065b6aadf` selected the full route for its sixteen
+changed paths. [Run 39916970418](https://github.com/Happypig375/interactive-software-evolution/actions/runs/39916970418)
+passed scope checks and the full Linux and Windows jobs on the first attempt.
+The new ordinary R12 material-intent control step passed on both platforms.
+Maintenance and the optional E2 baseline were skipped under the full route.
+
+Local checks passed eleven routing tests, the exact new root-invoked .NET
+command, strict UTF-8, whitespace and 27 introduced local links/anchors. The
+component's separate [construction record](../experiments/nu-r12-material-intent/RESULTS.md)
+retains two failed builds, the failed fixture, the accepted 54 positive and
+27 expected-rejection checks, and independent review. No Nu engine process,
+participant, task-solving model candidate or native persistence experiment is
+validated by these repository checks. R02/R10 remain stopped.

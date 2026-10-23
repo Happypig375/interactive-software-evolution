@@ -98,3 +98,44 @@ Next resolve the practical preservation requirement and, only for a
 changed-machine claim, the actual machine-change lineage. Retain current reset
 as a valid policy under its own requirements. This case supplies neither a Nu
 advantage nor an executed transfer result, and it does not reopen stopped R10.
+
+## Actual runtime evolution with an explicit compatibility cutoff
+
+A subsequent bounded search found **Harny**, a public human/agent workflow
+application with a real runtime/schema change. It still does not supply an
+obligation to retain pre-change progress. Its [human-review issue #20](https://github.com/lfnovo/harny/issues/20)
+asks for parking and later resuming work; the maintainer subsequently recorded
+that production engine resume was not implemented. The inspected pre-change
+[runner](https://github.com/lfnovo/harny/blob/86cb779dd1eb56b6274cbab8f090ce6ad727ad10/src/harness/engine/runtime/runEngineWorkflow.ts#L38-L70)
+creates an actor with input, without a persisted snapshot. Same-version future
+pause/resume demand is distinct from preserving already-supported XState
+progress across an incompatible deployment.
+
+The transition from parent `86cb779d` to
+[`0347e0bd`](https://github.com/lfnovo/harny/commit/0347e0bd1f338776e16da357d640175c834ed042)
+introduces a declarative scheduler and v3 run state. Its [historical reader](https://github.com/lfnovo/harny/blob/0347e0bd1f338776e16da357d640175c834ed042/src/harness/state/v3/reader.ts#L4-L12)
+marks v2 readable but non-resumable. The subsequent
+[`8e732811`](https://github.com/lfnovo/harny/commit/8e7328110a7109c3884af002908724975053c45b)
+removes XState and older readers in favor of exclusive v4 state. Its
+[architecture decision](https://github.com/lfnovo/harny/blob/8e7328110a7109c3884af002908724975053c45b/docs/decisions/0002-authoritative-run-snapshot.md#L22-L35)
+explicitly excludes historical-schema resume, and a [test](https://github.com/lfnovo/harny/blob/8e7328110a7109c3884af002908724975053c45b/src/harness/state/runStore.test.ts#L13)
+expects older schema rejection. No application or upstream test was run here.
+These are exact commit boundaries; unchanged package version 0.4.0 and the
+absence of observed Git tags do not establish a released compatibility contract.
+
+This is useful adverse evidence against treating every old-state rejection as
+a defect. Harny chose a compatibility cutoff. A migration task would require an
+additional practical retention requirement, or an explicitly authored hypothetical
+with that limitation stated. Direct XState snapshot transformation alone would
+also not establish migration into Harny's different declarative scheduler:
+that would need a correspondence between two runtimes and their effects.
+
+Other new leads did not resolve the selection: [XState #3092](https://github.com/statelyai/xstate/discussions/3092)
+reports a state-node rename but accepts incompatibility detection and reset,
+without a public affected application; [#5178](https://github.com/statelyai/xstate/issues/5178)
+is a same-machine history-restoration reproduction. The [search ledger](literature/nu-background-searches-2026-09-30.md#2026-10-23-non-game-evolution-and-compatibility-cutoff-screen)
+records all six focused queries, returned coverage and source decisions.
+No eligible case was found in that screen; this is not absence across the field.
+Follow a concrete request where reset is unacceptable before binding a practical
+cross-version comparison. This adds neither a Nu transfer result nor evidence
+that migration is required for all stateful applications.

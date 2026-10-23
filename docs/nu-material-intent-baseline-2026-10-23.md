@@ -134,3 +134,66 @@ work. Human-active time and comparative total effort are unknown; runtime and
 setter counts cannot substitute for them. Broader literature/practice work
 continues, and neither native execution nor the stopped R02/R10 gates is
 authorized by a passing component.
+
+## Native preparation after component acceptance
+
+Six follow-up scopes prepared the Nu bridge, independent observations, runner
+reuse, work accounting, storage and another non-game source case. The component
+publication `ac828bec` passed the full Linux/Windows repository checks,
+including the new component step on each platform; the [CI record](ci-validation-scope.md#r12-material-intent-component-publication-2026-10-23)
+owns that result. No native process was added.
+
+The next package will compile the unchanged component source with the eight
+original Terra Firma units and a new Program, using the original host's
+FSharp.Core 10.1.300. The pure control executable used 10.1.302 and will not be
+copied into the Nu application. Convert the two option-valued fields explicitly,
+update the existing complete record to preserve the other fourteen fields,
+and omit unchanged record setters. Equal-value intent still changes in metadata.
+The five stages' successful-path setter predictions are 32, 1, 31, 1 and 32;
+actual adverse predecessors can change those counts. They are observations,
+not validity requirements or developer-work proxies.
+
+The parent has selected explicit generation-zero initialization **inside the
+first edit process**, after observing its actual original scene and live map.
+Its initial companion is separately retained; it is never a fallback for
+missing later metadata. Each later process consumes the exact actual previous
+scene/companion. The final sixth process only loads and observes stage five's
+pair twice: no setter, save, bind or generation-six transition. There are five
+successor pairs and one final verification, one authored sequence rather than
+six independent replications.
+
+Keep three questions separate: did the helper apply its rule to the actual
+input, did Nu deliver those requested values, and did the cumulative sequence
+meet the declared nominal requirement? All observations come from the actual
+world and saved files, never `BoundPolicy.Materials`. Normally returning wrong
+values or a parseable save differing from the observed endpoint remain adverse
+results; save and bind the actual bytes and retain that pair for the assigned
+continuation. Thrown operations or missing/unbound outputs preserve partial
+work and cannot provide a successor. No retry, reset or favorable reference
+substitution is assigned.
+
+Relative sibling order, logical addresses, all eleven raw histories and links
+remain preservation obligations. Runtime IDs must stay stable within a process;
+fresh-process IDs and current numeric Order values can regenerate. This does
+not alter the old strict Order/history failure. Record initialization and
+per-edit work, common research apparatus, failures and environment work, with
+active human/agent effort left unknown when unmeasured.
+
+New preparation is at
+`A:/nu-value-execution/20261023-material-intent/`; the [storage record](workspace-integrity-return-2026-10-18.md#2026-10-23-separate-a-execution-and-publication-location)
+replaces the earlier C: execution-location assumption. The parent decision
+record, SHA-256
+`ca78b4a88b4e9dab2427064c546b042c5884a273fb5c13c394ab46586b95b072`,
+binds these choices and corrects the advisory notes' bootstrap, cross-process
+ID and stale path assumptions. It is **not native acceptance**. Next finish the
+prospective protocol's byte bounds/check roster, then review and construct the
+minimal package with retained attempts, controls and a current source/build
+seal. The proposed limits remain 300 seconds per build, 180 seconds and
+120 callbacks per native process, at most six initially assigned processes,
+and return at five unresolved failures at one unchanged construction gate.
+
+After the bounded sequence is accepted, further work on this baseline needs a
+separately justified practical comparison. Additional repetitions or counting
+fewer setters would not establish superiority. Continue consequential agenda
+and literature gaps rather than relabeling this ordinary capability as a new
+Nu advantage.
