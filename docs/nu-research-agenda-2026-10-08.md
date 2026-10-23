@@ -135,6 +135,41 @@ unresolved. These are preparation results,
 not transfer experiments or reopened R10 construction. Human steering remains
 future work; all 21 direction IDs and the existing allocations/returns remain.
 
+### Preparation priority after the ordinary material baseline
+
+The [accepted native protocol](../experiments/nu-r12-material-intent-native/PROTOCOL.md)
+binds the planned conformance check for the ordinary material helper;
+its implementation and execution are still separate work. After that one
+sequence reaches an honest terminal disposition, prioritize the following
+comparisons for preparation. This orders current research value and readiness,
+not predicted effect sizes, and does not change the 21 direction IDs or
+candidate/participant allocation.
+
+| Preparation order | Practical decision and credible alternative | Consequential next dependency and falsifier |
+| --- | --- | --- |
+| 1: R03 with R06 | Whether retaining world history helps complete diagnosis and repair enough to justify acquisition/retention and access costs, compared with ordinary passive inspection, source inspection and direct reconstruction in the same pinned Nu workflow. | Bind an actual symptom and two prospectively named roots; validate passive inspection, selection and undo/redo without disturbing the branch. Then compare independently verified repair/continuation and complete work. If history supplies no needed fact or improves no repairs while costing at least as much, the added mechanism has no demonstrated advantage for that task. |
+| 2: R04 | Whether explicit current-case enumeration earns its warning/edit burden relative to a valid exhaustive catch-all with the same ordinary compiler, context and tests. | Bind a practical successor requirement and ordinary information policy. Later all-assigned completion and work, not another compiler probe, must discriminate the conventions. Equal/better catch-all completion, ignored warnings or mechanically compiling but wrong repairs narrow the claim to diagnostic availability. Candidate execution remains unallocated. |
+| 3: conditional R01 informed by R12 | Whether a developer should adopt or retain Nu's selective-material workflow over the ordinary workflow in that developer's actual engine/project. | Bind a beneficiary, consequential workflow choice and incremental revision history before selecting one comparator. Count setup, asset/selection/helper work, editing, repair and verification. An ordinary engine providing the same saved/rendered result with equal or less complete work defeats the proposed advantage. Do not build three ports merely because three engines were surveyed. |
+
+The [history access record](nu-history-question-access-2026-10-18.md#2026-10-23-ordinary-inspection-and-history-lineage)
+supports the passive route at source level; the retained stale-position episode
+still lacks its original predecessor names and is not confirmed diagnosis
+ground truth. The [cost series](nu-recovery-cost-feasibility-2026-10-15.md#comparison-and-interpretation)
+has mixed readiness results and unequal payload scopes. These make complete
+repair work consequential without supplying a benefit estimate. R04 already
+has [compiler evidence](nu-application-diagnostic-feasibility-2026-10-15.md)
+and a [bounded behavioral oracle](nu-pause-runtime-feasibility-2026-10-15.md);
+repeat demonstrations would not resolve task/solver validity.
+
+R01 retains the greatest direct adoption potential and the largest unresolved
+workload burden. The [ordinary engine alternatives](nu-status-quo-and-transfer-audit-2026-10-23.md#a-credible-status-quo-for-the-material-task)
+must receive their sufficient native facilities. Further baseline repetitions
+or mode-table variants are not the next research contribution. The
+[Showtime/Harny cases](nu-xstate-practice-case-2026-10-23.md) do not establish a
+cross-version preservation obligation, so they do not yet select a non-game
+migration experiment. R02/R10 returns remain in force. New consequential
+primary evidence can change this order; no broad-survey completion is implied.
+
 ## How the priorities are chosen
 
 Priority is an ordinal research judgment, not an estimated effect size or a computed score. It considers:

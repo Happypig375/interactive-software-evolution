@@ -185,15 +185,63 @@ replaces the earlier C: execution-location assumption. The parent decision
 record, SHA-256
 `ca78b4a88b4e9dab2427064c546b042c5884a273fb5c13c394ab46586b95b072`,
 binds these choices and corrects the advisory notes' bootstrap, cross-process
-ID and stale path assumptions. It is **not native acceptance**. Next finish the
-prospective protocol's byte bounds/check roster, then review and construct the
-minimal package with retained attempts, controls and a current source/build
-seal. The proposed limits remain 300 seconds per build, 180 seconds and
-120 callbacks per native process, at most six initially assigned processes,
-and return at five unresolved failures at one unchanged construction gate.
+ID and stale path assumptions. It is **not native acceptance**. The subsequent
+protocol acceptance below now permits coupled construction; current controls,
+source/build sealing and native acceptance remain separate obligations.
 
 After the bounded sequence is accepted, further work on this baseline needs a
 separately justified practical comparison. Additional repetitions or counting
 fewer setters would not establish superiority. Continue consequential agenda
 and literature gaps rather than relabeling this ordinary capability as a new
 Nu advantage.
+
+## Accepted native protocol and isolated build inputs
+
+The [native protocol v1.1](../experiments/nu-r12-material-intent-native/PROTOCOL.md)
+is accepted for one owner's coupled adapter, runner, oracle and control
+construction. Its SHA-256 is
+`64c8a401e7bd30adea3c41a1dde96d7d91fc21fe9d63df11382e39e9708f03bb`;
+parent acceptance receipt SHA-256 is
+`ebf7da66e64adc04785788975ed6897d4b051edaf5a5570f9e9a7ef431452467`.
+The first submission remains retained: overall oracle review accepted it,
+while build and continuation reviews required more precise cache/PDB,
+observation-validity, output-monitoring and attempt rules. All three Sol review
+scopes accepted the corrected submission. This is AI protocol review, not
+human sign-off, compiled-package acceptance or an executed result.
+
+The frozen controls distinguish a valid adverse state from missing observation
+coverage. A complete, correctly bound adverse scene/companion can advance;
+missing mandatory captures, lifecycle ordinals/counter reconciliation or
+cleanup stop continuation while leaving independently established byte-pair
+evidence intact. A fresh process may reject an actual bad material map without
+retroactively making the preceding pair unbound. The final reopen writes logs
+only. Eighteen control groups cover these boundaries and the material,
+collateral, order, provenance and resource channels before native acceptance.
+
+All 30 accepted NuGet package versions were copied into an immutable local
+A: source: 588 files / 893,822,639 bytes. Both the transfer verifier and parent
+rehash found zero missing, extra or mismatched files. The manifest SHA-256 is
+`f427bd810f2c3c77cd9deed624b3455900ec28707b254288299843a40537f266`;
+the passing transfer receipt is
+`3ed3a6be4dda70b6032e3443eab6db19f5084aed26f1674bb6355d27d1388b0b`.
+A pre-copy PowerShell record-type failure remains retained; it copied no files.
+Restore must use a separate fresh writable A: cache, no network/fallback source,
+and the same package identities/content hashes. Ten authored PDB documents are
+checked individually; generated/checksumless entries are classified separately.
+
+The hash investigation resolved a measurement mismatch: NuGet's signed-content
+hash excludes signature metadata, while `.nupkg.sha512` hashes archive bytes.
+Their inequality did not show changed package contents.
+[NuGet metadata specification](https://github.com/NuGet/Home/wiki/Nupkg-Metadata-File).
+The bounded .NET 10 FSharp.Core verification reports the accepted content hash
+and valid signatures; the earlier wrapper-only failure did not run verification
+and remains recorded. Only that package received this new direct verification,
+not all 30. [.NET verification command](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-nuget-verify).
+
+Restore/build share 300 seconds; each objective-control command set has
+120 seconds; a native role has 180 seconds and 120 callbacks. Scene/companion
+eligibility limits are 4/1 MiB and retained process evidence is limited to
+128 MiB, with monitored overshoot preserved. Each native role has one OS
+process creation. Five unresolved construction failures trigger immediate
+return; partial success does not reset the gate. Construction has been assigned;
+no new native launch or native acceptance is established by this checkpoint.
