@@ -25,15 +25,24 @@ The user's subsequent “parallelize your work with subagents” authorizes boun
 
 ## Next continuation
 
-**2026-10-23 requested handoff:** follow the
-[continuation prompt](docs/continuation-prompt-2026-10-23.md) and
-[R03 preparation record](docs/nu-passive-access-preparation-2026-10-23.md).
-Configuration/launcher/capture artifacts have independent plus parent
-acceptance, but the copied package is not configured and no native/UI run
-has occurred. Register the bounded reset/configuration and accept its fresh
-complete manifest before the sole assignment. Preserve the four failed
-construction attempts and the fifth-failure return boundary at that unchanged
-gate. Do not repeat completed paper/source screens or resume R02/R10/R12.
+**2026-10-23 R03 native attempt is terminal:** the
+[observation record](docs/nu-passive-access-observation-2026-10-23.md) preserves
+successful package preparation, then a failed distinct-state fixture and
+undeclared `gaia/imgui.ini` output. C0-C3/Undo/Redo were not reached. Do not
+reset the package, retry the gesture or issue a replacement native assignment.
+The four prior construction failures remain; the complete preparation gate
+passed before this separate native outcome. Follow the current
+[continuation prompt](docs/continuation-prompt-2026-10-23.md); older pending
+launch instructions below are historical. R02/R10/R12 remain returned.
+
+**2026-10-23 earlier preparation handoff:** the
+[R03 preparation record](docs/nu-passive-access-preparation-2026-10-23.md)
+retains acceptance of configuration/launcher/capture artifacts and four failed
+construction attempts. Its then-pending configuration and single native
+assignment have been completed with the terminal outcome above. Those earlier
+launch instructions are historical. Use the current
+[continuation prompt](docs/continuation-prompt-2026-10-23.md); do not repeat
+completed paper/source screens or resume R02/R10/R12.
 
 **2026-10-23 R12 material-intent return:** the
 [ordinary native baseline](docs/nu-material-intent-baseline-2026-10-23.md#native-construction-return-at-gate-008)

@@ -42,19 +42,29 @@ The user's subsequent instruction, “parallelize your work with subagents,” a
 
 ## Where current information lives
 
-**Requested handoff, 2026-10-23:** the immediate parallel preparation and
-reading segment is complete. The [continuation prompt](docs/continuation-prompt-2026-10-23.md)
-records the next work. [R03 passive-access artifacts](docs/nu-passive-access-preparation-2026-10-23.md)
-have independent and parent acceptance for preparation only: 16-field state
-roundtrip and eight synthetic launcher controls pass, with four construction
-failures retained. No package reset/state installation, accepted fresh
-manifest, native assignment or UI run exists. Next register and validate the
-copied-package configuration before the single frozen C0-C3 process; a fifth
-material failure at the unchanged gate triggers return. R02/R10/R12 remain
-returned. The source audits now bind Nu exception-recovery demand, a real
-API-rename burden case and Camunda's existing migration comparator; S311
-separates estimated dependencies from actual history. This checkpoint ends
-the current turn at the user's request, not the broad survey.
+**R03 passive-access disposition, 2026-10-23:** the
+[one native observation](docs/nu-passive-access-observation-2026-10-23.md)
+followed accepted exact package preparation. Its one submitted drag left
+Position K unchanged with no history entry, so the required distinct F and
+C0-C3 traversal were not established. Normal process exit does not make the
+case pass. An undeclared new `gaia/imgui.ini` separately fails the frozen output
+boundary. Preserve the complete attempt and partial visible property/selection
+evidence; do not reset or repeat this consumed assignment. The preparation
+gate passed with four prior failures retained. R02/R10/R12 remain returned.
+Follow the updated [continuation prompt](docs/continuation-prompt-2026-10-23.md)
+for source-only clarification or consequential literature before any distinct
+future protocol; this is not a repair or benefit result.
+
+**Earlier preparation checkpoint, 2026-10-23:** the parallel preparation and
+reading segment produced accepted [R03 artifacts](docs/nu-passive-access-preparation-2026-10-23.md):
+16-field state roundtrip and eight synthetic launcher controls passed, with
+four construction failures retained. The package configuration and native
+observation pending at that checkpoint are now resolved by the terminal
+disposition above; its launch instructions are historical. Source audits bind
+Nu exception-recovery demand, a real API-rename burden case and Camunda's
+existing migration comparator; S311 separates estimated dependencies from
+actual history. The current [continuation prompt](docs/continuation-prompt-2026-10-23.md)
+records the requested return without closing the broad survey.
 
 **R12 ordinary material-intent construction return, 2026-10-23:** the
 [native baseline record](docs/nu-material-intent-baseline-2026-10-23.md#native-construction-return-at-gate-008)

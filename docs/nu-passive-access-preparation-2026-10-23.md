@@ -1,4 +1,10 @@
-# R03 ordinary Gaia access: accepted preparation, execution pending
+# R03 ordinary Gaia access: historical preparation checkpoint
+
+**Subsequent continuation:** the [single native observation](nu-passive-access-observation-2026-10-23.md)
+now records completed package configuration, a failed two-state fixture and an
+unexpected output file. No Undo/Redo traversal or replacement occurred. The
+remainder of this document preserves the initial preparation handoff below;
+its earlier pending/no-native statements are historical.
 
 The configuration, single-use launcher and observation wrapper have passed
 independent Sol review and parent acceptance for the next preparation step.

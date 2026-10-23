@@ -170,15 +170,21 @@ migration experiment. R02/R10/R12 returns remain in force. New consequential
 primary evidence can change this order; no broad-survey completion is implied.
 
 The completed parallel follow-up sharpens these priorities. The
-[R03 passive-access package](nu-passive-access-preparation-2026-10-23.md)
-is prepared for its still-pending configuration and single UI check. Nu
+[R03 passive-access attempt](nu-passive-access-observation-2026-10-23.md)
+completed accepted package preparation and one native launch. Its single
+submitted drag left the required second state absent; no C0-C3 or Undo/Redo
+observation followed. An unexpected Gaia imgui file separately failed the
+frozen output boundary. Ordinary property selection/viewing has partial
+evidence, while access around an actual history branch remains unresolved.
+The assignment is consumed; source-only clarification may inform a distinct
+future question, not a retry or retrospective protocol change. Nu
 [#151's recovery lineage](nu-history-question-access-2026-10-18.md#2026-10-23-recovery-demand-and-the-next-comparison)
 supplies a concrete maintainer rationale, but no eligible actual-root repair
 trial or independent adopter evidence. [S311](literature/full-reading/S311-partial-trace-dependency-estimation.md)
 adds a useful adverse boundary: inferred dependencies may aid localization
 but cannot replace missing actual predecessor evidence. Its closest unread
 agent-repair follow-up, ADI, is consequential if ordinary agent tool access is
-chosen; it is not a prerequisite for the frozen passive UI feasibility check.
+chosen. Its methods cannot resolve this attempt's missing fixture evidence.
 
 The [authentic R04 API rename](nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case)
 is a source-maintenance burden case where a valid catch-all can avoid a named

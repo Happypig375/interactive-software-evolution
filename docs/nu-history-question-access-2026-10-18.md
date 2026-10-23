@@ -293,3 +293,25 @@ the methods and cost notes are respectively
 and `e16922457be37fa41e68dfca9c5c41abe733885c0d84ac31d070d1bbd3401ddf`.
 This preparation allocates no participant or experimental candidate runs and
 does not reopen R02, R10 or the returned R12 construction.
+
+## 2026-10-23 native passive-access disposition
+
+The [one native observation](nu-passive-access-observation-2026-10-23.md)
+followed accepted copied-package configuration and a fresh exact manifest.
+Ordinary hierarchy selection exposed LeftWall and its displayed Position K.
+The sole submitted drag left K unchanged with no new history entry; the later
+capture was byte-identical. No distinct F was established, so C0-C3 and
+Undo/Redo were not attempted. This is a fixture setup failure, not evidence
+that passive observation destroys an established branch or that Undo/Redo is
+defective. The unexpected new `gaia/imgui.ini` separately fails the frozen
+output boundary.
+
+Independent review and parent disposition retain the complete attempt and
+its narrower property-access evidence. The assignment is consumed. Do not
+reset the package, retune the gesture or repeat the process. Source-only
+inspection may clarify the interaction/output paths before a distinct future
+question; it cannot supply missing observations retroactively. The practical
+recovery comparison above remains unresolved, including actual named roots,
+ordinary access, verified continuation and complete work. R02/R10/R12 remain
+returned, and the [current prompt](continuation-prompt-2026-10-23.md) owns the
+next handoff.

@@ -1977,11 +1977,11 @@ empirical advantage remain separate.
 ## 2026-10-23 completed parallel follow-up and handoff
 
 The [R03 passive-access preparation](../nu-passive-access-preparation-2026-10-23.md)
-now has reviewed configuration, launch and capture artifacts, preserving four
-construction failures. Its configured package, fresh manifest and actual
-C0-C3 UI observation remain pending. The [continuation prompt](../continuation-prompt-2026-10-23.md)
-ends this segment at the user's requested handoff. The separate R02/R10/R12
-returns remain stopped; accepted preparation is not native or benefit evidence.
+produced reviewed configuration, launch and capture artifacts, preserving four
+construction failures. Its then-pending native check is now terminal, as
+recorded below. The [continuation prompt](../continuation-prompt-2026-10-23.md)
+contains the current handoff. The separate R02/R10/R12 returns remain stopped;
+accepted preparation is not native or benefit evidence.
 
 The new source work improves task selection. [Nu #151's exact recovery
 lineage](../nu-history-question-access-2026-10-18.md#2026-10-23-recovery-demand-and-the-next-comparison)
@@ -2025,3 +2025,21 @@ segment, with query/edition/coverage gaps. These deepen B02/B03/B04/B06/B08/B10
 and B12 without closing the other themes or the broad survey. The next
 consequential scholarly lead is ADI if ordinary coding-agent repair is selected;
 no title-only screen is treated as a read method or a novelty verdict.
+
+## 2026-10-23 native access disposition
+
+The [single R03 attempt](../nu-passive-access-observation-2026-10-23.md)
+supports ordinary LeftWall selection and reading its displayed position. The
+submitted drag did not create the required distinct state or history entry,
+so the proposed passive history traversal was not tested. A new `gaia/imgui.ini`
+also violated the frozen output boundary. Independent and parent review retain
+both failures and the partial observations; normal process exit is not a
+passing protocol or evidence of repair value.
+
+This changes readiness for B04/B08's history-access comparison, without
+changing the literature's reported findings. The cause of the ineffective
+interaction remains unresolved. The consumed assignment has no retry; any
+source-only clarification informs a distinct future question. R03/R06 still
+need an eligible practical task, demonstrated access, a common verified
+recovery/repair outcome and complete work accounting. No new search, paper
+reading or candidate/participant evidence is credited by this local attempt.
