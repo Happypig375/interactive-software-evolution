@@ -10312,3 +10312,77 @@ meaningful constraints, actual saved predecessors and complete work. Redux
 and XState add portable contract questions, not executed transfer. Continue
 consequential literature if a stronger claim or selected application needs it;
 this segment neither closes the broad survey nor resumes the R02/R10 returns.
+
+## 2026-10-23 XState application and material-policy follow-up
+
+**Decision:** strengthen the [ordinary R12 helper](../nu-material-intent-baseline-2026-10-23.md)
+rather than invent a distinct treatment from equivalent machinery, and bind a
+real application for the [XState transfer question](../nu-xstate-practice-case-2026-10-23.md).
+The ten parallel scopes supplied source/design evidence, not ten independent
+empirical cases. Completed merge/correspondence readings were reused; no new
+paper body, PDF acquisition or Zotero operation was needed for these decisions.
+
+The XState assistant queried GitHub REST Search Issues unauthenticated, page 1,
+`per_page=100`. Retained responses have `incomplete_results=false`, which does
+not make a capped first page complete. These are returned positions, not unique
+applications, paper reads or independent failures:
+
+| Exact query | Reported total | Returned | Disposition |
+| --- | ---: | ---: | --- |
+| `"getPersistedSnapshot" is:issue -repo:statelyai/xstate` | 22 | 22 | Screened for concrete applications. |
+| `"persisted snapshot" xstate is:issue -repo:statelyai/xstate` | 122 | 100 | Capped/noisy; narrowed, remaining page not read. |
+| `xstate migration snapshot is:issue -repo:statelyai/xstate` | 405 | 100 | Capped/noisy; narrowed, later positions unexamined. |
+| `xstate "state machine changes" is:issue -repo:statelyai/xstate` | 60 | 60 | Screened. |
+| `xstate "persisted state" upgrade is:issue -repo:statelyai/xstate` | 19 | 19 | Screened. |
+| `xstate snapshot "schema version" is:issue -repo:statelyai/xstate` | 81 | 81 | Screened. |
+| `xstate "persisted state" is:issue created:<2025-01-01 -repo:statelyai/xstate` | 41 | 41 | Older evidence; followed the #941 boundary. |
+| `"getPersistedSnapshot" is:issue created:<2025-01-01 -repo:statelyai/xstate` | 2 | 2 | Screened. |
+| `xstate "machine changes" persistence is:issue created:<2025-01-01 -repo:statelyai/xstate` | 1 | 1 | Screened. |
+
+Aipictors-specific page-1 terms and return counts were `xstate` 0,
+`generation.state` 1, `stately` 1, `localStorage generation` 1, `設定 復元` 2,
+`状態 永続化` 1 and `設定 消える` 0. Two three-query web batches returned
+13 combined persistence/migration entries and 29 combined #941/PouchDB/reporter
+entries; overlap is not independent evidence. Exact queries/responses and
+selected issue/PR bodies are retained privately. Root's later browser re-open
+of Showtime #150/#152 returned cache misses; the already retrieved GitHub API
+bodies and pinned source, inspected locally by root, support the record.
+
+Showtime #150/#152 is retained for a concrete partial-record schema/reset
+decision. Its reported relaunch failure has unverified causes; the machine
+bytes are identical across the selected persistence repair. A separate machine
+shape change is needed only for a changed-machine claim, and practical
+cross-version preservation intent remains unresolved. Aipictors supplies
+configuration persistence and subsequent context evolution without an observed
+migration failure; Node-RED supplies definition/tool migration burden rather
+than durable runtime migration; XState #941 supplies upstream break reports
+without a bound public affected application. The unbuilt lineup prototype was
+excluded from an existing-workflow case. No selected application ran.
+
+The one-time `xstate-practice-20261023` audit accepted 13 retained/cited and one
+excluded software source, with zero skipped records. `citation_report` returned
+14 screened, `retrieved=null`, `truncated=false`, no missing reasons and no
+retrieval-link warning. The exclusion is the unbuilt prototype, not a quality
+judgment about all small or AI-assisted repositories. Exact source identities,
+coverage and decisions are in private `xstate-practice/evidence.md` and its
+structured records.
+
+The R12 follow-up inspected new decision-critical ranges within the existing
+Nu pin: material option/default/render meaning, declared property persistence,
+facet discovery, setter/save failure boundaries, and semantic sibling order.
+The `nu-material-intent-source-20261023` audit records 11 credited software
+files, zero excluded/skipped; the report has 11 screened, `retrieved=null`, no
+missing reasons, no linkage warning and `truncated=false`. This is selected
+source reading, not eleven papers or full-repository coverage. Unchanged
+historical paper screens were not reported again.
+
+The exact material and order source archives hash to
+`28c0b9e9019629fd70fee49a99039e6cbd4941e0730b5d9a6883b7ce65774a83`
+and `250f6bf1446ae95e346d662841d99f592c6154e733ee09c2b91117ca6f9c70c7`.
+The private evidence root is
+`C:/Users/hadri/nu-value-recovery/20261018-205753-integrity-stop/r12-intent-policy-20261023/`.
+Component construction is separately accounted there. No Scite literature
+search was repeated for an already-resolved elementary method; future searches
+still request `limit:20` and follow a consequential missing claim. Neither the
+source audit nor a later passing component closes the broad survey or proves
+practical benefit.

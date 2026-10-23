@@ -42,6 +42,16 @@ Applying a change atomically prevents some intermediate states; it does not esta
 
 ## The intervention to prepare next
 
+**Subsequent construction correction:** the
+[material-intent follow-up](nu-material-intent-baseline-2026-10-23.md) finds that
+the least-invasive mode table plus field helper is itself the ordinary baseline.
+The first construction therefore strengthens that reference, rather than
+presenting an equivalent helper as a distinct treatment. The discriminators
+below record the design questions that led to this correction. No coupled-field
+invariant was found in the selected material path, and a historical merge base
+or native failure-injection framework is unnecessary for the selected explicit
+operations. A later integration/work comparison must earn its distinction.
+
 Prioritize an **explicit material-field revision policy within Nu** as the next local construction candidate. This advances R12's practical repair/completion question without replacing the broader agenda or promoting it to a proven engine advantage. The first implementation should use the least invasive application/helper representation that can express the required inheritance and local choices. A general engine merge framework is not justified merely by the first missed tint.
 
 Compare that policy with the accepted ordinary field-update helper and unchanged public propagation with an explicit repair policy. Credit the existing engine facilities above when interpreting any result. Keep the original P-local failed delivery, each workflow's actual saved predecessor, the separate history-switch prediction and all setup/repair work. A helper that merely repeats the already-successful batch result supplies no new value claim.
@@ -82,6 +92,14 @@ The separately inspected 6.0.0-alpha.70 snapshot at `c628b91f5f48b022c7ccf9dde1b
 A prospective charged-order/approval case could compare ordinary direct transformation with additional source-version rejection and whole-envelope checks, plus event replay where available. State/context meaning, child identity, original-versus-restarted deadline policy, accepted events, duplicate/omitted effects and the first subsequent decision must be declared independently. The extra checks must justify their own work against ordinary migration. The vendor's workflow example is practical motivation, not independent adoption evidence, and the particular schema change remains authored. No migration, actor process, external service or effect replay was executed here; this preparation does not reopen Nu's stopped R10 gate.
 
 These two references support portable questions about represented state, inspection, reconstruction and pending/effect obligations. Configuration inheritance, changed-code replay and migration of active state remain distinct questions. Useful transfer requires a tested outcome and complete-work comparison in the selected non-game artifact.
+
+The [subsequent application search](nu-xstate-practice-case-2026-10-23.md)
+binds Showtime's public relaunch report and its later rejection of unversioned
+records. Its machine is unchanged across that persistence repair, so this is
+a concrete record-schema/reset decision, not a demonstrated machine-evolution
+failure. Cross-version preservation intent remains unresolved. Aipictors,
+Node-RED and XState #941 retain distinct configuration, definition-migration and
+unbound application boundaries; none is silently upgraded to a transfer result.
 
 ## Evidence and continuation
 

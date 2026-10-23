@@ -1937,14 +1937,18 @@ existing non-game mechanisms with separate history, pending-work and effect
 boundaries. Their documented/source-supported capability is not executed
 save/reopen, semantic migration, developer benefit or independent demand.
 
-**Next consequential action:** prepare the bounded R12 explicit material-field
-policy and complete-work comparison against the accepted helper and public
-propagation plus declared repair. Freeze intent/reset/conflict meaning,
-actual saved predecessors and useful continuation before construction; the
-same values alone cannot distinguish inherited from deliberately pinned
-equal-value choices. Count metadata, setup, verification, failure and repair.
-For non-game transfer, bind a real application and practical failure before
-promoting the authored ticket/approval shapes. Follow the deferred merge/lens
+**Next consequential action:** the [material-intent follow-up](../nu-material-intent-baseline-2026-10-23.md)
+identifies the explicit mode table plus field update as an ordinary helper,
+so construct that stronger reference baseline first. The prospective component
+separates imported-asset fallback, source inheritance and equal-value pins;
+its synthetic pairing controls do not establish Nu persistence. A later
+integration must improve capability or complete work beyond this baseline,
+with actual saved predecessors and metadata/setup/verification/repair counted.
+For non-game transfer, the [Showtime follow-up](../nu-xstate-practice-case-2026-10-23.md)
+now binds a public persistence-schema/reset change and relaunch report, with
+machine-change causality and cross-version preservation intent still unresolved.
+Do not treat that source evidence as a runtime or benefit result, or add a
+cosmetic machine change solely to fit a preferred task label. Follow the deferred merge/lens
 originals if a stronger general resolution or correspondence-law claim makes
 them consequential. The broad survey stays open and the R02/R10 returns stay
 stopped; these findings do not allocate candidates or participants.

@@ -483,3 +483,20 @@ prediction remain unchanged. Any new comparison must show a useful outcome
 beyond merely reproducing the successful batch and must accept equal/better
 ordinary alternatives. No new native process, helper, shader, engine port or
 candidate run is added by this continuation.
+
+### 2026-10-23 construction correction: credit the intent-aware helper
+
+The [follow-up decision](nu-material-intent-baseline-2026-10-23.md) identifies
+the least-invasive mode table plus field update as the strengthened ordinary
+baseline itself. A separate treatment label does not create a comparison.
+The accepted [component contract](../experiments/nu-r12-material-intent/CONTRACT.md)
+uses a paired companion document, explicit equal-valued pins and immediate
+return to source inheritance. `ValueNone` means imported material fallback,
+not source inheritance. No historical merge base or invented coupled-field
+invariant is needed for this bounded policy.
+
+The construction first checks the component on synthetic paired inputs.
+Actual Nu save/reopen, editor integration and complete-work benefit remain
+separate. A future observer must sort sibling identities by `GetOrder`, not
+by names or raw set enumeration; fresh numeric Orders are not portable state.
+The old runtime outcomes and strict history findings remain unchanged.

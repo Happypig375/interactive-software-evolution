@@ -112,19 +112,26 @@ The [ordinary-workflow audit](nu-status-quo-and-transfer-audit-2026-10-23.md)
 changes the comparison. Unity and Unreal already express selective material
 inheritance; Godot supports both a shared-plus-unique workflow and a shared
 shader with per-instance values. Known merge literature supplies relevant
-methods. Prioritize a bounded R12 explicit material-field revision policy as
-the next construction candidate, comparing complete delivery and work with
-the accepted batch helper and public propagation plus declared repair. Charge
-representation, metadata, verification, failed work and conversion, and include
-explicit equal-value intent and actual saved-state continuation where relevant.
-This does not rank R12 above every Band A question or establish a new algorithm.
+methods. The [material-intent follow-up](nu-material-intent-baseline-2026-10-23.md)
+finds that the proposed mode table and field update are themselves a credible
+ordinary helper. Its [pure reference component](../experiments/nu-r12-material-intent/RESULTS.md)
+now passes the declared explicit-intent, immediate-release and JSON-pairing
+controls; supplied material maps have not undergone native serialization. A later Nu
+integration must improve capability or complete work beyond it; a baseline
+denied the same helper or intent information is invalid. Charge representation,
+metadata, verification, failed work and conversion. Actual Nu continuation is a
+separate acceptance gate. This does not rank R12 above every Band A question
+or establish a new algorithm.
 
 Redux and XState supply two concrete non-game mechanism references, with
 different reconstruction/effect boundaries. Ordinary XState snapshot
 transformation must be credited before testing any additional migration
 checks; event sourcing is an alternative when usable history exists. The
-proposed ticket/approval scenarios are authored shapes until an existing
-application and practical issue are bound. These are preparation results,
+proposed ticket/approval scenarios remain authored shapes. The
+[Showtime follow-up](nu-xstate-practice-case-2026-10-23.md) now binds a real
+partial-record persistence change and self-reported relaunch failure; it
+leaves machine-change causality and useful cross-version preservation intent
+unresolved. These are preparation results,
 not transfer experiments or reopened R10 construction. Human steering remains
 future work; all 21 direction IDs and the existing allocations/returns remain.
 
