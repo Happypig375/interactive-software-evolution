@@ -286,3 +286,42 @@ and the parent disposition `construction/gate-007-disposition.json`, SHA-256
 The local native implementation remains unaccepted and unpublished. The
 [published protocol's successful CI](ci-validation-scope.md#r12-native-protocol-publication-2026-10-23)
 does not validate it.
+
+## Native construction return at Gate 008
+
+The corrected draft reached the five-failure return at Gate 008. Its managed
+adapter controls returned successfully, but the Python checker failed while
+the C03 synthetic successful sequence entered the production scorer. The
+synthetic link/history strings used an unbracketed option form, and the symbol
+parser raised `ValueError: symbol_trailing_input`. No complete control-results
+file was emitted. This is a construction-fixture failure, not a Nu runtime
+or material-preservation result.
+
+The owner stopped without applying the proposed fixture correction, retrying,
+building or submitting another readiness review. The changed runner/oracle
+and controls attempt to address R1–R5 but have not established readiness.
+Compiled F# sources remain unchanged from build 002. All ten submitted files
+match the retained Gate 008 snapshot; the exact draft remains local and
+unaccepted. No native/graphics process ran, and none of the six assigned roles
+has been consumed.
+
+The combined failure units are Gates 001, 003, 004, 007 and 008. A successful
+managed subcheck or the earlier successful compilation does not reset this
+combined gate. Under [the project return rule](../AGENTS.md#stop-and-handoff),
+ordinary continuation cannot resume correction, builds, controls, readiness
+review or execution. Explicit resumption would first bind this returned draft
+and per-attempt limits; current controls, source/build correspondence and
+independent plus parent acceptance would still precede any native sequence.
+
+Private `construction/gate-008-assignment.json` has SHA-256
+`8e01013ae30e2d403593fde4f5bc92dd0bfe1ffc6396751e6585fd24c39b3e7d`;
+the failed control receipt is
+`4d50ccc48000f075555829fb6de19ae6850912c14b2c19497caa715161709cbf`;
+the traceback is
+`02e84d2f2b90614a61134e1716a3e2541a0ce15f427aa7ffc0efd5bc8fbcdf89`.
+Parent return/identity receipt `construction/parent-stop-rule-return-008.json`
+has SHA-256
+`83d56c0e6438bf5e9d484be7557c5b6ab34b6859798d1d213468da268ebea313`.
+All work remains in the accounting denominator. Independent task/access and
+literature preparation continues; R02/R10 and experimental allocations are
+unchanged.
