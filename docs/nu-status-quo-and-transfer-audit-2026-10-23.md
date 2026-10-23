@@ -93,6 +93,42 @@ A prospective charged-order/approval case could compare ordinary direct transfor
 
 These two references support portable questions about represented state, inspection, reconstruction and pending/effect obligations. Configuration inheritance, changed-code replay and migration of active state remain distinct questions. Useful transfer requires a tested outcome and complete-work comparison in the selected non-game artifact.
 
+### A concrete replay failure and a migration obligation
+
+[NgRx #919](https://github.com/ngrx/platform/issues/919) now supplies an actual
+replay task in place of the authored ticket-editor shape: a book disappears
+after export/reload/import when its lazy reducer is unavailable during replay.
+The 2018 report names NgRx 5.2.0 and was closed through #955. The historical
+export and fixed application revision are not recovered; this is a practical
+source case, not a runnable or reproduced current defect.
+
+The pinned Redux DevTools import implementation recomputes retained actions
+under the active reducer unless its explicit no-recompute route is used.
+Therefore a usable export needs the relevant base/payload and corresponding
+reducer registry/semantics. It is not automatically an independent endpoint
+oracle after a repair. Ordinary Action/State/Diff inspection, registration
+correction, reimport of an unchanged export and an independently verified
+continuation form a possible workflow; source evidence alone does not show it
+succeeds. [Import implementation](https://github.com/reduxjs/redux-devtools/blob/a857d4a44fe170e68508ecc66ffca6d6ad9a4524/packages/redux-devtools-instrument/src/instrument.ts#L751-L829).
+
+[NgRx #229](https://github.com/ngrx/platform/issues/229) and
+[DevTools extension #281](https://github.com/zalmoxisus/redux-devtools-extension/issues/281)
+also report subscription/component effects around replay. Bypassing middleware
+does not imply an effect-free operation. The earlier
+[Redux #378](https://github.com/reduxjs/redux-devtools/issues/378) and
+[#559](https://github.com/reduxjs/redux-devtools/issues/559) discussions distinguish
+visible action labels from preserved past transitions and debate changed-reducer
+replay. These are related historical reports, not independent Nu replications.
+An unpinned artifact makes the proposed task ineligible; a frozen eligible
+export that actually lacks necessary evidence can demonstrate insufficiency.
+
+Separately, the [Camunda migration case](nu-workflow-migration-transfer-2026-10-23.md)
+provides explicit current-instance preservation demand. Ordinary parallel
+versions are valid when old behavior may finish; when current instances must
+change, the existing manual migration facility is the appropriate status quo.
+This resolves the earlier lack of a concrete retention obligation without
+claiming that a distinct improvement has been designed or validated.
+
 The [subsequent application search](nu-xstate-practice-case-2026-10-23.md)
 binds Showtime's public relaunch report and its later rejection of unversioned
 records. Its machine is unchanged across that persistence repair, so this is
@@ -105,4 +141,4 @@ unbound application boundaries; none is silently upgraded to a transfer result.
 
 The private evidence root is `C:/Users/hadri/nu-value-recovery/20261018-205753-integrity-stop/source-comparisons-20261023/`. The engine assistants retained exact source snapshots, revision identities, inspected ranges and failures in `godot-baseline/`, `unity-baseline/` and `unreal-baseline/`; the literature assistant retained its decisions and search/audit outputs in `merge-literature/`. The parent checked decision-critical documentation and the per-instance/variant interfaces, retained adverse scope and corrected an archive boundary: Epic issue HTML responses were application shells, while readable issue-extractor text supports the historical issue account. A shell hash is not a hash of that claim body.
 
-Ten assistants divide maintainer work; their agreement is not independent user evidence or a measured effect. No native application, shader, participant or candidate execution occurred. The broad survey remains open. R02 input construction and R10 explicit migration remain stopped; source investigation and transfer preparation do not resume them. The next R12 construction needs a reviewable prospective package under the existing confident-local-work authority, not a new permission request or an automatic engine-port programme.
+Ten assistants divide maintainer work; their agreement is not independent user evidence or a measured effect. No native application, shader, participant or candidate execution occurred in this source audit. The broad survey remains open. R02 input construction, R10 explicit migration and the subsequent R12 native material-intent construction remain stopped; ordinary source investigation and transfer preparation do not resume them. The newer replay/Camunda evidence is under `A:/nu-value-execution/20261023-material-intent/value-preparation/replay-comparator-next/` and `workflow-transfer-next/`, with coverage in the [search ledger](literature/nu-background-searches-2026-09-30.md#2026-10-23-parallel-recovery-evolution-and-transfer-source-audit).

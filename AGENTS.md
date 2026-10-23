@@ -25,6 +25,16 @@ The user's subsequent “parallelize your work with subagents” authorizes boun
 
 ## Next continuation
 
+**2026-10-23 requested handoff:** follow the
+[continuation prompt](docs/continuation-prompt-2026-10-23.md) and
+[R03 preparation record](docs/nu-passive-access-preparation-2026-10-23.md).
+Configuration/launcher/capture artifacts have independent plus parent
+acceptance, but the copied package is not configured and no native/UI run
+has occurred. Register the bounded reset/configuration and accept its fresh
+complete manifest before the sole assignment. Preserve the four failed
+construction attempts and the fifth-failure return boundary at that unchanged
+gate. Do not repeat completed paper/source screens or resume R02/R10/R12.
+
 **2026-10-23 R12 material-intent return:** the
 [ordinary native baseline](docs/nu-material-intent-baseline-2026-10-23.md#native-construction-return-at-gate-008)
 is stopped at five unresolved construction failures. Gate 007 rejected

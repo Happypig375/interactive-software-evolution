@@ -1347,3 +1347,15 @@ access. Added causal instrumentation must be counted and identified as a
 treatment change. A further identical recovery witness would not resolve
 practical debugging value; R02/R10 returns and candidate/participant allocations
 remain unchanged.
+
+### S311: estimated missing dependencies are a distinct treatment
+
+[RecovSlicing](S311-partial-trace-dependency-estimation.md), at arXiv v5,
+estimates dynamic data dependencies omitted from a partial Java execution
+trace. Its integration improves a reported automatic regression-localization
+endpoint on 489 selected Defects4J bugs; it does not execute or verify repairs.
+The estimator is fallible, the benchmark excludes long traces, and its linked
+artifact remains access-limited. A possible rescue arm must label inferred
+edges separately from observed predecessor state and count instrumentation,
+synthesis, model calls, failures and verification. It cannot retrospectively
+supply the missing R03 root or turn the R06 component timings into total work.

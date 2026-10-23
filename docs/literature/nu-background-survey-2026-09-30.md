@@ -1973,3 +1973,55 @@ focused queries and their selected primary sources leave that application
 selection unresolved; no new paper body was read and no field-completeness or
 lack-of-demand inference follows. Mechanism findings, practical demand and
 empirical advantage remain separate.
+
+## 2026-10-23 completed parallel follow-up and handoff
+
+The [R03 passive-access preparation](../nu-passive-access-preparation-2026-10-23.md)
+now has reviewed configuration, launch and capture artifacts, preserving four
+construction failures. Its configured package, fresh manifest and actual
+C0-C3 UI observation remain pending. The [continuation prompt](../continuation-prompt-2026-10-23.md)
+ends this segment at the user's requested handoff. The separate R02/R10/R12
+returns remain stopped; accepted preparation is not native or benefit evidence.
+
+The new source work improves task selection. [Nu #151's exact recovery
+lineage](../nu-history-question-access-2026-10-18.md#2026-10-23-recovery-demand-and-the-next-comparison)
+supports preserving an editing session after user-code failure, with a
+maintainer-authored historical trigger. It does not recover the missing roots
+of our stale-position episode or establish independent adopter demand. R03/R06
+still need a common verified recovery/repair and continuation outcome, with
+capture, navigation, reconstruction, failures and verification included in
+separate work ledgers. Reused S42/S66/S310 evidence makes initial information
+and the difference between localization and repair decisive.
+
+[S311](full-reading/S311-partial-trace-dependency-estimation.md) is a newly
+completed 15-page preprint reading. Estimated missing dependency edges improve
+one reported automatic regression-localization pipeline on 489 selected bugs.
+They remain estimates with false/missed-edge risk, not actual retained state
+or completed repair. A rescue estimator would be a separately named treatment;
+it cannot fill missing R03 provenance retroactively. Acquisition, full reading
+and reproduction remain distinct; the linked implementation is access-limited.
+
+Two additional source cases preserve useful adverse possibilities. The
+[authentic API rename](../nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case)
+creates consumer editing work that a valid equivalent catch-all may avoid,
+without adding gameplay behavior. R04 should retain that boundary rather than
+select only favorable new-case warnings. The R05 event-retention report is
+qualified, with actual disposal/collection and live-contact behavior still
+unmeasured; an observed treatment-induced behavior regression would be adverse
+evidence, not an invalid run.
+
+For transfer, [Camunda's current-instance migration](../nu-workflow-migration-transfer-2026-10-23.md)
+has explicit user preservation demand and an existing manual-plan/validation
+baseline. Finishing old instances under old behavior is only a valid option
+when it meets the requirement. A new assistance method must improve on those
+ordinary facilities. [NgRx replay](../nu-status-quo-and-transfer-audit-2026-10-23.md#a-concrete-replay-failure-and-a-migration-obligation)
+similarly makes reducer availability and external-effect boundaries concrete,
+but no eligible exact historical artifact has been recovered. A missing
+artifact is an eligibility limit, not proof that replay failed.
+
+The [search ledger](nu-background-searches-2026-09-30.md#2026-10-23-parallel-recovery-evolution-and-transfer-source-audit)
+records the once-only 74-source audit and separate nine-decision scholarly
+segment, with query/edition/coverage gaps. These deepen B02/B03/B04/B06/B08/B10
+and B12 without closing the other themes or the broad survey. The next
+consequential scholarly lead is ADI if ordinary coding-agent repair is selected;
+no title-only screen is treated as a read method or a novelty verdict.

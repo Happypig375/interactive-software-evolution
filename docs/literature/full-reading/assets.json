@@ -998,5 +998,63 @@
     "metadata_verified": "2026-09-15 HKT",
     "edition_date": "2024-07-12",
     "landing_url": "https://doi.org/10.1145/3643757"
+  },
+  {
+    "id": "S311",
+    "parent_key": "YNG9EI88",
+    "attachment_key": "HCLDBPF3",
+    "doi": "10.48550/arXiv.2508.18721",
+    "title": "LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging",
+    "edition_label": "Full Text - arXiv v5",
+    "source_url": "https://arxiv.org/pdf/2508.18721v5",
+    "pages": 15,
+    "bytes": 1940313,
+    "sha256": "67dc6d169c39e5b89a147e2c77ee05b7edb2f6d0c9824476b0e0811913150855",
+    "retrieval": "Direct official arXiv v5 PDF acquired and attached through the authorized local Zotero API on 2026-10-23 HKT; downloaded and Zotero-stored bytes match",
+    "catalog_authors": [
+      {
+        "firstName": "Yunrui",
+        "lastName": "Pei",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Hongshu",
+        "lastName": "Wang",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Wenjie",
+        "lastName": "Zhang",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Yun",
+        "lastName": "Lin",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Weiyu",
+        "lastName": "Kong",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Jin Song",
+        "lastName": "Dong",
+        "creatorType": "author"
+      }
+    ],
+    "edition_authors": [
+      "Yunrui Pei",
+      "Hongshu Wang",
+      "Wenjie Zhang",
+      "Yun Lin",
+      "Weiyu Kong",
+      "Jin Song Dong"
+    ],
+    "edition_title": "LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging",
+    "metadata_source": "https://arxiv.org/abs/2508.18721v5",
+    "metadata_verified": "2026-10-23 HKT",
+    "edition_date": "2025-09-03",
+    "landing_url": "https://arxiv.org/abs/2508.18721v5"
   }
 ]

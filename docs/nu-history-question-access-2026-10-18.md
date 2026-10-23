@@ -208,3 +208,88 @@ episode and access notes are under
 `A:/nu-value-execution/20261023-material-intent/value-preparation/`, with
 SHA-256 `9961625053c53248624011bf11b7098fc1fc81be085434196246ce8a27d2113b`
 and `378056531584e7ef9f003a7b341a2e46b97560a2d2263b0e8bc2ffb3ff9469b1`.
+
+## 2026-10-23 recovery demand and the next comparison
+
+The complete body and linked history of [Nu #151](https://github.com/bryanedds/Nu/issues/151)
+now supply a concrete recovery rationale: undo after a user-code exception may
+preserve the editing session. This promotes an earlier title-only lead. It is
+maintainer demand for recovery, not independent adopter evidence or diagnosis
+ground truth for the stale-position episode above.
+
+The February 2017 lineage is explicit. [53a50bf](https://github.com/bryanedds/Nu/commit/53a50bfacb7d5ec8c90267ba404b726e38a6a017)
+introduces exception recovery; its child
+[59c83bd](https://github.com/bryanedds/Nu/commit/59c83bdc9902dcdfcc9e0ff97583c43f082d824e)
+changes initialization; the next child
+[a4a3de4](https://github.com/bryanedds/Nu/commit/a4a3de4e339fcee9f1bb5858281e0b68e484286c)
+corrects recovery and deliberately inserts a division-by-zero after Blaze
+Vector bullet creation. [c4f76ed](https://github.com/bryanedds/Nu/commit/c4f76ed33b8eb61b034bae734fd66fee9f9419c5)
+removes that test fault and closes the issue. The insertion/removal documents
+a maintainer-authored trigger; it is not a retained runtime result. The
+functional-only undo and exception-rewind routes survive at the research pin.
+
+A later recovery comparison can ask whether retaining the prior world makes
+a failed editing session recoverable with less work than an ordinary saved-state
+reconstruction. It must capture actual named roots in one process, specify the
+exception and recovery route, and verify a declared continuation. Merely
+catching and halting the exception is a rival explanation. Give the comparator
+the same saved project, trigger, logs and sufficient ordinary tools. Neither
+the historical patches nor the existing B0/B1 observations supply this complete
+comparison; no crash fixture is executed by this source audit.
+
+### Methods that change the design
+
+Existing complete readings already constrain that comparison:
+
+- [S42](literature/full-reading/S42-stream-debugger-comparison.md) finds that
+  supplying the relevant object changes which debugging package is faster.
+  Freeze fault-location information and permitted access before assignment.
+- [S66](literature/full-reading/S66-omniscient-debugging-behavior.md) observes
+  fewer reruns with Replay without greater diagnosis success. Rerun counts and
+  restoration alone cannot be the repair endpoint.
+- [S310](literature/full-reading/S310-java-whyline-diagnosis.md) evaluates a
+  causal output-to-source question interface and diagnosis recommendations,
+  with no code edits. Its positive results cannot be attributed to bare history
+  retention or transferred to completed Nu repairs.
+- [S43](literature/full-reading/S43-reactive-debugging.md) and
+  [S49](literature/full-reading/S49-rxfiddle.md) make supervision, answer checking,
+  attrition and success-only timing consequential. Preserve every assigned
+  outcome and verify delivered behavior independently.
+
+These are reused readings, not new paper-reading credit. The immediate gap is
+an eligible task and ordinary access, rather than another generic debugging
+literature inventory. A new causal-query interface would be another
+intervention with its own construction and use costs.
+
+### Common outcome and work boundary
+
+A practical repair must deliver the required model, logical identities and
+selected projection, pass its declared continuation, and retain any required
+halt/branch behavior. Distinguish reaching the symptom, localizing a cause,
+proposing a repair, applying it and verifying it. Correct alternative repairs
+remain valid. An authored feasibility case cannot establish practical frequency.
+
+Keep assignment-to-delivery elapsed time, machine/facility components, AI/tool
+work and active human work separate. Include route setup, capture/retention,
+navigation, reconstruction, failures and verification; leave unobserved work
+unknown. Do not sum overlapping intervals or amortize preparation over
+hypothetical future tasks.
+
+The [R06 measurements](nu-recovery-cost-feasibility-2026-10-15.md#comparison-and-interpretation)
+remain local component observations. History retains a broader World than the
+reconstruction arm's Gameplay value, while clear/install alignment and much
+integration work sit outside the timers. Reuse the observation definitions,
+not those milliseconds as a price for repair. For a common verified outcome,
+ordinary-workflow dominance after counted preparation and failures would defeat
+a history-benefit claim for that task; mixed costs establish a trade-off until
+the practical decision supplies a defensible valuation.
+
+Private evidence is under `value-preparation/history-demand-next/`,
+`r03-methods-next/` and `history-work-next/` in the current A: execution root.
+The source manifest is SHA-256
+`db114a9109aa4b7ca326de3672a4a74728aa8a73b58f59e4063ae5671259fbba`;
+the methods and cost notes are respectively
+`b7a640bc5c4e21ce68983cbebdefd2a658b8becc1766c690bc9a32f3d7d7dfb8`
+and `e16922457be37fa41e68dfca9c5c41abe733885c0d84ac31d070d1bbd3401ddf`.
+This preparation allocates no participant or experimental candidate runs and
+does not reopen R02, R10 or the returned R12 construction.

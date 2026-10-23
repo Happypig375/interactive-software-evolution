@@ -270,3 +270,51 @@ by manifest SHA-256
 `7b213d542453d1a065de5edeb905882c8b2c3ec78bf893ae01095f73fa311037`.
 No new scholarly reading, independent adopter sample, contact, native result
 or participant/candidate allocation is established.
+
+## 2026-10-23 a real API rename and a qualified lifetime case
+
+The post-pin [time-advance commit](https://github.com/bryanedds/Nu/commit/89e4dc7969c523c324109c9fb78e6989eb56d069)
+and [v20.1.0 release](https://github.com/bryanedds/Nu/releases/tag/v20.1.0)
+supply an authentic API migration. In Breakout MMCC, the message case changes
+from `TimeUpdate` to `AdvanceTime`, the engine event from `TimeUpdateEvent` to
+`TimeAdvanceEvent`, and the explicit handler adopts the new message name while
+retaining its increment body. The immediate predecessor's Breakout source is
+byte-identical to the selected study pin at this site.
+
+With exactly four predecessor cases and the other three handled explicitly,
+replacing only the final `TimeUpdate` pattern by `_` is equivalent. After the
+rename that catch-all remains valid, while enumeration adds a named consumer
+to repair. This supplies a credible potentially adverse boundary case for
+enumeration's maintenance burden. It is a nomenclature/API change, not a new
+gameplay behavior or an external user's feature request. A future comparison
+still needs the supported successor event, time-increment and other-branch
+observations; compilation alone would not establish those. The maintainer
+patch remains provenance/scoring evidence outside candidate input. No task or
+candidate run is allocated here.
+
+For R05, [Nu #1055](https://github.com/bryanedds/Nu/issues/1055) motivates a
+different conditional case: retired Jolt character handlers after reconstruction.
+The maintainer reports possible accumulation and also notes that an orphaned
+reference cycle may be collectible. The pinned Terra Firma character reaches
+three anonymous `CharacterVirtual` event attachments; its Nu destroy/clear paths
+dispose without explicit detach. That does not establish the wrapper's internal
+disposal behavior or a leak.
+
+An authored discriminator could compare current disposal with stored delegates
+explicitly detached before disposal, observing actual sentinel replacement,
+weak-reference collection, retention roots and live contact behavior. The
+existing [manual-unsubscription change](https://github.com/bryanedds/Nu/commit/84bcc6d3b098f19d69c327295bb060d399a374f7)
+is an ordinary lifecycle precedent, not proof that this different wrapper needs
+the same treatment. Collection in the current condition or a shared non-event
+retention root would challenge the ownership explanation. A treatment that
+breaks contact behavior is adverse delivery, not invalid data to discard.
+Scene, edit, phase, cycle count and observation authority remain unbound;
+no construction follows merely from the issue being open.
+
+The private `domain-evolution-next/` and `event-next/` notes retain the exact
+source ranges, search coverage and contrary evidence under the current A:
+execution root. The latter's parent addendum corrects adverse-versus-invalid
+classification. These cases supplement the [recovery rationale](nu-history-question-access-2026-10-18.md#2026-10-23-recovery-demand-and-the-next-comparison)
+and [workflow-migration case](nu-workflow-migration-transfer-2026-10-23.md);
+they do not displace the current ordinary-access preparation or reopen any
+returned construction.

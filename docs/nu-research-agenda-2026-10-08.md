@@ -135,12 +135,11 @@ unresolved. These are preparation results,
 not transfer experiments or reopened R10 construction. Human steering remains
 future work; all 21 direction IDs and the existing allocations/returns remain.
 
-### Preparation priority after the ordinary material baseline
+### Preparation priority after the material construction return
 
-The [accepted native protocol](../experiments/nu-r12-material-intent-native/PROTOCOL.md)
-binds the planned conformance check for the ordinary material helper;
-its implementation and execution are still separate work. After that one
-sequence reaches an honest terminal disposition, prioritize the following
+The [material construction return](nu-material-intent-baseline-2026-10-23.md#native-construction-return-at-gate-008)
+stops the native helper at five failures; no native sequence ran. Ordinary
+continuation does not reopen it. Prioritize the following independent
 comparisons for preparation. This orders current research value and readiness,
 not predicted effect sizes, and does not change the 21 direction IDs or
 candidate/participant allocation.
@@ -167,8 +166,34 @@ must receive their sufficient native facilities. Further baseline repetitions
 or mode-table variants are not the next research contribution. The
 [Showtime/Harny cases](nu-xstate-practice-case-2026-10-23.md) do not establish a
 cross-version preservation obligation, so they do not yet select a non-game
-migration experiment. R02/R10 returns remain in force. New consequential
+migration experiment. R02/R10/R12 returns remain in force. New consequential
 primary evidence can change this order; no broad-survey completion is implied.
+
+The completed parallel follow-up sharpens these priorities. The
+[R03 passive-access package](nu-passive-access-preparation-2026-10-23.md)
+is prepared for its still-pending configuration and single UI check. Nu
+[#151's recovery lineage](nu-history-question-access-2026-10-18.md#2026-10-23-recovery-demand-and-the-next-comparison)
+supplies a concrete maintainer rationale, but no eligible actual-root repair
+trial or independent adopter evidence. [S311](literature/full-reading/S311-partial-trace-dependency-estimation.md)
+adds a useful adverse boundary: inferred dependencies may aid localization
+but cannot replace missing actual predecessor evidence. Its closest unread
+agent-repair follow-up, ADI, is consequential if ordinary agent tool access is
+chosen; it is not a prerequisite for the frozen passive UI feasibility check.
+
+The [authentic R04 API rename](nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case)
+is a source-maintenance burden case where a valid catch-all can avoid a named
+consumer edit; it adds no new gameplay requirement. Preserve it as a boundary
+case rather than recasting it as a favorable semantic diagnostic task. The
+qualified R05 event-lifetime report remains a source hypothesis requiring
+actual roots, disposal and live-contact evidence.
+
+For non-game transfer, [Camunda](nu-workflow-migration-transfer-2026-10-23.md)
+now supplies explicit running-instance preservation demand. When running
+instances must change, its supported manual migration/validation is the
+ordinary baseline; old-version completion is valid only when that policy
+meets the requirement. A novel, useful improvement beyond existing facilities
+is still to be specified. This strengthens task selection without raising
+transfer above the immediate R03/R06 access dependency or reopening R10.
 
 ## How the priorities are chosen
 

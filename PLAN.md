@@ -42,6 +42,20 @@ The user's subsequent instruction, “parallelize your work with subagents,” a
 
 ## Where current information lives
 
+**Requested handoff, 2026-10-23:** the immediate parallel preparation and
+reading segment is complete. The [continuation prompt](docs/continuation-prompt-2026-10-23.md)
+records the next work. [R03 passive-access artifacts](docs/nu-passive-access-preparation-2026-10-23.md)
+have independent and parent acceptance for preparation only: 16-field state
+roundtrip and eight synthetic launcher controls pass, with four construction
+failures retained. No package reset/state installation, accepted fresh
+manifest, native assignment or UI run exists. Next register and validate the
+copied-package configuration before the single frozen C0-C3 process; a fifth
+material failure at the unchanged gate triggers return. R02/R10/R12 remain
+returned. The source audits now bind Nu exception-recovery demand, a real
+API-rename burden case and Camunda's existing migration comparator; S311
+separates estimated dependencies from actual history. This checkpoint ends
+the current turn at the user's request, not the broad survey.
+
 **R12 ordinary material-intent construction return, 2026-10-23:** the
 [native baseline record](docs/nu-material-intent-baseline-2026-10-23.md#native-construction-return-at-gate-008)
 now stops this construction at five unresolved failures. Build 002 compiled

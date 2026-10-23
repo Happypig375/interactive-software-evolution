@@ -10514,3 +10514,118 @@ are separately accounted, not added to the new-decision denominator.
 `truncated=false`, no missing reasons and no linkage warning. The report
 manifest SHA-256 is
 `a2b2c36ffc3a7708793ff15625bf08845b28d9ce56ce0ebec69935c85b811180`.
+
+## 2026-10-23 parallel recovery, evolution and transfer source audit
+
+The completed bounded source work refines practical tasks and ordinary
+comparators across R03/R04/R05/R06 and non-game transfer. It adds no scholarly
+full-reading credit. Decisive findings and edition limits are integrated in
+the [history access record](../nu-history-question-access-2026-10-18.md#2026-10-23-recovery-demand-and-the-next-comparison),
+[practice record](../nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case),
+[replay comparison](../nu-status-quo-and-transfer-audit-2026-10-23.md#a-concrete-replay-failure-and-a-migration-obligation)
+and [Camunda case](../nu-workflow-migration-transfer-2026-10-23.md).
+
+| Segment | Actual coverage | Remaining boundary |
+| --- | --- | --- |
+| Nu recovery demand | Four complete GitHub result sets: Nu `history` 2/2, `undo` 17/17, `debug state` 8/8; Redux DevTools `replaceReducer history` 3/3. Selected issue bodies/comments and Nu #151's four-commit lineage read. | Maintainer rationale and a historical authored fault are not independent demand, current runtime success or actual named predecessor roots. |
+| Camunda transfer | Fifteen directly retrieved primary endpoints; versioned 8.8 documentation, release notes, selected issues and forum demand. Twenty-one archived source files include exact variants. | Three final web queries are named but result positions/counts were not archived; earlier discovery requests are missing. No reproducible complete web-screen claim. |
+| Redux/NgRx replay | Selected issue/code endpoints, including NgRx #919 and pinned current DevTools import/recomputation. Redux #378/#559 reused once at their stronger reading extent. | One web result page lacks complete positions/counts; PR #955 timed out, StackBlitz remains link-only, and no exact historical app/export was recovered. |
+| R05 event lifetime | Exact issue/API, commit and pinned-source readings; #1055's qualified retention report and #521's manual-unsubscription rationale. | No broad lexical coverage claim; linked profiler image and `CharacterVirtual.Dispose` internals uninspected. No demonstrated leak or executed detach comparison. |
+| R04 evolution | Named API-query counts plus a local screen of fifteen nonmerge touch commits and thirteen union-bearing files; exact selected rename, predecessor and release bound. | Four older TimeUpdate search SHAs and thirteen nonselected history-screen SHAs were not individually enumerated in the handoff. The selected exact-source audit is narrower than all raw discovery. |
+
+Under `research-loop-and-scite.md` section 6, the coherent new/changed decision
+set was reported **once**, including primary GitHub/documentation sources even
+where retrieval did not use Scite. Answer `nu-parallel-source-audit-20261023`
+contains **74 unique source URLs: 47 cited, 27 excluded (6 deferred and 21 not
+selected)**. Sixty records carry full-text-stage coverage with their actual
+selected ranges documented; fourteen are title/abstract stage. Forty-five
+work-family keys are deduplication bookkeeping, not independent studies.
+Exclusion reasons are fourteen out-of-scope, eleven off-topic and two duplicate.
+
+Unchanged historical decisions were omitted. Nu #151 advances from title-only
+deferral to credited body/lineage evidence; shared Redux #378/#559 URLs occur
+once; source versions and a single issue's commit chain are not replications.
+S311 and reused debugger-method readings are excluded from this segment.
+
+The exact request SHA-256 is
+`383e40da626be4ccdb0c9bc8fd82ae1cb39b4a9744b91b1f21b2120f34a7fa20`.
+`report_citations` accepted all 74 with zero skips. `citation_report` returned
+74 screened, the same 47/27 split, `retrieved=null`, `truncated=false`, no
+missing reasons/linkage warnings and no field/membership mismatch. Verification
+SHA-256 is `ed28f8922cd0cc297bac8f245a641927e38de928dd6e1cef9525f3d332f0727a`.
+Full receipts and source-level coverage are private under
+`A:/nu-value-execution/20261023-material-intent/value-preparation/parallel-source-audit/`.
+Do not resubmit that answer ID or call these 74 records a field-complete search.
+
+Parent integration preserves three consequential corrections: existing manual
+migration is Camunda's baseline when current instances must change; a soundly
+observed contact regression in a detach treatment would be valid adverse
+evidence; missing historical replay artifacts make a case ineligible or
+inconclusive, rather than falsifying the mechanism. No source audit launched
+an application or allocated experimental candidates or participants.
+
+## 2026-10-23 S311: partial traces, estimated dependencies and repair limits
+
+The focused search asks whether historical/partial execution evidence changes
+diagnosis or repair after capture, access, uncertainty and verification are
+counted. Existing S42/S66/S246/S247/S310 were checked and reused without new
+reading credit.
+
+Eight saved paper-search calls covered 2024–2026. The broad four-query union
+returned 60 arXiv and 60 Crossref records, six single-query calls returned
+15+15 each, and the exact RecovSlicing call returned 10+10. Deduplication gives
+166 records; an overinclusive lexical inventory retains 114, which is not a
+claim of 114 completed semantic decisions. DBLP failed JSON decoding, OpenAlex
+returned 401, Semantic Scholar 403, and the OpenReview client was unavailable.
+Only arXiv/Crossref returned records; no six-database coverage is claimed.
+
+Scite requested `limit:20`, `offset:0`. Two exact-title batches returned 7
+and 7 records; `time-travel debugging` title search returned 8, `omniscient
+debugging` returned 2, and an exact four-DOI lookup returned 4. These exact
+sets were exhausted. A noisy broad term query returned only the first 20 of
+5,669,428 reported matches and was reformulated, not paginated or presented
+as field coverage. No editorial notice appeared in the exact screens.
+
+Nine actual candidate decisions were made: one selected full reading and
+eight deferred title/abstract decisions. The selected work is
+[S311, Pei et al., arXiv:2508.18721v5](full-reading/S311-partial-trace-dependency-estimation.md).
+The remaining leads are ADI (10.1145/3797126 / arXiv:2604.24212), size-limited
+near-omniscient traces (10.1016/j.scico.2024.103117), interactive runtime repair
+comparison (10.1145/3720510), AgentStepper, IcedTea, Scopeo, SpaceTime
+Programming and debugging-strategy choice. Their abstracts locate possible
+methods; they establish no full-body conclusions here. Scopeo also has
+selected Scite excerpts, without full-reading credit.
+
+S311 was registered before selected reading as a Zotero `preprint` in
+`PKLXQNEE`, with repository arXiv and versioned archive ID. Final parent
+`YNG9EI88` v8260 includes a subsequent creator-capitalization correction;
+attachment `HCLDBPF3` v8259 is the exact official v5 PDF. The requested remote
+Zotero integration's local collect/review/attach route verifies downloaded and
+stored bytes: 15 pages, 1,940,313 bytes, SHA-256
+`67dc6d169c39e5b89a147e2c77ee05b7edb2f6d0c9824476b0e0811913150855`.
+All pages were read textually and visually, including ten figures, six tables,
+three algorithms, Appendix A and 58 references. Parent checked selected
+decisive result/definition pages; the delegated reading supplies full coverage.
+The linked artifact requires Google sign-in, so code/rows/model logs remain
+unread and no reproduction occurred. Template placeholders are not journal or
+conference metadata.
+
+The result supports one automatic regression-localization pipeline using
+estimated missing edges; it supplies no retained predecessor root or delivered
+repair. The [reading note](full-reading/S311-partial-trace-dependency-estimation.md)
+preserves the 489/835 selection, 60-minute failures, 8,370-versus-8,300
+discrepancy and missing complete work. It changes the R03 information-policy
+boundary without changing the R06 observations. The reading checkpoint is
+**287 = 13 P + 3 A + 271 S**, with the broad survey still open.
+
+Once-only answer `r03_r06_history_next_20261023` records nine screened, one
+included full-text decision and eight excluded title/abstract decisions.
+Reporting skipped zero; `citation_report` has no missing reasons/linkage
+warning, no truncation and `retrieved=null`. Receipt SHA-256 is
+`79d0d2a7e639628abe733902bfcfc968e69eeaf1e2b0e49c7f8d49c235614c18`.
+Private query, acquisition, Zotero and reading receipts are under
+`value-preparation/history-literature-next/` in the current A: execution root.
+ADI is the highest-priority unread body if a coding-agent/tool comparison is
+selected: create/reuse its exact-edition Zotero record before reading. It is
+not yet acquired/read and does not delay the already frozen passive-access
+feasibility protocol. No further branch is opened before this handoff.
