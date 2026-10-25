@@ -10895,3 +10895,42 @@ operation occurred; library/reading counts are unchanged. Both prior pre-data
 failures, the corrected C: validation failure, full output and review remain
 under the recorded calculation/preservation roots. This resolves that bounded
 arithmetic task, not practical Nu value or the broader survey.
+
+## 2026-10-26: R04 behavioral/compatibility decision using completed methods
+
+Decision: state the authored pause family without importing its reference's
+private case/model/control/schedule choices into a later maintenance outcome.
+The [contract](../nu-r04-behavioral-contract-2026-10-26.md) selects standalone
+MMCC, ordinary P pause/resume, retained progress, sequential quit/new play and
+independent effects. The stronger Q2 next-loop/same-pass requirements remain
+separate. Initial-assignment analysis includes valid strategies without a new
+case. Observed failures and unresolved measurements stay distinct; all-assigned
+logical bounds are not a replacement for credible observation or inference.
+
+One Sol High AI maintainer reused the completed S226/S227 method notes and
+selected published R04 contracts. The parent verified S226 note lines 5-32,
+48-58 and 62-67, S227 v2 lines 15-39 and 65-95, and the decisive R04/D1
+boundaries. The worker also read S227 v1 release lines 69-73 for historical
+project/gallery URLs only. No primary body or artifact was re-acquired,
+revalidated or newly read. Two initial parent note-display commands encountered
+Windows stdout encoding errors; explicit UTF-8 output completed those selected
+reads without a file mutation or application run.
+
+A subsequent bounded prose review corrected an ambiguous resume-control phrase,
+made resumed consequences external rather than private event counts, separated
+candidate resource failures from administration missingness, stated the complete
+outcome partition and distinguished S226 reference/starter construction from
+independent calibration. Parent acceptance and the private decision/review
+packet remain in `value-preparation/r04-behavioral-contract-20261026/` under
+the current C: preservation root. This is AI maintainer review, not a human
+review, validated observer or independent full-paper reading.
+
+The once-only segment `r04_behavioral_contract_20261026` records eight pinned
+repository-note decisions: seven included and one historical-v1 release
+provenance noncredit. The inspected report has zero skipped entries or missing
+reasons, truncated=false, retrieval_unlinked=false and retrieved=null. Its
+`full_text` labels refer to the stated full/selected repository-note coverage,
+not new full-paper reads. There was no Scite literature query, citation-graph
+screen or Zotero operation, and no repeated submission of old paper decisions.
+Reading count remains 289. The current checkout is documentation/source synthesis
+only; no Nu environment, candidate run or restricted/returned work was resumed.

@@ -23,9 +23,15 @@ The subsequent [oracle eligibility audit](docs/nu-r04-oracle-eligibility-audit-2
 selects the bounded authored behavioral question for preparation. The completed
 pause oracle assumes its reference's case/model/control/schedule organization;
 it is not yet a final evaluator for all the correct alternatives D1 permits.
-Next establish that behavior/compatibility and evaluator boundary, rather than
-repeat the compiler probe or manufacture a required local type edit. No new
-construction, native process or candidate allocation is authorized by this audit.
+The [behavioral contract](docs/nu-r04-behavioral-contract-2026-10-26.md) now selects
+ordinary standalone MMCC, player-visible pause/progress/lifecycle requirements
+and independent effect observations, while permitting different private state
+organizations. Q2's stronger next-loop and same-pass requirements stay separate.
+Unresolved measurements remain distinct from observed failures. Next establish
+ordinary access and comparable observations, including a differently organized
+correct implementation, in a suitable future feasibility environment; do not
+repeat the compiler probe or manufacture a required local type edit. This desk
+decision establishes no evaluator, native environment or candidate allocation.
 
 **Current handoff and model restriction, 2026-10-25:** the completed
 reading/source integration following the [October 23 handoff](docs/handoff-2026-10-23-paused.md)

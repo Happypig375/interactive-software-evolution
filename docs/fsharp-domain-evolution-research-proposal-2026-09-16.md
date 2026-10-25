@@ -12,7 +12,13 @@ checks with the remaining evaluator/access dependencies. Those observations
 supersede the dated unexecuted descriptions below at their exact scope. The
 existing oracle assumes the reference's case, model and control organization;
 it is not yet a final scorer for every correct reorganization this proposal
-permits. No candidate experiment, new construction or allocation follows.
+permits. The subsequent [behavioral/compatibility decision](nu-r04-behavioral-contract-2026-10-26.md)
+selects ordinary standalone MMCC and the authored pause/progress/lifecycle
+requirements, with independent effect observations. It permits different
+private state organizations and separates Q2's stronger phase/race requirements.
+It also preserves unresolved measurements separately from observed failures.
+Ordinary access and evaluator calibration remain unverified. No candidate
+experiment, new construction or allocation follows.
 
 ## Introduction and practical problem
 
@@ -127,6 +133,14 @@ from a demonstrated behavioral failure. Keep the frozen probe unchanged.
 
 The primary outcome is **all-obligation success for the assigned change within budget**, requiring the applicable old and new checks under the declared observation contract. This is oracle-relative success, not proof of all possible executions. Report partial obligation coverage separately. Also report compilation/diagnostic status, new failures versus retained failures, elapsed time, every attempted token debit and review-relevant patch size. A correct fallback is a success; clearing a warning is not automatically one. Infrastructure-blocked observations, time-budget exhaustion and unrun slots are distinct, under rules frozen before evaluation. Do not exclude slow or noncompiling candidates after assignment.
 
+For the current authored R04 preparation, follow the
+[completion and missing-observation rule](nu-r04-behavioral-contract-2026-10-26.md#completion-and-missing-observations).
+Verified completion, an observed required failure and an unresolved outcome
+are distinct. Keep all assigned attempts; an unsupported evaluator interface
+is neither completion nor a demonstrated semantic defect. Report logical
+missing-outcome bounds separately from eventual sampling uncertainty. These
+rules do not make an ineligible or systematically biased evaluator acceptable.
+
 Classify diagnostic opportunities at source sites and behavioral obligations independently, as above, before model results. Do not call an obligation "compiler-verified" because an associated site emits FS0025. Their association is explanatory evidence; do not condition the primary effect on successful compilation or adjust it for post-assignment diagnostics, edits or repair counts. Those may be mechanisms through which the source convention acts.
 
 ### Temporal observation and vacuity controls
@@ -160,12 +174,14 @@ and reconstruction failures. These resolve the corresponding earlier probe
 questions, not ordinary physical input, standalone transitions, candidate
 access, general equivalence or maintenance benefit.
 
-The next feasibility decision concerns a common behavior/compatibility contract
-and an evaluator that can admit the promised correct alternatives. The existing
-pause/resume, retained-progress, quit and fresh-play family is the authored
-preparation basis; it is not an authenticated request or a frozen candidate
-prompt. Source-convention assignment remains the treatment even when the
-candidate reorganizes the successor. Enough independent changes for a broader
+The [common behavioral/compatibility boundary](nu-r04-behavioral-contract-2026-10-26.md)
+now selects standalone MMCC, ordinary input and the authored pause/resume,
+retained-progress, quit and fresh-play family, including independently observed
+effects. It is not an authenticated request or a frozen candidate prompt. Next
+establish an evaluator that admits the permitted alternatives under actual
+ordinary access; the accompanied probe does not validate the selected
+standalone environment. Source-convention assignment remains the treatment
+even when the candidate reorganizes the successor. Enough independent changes for a broader
 claim, actual tool/observation access and credible effort/precision requirements
 remain unresolved. If those conditions require a substitute engine or a
 task-solving observation seam, defer the Nu case rather than mislabeling the

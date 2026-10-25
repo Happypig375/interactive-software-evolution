@@ -2182,3 +2182,30 @@ checked example of why metric definitions and reporting operations belong in
 the evidence contract. It does not supply Nu benefit or another independent
 study. The reading count stays 289; both earlier setup failures and the A:
 stop remain preserved, and no restricted/returned native branch was reopened.
+
+## 2026-10-26: R04 behavior, compatibility and unknown outcomes
+
+The [authored behavioral contract](../nu-r04-behavioral-contract-2026-10-26.md)
+now chooses ordinary standalone MMCC, a declared P pause/resume interface,
+retained progress, sequential quit/fresh play and independent effect evidence.
+Private state cases, records, entity names and local/global pause scheduling
+may differ. The initial source convention remains the treatment even when a
+successor avoids a new union case. Q2's stronger next-loop/same-pass requirements
+remain separate rather than hidden final requirements. The accompanied probe
+does not validate this standalone environment or ordinary access.
+
+Completed S226/S227 readings support visual feedback and separately scoped
+final judging while delimiting private-state, phase, audio and event coverage.
+Their useful results motivate complementary observations, not a screenshot-only
+claim of complete pause correctness. The contract now distinguishes verified
+completion, observed failure and unresolved measurement. Logical all-assigned
+outcome bounds expose the consequence of missing observations without calling
+them candidate defects or confidence intervals.
+
+This resolves a desk-level task/evaluator boundary. Actual ordinary input,
+independent effect/timing observations, comparison across a differently
+organized correct implementation, resources and candidate allocation remain.
+No paper body, runtime, candidate or restricted branch was opened. The 289-work
+reading count is unchanged; the broad survey and practical value question are
+unfinished. Another repetition of the fixed compiler probe or this contract
+would not resolve the remaining observation dependency.

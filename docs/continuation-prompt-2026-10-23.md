@@ -17,6 +17,19 @@ pull/reset/clean or resume A: writes/execution.
 
 ## Latest completed source/task integration
 
+The [R04 behavioral contract](nu-r04-behavioral-contract-2026-10-26.md) now chooses
+ordinary standalone MMCC and an explicitly authored pause/progress/lifecycle
+task, with independent effect observations. Private records, union cases,
+entity names and local-versus-global pause scheduling are not required
+representations. Q2's stronger next-loop/same-pass requirements remain separate.
+Unresolved measurements receive no completion credit but are not relabeled
+demonstrated behavioral defects; retain all assigned outcomes and their bounds.
+S226/S227 methods were reused at their recorded coverage, without a new paper
+reading, search, artifact recheck or execution. Next establish ordinary access
+and comparable observations, including a different correct organization, in a
+suitable future feasibility environment. This C: checkout is not that native
+environment. Do not repeat the same desk contract as evidence of execution.
+
 The [R04 oracle eligibility audit](nu-r04-oracle-eligibility-audit-2026-10-26.md)
 now binds the next preparation scope: an explicitly authored behavioral change,
 starting from the existing pause/lifecycle family. The completed probe assumes
@@ -24,9 +37,10 @@ the reference's `Paused` case, typed model, control/entity organization and
 advancing-engine schedule. Its fixed observations remain valid, but it is not
 yet a final evaluator for all correct reorganizations admitted by D1. Do not
 force a union extension merely to generate FS0025 or reject an otherwise valid
-implementation for an undeclared internal interface. Next resolve the common
-behavior/compatibility and evaluator boundary; no new apparatus or candidate
-is allocated. The audit changed no frozen source, result or runtime record.
+implementation for an undeclared internal interface. The behavioral decision
+above now supplies the common scope; actual evaluator/access validation remains.
+No new apparatus or candidate is allocated. Neither document changed frozen
+source, a result or a runtime record.
 
 The [R04 history audit](nu-r04-history-task-audit-2026-10-26.md) is integrated.
 Engine-event adaptation does not by itself require a local message rename;
