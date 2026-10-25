@@ -2078,9 +2078,11 @@ version-matched conditional ini-save semantics. The actual gesture, writer and
 Twizzle native source/build correspondence remain unobserved. Native-001's
 terminal failures stand; source explanations cannot fill its missing fixture.
 
-**Next consequential action:** establish a concrete caller-visible
-mutation/exception route and the required recovery target, then prospectively
-bind an actual comparison if warranted. Keep recovery, diagnosis, applied
+**Next consequential action, updated after user steering:** prepare ordinary
+checkpoint persistence: actual exported scope, destination/selection policy,
+settled model/content correspondence and a normal continuation. The deliberate
+fault-trigger source branch is stopped and its private candidate remains
+unaccepted. Keep recovery, diagnosis, applied
 repair and verified continuation separate, with complete R06 work accounting.
 The [search ledger](nu-background-searches-2026-09-30.md#2026-10-25-integration-s312-replay-based-debugging-and-repair)
 records the reused once-only ADI audit and the separate bounded ImGui audit.

@@ -331,6 +331,8 @@ Recovery, diagnosis, code repair and verified continuation remain separate.
 
 This integrates the completed static review and its correction, including
 existing-address ScreenState replacement. It supplies no new actual roots or
-native observation and does not reopen native-001 or R02/R10/R12. The next
-source dependency is a concrete caller-visible mutation/exception boundary;
-this cannot be inferred merely from a throwing callee's local successor.
+native observation and does not reopen native-001 or R02/R10/R12. A later
+source candidate remains private and unaccepted; the parent stopped that
+fault-trigger branch in response to user steering. The next dependency is the
+[ordinary checkpoint-persistence comparison](nu-recovery-target-and-serialization-2026-10-25.md#current-preparation-ordinary-checkpoint-persistence),
+including actual screen-file scope and destination/selection/content policy.

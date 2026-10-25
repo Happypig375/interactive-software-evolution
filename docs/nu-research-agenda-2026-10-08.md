@@ -194,8 +194,11 @@ now separates editing-session recovery from diagnosis/repair and distinguishes
 last editor snapshot K, last good simulation G and handler-entry F. Gaia's
 ordinary history/F7 facility is part of the status quo. Group files omit the
 screen model; screen-file replacement is a stronger unverified comparator.
-The next source dependency is a reachable caller-visible mutation followed by
-an exception, before choosing any distinct prospective recovery intervention.
+The subsequent deliberate fault-trigger source branch is stopped and its
+private candidate unaccepted following the user's direction to avoid flagged
+work. Next establish the represented scope and destination/selection/content
+policy for an ordinary screen-file save/restore comparison. This prepares a
+credible baseline before any useful recovery intervention.
 The [UI/output source follow-up](nu-passive-access-source-followup-2026-10-25.md)
 clarifies focus versus edit and conditional ini saving while preserving the
 failed attempt and its unobserved gesture/writer.

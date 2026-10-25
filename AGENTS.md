@@ -5,6 +5,10 @@
 reading/source integration and practical recovery comparison. The pause is
 historical; the broad survey remains open. R03 native-001 is terminal and
 ordinary continuation does not reopen the R02/R10/R12 construction returns.
+The completed reading/source integration is now published. In response to the
+user's later direction to avoid flagged work, the parent has stopped the
+deliberate fault-trigger branch. Preserve its private source note as unaccepted;
+continue ordinary save/restore comparison and consequential literature.
 
 Read [PLAN.md](PLAN.md) first. It owns authority and the current assignment. The [2026-09-30 supervisor review](docs/supervisor-review-2026-09-30.md) explains the latest corrections. Historical proposals do not override these routes.
 

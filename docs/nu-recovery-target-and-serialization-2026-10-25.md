@@ -130,10 +130,51 @@ against an artificially weakened baseline that withholds Gaia's existing F7
 facility.
 
 No exact current trigger, captured root pair, complete screen-file procedure
-or common final oracle is accepted by this note. Next establish one reachable
-state-changing exception boundary and choose the required target; only then
-can a prospective comparison be constructed under PLAN's authority. This does
-not reset the consumed access attempt or any returned construction gate.
+or common final oracle is accepted by this note. A subsequent private source
+candidate remains unaccepted. In response to the user's direction to avoid
+flagged work, the parent stopped the deliberate fault-trigger investigation.
+The next comparison prepares ordinary successful checkpoint save/restore,
+without deliberately provoking an error or using that candidate. No consumed
+assignment or returned construction gate is reset.
+
+### Current preparation: ordinary checkpoint persistence
+
+The practical decision is which available route can retain a required
+noninitial checkpoint for later continuation, and what complete work it needs.
+Use the already specified B0 represented-state contract, under unchanged code
+and functional mode. Its recorded witness has GameplayTime 149, score 100,
+29 bricks and five lives; the actual oracle covers every declared model field,
+logical key and projected property, not those summary numbers alone.
+[B0 observations](nu-history-feasibility-2026-10-15.md#observed-b0-comparison).
+The old process is closed, so a later fresh reconstruction must be labelled
+as such; it cannot be a resumed old root.
+
+| Available route | What is already supported | Remaining eligibility/work boundary |
+| --- | --- | --- |
+| Gaia history/F7 | Ordinary facility; bounded B0 recovery and B1 represented continuation observed in prior instrumented processes. | A new live checkpoint and ordinary access still need their own evidence. Count capture, retained payload, navigation and readiness. |
+| Model-symbol reconstruction | Prior complete model/selected-projection reconstruction, with an explicit common absent-content setup when required. | Count acquisition, helper installation, initialization/selection ordering, content alignment and verification. Preserve the prior stale-initialization observation. |
+| Screen-file API | Source writes screen properties and eligible groups; read can replace an existing-address ScreenState. | Actual model serialization, dispatch registration, children, selection and settled projection remain unverified. API availability is not a demonstrated ordinary UI workflow. |
+| Group file | Existing scene/group persistence. | Eligible for a group-only requirement, but insufficient for this B0 outcome because it omits the parent gameplay model. Do not relabel a narrower valid use as a complete gameplay checkpoint. |
+
+Before constructing the screen-file comparison, define the serialized scope
+from an actual ordinary export and inspect it as data. Choose either a fresh
+destination or an existing-address replacement explicitly; their registration
+and child-cleanup obligations differ. Specify the screen-selection order so
+`StartPlaying` does not silently replace the required model. Verification must
+compare model and settled content at a halted boundary, then a declared normal
+continuation with common input/time assumptions. Shared input or native/effect
+state outside the file must remain outside the preservation claim unless
+observed independently.
+
+This is baseline eligibility work, not a new runtime protocol or an effect
+estimate. An export that parses is not yet restoration, and restored model
+values alone do not prove projected or native-state equality. Reuse the prior
+[R06 scope/cost distinction](nu-recovery-cost-feasibility-2026-10-15.md#comparison-and-interpretation):
+history and model files retain different payloads, and component timings omit
+substantial setup work. Once a credible ordinary route meets the common
+outcome, specify any useful improvement over it and evaluate its full added
+work. Do not count another equivalent restoration witness as demonstrated
+maintenance benefit.
 
 ## Provenance and review
 

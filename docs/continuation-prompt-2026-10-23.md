@@ -36,15 +36,21 @@ Private packets: `value-preparation/adi-reading-next/`,
 
 ## Next consequential work
 
-Resolve an ordinary caller-visible mutation/exception boundary before using
-Soft Rewind as a task. The bounded source check is under
-`value-preparation/recovery-reachability-20261025/`; consult its final status
-and coverage, not merely directory existence. A throwing callee's unreturned
-successor does not establish that the caller committed it. Parent chooses
-the actual recovery target, credible existing comparator, observer and common
-continuation oracle before any construction. Count setup, capture, retention,
-access, failures and verification; distinguish preserved work from code repair.
-Continue other consequential literature/task dependencies as the agenda needs.
+In response to the user's later direction to avoid flagged work, the parent
+stopped the deliberate fault-trigger investigation. Its completed private
+source note in `value-preparation/recovery-reachability-20261025/` remains
+unreviewed by the parent and unaccepted as a task or protocol. Preserve it;
+do not continue that branch or construct its trigger on ordinary continuation.
+
+Prepare the [ordinary checkpoint-persistence comparison](nu-recovery-target-and-serialization-2026-10-25.md#current-preparation-ordinary-checkpoint-persistence):
+inspect an ordinary exported screen file as data, establish the represented
+scope, and define the destination/selection/content policy before construction.
+Use complete B0 model/projection obligations and a declared normal continuation.
+Group-only files, model-symbol reconstruction, screen files and retained history
+have different supported scopes and work. Count acquisition, helper/setup,
+retention, alignment and verification; no useful-improvement claim follows
+until a credible common outcome and full work comparison exist. Continue
+consequential literature as required; native-001 and returned gates stay closed.
 
 ## Preserved limits
 
