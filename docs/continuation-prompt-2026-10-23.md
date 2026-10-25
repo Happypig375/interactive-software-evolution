@@ -17,6 +17,17 @@ pull/reset/clean or resume A: writes/execution.
 
 ## Latest completed source/task integration
 
+The [R14 public-request review](nu-public-request-provenance-2026-10-26.md)
+now expands the earlier account frame: 57 title/metadata screens, then eight
+complete body/comment-text threads including one linked follow-up. It adds
+conditional UI/deployment/text provenance, not independent adopters or new
+experiment allocation. The fill-direction request has a source-supported
+configuration/extension contrast with pinned Godot, but no existing Nu direction
+union to supply a mined D1 case-extension task. Camera demand was set aside;
+the CJK material preserves a reported historical repair and separate dated Gaia
+concerns without current functionality or screenshot verification. Promote
+none solely because it is an open issue. No primary paper was newly read.
+
 The [R04 behavioral contract](nu-r04-behavioral-contract-2026-10-26.md) now chooses
 ordinary standalone MMCC and an explicitly authored pause/progress/lifecycle
 task, with independent effect observations. Private records, union cases,

@@ -2209,3 +2209,30 @@ No paper body, runtime, candidate or restricted branch was opened. The 289-work
 reading count is unchanged; the broad survey and practical value question are
 unfinished. Another repetition of the fixed compiler probe or this contract
 would not resolve the remaining observation dependency.
+
+## 2026-10-26: public requests and ordinary configuration before mechanism value
+
+The [expanded R14 source frame](../nu-public-request-provenance-2026-10-26.md)
+adds requests by accounts outside the two dominating the earlier issue queries.
+The observed unit is an issue/account, not an independent adopter or game.
+Eight selected textual threads expose concrete fill-direction, camera,
+deployment and game/editor text needs. They include a project idea set aside,
+a deprioritized port and a reported successful Unicode render/measurement
+repair. These dispositions matter more for task eligibility than open/closed
+labels or another count of requests.
+
+At the inspected source revisions, Nu's built-in fill-bar path fixes the fill
+to the left edge; the pinned Godot control provides direction configuration,
+including a layout-dependent horizontal convention. A whole-workflow comparison
+must allow that ordinary facility and count any necessary Nu extension and
+both packages' setup/integration/verification. No rendering equivalence or
+measured work advantage follows from the source. The feature request does not
+itself supply an existing direction union for the D1 treatment; a newly authored
+representation or follow-on extension must keep that provenance.
+
+This is new bounded practice/source evidence, not another paper reading,
+population survey or automatic new study. R01's practical workflow and common
+outcome still govern promotion. Deployment and localization are conditional
+requirements, while game text, editor entry and advanced typography remain
+different outcomes. Native validation and actual value remain unresolved;
+storage/model restrictions, returned gates and the 289-work count are unchanged.

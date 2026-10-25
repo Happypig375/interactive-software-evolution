@@ -10934,3 +10934,58 @@ not new full-paper reads. There was no Scite literature query, citation-graph
 screen or Zotero operation, and no repeated submission of old paper decisions.
 Reading count remains 289. The current checkout is documentation/source synthesis
 only; no Nu environment, candidate run or restricted/returned work was resumed.
+
+## 2026-10-26: broader public-account frame and a configurable UI requirement
+
+Decision: find concrete requested outcomes outside the two accounts dominating
+the earlier Nu issue queries, without calling another issue count adoption
+evidence. The [source record](../nu-public-request-provenance-2026-10-26.md)
+binds the findings and consequences. Initial GitHub REST search through the
+existing CLI used `repo:bryanedds/Nu is:issue -author:bryanedds -author:Happypig375`,
+creation date descending, per_page=100, page=1. It returned 57/57 reported
+matches with incomplete_results=false and 33 author-account identities. This
+exhausts that query at retrieval, not the repository or independent users.
+All titles/metadata were screened. Seven query threads and linked #356 received
+complete body/comment-text reading: eight bodies, 33 comments. Fifty queried
+bodies remain unreviewed; screenshots, linked pages/fonts/examples and issue
+patches were not inspected. No participant or current-runtime evidence follows.
+
+Available GitHub connector tools supplied subsequent issue/comment and pinned
+source reads. Normalized comments omitted timestamps, so ordinary approved
+REST GET responses supplied those metadata, without adding reading units.
+The code query `FillBarDispatcher FillInset Fill` requested topn=20 and returned
+zero; reformulated `FillBar`, topn=20, returned five excerpts, without a total
+coverage count. The Nu facet at two explicit revisions has identical selected
+lines 842-904 but different complete files. Pinned Godot XML was read completely
+(63 lines); progress-bar C++ at 69-151, 201-210 and 261-280 supplies the four-mode
+and RTL boundary. All four acquired file contents match Git blob SHA-1s, with
+SHA-256 and selected-span identity retained privately. No source was executed.
+
+An official-documentation two-query web batch returned 12 visible positions in
+aggregate; per-query allocation was not supplied. Direct 4.7 and 4.3 ProgressBar
+page opens succeeded. The 4.7 page corroborates the pinned source; older,
+translated, unstable and TextureProgressBar discovery pages receive no selected
+comparator credit. This is a bounded API lookup, not a literature search.
+The reused S266 note informed gap selection, but its exact longitudinal
+dataset question remains conditional and no current release/access recheck
+was made. No new primary paper reading or Zotero operation occurred.
+
+One Sol High maintainer read the five platform/text threads. Parent correction
+kept R01 broad rather than a fixed moving-platform task, limited dated support/
+obstacle reports, and made uninspected images/links explicit. The original
+package is preserved. A subsequent independent prose review accepted the new
+source note; parent checked decisive text, counts, source identities and manual
+semantics. None is human sign-off or implementation validation.
+
+The **local** considered set for `r14_public_request_frame_20261026` has 81 source
+units: 13 credited and 68 uncredited, including unreviewed issue bodies,
+discovery snippets, other documentation editions and the conditional reused
+note. These are not 81 papers or a field screen. One `report_citations` request
+and one `citation_report` read both failed with HTTP 401 `token_expired`.
+Remote recording/report status is unverified. Full input and error receipts are
+saved in `value-preparation/r14-external-accounts-20261026/`; the user was asked
+to restore the existing Scite connection. After restoration, inspect this
+answer ID before submitting the saved set to avoid duplicates. No skipped,
+missing-reason, truncation or linkage success is claimed while the audit is
+pending. The local research record is published with that limit. Reading count
+remains 289; all model/storage/returned-gate/allocation restrictions are unchanged.

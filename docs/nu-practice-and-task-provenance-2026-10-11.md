@@ -4,6 +4,22 @@
 
 The most consequential addition is **asset and engine-upgrade work**. Existing code-focused cases can miss copying, configuration, customized defaults, derived representations and integration. Preserve that gap when interpreting a result; promote an asset case only when it changes a practical decision and its common behavior can be specified. Gameplay history also needs a particular beneficiary and avoided reconstruction burden, rather than a general claim that developers need undoable gameplay.
 
+**2026-10-26 account-frame expansion:** the
+[new public-request review](nu-public-request-provenance-2026-10-26.md) screens
+57 issues from 33 account identities other than the two dominating the earlier
+queries, then reads seven selected threads and one linked thread in text. These
+are not independent people/projects; the CJK threads share one contributor
+account. Fill
+direction supplies an authentic feature request, while the inspected Nu facet
+has no existing direction union for a mined D1 extension. Pinned Godot already
+exposes direction configuration, so later whole-workflow work must count
+necessary extension as well as ordinary configuration and integration. Camera
+rotation's immediate project demand was set aside; the text threads preserve
+both a reported repair and remaining dated editor concerns. Treat these as
+conditional provenance/cost leads, not current defects, new mandatory arms or
+evidence of comparative value. The stronger source frame does not replace
+actual beneficiary, version, access and common-outcome requirements.
+
 ## Evidence and units
 
 Three GitHub searches cover `reload` in issue titles/bodies, `undo` in titles/bodies and `asset` in titles, within `bryanedds/Nu`. Each requests 100 results on page 1, ordered by creation date descending. They return 38, 17 and 28 positions, respectively, all with `incomplete_results=false`: **83 positions, 71 distinct issues**. All titles were screened; fourteen complete bodies and their twelve comments were read. These exact query ranges are exhausted, not the repository, other spellings, discussions, pull requests or the wider population. Seventy issues were opened by `bryanedds`, one by `Happypig375`; issue counts therefore cannot stand for independent users or a demand ranking.

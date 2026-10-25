@@ -376,6 +376,19 @@ S298 provides data-compatible interaction substitution with configured runtime c
 
 Use existing primary studies and passive repository/source inspection to identify recurring changes, constraints, support needs and reasons to adopt or abandon a workflow. A later empirical study would need a justified sample and its own authorization; observations/interviews remain held. This direction supplies sampling and cost boundaries for R01–R13; another list of reported complaints is not automatically a standalone contribution.
 
+The [2026-10-26 public-request continuation](nu-public-request-provenance-2026-10-26.md)
+expands the initial account frame and checks concrete UI/deployment/text needs.
+The fill-direction request is a conditional whole-workflow extension/configuration
+case: the inspected Nu path fixes direction, while pinned Godot exposes ordinary
+configuration. It is not a mined extension of an existing Nu direction union,
+a new standalone research contribution or a replacement for R04. Camera demand
+changes within its thread; a reported historical CJK repair remains positive
+evidence while Gaia text entry is a distinct reported concern. R01 remains a
+broad conditional adoption question, not a fixed moving-platform-only task.
+Promote a new case only when a consequential workflow decision and common outcome
+justify it; do not infer prevalence or implementation from account counts or
+issue status. The review authorizes no port, observer, candidate or returned work.
+
 S250–S252, S267–S271 and S288–S290 supply situated practice evidence. The [R14 provenance record](nu-practice-and-task-provenance-2026-10-11.md) now links the proposed families to public requests, source and those methods, with beneficiaries and omitted work explicit. Corrected issue reports prevent two false bug-task selections; mixed history accounts challenge assumed demand, and existing scripts qualify an automation-absent asset comparison. Keep the set purposive and distinguish authored/adapted requirements from current defects. Next choose a practical decision before separately authorized feasibility; asset/engine-upgrade work is a conditional total-work case. [S266's completed preprint reading](literature/full-reading/S266-game-development-problems-reading-2026-10-15.md) now supplies source-conditioned task discovery and the shared-corpus lineage. Exact longitudinal magnitudes still require the promised row-level release, denominator reconciliation and document-level/source-balanced analysis; the paper reading does not establish prevalence. Continue the retained practice search from offset 100 when an independent coverage gap needs it. No participant contact or recruitment occurs under this agenda.
 
 ## Band C study preparation
