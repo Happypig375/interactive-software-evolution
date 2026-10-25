@@ -369,3 +369,20 @@ Permit unchanged local names when they satisfy the actual requirement. Preserve
 intermediate versions and later corrections, and independently establish new
 and retained behavior. This changes task selection and interpretation, not
 experimental allocation, runtime evidence or the Daybreak-only restrictions.
+
+## 2026-10-26 measured variables and reporting rules
+
+The [S180 independent reconstruction](literature/full-reading/S180-correlation-reconstruction.md)
+now numerically checks the earlier static concern: under its declared broader
+time metric, the significance-to-zero rule replaces 35/50 coefficients and makes
+four language medians exactly zero. Its B3 positive associations remain and four
+coding-time sensitivity cells remain uncomputable. The new results do not bind
+the historical publication run or establish a causal practice recommendation.
+
+For the selected Nu task, record the actual measured variable and reporting
+operation alongside its beneficiary, denominator and source lineage. A
+thresholded zero cannot by itself justify a no-association or equivalence claim;
+changing a time denominator changes the measure. Preserve raw observations and
+invalid dispositions rather than silently selecting complete cases. This is
+methodological support for the existing evidence rule, not a new Nu task,
+population estimate, independent cohort or experimental allocation.

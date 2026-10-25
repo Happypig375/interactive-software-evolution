@@ -57,19 +57,27 @@ questions remain open under the existing storage/model/return restrictions.
 - [R14](nu-practice-and-task-provenance-2026-10-11.md) separates requests,
   predictions, observations and prevalence. [R04](nu-research-study-designs-2026-10-08.md)
   reconciles diagnostic benefit with valid catch-alls and task-dependent evidence.
-- S180's declared independent arithmetic check is **unfinished with no result**:
-  both setup invocations failed before data access. Preserve the missing-package
-  and damaged-source failures. No supplied analysis code or Nu process ran.
-- The one completed Scite segment is
+- S180's [declared independent arithmetic](literature/full-reading/S180-correlation-reconstruction.md)
+  is now complete in a separate verified C: calculation folder: 146 correlations
+  and four retained uncomputable cells. Preserve the two earlier pre-data setup
+  failures and the new corrected launcher-path validation failure. The original
+  supplied analysis code and Nu processes were not run; publication-run
+  correspondence and end-to-end reproduction remain unresolved.
+- The completed reading segment is
   `s180_practitioner_beliefs_reading_20261025`: 13 source decisions, 6 credited
   and 7 excluded, no missing reasons or truncation. Do not resubmit it.
+- The subsequent `s180_correlation_reconstruction_20261026` segment has four
+  included artifact/method/package sources, with no exclusions, skipped entries,
+  missing reasons or truncation. Its new calculation does not establish bitwise
+  archived-program or historical publication-run correspondence. Do not resubmit
+  this completed audit either.
 
 Next, use a concrete practical decision to identify a remaining consequential
 literature/synthesis gap. S182 is still opening-only; follow it only if its
-primary method could change that decision. The failed arithmetic plan is not a
-scientific result or mandatory reading-completion condition. Any later attempt
-needs verified inputs and a healthy execution location. Do not resume either
-Daybreak-only branch or any returned R02/R10/R12 gate through this instruction.
+primary method could change that decision. Do not repeat the completed
+correlation check as a substitute for the unresolved practical comparisons.
+The new calculation location does not authorize native or returned work. Do not
+resume either Daybreak-only branch or any returned R02/R10/R12 gate through this instruction.
 All subagents have completed; no new assignment is running at this handoff.
 
 ## Completed integration

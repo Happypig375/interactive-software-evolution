@@ -2161,3 +2161,24 @@ bounded review selected no additional primary reading among the named gaps
 inspected for current decisions; S182 remains conditional and opening-only.
 Neither this disposition nor the unchanged 289-work reading count completes
 the whole-background survey. Model, storage and returned-gate restrictions hold.
+
+## 2026-10-26: S180 bounded numerical reconstruction
+
+The [independent correlation check](full-reading/S180-correlation-reconstruction.md)
+now completes its declared 150-cell disposition: 146 computed and four
+uncomputable coding-time cells, with no row deletion. For the declared broader
+`ActMin` metric, the significance-to-zero operation replaces 35/50 coefficients
+and yields exact-zero medians in four of five language groups. The B3 positive
+associations remain; none of its 50 coefficients is replaced by the rule.
+The arithmetic therefore substantiates the earlier static measurement concern
+while retaining favorable associations and the incomplete sensitivity groups.
+
+This new environment is identified and independently reviewed at its bounded
+scope. Its B4 operation order is algebraically, not necessarily bitwise,
+equivalent to the archived expression; possible tie effects remain unquantified.
+The actual publication run, full Scott-Knott reproduction, journal edition and
+causal practice recommendations remain unresolved. R14 can use this as a
+checked example of why metric definitions and reporting operations belong in
+the evidence contract. It does not supply Nu benefit or another independent
+study. The reading count stays 289; both earlier setup failures and the A:
+stop remain preserved, and no restricted/returned native branch was reopened.

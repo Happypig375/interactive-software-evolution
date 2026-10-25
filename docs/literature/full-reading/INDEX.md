@@ -556,8 +556,11 @@ same journal/arXiv lineage.
 
 The [artifact audit](S180-practitioner-beliefs-artifact.md) checks the official
 archive and descriptive data/static paths; actual publication-run correspondence
-is unknown. The independent arithmetic check failed before data access and
-remains unfinished. The same AI reader inspected all pages; parent critical
+is unknown. The two pre-data arithmetic failures are preserved; a later
+[independent C: reconstruction](S180-correlation-reconstruction.md) completed
+146 correlations and four uncomputable cell dispositions under the unchanged
+150-cell plan. This is not a full author-workflow reproduction or another
+reading/study credit. The same AI reader inspected all pages; parent critical
 review is not independent full reading or human approval. The handbook and
 original belief sources remain unread. R04 reuses P08/S72/S231 without new
 reading credit. The survey remains open; [storage](../../workspace-integrity-return-2026-10-26.md)

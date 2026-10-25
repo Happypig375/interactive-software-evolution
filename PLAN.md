@@ -5,9 +5,10 @@ after a new installed-source checksum failure. Stop A: writes and execution.
 The [verified preservation and documentation location](docs/workspace-integrity-return-2026-10-26.md)
 is `C:/Users/hadri/nu-value-recovery/20261025-s180-integrity-stop-01/publication-review`,
 a fresh remote checkout. S180's selected full reading and R04/R14 synthesis
-are integrated there; its independent arithmetic remains unfinished with no
-result. This location supersedes the October 23 A: route for documentation
-only. Preserve earlier workspaces and all returned gates. The Daybreak-only
+are integrated there. The subsequent [bounded S180 calculation](docs/literature/full-reading/S180-correlation-reconstruction.md)
+completed separately in a fresh verified C: calculation folder, preserving both
+earlier setup failures. This location supersedes the October 23 A: route for
+documentation only. Preserve earlier workspaces and all returned gates. The Daybreak-only
 restriction below is unchanged; no restricted branch was resumed.
 
 **R04 task-provenance checkpoint, 2026-10-26:** the

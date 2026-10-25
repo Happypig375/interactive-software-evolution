@@ -1,6 +1,8 @@
 # S180 full reading: Assessing Practitioner Beliefs about Software Engineering
 
-Status: selected-edition full reading accepted for literature integration on 2026-10-26. Artifact reproduction remains uncompleted.
+Status: selected-edition full reading accepted for literature integration on
+2026-10-26. A later bounded independent correlation reconstruction is recorded;
+the authors' complete published analysis remains unreproduced.
 
 ## Identity and edition boundary
 
@@ -184,7 +186,7 @@ S180 contains no Nu, F#, game-engine, interactive-software-evolution, live-editi
 
 ## Artifact and access disposition
 
-The official Zenodo record and archive were lawfully inspected without executing supplied code. The archive contains the selected data and analysis scripts and permits denominator checks. Static inspection shows that the retained batch invocation would select Cliff's delta where the article describes A12, but it does not bind that invocation to the actual publication-table run. It also exposes the correlation censoring described above. Reproduction success remains unknown.
+The official Zenodo record and archive were lawfully inspected without executing supplied code. The archive contains the selected data and analysis scripts and permits denominator checks. Static inspection shows that the retained batch invocation would select Cliff's delta where the article describes A12, but it does not bind that invocation to the actual publication-table run. It also exposes the correlation censoring described above. Full publication-run reproduction remains unresolved; the bounded independent calculation below has a separate, identified scope.
 
 The Endres-Rombach handbook was identified bibliographically, but its body and the original five source works were not read in this assignment. Exact source formulations remain S180-reported. No version-of-record body was obtained. These are bounded lineage limitations, not reasons to treat the S180 reading itself as incomplete.
 
@@ -198,16 +200,27 @@ publication run; and full visual coverage was by the same AI reader, not a
 human. The Figure 6 C++ discrepancy and the coding-time versus broader-time
 denominator discrepancy are retained alongside favorable associations.
 
-A separately declared independent correlation check was attempted but produced
+A separately declared independent correlation check initially produced
 no data analysis or results. Its first invocation failed because SciPy was
 absent. After an isolated installation, its second invocation failed during
 import, before opening the study archive. The installed source did not match
 its package RECORD checksum; A: then reported Warning / Full Repair Needed.
-The check stopped. There was no replacement calculation, no supplied analysis
-program execution, and no numerical reproduction credit. The
+The check stopped at that return, with no replacement calculation, supplied
+analysis program execution or numerical reproduction credit from those attempts. The
 [storage handoff](../../workspace-integrity-return-2026-10-26.md) preserves the
 failure and verified C: copy. The completed text/visual reading and bounded
-static artifact checks have distinct coverage from that unfinished calculation.
+static artifact checks have distinct coverage from the calculation.
+
+The later [independent C: reconstruction](S180-correlation-reconstruction.md)
+completed the unchanged declared analysis: 146 computed correlations and four
+preserved uncomputable cells among 150 planned cells. The significance-to-zero
+rule replaces 35/50 B4 `ActMin` coefficients and makes four language medians
+exactly zero; B3's coefficients are unchanged by that rule. The coding-time
+sensitivity retains its four invalid cells without row deletion or incomplete
+ten-task medians. This demonstrates the reporting/measurement consequence in
+the specified new environment. It still does not identify the paper's actual
+commands or historical versions, validate causal guidance, or reproduce its
+Scott-Knott analyses. No new full-reading credit is added.
 
 ## References
 

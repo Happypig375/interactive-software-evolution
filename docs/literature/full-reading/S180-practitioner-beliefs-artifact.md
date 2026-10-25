@@ -1,12 +1,21 @@
 # S180 replication-artifact audit
 
-Status: accepted bounded static availability/correspondence audit, 2026-10-26. No end-to-end or independent numerical reproduction.
+Status: accepted bounded static availability/correspondence audit, 2026-10-26,
+with a later [independent correlation reconstruction](S180-correlation-reconstruction.md).
+The complete published analysis has not been reproduced end to end.
 
 Date inspected: 2026-10-25
 
 ## Scope and non-execution boundary
 
-This audit checks whether the data and analysis materials named by S180 are publicly available and whether their static contents clarify the published method. It does not reproduce the analyses, validate the numerical results, or execute any supplied Python, batch file, bytecode, or notebook. Completed computations were archive hashing/inventory and descriptive row/key/column checks written for this audit. A later independent correlation check failed before data access; its status is recorded below.
+The original static phase checked whether the data and analysis materials named
+by S180 were publicly available and whether their contents clarified the method.
+It did not execute supplied Python, batch files, bytecode or notebooks. Its
+computations were archive hashing/inventory and descriptive row/key/column
+checks. Two later setup attempts failed before data access. The separately
+recorded C: continuation then completed the unchanged independent correlation
+check, still without executing supplied analysis code. Its scope and results
+are distinct from the original static audit and the unknown publication run.
 
 ## Official record and retained archive
 
@@ -104,29 +113,41 @@ Only the following new external routes were considered during this assignment:
 No arXiv or journal metadata screen was repeated. No publisher version-of-record bytes were obtained, so correspondence between the selected arXiv v4 body and the journal version remains unresolved. The separate parent lookup used the exact journal DOI with limit 20, offset 0 and returned one record. It verified bibliographic identity only; no editorialNotices field was returned, so absence of a correction is not established.
 
 
-## Parent arithmetic check: unfinished, no result
+## Parent arithmetic check: original return before data access
 
 The prospective private plan specified 150 task-language cells: belief 3,
 belief 4 using the archived broader-time metric, and a coding-time sensitivity.
 It retained raw coefficients and the significance-to-zero rule separately,
 with uncomputable cells preserved rather than silently dropping rows. This
-plan is not a completed analysis. Both attempts failed during dependency
+plan was not a completed analysis at the original return. Both attempts failed during dependency
 import before the CSV was read: initially missing SciPy, subsequently damaged
 installed source. No correlations, p-values, sensitivity result or plot
-correspondence were produced. Do not infer anything from their absence.
+correspondence were produced by those attempts. Do not infer anything from their absence.
 
 The planned method referred to
 [SciPy 1.14.1's spearmanr documentation](https://docs.scipy.org/doc/scipy-1.14.1/reference/generated/scipy.stats.spearmanr.html).
 Its asymptotic p-value qualification matters for the mostly smaller groups;
 a prospective arithmetic reconstruction would not itself validate inference
 or recover the historical software versions. No new environment was substituted
-after the integrity failure. See the
+at that integrity return. See the
 [storage handoff](../../workspace-integrity-return-2026-10-26.md).
 
 The paper, official archive, corrected notes and coverage records were copied
 without changing their bytes to C: and matched their earlier recorded hashes.
 Revision-01 drafts and the declared check remain private. No copyrighted body,
 CSV or extraction dump is committed.
+
+## Subsequent C: calculation
+
+The [2026-10-26 independent reconstruction](S180-correlation-reconstruction.md)
+now supplies 150 declared cell dispositions: 146 correlations and four
+uncomputable coding-time cells, without dropping their invalid rows. Under the
+declared `ActMin` metric, the archived significance-to-zero rule replaces 35 of
+50 coefficients and makes four language medians exactly zero. B3 has no replaced
+coefficients. The new environment and script are identified separately from
+the publication's unknown software invocation; no full Scott-Knott or author
+workflow reproduction follows. Earlier failures, source discrepancies, journal
+edition gaps and the A: stop remain unchanged.
 
 ## References
 

@@ -10850,3 +10850,48 @@ historical holdings do not prove current healthy access; any future selected
 reading must verify its record/version and bytes in a permitted healthy
 location. This is a conditional queue decision, not survey completion or
 absence of other consequential literature. Reading count remains 289.
+
+## 2026-10-26: S180 unchanged independent arithmetic on verified C: inputs
+
+The [numerical record](full-reading/S180-correlation-reconstruction.md) completes
+the earlier declared check in a separate C: calculation directory. The preserved
+plan, script and official v1.0.0 ZIP matched their prior identities and two C:
+source reads. C: reported Healthy/OK; no A: input or failed installation was
+used. Official PyPI release metadata supplied the exact NumPy 2.2.6 and SciPy
+1.14.1 Windows CPython 3.12 wheels. Their hashes matched, all 2,393 unchanged
+wheel members matched installed bytes, and all 2,401 hashed installed RECORD
+entries were accounted for after a retained two-launcher path-verification
+failure and explicit location correction. Unhashed bytecode was bypassed;
+the two RECORD files' own entries remained unhashed. This is scoped environment
+verification, not certification of the whole drive or historical software.
+
+One successful preflight checked version-specific API behavior without reading
+study data. One unchanged analysis invocation then produced all 150 declared
+cell statuses: 146 correlations and four nonpositive-coding-time cells retained
+as uncomputable. Each computed rho passed the same script's second
+average-rank/Pearson implementation. The B4 `ActMin` rule replaced 35/50
+coefficients; four language medians became zero. B3 had no replacements.
+All raw values and invalid dispositions remain private. No archived program,
+Scott-Knott workflow, Nu process or candidate was executed.
+
+A separate Sol High AI maintainer reconciled all stored cells, p-rule values,
+15 summaries, current hashes, attempt records and selected archived method
+source without rerunning correlations. The parent applied corrections for
+script-calculated rank checks, unhashed RECORD/bytecode coverage and floating
+operation order. Stable developer-language identity relies on the accepted
+same-byte static audit rather than a new script assertion. The result hash was
+verified after execution and against the stdout summaries, not sealed inside
+the original process receipt. The unchanged `60 * LOC / time` expression need
+not be bitwise identical to archived `LOC / (time / 60)`; no post-outcome
+sensitivity was run. Historical figure/command correspondence remains unknown.
+
+The once-only `s180_correlation_reconstruction_20261026` source segment credits
+four provenance units: the exact archive, reopened SciPy method documentation,
+and two official package release identities. The inspected report has four
+included, zero excluded/skipped/missing reasons, truncated=false,
+retrieval_unlinked=false and retrieved=null. It is not four papers or a repeated
+literature screen. No Scite literature query, new full-paper reading or Zotero
+operation occurred; library/reading counts are unchanged. Both prior pre-data
+failures, the corrected C: validation failure, full output and review remain
+under the recorded calculation/preservation roots. This resolves that bounded
+arithmetic task, not practical Nu value or the broader survey.
