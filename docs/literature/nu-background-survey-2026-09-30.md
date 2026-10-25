@@ -2140,3 +2140,24 @@ estimated. This updates the [D1 proposal](../fsharp-domain-evolution-research-pr
 and study designs without another full-paper credit or representative-workload
 claim. The literature checkpoint remains 289; broader research, Daybreak-only
 work and returned constructions remain unfinished under their separate limits.
+
+## 2026-10-26: R04 evaluator eligibility and authored scope
+
+The [oracle audit](../nu-r04-oracle-eligibility-audit-2026-10-26.md) identifies a
+specific B02/B12 measurement dependency. The successful pause references share
+the same case/model/control organization and local-pause schedule; their probe
+checks those choices directly. That fixed-source evidence is preserved, but it
+does not validate a final evaluator for every correct reorganization D1 allows.
+A future behavioral task must distinguish actual compatibility obligations from
+incidental reference structure. A successor that needs no union extension
+remains eligible unless a declared public contract requires one; missing the
+predicted diagnostic is not grounds for removing the assigned attempt.
+
+Current preparation therefore retains the authored pause/lifecycle question,
+with bounded transfer and no representative-workload claim. The next dependency
+is an evaluator/ordinary-access boundary that admits the promised alternatives,
+not another warning demonstration. No candidate or runtime ran. A separate
+bounded review selected no additional primary reading among the named gaps
+inspected for current decisions; S182 remains conditional and opening-only.
+Neither this disposition nor the unchanged 289-work reading count completes
+the whole-background survey. Model, storage and returned-gate restrictions hold.

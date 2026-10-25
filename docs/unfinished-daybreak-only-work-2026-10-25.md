@@ -47,5 +47,7 @@ October 26 literature continuation observed it active and leaves these two
 branches unfinished and restricted. The [new storage return](workspace-integrity-return-2026-10-26.md)
 also stops A: writes/execution. The broad survey is not complete. Use
 the [continuation prompt](continuation-prompt-2026-10-23.md) and the private
-`CURRENT-HANDOFF.md` for the saved state. Do not resume these branches merely
+`CURRENT-HANDOFF-2026-10-26.md` in the current C: preservation root for the
+latest saved state. The undated `CURRENT-HANDOFF.md` is a historical
+preservation copy. Do not resume these branches merely
 because another model receives the handoff.

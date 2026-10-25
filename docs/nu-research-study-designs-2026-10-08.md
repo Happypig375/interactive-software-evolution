@@ -195,6 +195,20 @@ them. State whether the claim concerns an authored domain-evolution scenario
 or practically required maintenance; source history does not supply its task
 frequency or missing candidate effect. No new arm or execution is allocated.
 
+**Current preparation scope and evaluator dependency, 2026-10-26:** retain the
+authored behavioral question, with the existing pause/lifecycle family as its
+preparation basis. The [oracle eligibility audit](nu-r04-oracle-eligibility-audit-2026-10-26.md)
+finds that the completed probe binds the reference's `Paused` case, typed model,
+entity/control organization and advancing-engine schedule. Those bindings are
+legitimate for the frozen mechanism check, but cannot silently restrict the
+future study's promised correct alternatives. A behaviorally correct successor
+need not extend the union unless an explicit owned compatibility contract
+requires it. Keep every attempt in its assigned arm; do not select only runs
+that generate the predicted diagnostic. The next evaluator feasibility must
+separate required interfaces from incidental representation and validate an
+appropriate different organization. No candidate access or allocation is added,
+and the completed references, results and failures remain unchanged.
+
 ## R05 — Correctness of interactive change
 
 **Question and contrast.** Which declared observations warrant an all-obligation pass, and where do weaker observations miss relevant behavior? This is the shared evaluation specification. A separate methods contribution would compare observation policies on independently justified behavior/fault cases, including the cost of specifying and observing them.

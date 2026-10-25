@@ -10813,3 +10813,40 @@ the narrower declaration/hunk/file coverage in their reasons.
 No Scite literature search, citation-graph screen, Zotero operation or new
 full-paper reading occurred. The 289-work reading count and all empirical
 benefit, model/storage, returned-gate and allocation limits remain unchanged.
+
+## 2026-10-26: R04 fixed-oracle eligibility audit
+
+Decision: determine whether the completed pause probe can directly score the
+correct source organizations admitted by D1. Read five published repository
+objects at `782be65a0ca319683a303908e372c5f86a8a7868`, using Git after the sparse
+documentation checkout's filesystem search correctly reported the experiment
+directory absent. No A: reads/writes or source execution followed. The
+[audit](../nu-r04-oracle-eligibility-audit-2026-10-26.md) records exact source
+links, selected line ranges, conclusions and limits; private hashes and the
+prospective question are retained in `r04-oracle-eligibility-20261026/`.
+
+The source establishes typed model/case, control/name and scheduling bindings.
+Those support the fixed reference check but require an explicit compatibility
+decision before reuse as an ordinary maintenance evaluator. The proposal now
+retains an authored behavioral scope and permits a correct successor without a
+union extension where the actual contract allows it. Frozen probes, observations
+and failed attempts are unchanged. No alternative implementation, build or
+candidate failure was produced.
+
+The once-only segment `r04_oracle_eligibility_20261026` credits five source files
+for the stated selected/full-file coverage. `citation_report` reports five
+included, zero excluded/skipped/missing reasons, truncated=false and
+retrieval_unlinked=false; answer-scoped retrieved count is null. These are
+repository-source decisions, not five papers or independent experiments.
+Existing completed readings were reused without resubmitting their decisions.
+No literature search, Zotero operation or new full-paper reading occurred.
+
+A bounded Sol High audit of existing gap notes selected no additional primary
+reading among S182, S221 and the fuller S152/S153 sources for the current
+decisions. The parent required correction of an overbroad no-gap statement,
+section references and an unverified current-access implication. Both revisions
+are retained privately in `remaining-method-dependency-20261026/`. S182's
+historical holdings do not prove current healthy access; any future selected
+reading must verify its record/version and bytes in a permitted healthy
+location. This is a conditional queue decision, not survey completion or
+absence of other consequential literature. Reading count remains 289.

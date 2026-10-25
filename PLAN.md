@@ -18,6 +18,13 @@ and oracle selection; authored positive extension sketches remain authored.
 The amended D1 proposal preserves valid alternatives. Next bind a practical
 contract or explicitly retain the authored question's scope; this source audit
 allocates no candidate execution and resumes no restricted/returned branch.
+The subsequent [oracle eligibility audit](docs/nu-r04-oracle-eligibility-audit-2026-10-26.md)
+selects the bounded authored behavioral question for preparation. The completed
+pause oracle assumes its reference's case/model/control/schedule organization;
+it is not yet a final evaluator for all the correct alternatives D1 permits.
+Next establish that behavior/compatibility and evaluator boundary, rather than
+repeat the compiler probe or manufacture a required local type edit. No new
+construction, native process or candidate allocation is authorized by this audit.
 
 **Current handoff and model restriction, 2026-10-25:** the completed
 reading/source integration following the [October 23 handoff](docs/handoff-2026-10-23-paused.md)

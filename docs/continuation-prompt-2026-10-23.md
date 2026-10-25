@@ -17,6 +17,17 @@ pull/reset/clean or resume A: writes/execution.
 
 ## Latest completed source/task integration
 
+The [R04 oracle eligibility audit](nu-r04-oracle-eligibility-audit-2026-10-26.md)
+now binds the next preparation scope: an explicitly authored behavioral change,
+starting from the existing pause/lifecycle family. The completed probe assumes
+the reference's `Paused` case, typed model, control/entity organization and
+advancing-engine schedule. Its fixed observations remain valid, but it is not
+yet a final evaluator for all correct reorganizations admitted by D1. Do not
+force a union extension merely to generate FS0025 or reject an otherwise valid
+implementation for an undeclared internal interface. Next resolve the common
+behavior/compatibility and evaluator boundary; no new apparatus or candidate
+is allocated. The audit changed no frozen source, result or runtime record.
+
 The [R04 history audit](nu-r04-history-task-audit-2026-10-26.md) is integrated.
 Engine-event adaptation does not by itself require a local message rename;
 the extra explicit-pattern edit is conditional on that local requirement.
@@ -32,8 +43,9 @@ noncredits), with no missing reasons or truncation. Do not resubmit it; no new
 full-paper credit was added.
 
 Do not repeat these same histories to manufacture an authentic positive task.
-For R04, bind the actual external/local contract and permitted alternatives,
-or retain the bounded authored-scenario claim. Other consequential agenda
+For R04, preserve the selected bounded authored-scenario claim and bind the
+external/local contract and permitted alternatives before any later candidate
+assignment. Other consequential agenda
 questions remain open under the existing storage/model/return restrictions.
 
 ## Latest completed literature integration

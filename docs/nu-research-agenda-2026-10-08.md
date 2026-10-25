@@ -208,10 +208,21 @@ failed attempt and its unobserved gesture/writer.
 
 The [authentic R04 API rename](nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case)
 is a source-maintenance burden case where a valid catch-all can avoid a named
-consumer edit; it adds no new gameplay requirement. Preserve it as a boundary
+consumer edit **if the local case rename is required**; engine-event adaptation
+alone may retain the local name. It adds no new gameplay requirement. Preserve it as a boundary
 case rather than recasting it as a favorable semantic diagnostic task. The
 qualified R05 event-lifetime report remains a source hypothesis requiring
 actual roots, disposal and live-contact evidence.
+
+The [October 26 R04 history audit](nu-r04-history-task-audit-2026-10-26.md)
+and [oracle eligibility audit](nu-r04-oracle-eligibility-audit-2026-10-26.md)
+now select an explicitly authored behavioral question for current preparation.
+The completed pause references validate their clause contrast under shared
+case/model/control/schedule choices. A future maintenance evaluator must also
+admit the correct organizations promised by D1, including a successor that
+meets the task without a union extension when no public contract requires one.
+That evaluator/access dependency, task coverage and allocation remain; another
+compiler demonstration or equal weighting of invented cases cannot resolve them.
 
 For non-game transfer, [Camunda](nu-workflow-migration-transfer-2026-10-23.md)
 now supplies explicit running-instance preservation demand. When running
