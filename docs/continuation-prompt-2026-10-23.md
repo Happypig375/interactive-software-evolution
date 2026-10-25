@@ -1,21 +1,49 @@
-# Continuation prompt, updated 2026-10-25
+# Continuation prompt, updated 2026-10-26
 
-The user reactivated the goal on October 25. The [October 23 paused handoff](handoff-2026-10-23-paused.md)
-is historical; its completed reading/source packets have now been reviewed
-and integrated. The later two restricted branches remain unfinished under the
-[Daybreak-only handoff](unfinished-daybreak-only-work-2026-10-25.md). The goal
-controller currently reports `blocked`; do not describe the research as complete.
-Use
-`A:/nu-value-execution/20261023-material-intent/publication` and read
-[PLAN.md](../PLAN.md) and [AGENTS.md](../AGENTS.md) first. Private evidence and
-publication/check receipts remain in the parent folder. Preserve the original
-A: workspace and C: recovery/evidence without pulling, resetting or cleaning.
+The goal was observed active during this continuation; the earlier blocked
+checkpoint and October 23 pause are historical. The broad survey and practical
+benefit research remain unfinished. Both
+[Daybreak-only branches](unfinished-daybreak-only-work-2026-10-25.md) remain
+unfinished and must not be continued by non-Daybreak or unverified models.
+
+A: now reports Warning / Full Repair Needed. Follow the
+[verified preservation and storage return](workspace-integrity-return-2026-10-26.md).
+For documentation only, use
+`C:/Users/hadri/nu-value-recovery/20261025-s180-integrity-stop-01/publication-review`
+and read [PLAN.md](../PLAN.md) and [AGENTS.md](../AGENTS.md) first. This is a fresh
+remote clone, with the verified literature copy in its parent. A: originals
+and the earlier C: recovery remain untouched; no ordinary continuation may
+pull/reset/clean or resume A: writes/execution.
+
+## Latest completed literature integration
+
+- [S180](literature/full-reading/S180-practitioner-beliefs.md): all 32 selected
+  arXiv v4 pages read in text and visuals; official artifact statically audited.
+  Journal parent with preprint attachment remains correct. Reading count is
+  289 = 13 P + 3 A + 273 S. No VOR/body or original handbook credit.
+- [R14](nu-practice-and-task-provenance-2026-10-11.md) separates requests,
+  predictions, observations and prevalence. [R04](nu-research-study-designs-2026-10-08.md)
+  reconciles diagnostic benefit with valid catch-alls and task-dependent evidence.
+- S180's declared independent arithmetic check is **unfinished with no result**:
+  both setup invocations failed before data access. Preserve the missing-package
+  and damaged-source failures. No supplied analysis code or Nu process ran.
+- The one completed Scite segment is
+  `s180_practitioner_beliefs_reading_20261025`: 13 source decisions, 6 credited
+  and 7 excluded, no missing reasons or truncation. Do not resubmit it.
+
+Next, use a concrete practical decision to identify a remaining consequential
+literature/synthesis gap. S182 is still opening-only; follow it only if its
+primary method could change that decision. The failed arithmetic plan is not a
+scientific result or mandatory reading-completion condition. Any later attempt
+needs verified inputs and a healthy execution location. Do not resume either
+Daybreak-only branch or any returned R02/R10/R12 gate through this instruction.
+All subagents have completed; no new assignment is running at this handoff.
 
 ## Completed integration
 
 - [S312 ADI](literature/full-reading/S312-adi-agent-repair.md) records the full
   arXiv v1 reading, Zotero preprint identity and exact artifact audit. The
-  integrated index is 288 = 13 P + 3 A + 272 S. Review corrected the clean
+  preceding integrated index was 288 = 13 P + 3 A + 272 S. Review corrected the clean
   scaffold claim: deposited prompts differ and the comparison bundles tools,
   prompts/workflow and reruns. Numeric results remain favorable for ADI-enabled
   configurations and mixed for PDB. All three deposited query modules use

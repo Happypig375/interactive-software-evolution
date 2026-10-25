@@ -1,5 +1,15 @@
 # Research plan
 
+**Current storage return, 2026-10-26:** A: reports Warning / Full Repair Needed
+after a new installed-source checksum failure. Stop A: writes and execution.
+The [verified preservation and documentation location](docs/workspace-integrity-return-2026-10-26.md)
+is `C:/Users/hadri/nu-value-recovery/20261025-s180-integrity-stop-01/publication-review`,
+a fresh remote checkout. S180's selected full reading and R04/R14 synthesis
+are integrated there; its independent arithmetic remains unfinished with no
+result. This location supersedes the October 23 A: route for documentation
+only. Preserve earlier workspaces and all returned gates. The Daybreak-only
+restriction below is unchanged; no restricted branch was resumed.
+
 **Current handoff and model restriction, 2026-10-25:** the completed
 reading/source integration following the [October 23 handoff](docs/handoff-2026-10-23-paused.md)
 is published. The later deliberate recovery fault-trigger branch and ordinary

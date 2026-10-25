@@ -12,6 +12,34 @@ The selected current wiki page and two propagation scripts were read in full. Nu
 
 An issue is a public account or proposal. Its body, comments, patch, affected release and observed behavior are different evidence. A closed label does not establish a fix, and an open request does not establish that a capability is absent at the research pin. Retain issue/thread identity across derived tasks; a withdrawn report remains useful counterevidence to its title.
 
+### Match the evidence to the kind of claim
+
+The [S180 selected-edition reading](literature/full-reading/S180-practitioner-beliefs.md)
+adds an important qualification to belief-versus-outcome comparisons. Its five
+propositions were selected from an earlier handbook for compatibility with
+retrospective PSP training data; the 1,356 trainees were not asked whether they
+held those beliefs. A result about those operationalized propositions is not a
+measurement of current practitioner belief, independent demand or task frequency.
+The existing [S160 reconstruction](literature/full-reading/S160-belief-and-evidence.md#consequence-for-nu-and-d1)
+likewise keeps reported coordination concerns distinct from its selected
+repair-count outcome. Neither work licenses treating a user's desired outcome
+as a factual prediction that a different metric can refute.
+
+| Claim in a source or proposed task | What can support it | What does not follow |
+| --- | --- | --- |
+| A person requests a behavior or reports a preference/constraint | Identified account, role, context and exact intended outcome; preserve whether our task is authored or adapted. | One request does not establish prevalence or a comparative benefit. An unrelated null association does not invalidate the request. |
+| A mechanism can deliver that behavior | Relevant implementation/version and observations covering the stated state, identity, timing and effect boundary. | The author's confidence, issue status or a related paper cannot substitute for those observations. |
+| An intervention improves correctness or total work | A credible comparison of the same useful outcome, with setup, failures, verification and repair accounted for. | A reported preference, structural metric, conditional association or successful demonstration alone does not establish the effect. |
+| The need or effect is common in the target population | A stated sampling frame and source/person/project lineage, with the relevant denominator and coverage limits. | Repeated reports by one maintainer, more papers from one dataset or repeated model calls are not independent population coverage. |
+
+For a selected task, retain the original account separately from our
+operationalized requirement and any empirical prediction. State the observation
+that could challenge the prediction, and identify outcomes omitted by its
+measurement. The task can remain a legitimate bounded case even when its
+population frequency is unknown. Conversely, a valid task and favorable local
+result do not establish an adoption recommendation. This refines the existing
+eligibility record; it creates no participant instrument or new experiment.
+
 The completed practice readings contribute complementary, bounded evidence:
 
 | Existing primary reconstruction | Consequence for task selection and value claims |

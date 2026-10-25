@@ -2093,3 +2093,30 @@ records the reused once-only ADI audit and the separate bounded ImGui audit.
 No new candidate, participant or native execution occurred; other B01–B12
 coverage gaps and R02/R10/R12 returns remain in force. These findings improve
 the comparison's definition without establishing Nu's empirical advantage.
+
+## 2026-10-26: Practitioner evidence and diagnostic value
+
+The [S180 complete selected reading](full-reading/S180-practitioner-beliefs.md)
+closes an accessible primary-method gap for R14/R15. It retains favorable
+retrospective associations and conditional contrasts while distinguishing
+handbook-selected propositions from beliefs actually elicited from participants.
+Training-task observations do not establish current Nu demand, causal language
+advantage or prospective guidance. The selected paper is fully read; publisher
+body, handbook originals and actual artifact-to-publication run correspondence
+remain unresolved. Its separate independent arithmetic check failed before
+reading data and remains unfinished; do not count it as reproduction.
+
+The [R14 evidence table](../nu-practice-and-task-provenance-2026-10-11.md#match-the-evidence-to-the-kind-of-claim)
+now distinguishes requests/preferences, demonstrated capability, comparative
+benefit and population prevalence. The [R04 diagnostic reconciliation](../nu-research-study-designs-2026-10-08.md#diagnostic-evidence-and-the-maintainers-decision)
+uses completed P08/S72/S231 evidence to specify the practical convention
+question and valid countercases. These are documentation and literature
+contributions, not new engine results or benefit estimates.
+
+The strongest remaining work is still a consequential practical comparison
+and its actual access, outcome and total-work evidence. S182 is a conditional
+unread follow-up, not an automatic quota. Broader discovery and named access
+gaps remain open. Current [storage](../workspace-integrity-return-2026-10-26.md)
+and [Daybreak eligibility](../unfinished-daybreak-only-work-2026-10-25.md)
+restrictions apply independently; neither turns unavailable evidence into an
+adverse scientific result or resumes returned construction.

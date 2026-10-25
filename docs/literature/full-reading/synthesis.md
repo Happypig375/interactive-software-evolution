@@ -1377,3 +1377,30 @@ discrepancy bound reconstruction. API spend and selected tracing runtime omit
 integration and complete maintenance work. Use these ordinary comparator families and
 endpoint distinctions for R08/R03/R06; do not import their effect sizes or
 costs into the Nu case or count the artifact as another study.
+
+## 2026-10-26: Practitioner claims and the useful comparison
+
+[S180](S180-practitioner-beliefs.md) supplies a complete selected primary
+method, including favorable defect associations and conditional language
+contrasts. Its five propositions were selected from a handbook for compatibility
+with 1995-2006 PSP training data, rather than elicited from the 1,356 selected
+trainees. Repeated task rows, self-selected language and distinct outcome
+constructs limit transfer. Retained source paths differ from the paper's
+stated denominator and statistical method, without proof that those paths
+produced the publication. The [audit](S180-practitioner-beliefs-artifact.md)
+keeps these limits separate from its failed, unfinished arithmetic check.
+
+For [R14](../../nu-practice-and-task-provenance-2026-10-11.md), preserve the
+original reported need, our behavioral requirement, an empirical prediction
+and the actual outcome separately. A request can justify a bounded case
+without establishing population frequency; an association on another metric
+does not invalidate that request. R15 still needs prospective decision value.
+
+The updated [R04 design](../../nu-research-study-designs-2026-10-08.md)
+reuses P08/S72/S231's favorable, null and adverse results. It asks whether an
+explicit enumeration convention improves complete maintenance outcomes over
+an equivalent catch-all at common resources. Distinct-case, default-correct,
+no-extension and authentic-rename requirements expose different diagnostic
+opportunities. Their task frequencies are unknown. Compiler success and
+warning exposure remain mechanisms, not maintenance benefit or pure causal
+mediators. No new candidate run is authorized or reported.

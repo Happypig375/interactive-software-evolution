@@ -10700,3 +10700,57 @@ The evidence and coverage hashes are respectively
 `235ad68107346cede6fb1d57a540828fc6d45e7e415affb3540f802f80f74411`.
 Earlier source and S312 audits were not resubmitted. Reused recovery-target
 source synthesis adds no new retrieval decision or reading credit.
+
+## 2026-10-26 continuation: S180 full reading, bounded artifact audit and source decisions
+
+Selected for the consequential R14/R15 gap identified by the current reading
+audit, S180 was already in collection `PKLXQNEE`. Native Zotero 10.0.6 local API
+verification preceded reading: journal parent `Z5ADDDFA` v4247, related arXiv
+v4 attachment `VLAA2F7Q` v4237. No duplicate, type correction or attachment
+change occurred. A journal record may correctly carry a preprint attachment.
+The [full-reading note](full-reading/S180-practitioner-beliefs.md) binds all
+32 text/visual pages, nine figures, six tables and exact PDF hash. No VOR bytes
+were acquired; direct arXiv abstract and journal DOI opens failed in this
+session, without invalidating the already verified local selected body.
+
+One exact-DOI Scite query requested `limit: 20`, `offset: 0`, returned 1/1
+record and verified journal identity. A prior call failed schema validation
+because user_intent was too long and retrieved nothing. The successful response
+contained no editorialNotices field; no-correction status is not verified.
+No citation graph was screened. P08/S72/S231 and S160 were reused from completed
+notes, with no duplicate historical citation decisions or reading credit.
+
+The official Zenodo API returned HTTP 200; its linked 5,006,908-byte v1.0.0 ZIP
+matched recorded MD5 and observed SHA-256
+`ffd1d09150dd3eede84bcb1dd5f4b3e7dc1656d7f38369b72f33deace23fdfb1`.
+DOI/HTML opens failed. The [artifact audit](full-reading/S180-practitioner-beliefs-artifact.md)
+records 58 entries, selected-data denominators, retained method discrepancies
+and unresolved actual-run correspondence. No supplied code ran. A separately
+planned independent arithmetic check failed before data access, first for
+missing SciPy and then damaged installed source; it is unfinished, not a
+reproduction. Official SciPy 1.14.1 method documentation was read for that plan.
+The [integrity return](../workspace-integrity-return-2026-10-26.md) records the
+subsequent storage state and successful bounded preservation.
+
+A single handbook identity query (exact text and routes in the artifact audit)
+returned 11 visible occurrences representing nine durable URLs. Fraunhofer and
+WorldCat snippets support identity only; Fraunhofer body access was denied.
+Five duplicate bibliographic/author pages and two third-party body routes were
+excluded; the latter were never opened. Three signed-URL occurrences collapse
+to one durable object; transient credential-bearing queries are not retained
+in public notes. The handbook body and original five belief works remain unread.
+
+Completed source-decision audit:
+`s180_practitioner_beliefs_reading_20261025`, submitted once. Its inspected
+citation_report has 13 decisions: 6 credited sources/routes and 7 exclusions
+(5 duplicate, 2 out_of_scope), zero missing reasons, no truncation and
+retrieval_unlinked=false. Answer-scoped retrieved count is null. These are
+source decisions, not six studies or three full-paper readings: the article,
+archive and method documentation have different evidence roles. Full-work
+count increases only once, to 289 = 13 P + 3 A + 273 S.
+
+The consequence is separating reported requests/preferences, operationalized
+predictions and observed outcomes; this does not refute requests or establish
+current Nu demand. S182 remains opening-only and conditional on a distinct
+consequential method question. No new experimental allocation, field-completion
+claim or Daybreak-branch continuation follows.

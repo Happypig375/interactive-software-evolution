@@ -139,7 +139,44 @@ The [C-exit/Q2 contract](nu-pause-exit-contract-2026-10-11.md) supplies the firs
 
 **Evidence and rival.** P08, S34–S37, S72 and the completed type-evolution readings in the [index](literature/full-reading/INDEX.md) constrain novelty and diagnostic claims. Additional source/diagnostic information might help, add redundant work or still miss temporal obligations. The total source-convention effect includes those consequences; do not adjust on successful compilation/diagnostic exposure to claim a pure type mechanism.
 
-**Disposition and next action.** Ready for bounded feasibility review under the existing D1 conditions. The [Breakout site/policy sheet](nu-comparator-and-convention-audit-2026-10-11.md#r04-an-authentic-existing-source-site) is joined by [Blaze Vector's projectile command site](nu-task-diversity-and-common-requirements-2026-10-11.md#r04-an-additional-authentic-convention-site), with lifetime renewal, legitimate cancellation and no-case-extension sketches. Both projects leave FS0025 outside their explicit error list; effective properties, compiler and diagnostic delivery remain unprobed. Two Nu demos do not establish representative task coverage, and related sketches are not independent families. Later authorized checks must establish initial equivalence, actual diagnostics and temporal/identity oracle sensitivity. Preserve D1's within-implementation source contrast, all allocation conditions and valid catch-alls.
+**Disposition and next action, reconciled 2026-10-25.** The [Breakout site/policy sheet](nu-comparator-and-convention-audit-2026-10-11.md#r04-an-authentic-existing-source-site) is joined by [Blaze Vector's projectile command site](nu-task-diversity-and-common-requirements-2026-10-11.md#r04-an-additional-authentic-convention-site), with lifetime renewal, legitimate cancellation and no-case-extension sketches. Subsequent [actual-project builds](nu-application-diagnostic-feasibility-2026-10-15.md) establish the selected warning-only contrast, and the [pause references](nu-pause-runtime-feasibility-2026-10-15.md) establish matched fixed observations for valid explicit and catch-all implementations plus sensitivity to five declared source faults. Those observations resolve the corresponding earlier unprobed dependencies; they do not establish general equivalence, physical input delivery or diagnostic use by a candidate. Two Nu demos do not establish representative task coverage, and related sketches are not independent families. The remaining comparison needs ordinary candidate access, grounded task coverage and an allocated agent study. Preserve D1's within-implementation contrast, all allocation conditions and valid catch-alls.
+
+### Diagnostic evidence and the maintainer's decision
+
+The practical decision is whether a maintainer should require explicit current
+cases in agent-maintained state-machine code, accepting its additional named
+edits, or permit an appropriate catch-all. The target is correct completed
+change and total work under the same ordinary tool/resource policy. It is not
+a ranking by warnings removed, and no candidate experiment is allocated here.
+
+The existing primary reconstructions provide a useful but conditional bridge.
+[P08](literature/full-reading/P08-type-error-ablation.md#outcomes-contrary-evidence-and-arithmetic)
+reports favorable aggregate agent-repair results with more detailed current
+type feedback, alongside per-fault reversals and a nonmonotonic condition.
+[S72](literature/full-reading/S72-functional-programmer-authoring.md#direct-relation-to-nu-and-d1)
+documents both silent catch-all evolution risk and productive use of catch-alls;
+its human practice observations are not a causal convention comparison.
+[S231](literature/full-reading/S231-harmonyos-compiler-feedback.md#reported-positive-null-and-adverse-outcomes)
+reports substantial iterative compilation gains with residual semantic failures,
+without a matched multi-attempt no-diagnostic control or baseline semantic
+comparison. Reusing these readings adds no new full-reading credit.
+
+| Substantive demand | Decision-relevant contrast | Evidence still required |
+| --- | --- | --- |
+| A new case needs distinct behavior | A diagnostic may expose an omitted site; independent behavior still determines success. | Eligible successor tasks and observed candidate outcomes. |
+| A new case legitimately uses the old fallback | Enumeration may add an edit while both completed implementations remain valid. | Task coverage and complete edit/checking work; the matched pause references establish only their bounded feasibility. |
+| No case-set extension | There may be no exhaustiveness opportunity; source cues or unrelated behavior can still matter. | Distinct task provenance and retained-obligation observations. |
+| An authentic case/API rename | The [time-advance rename](nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case) adds a named consumer edit under enumeration while the appropriate catch-all remains valid. | Historical/adapted status, eligible initial behavior and observed maintenance work; no effect is inferred from the patch alone. |
+
+These are coverage distinctions, not an equal-frequency industry sample or a
+mandatory new factorial. Their prevalence and useful weighting remain unknown.
+Diagnostic exposure is a consequence of the assigned convention: conditioning
+the main result on receiving or clearing a warning would change the estimand.
+A pure diagnostic-information question would require a separately justified
+intervention; it is not silently added as another arm. The current missing
+evidence is the direct maintenance effect and task population, not another
+description of an already understood diagnostic method. Follow a further paper
+only when its method, comparator or adverse evidence can change that decision.
 
 ## R05 — Correctness of interactive change
 

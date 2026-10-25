@@ -1,5 +1,7 @@
 # Maintainer entry point
 
+**2026-10-26 storage return:** follow PLAN and the [integrity handoff](docs/workspace-integrity-return-2026-10-26.md). A: writes/execution are stopped; current documentation uses the verified C: preservation and fresh remote checkout. This does not resume the unfinished Daybreak-only branches or any returned construction.
+
 **Current handoff and model restriction, 2026-10-25:** the completed
 reading/source integration following the [October 23 handoff](docs/handoff-2026-10-23-paused.md)
 is published. The later deliberate recovery fault-trigger branch and ordinary
