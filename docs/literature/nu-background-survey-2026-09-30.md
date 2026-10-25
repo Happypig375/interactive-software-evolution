@@ -2078,11 +2078,15 @@ version-matched conditional ini-save semantics. The actual gesture, writer and
 Twizzle native source/build correspondence remain unobserved. Native-001's
 terminal failures stand; source explanations cannot fill its missing fixture.
 
-**Next consequential action, updated after user steering:** prepare ordinary
-checkpoint persistence: actual exported scope, destination/selection policy,
-settled model/content correspondence and a normal continuation. The deliberate
-fault-trigger source branch is stopped and its private candidate remains
-unaccepted. Keep recovery, diagnosis, applied
+**Current handoff, updated after user steering:** the deliberate recovery
+fault-trigger branch and ordinary screen serializer/runtime persistence branch
+are **unfinished, Daybreak-only work**. Their private source candidates remain
+unaccepted; no new persistence runtime result is established. Non-Daybreak
+ChatGPT models must not continue or delegate either branch. Follow the
+[restriction record](../unfinished-daybreak-only-work-2026-10-25.md); separate
+consequential literature and synthesis remain authorized. This changes who
+may continue the unfinished work, not its scientific evidence or ranking.
+Keep recovery, diagnosis, applied
 repair and verified continuation separate, with complete R06 work accounting.
 The [search ledger](nu-background-searches-2026-09-30.md#2026-10-25-integration-s312-replay-based-debugging-and-repair)
 records the reused once-only ADI audit and the separate bounded ImGui audit.

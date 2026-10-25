@@ -1,14 +1,16 @@
 # Maintainer entry point
 
-**User-resumed goal, 2026-10-25:** the user reactivated the goal after the
-[October 23 handoff](docs/handoff-2026-10-23-paused.md). Continue its pending
-reading/source integration and practical recovery comparison. The pause is
-historical; the broad survey remains open. R03 native-001 is terminal and
-ordinary continuation does not reopen the R02/R10/R12 construction returns.
-The completed reading/source integration is now published. In response to the
-user's later direction to avoid flagged work, the parent has stopped the
-deliberate fault-trigger branch. Preserve its private source note as unaccepted;
-continue ordinary save/restore comparison and consequential literature.
+**Current handoff and model restriction, 2026-10-25:** the completed
+reading/source integration following the [October 23 handoff](docs/handoff-2026-10-23-paused.md)
+is published. The later deliberate recovery fault-trigger branch and ordinary
+screen serializer/runtime persistence branch are **unfinished, Daybreak-only
+work**. Non-Daybreak ChatGPT models must not investigate, implement, test,
+execute or delegate either branch. Models without verified Daybreak identity
+are ineligible. Follow the [restriction and saved state](docs/unfinished-daybreak-only-work-2026-10-25.md);
+earlier instructions to continue ordinary persistence are superseded.
+Separate literature/synthesis remains authorized and the broad survey remains
+open. R03 native-001 is terminal; this handoff and model eligibility do not
+reopen the R02/R10/R12 construction returns or allocate experiments.
 
 Read [PLAN.md](PLAN.md) first. It owns authority and the current assignment. The [2026-09-30 supervisor review](docs/supervisor-review-2026-09-30.md) explains the latest corrections. Historical proposals do not override these routes.
 

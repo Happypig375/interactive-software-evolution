@@ -194,11 +194,14 @@ now separates editing-session recovery from diagnosis/repair and distinguishes
 last editor snapshot K, last good simulation G and handler-entry F. Gaia's
 ordinary history/F7 facility is part of the status quo. Group files omit the
 screen model; screen-file replacement is a stronger unverified comparator.
-The subsequent deliberate fault-trigger source branch is stopped and its
-private candidate unaccepted following the user's direction to avoid flagged
-work. Next establish the represented scope and destination/selection/content
-policy for an ordinary screen-file save/restore comparison. This prepares a
-credible baseline before any useful recovery intervention.
+The subsequent deliberate fault-trigger branch and ordinary screen
+serializer/runtime persistence branch are both **unfinished, Daybreak-only
+work** under the [latest user restriction](unfinished-daybreak-only-work-2026-10-25.md).
+Their private candidates remain unaccepted. Non-Daybreak ChatGPT models must
+not continue or delegate either branch. Ordinary persistence scope and
+destination/selection/content policy remain future dependencies for an eligible
+model; they are not demonstrated baseline capabilities. Separate literature
+and synthesis remain authorized, without changing the scientific ranking.
 The [UI/output source follow-up](nu-passive-access-source-followup-2026-10-25.md)
 clarifies focus versus edit and conditional ini saving while preserving the
 failed attempt and its unobserved gesture/writer.

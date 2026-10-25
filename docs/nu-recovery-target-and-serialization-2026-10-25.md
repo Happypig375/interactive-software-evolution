@@ -1,5 +1,14 @@
 # R03/R06: recovery target and serialization boundary
 
+**Latest user restriction, 2026-10-25:** the later deliberate fault-trigger
+investigation and ordinary screen serializer/runtime persistence investigation
+are **unfinished, Daybreak-only work**. Non-Daybreak ChatGPT models must not
+continue or delegate either branch. The [handoff](unfinished-daybreak-only-work-2026-10-25.md)
+records their preserved, unaccepted preparation. All prospective source,
+construction and execution steps below are subject to that restriction and
+the existing returned gates; they are not current instructions to an
+ineligible model. The earlier reviewed analysis retains its stated scope.
+
 Integrated 2026-10-25 from the reviewed October 23 desk analysis. The practical
 question is recovery of useful editing-session state after a user-code
 exception. Nu #151 supplies the maintainer rationale; the
@@ -133,11 +142,17 @@ No exact current trigger, captured root pair, complete screen-file procedure
 or common final oracle is accepted by this note. A subsequent private source
 candidate remains unaccepted. In response to the user's direction to avoid
 flagged work, the parent stopped the deliberate fault-trigger investigation.
-The next comparison prepares ordinary successful checkpoint save/restore,
-without deliberately provoking an error or using that candidate. No consumed
-assignment or returned construction gate is reset.
+The subsequent ordinary checkpoint-persistence branch is also stopped and
+unfinished under the user's Daybreak-only restriction. Its delegated source
+candidate and historical input preparation remain private and unaccepted;
+neither supplies a new export/import or runtime result. No consumed assignment
+or returned construction gate is reset.
 
 ### Current preparation: ordinary checkpoint persistence
+
+**Preserved unfinished brief; continuation is Daybreak-only.** The following
+dependencies describe remaining work, not work authorized for a non-Daybreak
+ChatGPT model.
 
 The practical decision is which available route can retain a required
 noninitial checkpoint for later continuation, and what complete work it needs.

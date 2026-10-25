@@ -2,7 +2,10 @@
 
 The user reactivated the goal on October 25. The [October 23 paused handoff](handoff-2026-10-23-paused.md)
 is historical; its completed reading/source packets have now been reviewed
-and integrated. Continue the broad Nu value-research agenda. Use
+and integrated. The later two restricted branches remain unfinished under the
+[Daybreak-only handoff](unfinished-daybreak-only-work-2026-10-25.md). The goal
+controller currently reports `blocked`; do not describe the research as complete.
+Use
 `A:/nu-value-execution/20261023-material-intent/publication` and read
 [PLAN.md](../PLAN.md) and [AGENTS.md](../AGENTS.md) first. Private evidence and
 publication/check receipts remain in the parent folder. Preserve the original
@@ -34,23 +37,31 @@ Private packets: `value-preparation/adi-reading-next/`,
 `adi_s312_reading_20261023`, `imgui_source_audit_20261025`,
 `r03_r06_history_next_20261023` or `nu-parallel-source-audit-20261023`.
 
-## Next consequential work
+## Unfinished work and model restriction
 
-In response to the user's later direction to avoid flagged work, the parent
-stopped the deliberate fault-trigger investigation. Its completed private
-source note in `value-preparation/recovery-reachability-20261025/` remains
-unreviewed by the parent and unaccepted as a task or protocol. Preserve it;
-do not continue that branch or construct its trigger on ordinary continuation.
+The deliberate recovery fault-trigger/reachability investigation and the
+ordinary screen serializer/runtime persistence investigation, including
+export/import construction, are **unfinished, Daybreak-only work**. Non-Daybreak
+ChatGPT models must not continue or delegate either branch. Further source
+investigation, substantive review, protocol/implementation work, builds,
+controls, tests and execution are included. Without verified Daybreak identity,
+preserve the work and do not assume eligibility.
 
-Prepare the [ordinary checkpoint-persistence comparison](nu-recovery-target-and-serialization-2026-10-25.md#current-preparation-ordinary-checkpoint-persistence):
-inspect an ordinary exported screen file as data, establish the represented
-scope, and define the destination/selection/content policy before construction.
-Use complete B0 model/projection obligations and a declared normal continuation.
-Group-only files, model-symbol reconstruction, screen files and retained history
-have different supported scopes and work. Count acquisition, helper/setup,
-retention, alignment and verification; no useful-improvement claim follows
-until a credible common outcome and full work comparison exist. Continue
-consequential literature as required; native-001 and returned gates stay closed.
+The private candidates in `value-preparation/recovery-reachability-20261025/`
+and `value-preparation/screen-persistence-source-20261025/` remain unaccepted
+by the parent. `ordinary-screen-persistence-20261025/` contains only historical
+B0 inputs and observer-reference preparation; no new export/import, build or
+target process ran. Their outstanding dependencies are preserved in the
+[restriction record](unfinished-daybreak-only-work-2026-10-25.md) and the
+[earlier persistence brief](nu-recovery-target-and-serialization-2026-10-25.md#current-preparation-ordinary-checkpoint-persistence).
+Those are future dependencies for an eligible model, not instructions to resume
+now. The branches have not been completed or abandoned.
+
+Separate consequential literature and synthesis remain authorized. Keep
+mechanism evidence, unknown practical benefit and unread/access-limited sources
+distinct. The existing research agenda remains open; this model restriction
+does not change its scientific priorities. All subagents have completed, and
+this checkpoint returns the saved work without launching another assignment.
 
 ## Preserved limits
 
