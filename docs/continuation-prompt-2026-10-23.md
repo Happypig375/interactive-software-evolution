@@ -1,8 +1,10 @@
 # Continuation prompt, updated 2026-10-26
 
-The goal was observed active during this continuation; the earlier blocked
-checkpoint and October 23 pause are historical. The broad survey and practical
-benefit research remain unfinished. Both
+The goal is now **blocked**, following three consecutive no-progress turns with
+the same unresolved access/model/execution conditions. The
+[October 26 handoff](handoff-2026-10-26-blocked.md) owns this return; earlier
+active, blocked and October 23 paused checkpoints remain historical. The broad
+survey and practical benefit research remain unfinished. Both
 [Daybreak-only branches](unfinished-daybreak-only-work-2026-10-25.md) remain
 unfinished and must not be continued by non-Daybreak or unverified models.
 

@@ -1,5 +1,12 @@
 # Research plan
 
+**Current continuation return, 2026-10-26:** the goal is now **blocked**, not
+complete, after three consecutive no-progress turns with the same unresolved
+access/model/execution conditions. All maintainer subagents are complete. The
+[current handoff](docs/handoff-2026-10-26-blocked.md) records the pending Scite
+audit and executable resumption conditions. The broad survey, practical-value
+research and both Daybreak-only branches remain unfinished.
+
 **Current storage return, 2026-10-26:** A: reports Warning / Full Repair Needed
 after a new installed-source checksum failure. Stop A: writes and execution.
 The [verified preservation and documentation location](docs/workspace-integrity-return-2026-10-26.md)
