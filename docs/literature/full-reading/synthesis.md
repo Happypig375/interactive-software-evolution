@@ -1359,3 +1359,21 @@ artifact remains access-limited. A possible rescue arm must label inferred
 edges separately from observed predecessor state and count instrumentation,
 synthesis, model calls, failures and verification. It cannot retrospectively
 supply the missing R03 root or turn the R06 component timings into total work.
+
+### S312: replay-derived traces reach a repair endpoint
+
+[ADI](S312-adi-agent-repair.md), read at arXiv v1, reports higher held-out
+SWE-bench repair counts than ordinary-tool and PDB configurations across
+four models; PDB is mixed and adverse for two. This extends the preceding
+localization evidence to applied patches tested independently of agent
+self-reports. The paper reports common benchmark/model/budget conditions; exact deposited
+prompts differ materially. The comparison bundles trace information,
+implementation, workflow and reruns, with no reported repeated-run uncertainty.
+
+ADI regenerates selected function traces from a reproducer. It therefore
+cannot supply an absent historical root or establish native-world preservation.
+The deposit's missing trajectories/comparator bundles and paper/code temperature
+discrepancy bound reconstruction. API spend and selected tracing runtime omit
+integration and complete maintenance work. Use these ordinary comparator families and
+endpoint distinctions for R08/R03/R06; do not import their effect sizes or
+costs into the Nu case or count the artifact as another study.

@@ -1056,5 +1056,58 @@
     "metadata_verified": "2026-10-23 HKT",
     "edition_date": "2025-09-03",
     "landing_url": "https://arxiv.org/abs/2508.18721v5"
+  },
+  {
+    "id": "S312",
+    "parent_key": "B6V8URKN",
+    "attachment_key": "M9CEPSUX",
+    "doi": "10.48550/arXiv.2604.24212",
+    "title": "Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis",
+    "edition_label": "Full Text - arXiv v1",
+    "source_url": "https://arxiv.org/pdf/2604.24212v1",
+    "pages": 22,
+    "bytes": 2272386,
+    "sha256": "06142ac31471ab675fcb8351751533207615b9b502560acfc83d30112394f7e1",
+    "retrieval": "Direct official arXiv v1 PDF acquired through the authorized remote-zotero-pdfs collect/review/attach workflow and local Zotero API on 2026-10-23 HKT; downloaded, staged, and Zotero-stored bytes match",
+    "catalog_authors": [
+      {
+        "firstName": "Jiahong",
+        "lastName": "Xiang",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Xiaoyang",
+        "lastName": "Xu",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Xiaopan",
+        "lastName": "Chu",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Hongliang",
+        "lastName": "Tian",
+        "creatorType": "author"
+      },
+      {
+        "firstName": "Yuqun",
+        "lastName": "Zhang",
+        "creatorType": "author"
+      }
+    ],
+    "edition_authors": [
+      "Jiahong Xiang",
+      "Xiaoyang Xu",
+      "Xiaopan Chu",
+      "Hongliang Tian",
+      "Yuqun Zhang"
+    ],
+    "edition_title": "Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis",
+    "metadata_source": "https://arxiv.org/abs/2604.24212v1",
+    "metadata_verified": "2026-10-23 HKT",
+    "edition_date": "2026-04-27",
+    "landing_url": "https://arxiv.org/abs/2604.24212v1",
+    "related_published_doi": "10.1145/3797126"
   }
 ]

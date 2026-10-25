@@ -10629,3 +10629,74 @@ ADI is the highest-priority unread body if a coding-agent/tool comparison is
 selected: create/reuse its exact-edition Zotero record before reading. It is
 not yet acquired/read and does not delay the already frozen passive-access
 feasibility protocol. No further branch is opened before this handoff.
+
+## 2026-10-25 integration: S312 replay-based debugging and repair
+
+This completes the selected ADI follow-up identified above; the earlier
+metadata-only status is historical. Selection/acquisition/full reading took
+place on October 23, and this segment integrates the retained packet rather
+than claiming a second reading or new broad discovery.
+
+Exact DOI Scite searches requested `limit:20, offset:0` and returned two alias
+records with no reported editorial notices. Selected arXiv:2604.24212v1 is
+[S312](full-reading/S312-adi-agent-repair.md); DOI 10.1145/3797126 is its related
+publication lineage, not an independently read work. Zenodo v1 DOI
+10.5281/zenodo.19728388 was inspected as a separate research artifact. Current
+GitHub main was context only; the publication artifact governs the reported
+code discrepancy. This exact work/edition screen establishes no field coverage.
+
+Before body reading, the native Zotero/API and existing acquisition workflow
+registered `B6V8URKN` v8273 as a preprint in `PKLXQNEE`, with arXiv repository
+and versioned archive ID. PDF `M9CEPSUX` v8276 has 22 pages, 2,272,386 bytes and
+SHA-256 `06142ac31471ab675fcb8351751533207615b9b502560acfc83d30112394f7e1`.
+Downloaded, staged and stored bytes match in the retained receipts. The worker
+read all pages and visuals, including nine figures, four tables, Algorithm 1
+and 62 references. Published-version byte equivalence was not checked.
+
+The once-only Scite answer `adi_s312_reading_20261023` records four screened,
+three included and one duplicate-excluded decision. `citation_report` is not
+truncated, has no missing reasons or linkage warning, and reports
+`retrieved=null`. The audit is reused, not resubmitted. Its retained report
+SHA-256 is `41d6c3f3e32fefd5ea9879ea578abdd6eebafe2bd794d38b48f1dbdf16a35858`.
+The private packet is `value-preparation/adi-reading-next/`; its 16-entry
+manifest verifies at SHA-256
+`97f14b7076ced27186752cfabbdeebd0699524419aa5651bcbb405e627b7096c`.
+
+The selected paper contributes ordinary-tool/PDB/ADI repair comparisons under
+common paper-reported benchmark/model/budget conditions,
+a replay-versus-retained-state distinction and incomplete total-work accounting.
+The exact artifact preserves aggregate FramePilot results but lacks trajectories
+and comparator bundles and contains unresolved submitted-ID and temperature
+discrepancies. Integration review additionally found materially different
+deposited workflow prompts, precluding a clean trace-information contrast.
+All three principal query modules set 0.7 versus the paper's 0; executed settings
+remain unbound. No experiment or model execution was performed. The reading
+checkpoint becomes **288 = 13 P + 3 A + 272 S**; broad coverage is still open.
+The next consequential dependency is a practical recovery/repair question
+with actual state and a credible ordinary comparator, not another search page
+as a substitute for missing observations.
+
+## 2026-10-25 bounded ImGui upstream-reference audit
+
+The [source follow-up](../nu-passive-access-source-followup-2026-10-25.md)
+uses the saved `v1.91.5-docking` tag chain, pinned cpp/header and local package
+nuspec to clarify conditional ini-saving behavior. Five directly considered
+source units were reported once as `imgui_source_audit_20261025`: five included,
+zero excluded/skipped, with `retrieved=null`, no truncation, no missing reasons
+and no linkage warning. They represent one tag identity chain, one upstream
+source edition and wrapper metadata, not five independent studies.
+
+No new discovery search or paper reading occurred. The saved acquisition
+manifest preserves four remote endpoints/statuses and exact bytes, but not
+the wider historical discovery result list or per-query counts; that coverage
+remains unspecified. Selected C++/header ranges establish default cwd-relative
+ini behavior and conditional shutdown save. Exact Twizzle native build and
+actual file-writer correspondence remain unresolved. This audit does not
+amend the failed native-001 output boundary.
+
+Private evidence is under `value-preparation/imgui-source-audit-20261025/`.
+The evidence and coverage hashes are respectively
+`a6785688bc4e8c3a169f109f72fc927c7503d4c38ebcfc496f362c031f498334` and
+`235ad68107346cede6fb1d57a540828fc6d45e7e415affb3540f802f80f74411`.
+Earlier source and S312 audits were not resubmitted. Reused recovery-target
+source synthesis adds no new retrieval decision or reading credit.

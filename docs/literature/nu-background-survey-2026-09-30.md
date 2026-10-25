@@ -2043,3 +2043,47 @@ source-only clarification informs a distinct future question. R03/R06 still
 need an eligible practical task, demonstrated access, a common verified
 recovery/repair outcome and complete work accounting. No new search, paper
 reading or candidate/participant evidence is credited by this local attempt.
+
+## 2026-10-25: resumed integration and a recovery target
+
+The user reactivated the goal after the October 23 handoff. The completed
+[S312 ADI reading](full-reading/S312-adi-agent-repair.md) is now integrated at
+arXiv v1; the checkpoint is **288 fully read works**, not field completion.
+The selected edition's 22 pages and visuals were read by the earlier worker.
+Substantive review verified the paper's counts and exact artifact summaries,
+and corrected the clean-matching claim: deposited prompts differ materially.
+
+ADI-enabled configurations have higher reported held-out repair counts in all
+four model comparisons; PDB is mixed and adverse for two. The comparison has
+common paper-reported benchmark/model/budget conditions but bundles dynamic
+information, tools, prompts/workflow and reruns. Final patch resolution is
+stronger than localization or agent self-report. Those useful results coexist
+with curated Python-task coverage, missing comparator trajectories/results,
+submitted-ID inconsistencies and unresolved temperature/source-to-run binding.
+API spend and selected runtime omit complete setup/integration/maintenance work.
+
+For B04/B08 and R03/R08, ADI reconstructs selected traces by rerunning a
+reproducer. It does not recover missing actual historical roots or establish
+native/GUI state preservation. The [reviewed recovery-target analysis](../nu-recovery-target-and-serialization-2026-10-25.md)
+selects session recovery as a distinct practical question: ordinary Gaia
+already provides history/F7 checkpoints. K, G and handler-entry F can differ,
+and group-file persistence omits Breakout's screen model. A new procedure must
+improve useful preservation or complete work over that credible status quo.
+Screen-file replacement is a stronger existing comparator candidate with
+unverified lifecycle, content, transaction and continuation obligations.
+
+The [source clarification](../nu-passive-access-source-followup-2026-10-25.md)
+explains how property focus can occur without an accepted edit and supplies
+version-matched conditional ini-save semantics. The actual gesture, writer and
+Twizzle native source/build correspondence remain unobserved. Native-001's
+terminal failures stand; source explanations cannot fill its missing fixture.
+
+**Next consequential action:** establish a concrete caller-visible
+mutation/exception route and the required recovery target, then prospectively
+bind an actual comparison if warranted. Keep recovery, diagnosis, applied
+repair and verified continuation separate, with complete R06 work accounting.
+The [search ledger](nu-background-searches-2026-09-30.md#2026-10-25-integration-s312-replay-based-debugging-and-repair)
+records the reused once-only ADI audit and the separate bounded ImGui audit.
+No new candidate, participant or native execution occurred; other B01–B12
+coverage gaps and R02/R10/R12 returns remain in force. These findings improve
+the comparison's definition without establishing Nu's empirical advantage.

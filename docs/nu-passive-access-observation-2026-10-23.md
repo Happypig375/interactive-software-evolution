@@ -126,3 +126,14 @@ the clipped mode label is not a full runtime mode readout, and the submitted
 drag command does not independently observe an uninterrupted physical gesture.
 The original review and provisional assessment remain unchanged. These are
 AI maintainer reviews, not human scientific approval.
+
+## 2026-10-25 source clarification, without changing the attempt
+
+The [pinned-source follow-up](nu-passive-access-source-followup-2026-10-25.md)
+separates property focus from an accepted numeric edit and explains why the
+lower Position editor can appear without a new value or snapshot. It leaves
+the actual delivered gesture unresolved. The ordinary exit route changes cwd
+to Gaia before ImGui cleanup; version-matched upstream source saves default
+cwd-relative settings at context destruction under stated conditions. Exact
+Twizzle native build correspondence and the actual writer remain unobserved.
+Both terminal findings stand, with no retry or retrospective output amendment.

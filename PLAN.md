@@ -1,10 +1,10 @@
 # Research plan
 
-**User-requested pause, 2026-10-23:** all subagents have completed. The
-[current handoff](docs/handoff-2026-10-23-paused.md) records completed private
-source reviews and S312 reading, with parent integration still pending.
-Do not automatically continue; resume only on a new user instruction.
-The broad research is incomplete and the R02/R10/R12 returns remain in force.
+**User-resumed goal, 2026-10-25:** the user reactivated the goal after the
+[October 23 handoff](docs/handoff-2026-10-23-paused.md). Continue its pending
+reading/source integration and practical recovery comparison. The pause is
+historical; the broad survey remains open. R03 native-001 is terminal and
+ordinary continuation does not reopen the R02/R10/R12 construction returns.
 
 **Supervisory revision: 2026-09-30, based on `f00d98d2e6f8bbe1eda96ffc72d8d3999084f959`.** This is the current work assignment and authority map. The [review](docs/supervisor-review-2026-09-30.md) records findings, evidence, and limits. Earlier versions remain in Git; this revision does not overwrite reading records, experimental results, or permissions.
 

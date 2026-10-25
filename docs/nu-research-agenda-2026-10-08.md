@@ -146,7 +146,7 @@ candidate/participant allocation.
 
 | Preparation order | Practical decision and credible alternative | Consequential next dependency and falsifier |
 | --- | --- | --- |
-| 1: R03 with R06 | Whether retaining world history helps complete diagnosis and repair enough to justify acquisition/retention and access costs, compared with ordinary passive inspection, source inspection and direct reconstruction in the same pinned Nu workflow. | Bind an actual symptom and two prospectively named roots; validate passive inspection, selection and undo/redo without disturbing the branch. Then compare independently verified repair/continuation and complete work. If history supplies no needed fact or improves no repairs while costing at least as much, the added mechanism has no demonstrated advantage for that task. |
+| 1: R03 with R06 | Whether a recovery procedure preserves required editing-session work and supports verified continuation more reliably or with less total work than ordinary Gaia recovery/F7 checkpoints or an eligible reconstruction route. Diagnosis and code repair are separate possible endpoints. | Name the actual exception boundary and required K/G/F target before construction. Establish caller-visible state changes, ordinary access and common outcome; count capture, retention, integration, failures and verification. If ordinary recovery meets that outcome with equal or less complete work, an added mechanism has no demonstrated advantage on that task. |
 | 2: R04 | Whether explicit current-case enumeration earns its warning/edit burden relative to a valid exhaustive catch-all with the same ordinary compiler, context and tests. | Bind a practical successor requirement and ordinary information policy. Later all-assigned completion and work, not another compiler probe, must discriminate the conventions. Equal/better catch-all completion, ignored warnings or mechanically compiling but wrong repairs narrow the claim to diagnostic availability. Candidate execution remains unallocated. |
 | 3: conditional R01 informed by R12 | Whether a developer should adopt or retain Nu's selective-material workflow over the ordinary workflow in that developer's actual engine/project. | Bind a beneficiary, consequential workflow choice and incremental revision history before selecting one comparator. Count setup, asset/selection/helper work, editing, repair and verification. An ordinary engine providing the same saved/rendered result with equal or less complete work defeats the proposed advantage. Do not build three ports merely because three engines were surveyed. |
 
@@ -182,9 +182,23 @@ future question, not a retry or retrospective protocol change. Nu
 supplies a concrete maintainer rationale, but no eligible actual-root repair
 trial or independent adopter evidence. [S311](literature/full-reading/S311-partial-trace-dependency-estimation.md)
 adds a useful adverse boundary: inferred dependencies may aid localization
-but cannot replace missing actual predecessor evidence. Its closest unread
-agent-repair follow-up, ADI, is consequential if ordinary agent tool access is
-chosen. Its methods cannot resolve this attempt's missing fixture evidence.
+but cannot replace missing actual predecessor evidence.
+[S312 ADI](literature/full-reading/S312-adi-agent-repair.md) now supplies reported
+agent-repair comparisons under common benchmark/model/budget conditions.
+Deposited prompts differ materially; interface, prompt/workflow and rerun
+changes form a bundle. Its traces come from re-execution, so the favorable
+reported counts do not resolve this attempt's missing fixture evidence.
+
+The [recovery-target analysis](nu-recovery-target-and-serialization-2026-10-25.md)
+now separates editing-session recovery from diagnosis/repair and distinguishes
+last editor snapshot K, last good simulation G and handler-entry F. Gaia's
+ordinary history/F7 facility is part of the status quo. Group files omit the
+screen model; screen-file replacement is a stronger unverified comparator.
+The next source dependency is a reachable caller-visible mutation followed by
+an exception, before choosing any distinct prospective recovery intervention.
+The [UI/output source follow-up](nu-passive-access-source-followup-2026-10-25.md)
+clarifies focus versus edit and conditional ini saving while preserving the
+failed attempt and its unobserved gesture/writer.
 
 The [authentic R04 API rename](nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case)
 is a source-maintenance burden case where a valid catch-all can avoid a named

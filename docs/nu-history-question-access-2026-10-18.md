@@ -315,3 +315,22 @@ recovery comparison above remains unresolved, including actual named roots,
 ordinary access, verified continuation and complete work. R02/R10/R12 remain
 returned, and the [current prompt](continuation-prompt-2026-10-23.md) owns the
 next handoff.
+
+## 2026-10-25: specify useful recovery before a repair comparison
+
+The [reviewed recovery-target analysis](nu-recovery-target-and-serialization-2026-10-25.md)
+now distinguishes last editor snapshot K, last good simulation state G and
+handler-entry F. Ordinary Gaia already supplies recovery and explicit F7
+restore points. A new benefit claim must improve on that workflow and count
+lost progress and complete work. Outer exception recovery discards redo F;
+dialog Hard Rewind differs. Soft Rewind's later-entry root is a source
+prediction requiring a reachable state-changing exception, not a runtime bug
+result. Group serialization omits Screen.Model; screen-file replacement is a
+stronger unverified comparator with lifecycle/content/transaction obligations.
+Recovery, diagnosis, code repair and verified continuation remain separate.
+
+This integrates the completed static review and its correction, including
+existing-address ScreenState replacement. It supplies no new actual roots or
+native observation and does not reopen native-001 or R02/R10/R12. The next
+source dependency is a concrete caller-visible mutation/exception boundary;
+this cannot be inferred merely from a throwing callee's local successor.
