@@ -310,11 +310,16 @@ retaining its increment body. The immediate predecessor's Breakout source is
 byte-identical to the selected study pin at this site.
 
 With exactly four predecessor cases and the other three handled explicitly,
-replacing only the final `TimeUpdate` pattern by `_` is equivalent. After the
+replacing only the final `TimeUpdate` pattern by `_` is equivalent for ordinary
+values of the declared cases. After the
 rename that catch-all remains valid, while enumeration adds a named consumer
-to repair. This supplies a credible potentially adverse boundary case for
-enumeration's maintenance burden. It is a nomenclature/API change, not a new
-gameplay behavior or an external user's feature request. A future comparison
+to repair. This supplies a conditional potentially adverse boundary case for
+enumeration's maintenance burden **if the local message rename is required**.
+An engine-event upgrade alone permits retaining the local `TimeUpdate` name
+and changing its subscription, so the historical diff does not establish a
+mandatory handler edit. The [history audit](nu-r04-history-task-audit-2026-10-26.md#rename-burden-depends-on-the-local-requirement)
+records the same distinction for the projectile command migration. It is a
+nomenclature/API change, not a new gameplay behavior or an external user's feature request. A future comparison
 still needs the supported successor event, time-increment and other-branch
 observations; compilation alone would not establish those. The maintainer
 patch remains provenance/scoring evidence outside candidate input. No task or
@@ -346,3 +351,21 @@ classification. These cases supplement the [recovery rationale](nu-history-quest
 and [workflow-migration case](nu-workflow-migration-transfer-2026-10-23.md);
 they do not displace the current ordinary-access preparation or reopen any
 returned construction.
+
+
+## 2026-10-26 historical patches and task eligibility
+
+The [R04 history audit](nu-r04-history-task-audit-2026-10-26.md) follows both
+application sites through their path and declaration changes. It retains
+conditional rename burden, real neutral/body/out-of-match work, and the absence
+of an authenticated projectile case-extension requirement in that bounded
+history. Renewal, cancellation and serve-preparation remain authored. Breakout's
+score addition and later scrutinee change also show why a maintainer patch
+cannot be adopted automatically as a complete reference solution.
+
+Add the required external contract and any required local vocabulary to the
+existing eligibility record, separately from the chosen historical diff.
+Permit unchanged local names when they satisfy the actual requirement. Preserve
+intermediate versions and later corrections, and independently establish new
+and retained behavior. This changes task selection and interpretation, not
+experimental allocation, runtime evidence or the Daybreak-only restrictions.

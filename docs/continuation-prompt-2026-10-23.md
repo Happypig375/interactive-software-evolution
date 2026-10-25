@@ -15,6 +15,27 @@ remote clone, with the verified literature copy in its parent. A: originals
 and the earlier C: recovery remain untouched; no ordinary continuation may
 pull/reset/clean or resume A: writes/execution.
 
+## Latest completed source/task integration
+
+The [R04 history audit](nu-r04-history-task-audit-2026-10-26.md) is integrated.
+Engine-event adaptation does not by itself require a local message rename;
+the extra explicit-pattern edit is conditional on that local requirement.
+A historical feature patch is also not an automatically validated reference:
+Breakout's score addition has a later state-scrutinee change. The proposal now
+preserves those alternatives and source histories. Projectile renewal and
+cancellation remain authored, with no case extension found after the command
+union's introduction in the inspected history. No runtime or candidate run
+was constructed; all subagents have completed.
+The once-only source audit is `r04_historical_task_eligibility_20261026`: 266
+revision-source decisions (143 selected-source credits, 123 metadata-only
+noncredits), with no missing reasons or truncation. Do not resubmit it; no new
+full-paper credit was added.
+
+Do not repeat these same histories to manufacture an authentic positive task.
+For R04, bind the actual external/local contract and permitted alternatives,
+or retain the bounded authored-scenario claim. Other consequential agenda
+questions remain open under the existing storage/model/return restrictions.
+
 ## Latest completed literature integration
 
 - [S180](literature/full-reading/S180-practitioner-beliefs.md): all 32 selected

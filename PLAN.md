@@ -10,6 +10,15 @@ result. This location supersedes the October 23 A: route for documentation
 only. Preserve earlier workspaces and all returned gates. The Daybreak-only
 restriction below is unchanged; no restricted branch was resumed.
 
+**R04 task-provenance checkpoint, 2026-10-26:** the
+[historical-task audit](docs/nu-r04-history-task-audit-2026-10-26.md) distinguishes
+required external changes, optional local renames and the maintainer's chosen
+diff. Real neutral changes and a later state-scrutinee correction qualify task
+and oracle selection; authored positive extension sketches remain authored.
+The amended D1 proposal preserves valid alternatives. Next bind a practical
+contract or explicitly retain the authored question's scope; this source audit
+allocates no candidate execution and resumes no restricted/returned branch.
+
 **Current handoff and model restriction, 2026-10-25:** the completed
 reading/source integration following the [October 23 handoff](docs/handoff-2026-10-23-paused.md)
 is published. The later deliberate recovery fault-trigger branch and ordinary

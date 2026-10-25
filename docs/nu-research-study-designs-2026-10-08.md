@@ -166,7 +166,7 @@ comparison. Reusing these readings adds no new full-reading credit.
 | A new case needs distinct behavior | A diagnostic may expose an omitted site; independent behavior still determines success. | Eligible successor tasks and observed candidate outcomes. |
 | A new case legitimately uses the old fallback | Enumeration may add an edit while both completed implementations remain valid. | Task coverage and complete edit/checking work; the matched pause references establish only their bounded feasibility. |
 | No case-set extension | There may be no exhaustiveness opportunity; source cues or unrelated behavior can still matter. | Distinct task provenance and retained-obligation observations. |
-| An authentic case/API rename | The [time-advance rename](nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case) adds a named consumer edit under enumeration while the appropriate catch-all remains valid. | Historical/adapted status, eligible initial behavior and observed maintenance work; no effect is inferred from the patch alone. |
+| An authentic case/API rename | The [time-advance rename](nu-practice-and-task-provenance-2026-10-11.md#2026-10-23-a-real-api-rename-and-a-qualified-lifetime-case) adds a named consumer edit under enumeration **conditional on requiring the local case rename**, while the appropriate catch-all remains valid. An engine-event upgrade alone can retain the local name. | Historical/adapted status, eligible initial behavior and observed maintenance work; no effect is inferred from the patch alone. |
 
 These are coverage distinctions, not an equal-frequency industry sample or a
 mandatory new factorial. Their prevalence and useful weighting remain unknown.
@@ -177,6 +177,23 @@ intervention; it is not silently added as another arm. The current missing
 evidence is the direct maintenance effect and task population, not another
 description of an already understood diagnostic method. Follow a further paper
 only when its method, comparator or adverse evidence can change that decision.
+
+### Historical-task eligibility, 2026-10-26
+
+The [two-site history audit](nu-r04-history-task-audit-2026-10-26.md) now binds
+an additional conditional command rename, genuine no-extension maintenance,
+and a historical feature patch with a later state-scrutinee correction. It
+finds no post-introduction projectile case addition/removal in the inspected
+lineage; authored renewal/cancellation requirements remain authored.
+
+For a historical task, specify which external and application-local changes
+are actually required. Do not equate the maintainer's chosen diff with the
+only acceptable implementation, require a local rename merely to force an
+edit contrast, or treat a historical successor as a validated oracle. Allow
+retained local names and other correct organizations where the contract permits
+them. State whether the claim concerns an authored domain-evolution scenario
+or practically required maintenance; source history does not supply its task
+frequency or missing candidate effect. No new arm or execution is allocated.
 
 ## R05 — Correctness of interactive change
 

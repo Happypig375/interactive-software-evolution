@@ -10754,3 +10754,62 @@ predictions and observed outcomes; this does not refute requests or establish
 current Nu demand. S182 remains opening-only and conditional on a distinct
 consequential method question. No new experimental allocation, field-completion
 claim or Daybreak-branch continuation follows.
+
+
+## 2026-10-26: R04 historical task eligibility and reference-source audit
+
+Decision: determine whether the two proposed Nu convention sites have actual
+successor requirements that distinguish enumeration from an equivalent catch-all,
+and whether the maintainer's chosen change is the only valid task solution.
+The [source audit](../nu-r04-history-task-audit-2026-10-26.md) gives exact
+commit/blob links, path boundaries, body coverage and design consequences.
+
+Public GitHub API path queries requested `per_page=100`. Breakout returned
+15 current-path records, 39 predecessor-path records and 4 factored-dispatcher
+records (58 occurrences, 56 distinct commit IDs); all page-2 requests returned
+zero. Domain declarations were inspected in 54 main-file snapshots and four
+existent companion snapshots. The first extraction's missed indented types and
+factored dispatcher were corrected and retained as an audit limitation, not
+reported as absent types. Fourteen current-path patches were read completely;
+older source review was limited to the stated declarations and consequential
+state/score/follow-up ranges. The pinned source matches its last path revision
+by hash. An initial web-page open failed with a cache miss; the API route worked.
+
+The independent projectile audit followed six named paths with page-1 returns
+15, 5, 13, 34, 59 and 81; all page-2 requests returned zero. The first three had
+all scoped patches read, the next two had respectively 20 and 31 matching
+projectile hunks read, and the last had metadata only. The earlier Games/ path
+was not followed. The parent's review verified the decisive rename and complete
+parent/successor Bullet source, the gravity patch and the previous time-advance
+example; it narrowed equivalence to ordinary declared values. No CLR-null,
+compiler or runtime equivalence is established. Five associated-PR checks and
+three exact issue searches returned zero; they do not establish absence of
+other discussion. Exact queries, recoverable IDs and coverage limits remain in
+the two private packets. Six pinned metadata responses were re-fetched solely
+to recover identifiers for the source log; counts matched and no source body
+was re-screened in that recovery.
+
+The practical correction is material: a new engine event name does not require
+a new local message name. The additional explicit-handler rename is conditional
+on the actual local vocabulary contract; otherwise retaining the old local
+name is an eligible alternative. The history also retains neutral and out-of-match
+work, authored positive-extension status, and Breakout's score patch followed
+by a later state-scrutinee correction. Historical source cannot substitute for
+independent new/retained behavior validation. No source variant or experiment
+was constructed.
+
+The once-only Scite provenance segment
+`r04_historical_task_eligibility_20261026` normalized source decisions by Nu
+repository revision across the inspected paths. Its inspected citation_report
+accepted 266 decisions: 143 credited for selected source coverage and 123 not
+credited beyond metadata (`out_of_scope`). No reasons are missing, no decisions
+were skipped, the report is untruncated, and retrieval_unlinked=false.
+Answer-scoped retrieved count is null. The 265 path-query occurrences overlap;
+additional pinned/parent revisions were directly inspected. These figures are
+repository-source audit units, not papers, representative tasks, independent
+studies or a whole-commit review. Selected-code `full_text` audit labels retain
+the narrower declaration/hunk/file coverage in their reasons.
+
+No Scite literature search, citation-graph screen, Zotero operation or new
+full-paper reading occurred. The 289-work reading count and all empirical
+benefit, model/storage, returned-gate and allocation limits remain unchanged.

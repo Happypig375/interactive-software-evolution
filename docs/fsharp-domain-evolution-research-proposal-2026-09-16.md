@@ -73,6 +73,26 @@ The addendum supplies researcher-authored serve preparation, pause/resume and al
 
 The [task-diversity continuation](nu-task-diversity-and-common-requirements-2026-10-11.md#r04-an-additional-authentic-convention-site) adds Blaze Vector MMCC's existing BulletCommand match. Its final Penetration/destruction arm has a source argument for an initially equivalent catch-all; no variant was constructed. Authored lifetime-renewal, cancellation and unchanged-case-set alternatives expose distinct versus valid default behavior and temporal/identity obligations. The checked-in warning policy matches the Breakout sheet. This broadens source/application coverage within Nu's demo lineage, not representative sampling or independent evidence; the MMCC/ImSim pair is not substituted for D1's arms. All feasibility, provenance, practical-value and allocation conditions remain.
 
+### Historical requirements and valid alternatives, 2026-10-26
+
+The [R04 source-history audit](nu-r04-history-task-audit-2026-10-26.md) qualifies
+both real API-rename examples: the extra named-handler edit follows only when
+the application-local case must also be renamed. Updating an external event
+subscription can retain the old local case name. Record the actual contract,
+ownership and reason for any naming requirement before task construction;
+do not reject a behaviorally correct alternative because it differs from the
+historical patch. Source edit counts alone are not maintenance work estimates.
+
+The same audit retains genuine no-extension changes, no authenticated
+projectile case-extension request in the inspected history, and a score
+feature patch whose state scrutinee changes in a later revision. Serve,
+renewal and cancellation remain authored questions. Preserve that status,
+intermediate source and follow-up corrections; independently validate any
+reference solution and retained obligations. A bounded authored experiment can
+still answer its conditional question, but neither demo history nor a successful
+compiler probe makes its workload representative. Candidate execution remains
+unallocated and existing model/storage/returned-gate restrictions remain.
+
 ### Candidate policy and information
 
 Pin the Codex CLI, returned model identity, settings, source snapshot, .NET/F# toolchain, dependencies and environment. Give each run a fresh isolated workspace/context, the same behavioral request, available current source, documentation and existing public tests. Allow the same ordinary source navigation, build/test feedback and bounded repair opportunities in both arms. Freeze compiler flags, including warning severity; do not turn warnings into errors after seeing results. An agent may use another correct organization or a catch-all. Preserve the assigned arm in analysis and record resulting changes descriptively.

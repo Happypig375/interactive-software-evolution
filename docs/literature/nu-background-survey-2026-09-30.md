@@ -2120,3 +2120,23 @@ gaps remain open. Current [storage](../workspace-integrity-return-2026-10-26.md)
 and [Daybreak eligibility](../unfinished-daybreak-only-work-2026-10-25.md)
 restrictions apply independently; neither turns unavailable evidence into an
 adverse scientific result or resumes returned construction.
+
+
+## 2026-10-26: R04 historical-task and reference boundaries
+
+The [two-site source-history audit](../nu-r04-history-task-audit-2026-10-26.md)
+changes R04/R14's task-eligibility rule: separate an external API change from
+a required application-local rename and from the maintainer's chosen patch.
+Retaining a local name can satisfy event adaptation, so extra enumeration edits
+cannot be assumed from a historical diff alone. Neutral body/lifetime changes
+and an out-of-match gravity repair remain real maintenance evidence. The
+inspected projectile lineage supplies no case addition after the command's
+introduction; authored positive extensions retain their authored status.
+
+Breakout's score addition and later change from a constant to the actual state
+scrutinee further require independent reference/retained-behavior validation.
+No failure was reproduced, compiler diagnostic observed or candidate effect
+estimated. This updates the [D1 proposal](../fsharp-domain-evolution-research-proposal-2026-09-16.md)
+and study designs without another full-paper credit or representative-workload
+claim. The literature checkpoint remains 289; broader research, Daybreak-only
+work and returned constructions remain unfinished under their separate limits.
